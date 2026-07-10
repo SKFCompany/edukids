@@ -44,16 +44,17 @@ jobs:
 
       - name: Build APK with buildozer
         run: |
+          set -o pipefail
           yes | buildozer -v android debug 2>&1 | tee buildozer_build.log
 
-      - name: Show last 100 lines of log (on failure)
-        if: failure()
+      - name: Show last 100 lines of log
+        if: always()
         run: |
           echo "===== ПОСЛЕДНИЕ 100 СТРОК ЛОГА ====="
           tail -n 100 buildozer_build.log
 
-      - name: Upload full log as artifact (on failure)
-        if: failure()
+      - name: Upload full log as artifact
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: buildozer-log
