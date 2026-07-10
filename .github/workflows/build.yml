@@ -50,8 +50,10 @@ jobs:
 
       - name: Build APK with buildozer
         run: |
-          set -o pipefail
           yes | buildozer -v android debug 2>&1 | tee buildozer_build.log
+          buildozer_exit=${PIPESTATUS[1]}
+          echo "Код завершения buildozer: $buildozer_exit"
+          exit $buildozer_exit
 
       - name: Show last 100 lines of log
         if: always()
