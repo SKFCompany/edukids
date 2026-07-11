@@ -8838,6 +8838,1254 @@
           ]
         }
       ]
+    },
+    "7": {
+      "topics": [
+        {
+          "topic_id": "english_g7_health",
+          "title": {
+            "ru": "Здоровье",
+            "kk": "Денсаулық",
+            "en": "Health"
+          },
+          "quest_icon": "heart-pulse",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «больница» на английском?",
+                "kk": "«больница» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'больница' in English?"
+              },
+              "options": [
+                "temperature",
+                "hospital",
+                "strength"
+              ],
+              "correct": "hospital",
+              "task_id": "english_g7_health_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «витамин» на английском?",
+                "kk": "«витамин» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'витамин' in English?"
+              },
+              "options": [
+                "health",
+                "vitamin",
+                "illness"
+              ],
+              "correct": "vitamin",
+              "task_id": "english_g7_health_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «усталость» на английском?",
+                "kk": "«усталость» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'усталость' in English?"
+              },
+              "options": [
+                "rest",
+                "tiredness",
+                "temperature"
+              ],
+              "correct": "tiredness",
+              "task_id": "english_g7_health_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «vitamin»?",
+                "kk": "«vitamin» сөзі нені білдіреді?",
+                "en": "What does the word 'vitamin' mean?"
+              },
+              "options": [
+                "отдых",
+                "витамин",
+                "болезнь"
+              ],
+              "correct": "витамин",
+              "task_id": "english_g7_health_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «illness»?",
+                "kk": "«illness» сөзі нені білдіреді?",
+                "en": "What does the word 'illness' mean?"
+              },
+              "options": [
+                "отдых",
+                "сила",
+                "болезнь"
+              ],
+              "correct": "болезнь",
+              "task_id": "english_g7_health_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «health»?",
+                "kk": "«health» сөзі нені білдіреді?",
+                "en": "What does the word 'health' mean?"
+              },
+              "options": [
+                "здоровье",
+                "температура",
+                "витамин"
+              ],
+              "correct": "здоровье",
+              "task_id": "english_g7_health_006"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «exercise»?",
+                "kk": "«exercise» сөзі нені білдіреді?",
+                "en": "What does the word 'exercise' mean?"
+              },
+              "options": [
+                "больница",
+                "лекарство",
+                "упражнение"
+              ],
+              "correct": "упражнение",
+              "task_id": "english_g7_health_007"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «temperature»?",
+                "kk": "«temperature» сөзі нені білдіреді?",
+                "en": "What does the word 'temperature' mean?"
+              },
+              "options": [
+                "витамин",
+                "температура",
+                "лекарство"
+              ],
+              "correct": "температура",
+              "task_id": "english_g7_health_008"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «rest»?",
+                "kk": "«rest» сөзі нені білдіреді?",
+                "en": "What does the word 'rest' mean?"
+              },
+              "options": [
+                "болезнь",
+                "сила",
+                "отдых"
+              ],
+              "correct": "отдых",
+              "task_id": "english_g7_health_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «strength»?",
+                "kk": "«strength» сөзі нені білдіреді?",
+                "en": "What does the word 'strength' mean?"
+              },
+              "options": [
+                "больница",
+                "сила",
+                "отдых"
+              ],
+              "correct": "сила",
+              "task_id": "english_g7_health_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «hospital»?",
+                "kk": "«hospital» сөзі нені білдіреді?",
+                "en": "What does the word 'hospital' mean?"
+              },
+              "options": [
+                "здоровье",
+                "больница",
+                "витамин"
+              ],
+              "correct": "больница",
+              "task_id": "english_g7_health_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «упражнение» на английском?",
+                "kk": "«упражнение» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'упражнение' in English?"
+              },
+              "options": [
+                "strength",
+                "illness",
+                "exercise"
+              ],
+              "correct": "exercise",
+              "task_id": "english_g7_health_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «tiredness»?",
+                "kk": "«tiredness» сөзі нені білдіреді?",
+                "en": "What does the word 'tiredness' mean?"
+              },
+              "options": [
+                "сила",
+                "больница",
+                "усталость"
+              ],
+              "correct": "усталость",
+              "task_id": "english_g7_health_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «здоровье» на английском?",
+                "kk": "«здоровье» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'здоровье' in English?"
+              },
+              "options": [
+                "illness",
+                "rest",
+                "health"
+              ],
+              "correct": "health",
+              "task_id": "english_g7_health_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «сила» на английском?",
+                "kk": "«сила» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'сила' in English?"
+              },
+              "options": [
+                "tiredness",
+                "strength",
+                "health"
+              ],
+              "correct": "strength",
+              "task_id": "english_g7_health_015"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «температура» на английском?",
+                "kk": "«температура» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'температура' in English?"
+              },
+              "options": [
+                "hospital",
+                "tiredness",
+                "temperature"
+              ],
+              "correct": "temperature",
+              "task_id": "english_g7_health_016"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «отдых» на английском?",
+                "kk": "«отдых» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'отдых' in English?"
+              },
+              "options": [
+                "rest",
+                "health",
+                "hospital"
+              ],
+              "correct": "rest",
+              "task_id": "english_g7_health_017"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «лекарство» на английском?",
+                "kk": "«лекарство» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'лекарство' in English?"
+              },
+              "options": [
+                "medicine",
+                "exercise",
+                "tiredness"
+              ],
+              "correct": "medicine",
+              "task_id": "english_g7_health_018"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «medicine»?",
+                "kk": "«medicine» сөзі нені білдіреді?",
+                "en": "What does the word 'medicine' mean?"
+              },
+              "options": [
+                "лекарство",
+                "здоровье",
+                "витамин"
+              ],
+              "correct": "лекарство",
+              "task_id": "english_g7_health_019"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «болезнь» на английском?",
+                "kk": "«болезнь» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'болезнь' in English?"
+              },
+              "options": [
+                "tiredness",
+                "rest",
+                "illness"
+              ],
+              "correct": "illness",
+              "task_id": "english_g7_health_020"
+            }
+          ]
+        },
+        {
+          "topic_id": "english_g7_environment",
+          "title": {
+            "ru": "Окружающая среда",
+            "kk": "Қоршаған орта",
+            "en": "Environment"
+          },
+          "quest_icon": "leaf",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «resource»?",
+                "kk": "«resource» сөзі нені білдіреді?",
+                "en": "What does the word 'resource' mean?"
+              },
+              "options": [
+                "ресурс",
+                "переработка",
+                "загрязнение"
+              ],
+              "correct": "ресурс",
+              "task_id": "english_g7_environment_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «энергия» на английском?",
+                "kk": "«энергия» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'энергия' in English?"
+              },
+              "options": [
+                "energy",
+                "nature",
+                "protection"
+              ],
+              "correct": "energy",
+              "task_id": "english_g7_environment_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «чистота» на английском?",
+                "kk": "«чистота» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'чистота' in English?"
+              },
+              "options": [
+                "cleanliness",
+                "nature",
+                "waste"
+              ],
+              "correct": "cleanliness",
+              "task_id": "english_g7_environment_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «переработка» на английском?",
+                "kk": "«переработка» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'переработка' in English?"
+              },
+              "options": [
+                "recycling",
+                "waste",
+                "protection"
+              ],
+              "correct": "recycling",
+              "task_id": "english_g7_environment_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «отходы» на английском?",
+                "kk": "«отходы» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'отходы' in English?"
+              },
+              "options": [
+                "waste",
+                "resource",
+                "energy"
+              ],
+              "correct": "waste",
+              "task_id": "english_g7_environment_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «waste»?",
+                "kk": "«waste» сөзі нені білдіреді?",
+                "en": "What does the word 'waste' mean?"
+              },
+              "options": [
+                "отходы",
+                "энергия",
+                "природа"
+              ],
+              "correct": "отходы",
+              "task_id": "english_g7_environment_006"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «energy»?",
+                "kk": "«energy» сөзі нені білдіреді?",
+                "en": "What does the word 'energy' mean?"
+              },
+              "options": [
+                "энергия",
+                "ресурс",
+                "чистота"
+              ],
+              "correct": "энергия",
+              "task_id": "english_g7_environment_007"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «ресурс» на английском?",
+                "kk": "«ресурс» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'ресурс' in English?"
+              },
+              "options": [
+                "resource",
+                "recycling",
+                "nature"
+              ],
+              "correct": "resource",
+              "task_id": "english_g7_environment_008"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «sustainability»?",
+                "kk": "«sustainability» сөзі нені білдіреді?",
+                "en": "What does the word 'sustainability' mean?"
+              },
+              "options": [
+                "устойчивость",
+                "переработка",
+                "защита"
+              ],
+              "correct": "устойчивость",
+              "task_id": "english_g7_environment_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «recycling»?",
+                "kk": "«recycling» сөзі нені білдіреді?",
+                "en": "What does the word 'recycling' mean?"
+              },
+              "options": [
+                "ресурс",
+                "переработка",
+                "отходы"
+              ],
+              "correct": "переработка",
+              "task_id": "english_g7_environment_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «климат» на английском?",
+                "kk": "«климат» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'климат' in English?"
+              },
+              "options": [
+                "climate",
+                "recycling",
+                "energy"
+              ],
+              "correct": "climate",
+              "task_id": "english_g7_environment_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «защита» на английском?",
+                "kk": "«защита» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'защита' in English?"
+              },
+              "options": [
+                "pollution",
+                "recycling",
+                "protection"
+              ],
+              "correct": "protection",
+              "task_id": "english_g7_environment_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «природа» на английском?",
+                "kk": "«природа» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'природа' in English?"
+              },
+              "options": [
+                "nature",
+                "pollution",
+                "energy"
+              ],
+              "correct": "nature",
+              "task_id": "english_g7_environment_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «climate»?",
+                "kk": "«climate» сөзі нені білдіреді?",
+                "en": "What does the word 'climate' mean?"
+              },
+              "options": [
+                "переработка",
+                "энергия",
+                "климат"
+              ],
+              "correct": "климат",
+              "task_id": "english_g7_environment_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «nature»?",
+                "kk": "«nature» сөзі нені білдіреді?",
+                "en": "What does the word 'nature' mean?"
+              },
+              "options": [
+                "природа",
+                "климат",
+                "чистота"
+              ],
+              "correct": "природа",
+              "task_id": "english_g7_environment_015"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «cleanliness»?",
+                "kk": "«cleanliness» сөзі нені білдіреді?",
+                "en": "What does the word 'cleanliness' mean?"
+              },
+              "options": [
+                "энергия",
+                "чистота",
+                "ресурс"
+              ],
+              "correct": "чистота",
+              "task_id": "english_g7_environment_016"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «protection»?",
+                "kk": "«protection» сөзі нені білдіреді?",
+                "en": "What does the word 'protection' mean?"
+              },
+              "options": [
+                "природа",
+                "защита",
+                "устойчивость"
+              ],
+              "correct": "защита",
+              "task_id": "english_g7_environment_017"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «устойчивость» на английском?",
+                "kk": "«устойчивость» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'устойчивость' in English?"
+              },
+              "options": [
+                "pollution",
+                "nature",
+                "sustainability"
+              ],
+              "correct": "sustainability",
+              "task_id": "english_g7_environment_018"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «pollution»?",
+                "kk": "«pollution» сөзі нені білдіреді?",
+                "en": "What does the word 'pollution' mean?"
+              },
+              "options": [
+                "чистота",
+                "переработка",
+                "загрязнение"
+              ],
+              "correct": "загрязнение",
+              "task_id": "english_g7_environment_019"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «загрязнение» на английском?",
+                "kk": "«загрязнение» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'загрязнение' in English?"
+              },
+              "options": [
+                "nature",
+                "pollution",
+                "cleanliness"
+              ],
+              "correct": "pollution",
+              "task_id": "english_g7_environment_020"
+            }
+          ]
+        },
+        {
+          "topic_id": "english_g7_communication",
+          "title": {
+            "ru": "Общение",
+            "kk": "Қарым-қатынас",
+            "en": "Communication"
+          },
+          "quest_icon": "message-text-outline",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «opinion»?",
+                "kk": "«opinion» сөзі нені білдіреді?",
+                "en": "What does the word 'opinion' mean?"
+              },
+              "options": [
+                "ответ",
+                "мнение",
+                "вопрос"
+              ],
+              "correct": "мнение",
+              "task_id": "english_g7_communication_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «conversation»?",
+                "kk": "«conversation» сөзі нені білдіреді?",
+                "en": "What does the word 'conversation' mean?"
+              },
+              "options": [
+                "объяснение",
+                "разговор",
+                "мнение"
+              ],
+              "correct": "разговор",
+              "task_id": "english_g7_communication_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «согласие» на английском?",
+                "kk": "«согласие» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'согласие' in English?"
+              },
+              "options": [
+                "agreement",
+                "answer",
+                "apology"
+              ],
+              "correct": "agreement",
+              "task_id": "english_g7_communication_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «разговор» на английском?",
+                "kk": "«разговор» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'разговор' in English?"
+              },
+              "options": [
+                "opinion",
+                "question",
+                "conversation"
+              ],
+              "correct": "conversation",
+              "task_id": "english_g7_communication_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «спор» на английском?",
+                "kk": "«спор» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'спор' in English?"
+              },
+              "options": [
+                "apology",
+                "argument",
+                "agreement"
+              ],
+              "correct": "argument",
+              "task_id": "english_g7_communication_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «ответ» на английском?",
+                "kk": "«ответ» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'ответ' in English?"
+              },
+              "options": [
+                "argument",
+                "question",
+                "answer"
+              ],
+              "correct": "answer",
+              "task_id": "english_g7_communication_006"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «question»?",
+                "kk": "«question» сөзі нені білдіреді?",
+                "en": "What does the word 'question' mean?"
+              },
+              "options": [
+                "совет",
+                "разговор",
+                "вопрос"
+              ],
+              "correct": "вопрос",
+              "task_id": "english_g7_communication_007"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «explanation»?",
+                "kk": "«explanation» сөзі нені білдіреді?",
+                "en": "What does the word 'explanation' mean?"
+              },
+              "options": [
+                "разговор",
+                "объяснение",
+                "сообщение"
+              ],
+              "correct": "объяснение",
+              "task_id": "english_g7_communication_008"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «argument»?",
+                "kk": "«argument» сөзі нені білдіреді?",
+                "en": "What does the word 'argument' mean?"
+              },
+              "options": [
+                "разговор",
+                "согласие",
+                "спор"
+              ],
+              "correct": "спор",
+              "task_id": "english_g7_communication_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «совет» на английском?",
+                "kk": "«совет» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'совет' in English?"
+              },
+              "options": [
+                "advice",
+                "opinion",
+                "apology"
+              ],
+              "correct": "advice",
+              "task_id": "english_g7_communication_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «message»?",
+                "kk": "«message» сөзі нені білдіреді?",
+                "en": "What does the word 'message' mean?"
+              },
+              "options": [
+                "сообщение",
+                "объяснение",
+                "вопрос"
+              ],
+              "correct": "сообщение",
+              "task_id": "english_g7_communication_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «agreement»?",
+                "kk": "«agreement» сөзі нені білдіреді?",
+                "en": "What does the word 'agreement' mean?"
+              },
+              "options": [
+                "извинение",
+                "согласие",
+                "мнение"
+              ],
+              "correct": "согласие",
+              "task_id": "english_g7_communication_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «сообщение» на английском?",
+                "kk": "«сообщение» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'сообщение' in English?"
+              },
+              "options": [
+                "agreement",
+                "explanation",
+                "message"
+              ],
+              "correct": "message",
+              "task_id": "english_g7_communication_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «вопрос» на английском?",
+                "kk": "«вопрос» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'вопрос' in English?"
+              },
+              "options": [
+                "opinion",
+                "question",
+                "agreement"
+              ],
+              "correct": "question",
+              "task_id": "english_g7_communication_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «мнение» на английском?",
+                "kk": "«мнение» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'мнение' in English?"
+              },
+              "options": [
+                "answer",
+                "opinion",
+                "apology"
+              ],
+              "correct": "opinion",
+              "task_id": "english_g7_communication_015"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «apology»?",
+                "kk": "«apology» сөзі нені білдіреді?",
+                "en": "What does the word 'apology' mean?"
+              },
+              "options": [
+                "спор",
+                "извинение",
+                "мнение"
+              ],
+              "correct": "извинение",
+              "task_id": "english_g7_communication_016"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «answer»?",
+                "kk": "«answer» сөзі нені білдіреді?",
+                "en": "What does the word 'answer' mean?"
+              },
+              "options": [
+                "объяснение",
+                "вопрос",
+                "ответ"
+              ],
+              "correct": "ответ",
+              "task_id": "english_g7_communication_017"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «объяснение» на английском?",
+                "kk": "«объяснение» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'объяснение' in English?"
+              },
+              "options": [
+                "explanation",
+                "advice",
+                "message"
+              ],
+              "correct": "explanation",
+              "task_id": "english_g7_communication_018"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «advice»?",
+                "kk": "«advice» сөзі нені білдіреді?",
+                "en": "What does the word 'advice' mean?"
+              },
+              "options": [
+                "ответ",
+                "совет",
+                "извинение"
+              ],
+              "correct": "совет",
+              "task_id": "english_g7_communication_019"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «извинение» на английском?",
+                "kk": "«извинение» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'извинение' in English?"
+              },
+              "options": [
+                "apology",
+                "answer",
+                "message"
+              ],
+              "correct": "apology",
+              "task_id": "english_g7_communication_020"
+            }
+          ]
+        },
+        {
+          "topic_id": "english_g7_character_traits",
+          "title": {
+            "ru": "Черты характера",
+            "kk": "Мінез қасиеттері",
+            "en": "Character traits"
+          },
+          "quest_icon": "account-heart-outline",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «persistent»?",
+                "kk": "«persistent» сөзі нені білдіреді?",
+                "en": "What does the word 'persistent' mean?"
+              },
+              "options": [
+                "настойчивый",
+                "вежливый",
+                "трудолюбивый"
+              ],
+              "correct": "настойчивый",
+              "task_id": "english_g7_character_traits_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «терпеливый» на английском?",
+                "kk": "«терпеливый» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'терпеливый' in English?"
+              },
+              "options": [
+                "polite",
+                "responsible",
+                "patient"
+              ],
+              "correct": "patient",
+              "task_id": "english_g7_character_traits_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «скромный» на английском?",
+                "kk": "«скромный» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'скромный' in English?"
+              },
+              "options": [
+                "persistent",
+                "hardworking",
+                "modest"
+              ],
+              "correct": "modest",
+              "task_id": "english_g7_character_traits_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «честный» на английском?",
+                "kk": "«честный» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'честный' in English?"
+              },
+              "options": [
+                "hardworking",
+                "honest",
+                "persistent"
+              ],
+              "correct": "honest",
+              "task_id": "english_g7_character_traits_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «curious»?",
+                "kk": "«curious» сөзі нені білдіреді?",
+                "en": "What does the word 'curious' mean?"
+              },
+              "options": [
+                "настойчивый",
+                "любопытный",
+                "трудолюбивый"
+              ],
+              "correct": "любопытный",
+              "task_id": "english_g7_character_traits_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «ответственный» на английском?",
+                "kk": "«ответственный» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'ответственный' in English?"
+              },
+              "options": [
+                "honest",
+                "responsible",
+                "lazy"
+              ],
+              "correct": "responsible",
+              "task_id": "english_g7_character_traits_006"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «вежливый» на английском?",
+                "kk": "«вежливый» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'вежливый' in English?"
+              },
+              "options": [
+                "polite",
+                "responsible",
+                "hardworking"
+              ],
+              "correct": "polite",
+              "task_id": "english_g7_character_traits_007"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «настойчивый» на английском?",
+                "kk": "«настойчивый» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'настойчивый' in English?"
+              },
+              "options": [
+                "persistent",
+                "honest",
+                "responsible"
+              ],
+              "correct": "persistent",
+              "task_id": "english_g7_character_traits_008"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «hardworking»?",
+                "kk": "«hardworking» сөзі нені білдіреді?",
+                "en": "What does the word 'hardworking' mean?"
+              },
+              "options": [
+                "вежливый",
+                "ответственный",
+                "трудолюбивый"
+              ],
+              "correct": "трудолюбивый",
+              "task_id": "english_g7_character_traits_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «lazy»?",
+                "kk": "«lazy» сөзі нені білдіреді?",
+                "en": "What does the word 'lazy' mean?"
+              },
+              "options": [
+                "вежливый",
+                "ленивый",
+                "щедрый"
+              ],
+              "correct": "ленивый",
+              "task_id": "english_g7_character_traits_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «любопытный» на английском?",
+                "kk": "«любопытный» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'любопытный' in English?"
+              },
+              "options": [
+                "honest",
+                "hardworking",
+                "curious"
+              ],
+              "correct": "curious",
+              "task_id": "english_g7_character_traits_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «modest»?",
+                "kk": "«modest» сөзі нені білдіреді?",
+                "en": "What does the word 'modest' mean?"
+              },
+              "options": [
+                "любопытный",
+                "вежливый",
+                "скромный"
+              ],
+              "correct": "скромный",
+              "task_id": "english_g7_character_traits_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «ленивый» на английском?",
+                "kk": "«ленивый» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'ленивый' in English?"
+              },
+              "options": [
+                "generous",
+                "patient",
+                "lazy"
+              ],
+              "correct": "lazy",
+              "task_id": "english_g7_character_traits_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «generous»?",
+                "kk": "«generous» сөзі нені білдіреді?",
+                "en": "What does the word 'generous' mean?"
+              },
+              "options": [
+                "трудолюбивый",
+                "щедрый",
+                "ленивый"
+              ],
+              "correct": "щедрый",
+              "task_id": "english_g7_character_traits_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «трудолюбивый» на английском?",
+                "kk": "«трудолюбивый» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'трудолюбивый' in English?"
+              },
+              "options": [
+                "polite",
+                "hardworking",
+                "patient"
+              ],
+              "correct": "hardworking",
+              "task_id": "english_g7_character_traits_015"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «patient»?",
+                "kk": "«patient» сөзі нені білдіреді?",
+                "en": "What does the word 'patient' mean?"
+              },
+              "options": [
+                "терпеливый",
+                "настойчивый",
+                "щедрый"
+              ],
+              "correct": "терпеливый",
+              "task_id": "english_g7_character_traits_016"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «щедрый» на английском?",
+                "kk": "«щедрый» ағылшын тілінде қалай болады?",
+                "en": "How do you say 'щедрый' in English?"
+              },
+              "options": [
+                "generous",
+                "persistent",
+                "lazy"
+              ],
+              "correct": "generous",
+              "task_id": "english_g7_character_traits_017"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «responsible»?",
+                "kk": "«responsible» сөзі нені білдіреді?",
+                "en": "What does the word 'responsible' mean?"
+              },
+              "options": [
+                "ответственный",
+                "скромный",
+                "трудолюбивый"
+              ],
+              "correct": "ответственный",
+              "task_id": "english_g7_character_traits_018"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «polite»?",
+                "kk": "«polite» сөзі нені білдіреді?",
+                "en": "What does the word 'polite' mean?"
+              },
+              "options": [
+                "честный",
+                "вежливый",
+                "терпеливый"
+              ],
+              "correct": "вежливый",
+              "task_id": "english_g7_character_traits_019"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «honest»?",
+                "kk": "«honest» сөзі нені білдіреді?",
+                "en": "What does the word 'honest' mean?"
+              },
+              "options": [
+                "любопытный",
+                "честный",
+                "терпеливый"
+              ],
+              "correct": "честный",
+              "task_id": "english_g7_character_traits_020"
+            }
+          ]
+        }
+      ]
     }
   }
 }

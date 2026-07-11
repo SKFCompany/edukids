@@ -8530,6 +8530,358 @@
           ]
         }
       ]
+    },
+    "7": {
+      "topics": [
+        {
+          "topic_id": "reading_g7_fact_opinion",
+          "title": {
+            "ru": "Факт и мнение",
+            "kk": "Факт пен пікір",
+            "en": "Fact and opinion"
+          },
+          "quest_icon": "scale-balance",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "«Алматы находится в Казахстане» — это",
+                "kk": "«Алматы Қазақстанда орналасқан» — бұл",
+                "en": "'Almaty is located in Kazakhstan' is a"
+              },
+              "options": [
+                "Факт (можно проверить)",
+                "Мнение",
+                "Ни то, ни другое"
+              ],
+              "correct": "Факт (можно проверить)",
+              "task_id": "reading_g7_fact_opinion_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "«Эта книга самая интересная в мире» — это",
+                "kk": "«Бұл кітап әлемдегі ең қызықты кітап» — бұл",
+                "en": "'This is the most interesting book in the world' is an"
+              },
+              "options": [
+                "Мнение",
+                "Факт",
+                "Вопрос"
+              ],
+              "correct": "Мнение",
+              "task_id": "reading_g7_fact_opinion_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "«Вода кипит при 100°C на уровне моря» — это",
+                "kk": "«Су теңіз деңгейінде 100°C-та қайнайды» — бұл",
+                "en": "'Water boils at 100°C at sea level' is a"
+              },
+              "options": [
+                "Факт",
+                "Мнение",
+                "Шутка"
+              ],
+              "correct": "Факт",
+              "task_id": "reading_g7_fact_opinion_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "«Зима — лучшее время года» — это",
+                "kk": "«Қыс — жылдың ең жақсы мезгілі» — бұл",
+                "en": "'Winter is the best season' is an"
+              },
+              "options": [
+                "Мнение",
+                "Факт",
+                "Закон"
+              ],
+              "correct": "Мнение",
+              "task_id": "reading_g7_fact_opinion_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Чем отличается факт от мнения?",
+                "kk": "Факт пен пікірдің айырмашылығы неде",
+                "en": "How does a fact differ from an opinion?"
+              },
+              "options": [
+                "Факт можно проверить, мнение - личная точка зрения",
+                "Факт всегда короче",
+                "Мнение всегда написано в кавычках"
+              ],
+              "correct": "Факт можно проверить, мнение - личная точка зрения",
+              "task_id": "reading_g7_fact_opinion_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "«В Казахстане несколько областей» — пример того, что такое утверждение является",
+                "kk": "«Қазақстанда бірнеше облыс бар» — бұл қандай мәлімдеме екенінің мысалы",
+                "en": "'Kazakhstan has several regions' is an example of a"
+              },
+              "options": [
+                "Факта (проверяемая информация)",
+                "Мнения",
+                "Предположения без основания"
+              ],
+              "correct": "Факта (проверяемая информация)",
+              "task_id": "reading_g7_fact_opinion_006"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "«Эта песня звучит слишком громко» — это",
+                "kk": "«Бұл ән тым қатты естіледі» — бұл",
+                "en": "'This song sounds too loud' is an"
+              },
+              "options": [
+                "Мнение (зависит от восприятия)",
+                "Факт",
+                "Инструкция"
+              ],
+              "correct": "Мнение (зависит от восприятия)",
+              "task_id": "reading_g7_fact_opinion_007"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Слова «я думаю», «по-моему», «на мой взгляд» обычно вводят",
+                "kk": "«менің ойымша», «менің пікірімше» деген сөздер әдетте нені білдіреді",
+                "en": "Phrases like 'I think', 'in my opinion' usually introduce a(n)"
+              },
+              "options": [
+                "Мнение",
+                "Факт",
+                "Дату"
+              ],
+              "correct": "Мнение",
+              "task_id": "reading_g7_fact_opinion_008"
+            }
+          ]
+        },
+        {
+          "topic_id": "reading_g7_argumentation",
+          "title": {
+            "ru": "Аргументация",
+            "kk": "Дәлелдеу",
+            "en": "Argumentation"
+          },
+          "quest_icon": "gavel",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Утверждение, которое автор хочет доказать, называется",
+                "kk": "Автор дәлелдегісі келетін мәлімдеме қалай аталады",
+                "en": "The statement an author wants to prove is called the"
+              },
+              "options": [
+                "Тезисом",
+                "Выводом только",
+                "Вопросом"
+              ],
+              "correct": "Тезисом",
+              "task_id": "reading_g7_argumentation_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Факты и примеры, подтверждающие тезис, называются",
+                "kk": "Тезисті растайтын деректер мен мысалдар қалай аталады",
+                "en": "Facts and examples that support a thesis are called"
+              },
+              "options": [
+                "Аргументами (доказательствами)",
+                "Заголовком",
+                "Планом"
+              ],
+              "correct": "Аргументами (доказательствами)",
+              "task_id": "reading_g7_argumentation_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Хороший аргумент должен быть",
+                "kk": "Жақсы дәлел қандай болу керек",
+                "en": "A good argument should be"
+              },
+              "options": [
+                "Подкреплён фактами",
+                "Просто громким",
+                "Длинным любой ценой"
+              ],
+              "correct": "Подкреплён фактами",
+              "task_id": "reading_g7_argumentation_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Слово «потому что» в тексте обычно вводит",
+                "kk": "Мәтіндегі «себебі» сөзі әдетте нені білдіреді",
+                "en": "The word 'because' in a text usually introduces a(n)"
+              },
+              "options": [
+                "Причину/аргумент",
+                "Вопрос",
+                "Извинение"
+              ],
+              "correct": "Причину/аргумент",
+              "task_id": "reading_g7_argumentation_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Если автор приводит только своё личное мнение без фактов, аргумент считается",
+                "kk": "Автор фактісіз тек өз пікірін ғана келтірсе, дәлел қандай болып саналады",
+                "en": "If an author gives only personal opinion without facts, the argument is considered"
+              },
+              "options": [
+                "Слабым",
+                "Самым сильным",
+                "Единственно верным"
+              ],
+              "correct": "Слабым",
+              "task_id": "reading_g7_argumentation_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Часть текста, где подводится итог всех аргументов, называется",
+                "kk": "Барлық дәлелдердің қорытындысы шығарылатын мәтін бөлігі қалай аталады",
+                "en": "The part of a text that sums up all the arguments is called the"
+              },
+              "options": [
+                "Заключением (выводом)",
+                "Введением",
+                "Тезисом только"
+              ],
+              "correct": "Заключением (выводом)",
+              "task_id": "reading_g7_argumentation_006"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Контраргумент — это",
+                "kk": "Қарсы дәлел деген не",
+                "en": "A counter-argument is"
+              },
+              "options": [
+                "Довод против основного тезиса",
+                "Повторение тезиса",
+                "Ещё один пример за тезис"
+              ],
+              "correct": "Довод против основного тезиса",
+              "task_id": "reading_g7_argumentation_007"
+            }
+          ]
+        },
+        {
+          "topic_id": "reading_g7_author_purpose",
+          "title": {
+            "ru": "Цель автора текста",
+            "kk": "Автордың мәтін жазу мақсаты",
+            "en": "Author's purpose"
+          },
+          "quest_icon": "target",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Реклама нового телефона в журнале написана с целью",
+                "kk": "Журналдағы жаңа телефон жарнамасы қандай мақсатпен жазылған",
+                "en": "An advertisement for a new phone in a magazine is written to"
+              },
+              "options": [
+                "Убедить купить товар",
+                "Просто развлечь",
+                "Только проинформировать без цели продажи"
+              ],
+              "correct": "Убедить купить товар",
+              "task_id": "reading_g7_author_purpose_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Инструкция по сборке мебели написана с целью",
+                "kk": "Жиһаз жинау нұсқаулығы қандай мақсатпен жазылған",
+                "en": "Furniture assembly instructions are written to"
+              },
+              "options": [
+                "Научить, как что-то сделать",
+                "Развлечь читателя",
+                "Убедить в чём-то"
+              ],
+              "correct": "Научить, как что-то сделать",
+              "task_id": "reading_g7_author_purpose_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Юмористический рассказ обычно написан с целью",
+                "kk": "Әзіл-оспақ әңгіме әдетте қандай мақсатпен жазылады",
+                "en": "A humorous story is usually written to"
+              },
+              "options": [
+                "Развлечь читателя",
+                "Продать товар",
+                "Дать точные инструкции"
+              ],
+              "correct": "Развлечь читателя",
+              "task_id": "reading_g7_author_purpose_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Научная статья в основном написана с целью",
+                "kk": "Ғылыми мақала негізінен қандай мақсатпен жазылады",
+                "en": "A scientific article is mainly written to"
+              },
+              "options": [
+                "Проинформировать о фактах и результатах",
+                "Развлечь",
+                "Продать товар"
+              ],
+              "correct": "Проинформировать о фактах и результатах",
+              "task_id": "reading_g7_author_purpose_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Статья с заголовком «Почему нужно беречь воду» написана с целью",
+                "kk": "«Суды неге сақтау керек» тақырыпты мақала қандай мақсатпен жазылған",
+                "en": "An article titled 'Why We Should Conserve Water' is written to"
+              },
+              "options": [
+                "Убедить читателя в важности темы",
+                "Просто развлечь",
+                "Продать воду"
+              ],
+              "correct": "Убедить читателя в важности темы",
+              "task_id": "reading_g7_author_purpose_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Если текст даёт только факты без личных оценок автора, его цель, скорее всего",
+                "kk": "Мәтін автордың жеке бағасынсыз тек фактілерді берсе, оның мақсаты, ең алдымен",
+                "en": "If a text gives only facts without the author's personal judgments, its purpose is most likely to"
+              },
+              "options": [
+                "Проинформировать",
+                "Убедить",
+                "Развлечь"
+              ],
+              "correct": "Проинформировать",
+              "task_id": "reading_g7_author_purpose_006"
+            }
+          ]
+        }
+      ]
     }
   }
 }

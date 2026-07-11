@@ -17251,6 +17251,3268 @@
           ]
         }
       ]
+    },
+    "7": {
+      "topics": [
+        {
+          "topic_id": "math_g7_monomials",
+          "title": {
+            "ru": "Одночлены и многочлены",
+            "kk": "Бір мүшелер мен көпмүшелер",
+            "en": "Monomials and polynomials"
+          },
+          "quest_icon": "alpha-x-box",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "11a - 4a = ?",
+                "kk": "11a - 4a = ?",
+                "en": "11a - 4a = ?"
+              },
+              "options": [
+                "7a",
+                "8a",
+                "6a"
+              ],
+              "correct": "7a",
+              "task_id": "math_g7_monomials_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "6y + 4y = ?",
+                "kk": "6y + 4y = ?",
+                "en": "6y + 4y = ?"
+              },
+              "options": [
+                "10y",
+                "11y",
+                "9y"
+              ],
+              "correct": "10y",
+              "task_id": "math_g7_monomials_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "10y + 9y = ?",
+                "kk": "10y + 9y = ?",
+                "en": "10y + 9y = ?"
+              },
+              "options": [
+                "19y",
+                "20y",
+                "18y"
+              ],
+              "correct": "19y",
+              "task_id": "math_g7_monomials_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "5x - 4x = ?",
+                "kk": "5x - 4x = ?",
+                "en": "5x - 4x = ?"
+              },
+              "options": [
+                "x",
+                "2x"
+              ],
+              "correct": "x",
+              "task_id": "math_g7_monomials_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "10y + 7y = ?",
+                "kk": "10y + 7y = ?",
+                "en": "10y + 7y = ?"
+              },
+              "options": [
+                "17y",
+                "18y",
+                "16y"
+              ],
+              "correct": "17y",
+              "task_id": "math_g7_monomials_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "15y - 2y = ?",
+                "kk": "15y - 2y = ?",
+                "en": "15y - 2y = ?"
+              },
+              "options": [
+                "13y",
+                "14y",
+                "12y"
+              ],
+              "correct": "13y",
+              "task_id": "math_g7_monomials_006"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "6x × 6 = ?",
+                "kk": "6x × 6 = ?",
+                "en": "6x × 6 = ?"
+              },
+              "options": [
+                "36x",
+                "37x",
+                "35x"
+              ],
+              "correct": "36x",
+              "task_id": "math_g7_monomials_007"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "5n + 2n = ?",
+                "kk": "5n + 2n = ?",
+                "en": "5n + 2n = ?"
+              },
+              "options": [
+                "7n",
+                "8n",
+                "6n"
+              ],
+              "correct": "7n",
+              "task_id": "math_g7_monomials_008"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "15x + 4x = ?",
+                "kk": "15x + 4x = ?",
+                "en": "15x + 4x = ?"
+              },
+              "options": [
+                "19x",
+                "20x",
+                "18x"
+              ],
+              "correct": "19x",
+              "task_id": "math_g7_monomials_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "3n × 2 = ?",
+                "kk": "3n × 2 = ?",
+                "en": "3n × 2 = ?"
+              },
+              "options": [
+                "6n",
+                "7n",
+                "5n"
+              ],
+              "correct": "6n",
+              "task_id": "math_g7_monomials_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "7y × 8 = ?",
+                "kk": "7y × 8 = ?",
+                "en": "7y × 8 = ?"
+              },
+              "options": [
+                "56y",
+                "57y",
+                "55y"
+              ],
+              "correct": "56y",
+              "task_id": "math_g7_monomials_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "11x + 8x = ?",
+                "kk": "11x + 8x = ?",
+                "en": "11x + 8x = ?"
+              },
+              "options": [
+                "19x",
+                "20x",
+                "18x"
+              ],
+              "correct": "19x",
+              "task_id": "math_g7_monomials_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "3x × 4 = ?",
+                "kk": "3x × 4 = ?",
+                "en": "3x × 4 = ?"
+              },
+              "options": [
+                "12x",
+                "13x",
+                "11x"
+              ],
+              "correct": "12x",
+              "task_id": "math_g7_monomials_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "3n × 4 = ?",
+                "kk": "3n × 4 = ?",
+                "en": "3n × 4 = ?"
+              },
+              "options": [
+                "12n",
+                "13n",
+                "11n"
+              ],
+              "correct": "12n",
+              "task_id": "math_g7_monomials_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "12x - 4x = ?",
+                "kk": "12x - 4x = ?",
+                "en": "12x - 4x = ?"
+              },
+              "options": [
+                "8x",
+                "9x",
+                "7x"
+              ],
+              "correct": "8x",
+              "task_id": "math_g7_monomials_015"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "9n - 7n = ?",
+                "kk": "9n - 7n = ?",
+                "en": "9n - 7n = ?"
+              },
+              "options": [
+                "2n",
+                "3n",
+                "n"
+              ],
+              "correct": "2n",
+              "task_id": "math_g7_monomials_016"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "2x + 1x = ?",
+                "kk": "2x + 1x = ?",
+                "en": "2x + 1x = ?"
+              },
+              "options": [
+                "3x",
+                "4x",
+                "2x"
+              ],
+              "correct": "3x",
+              "task_id": "math_g7_monomials_017"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "7x × 8 = ?",
+                "kk": "7x × 8 = ?",
+                "en": "7x × 8 = ?"
+              },
+              "options": [
+                "56x",
+                "57x",
+                "55x"
+              ],
+              "correct": "56x",
+              "task_id": "math_g7_monomials_018"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "6n + 5n = ?",
+                "kk": "6n + 5n = ?",
+                "en": "6n + 5n = ?"
+              },
+              "options": [
+                "11n",
+                "12n",
+                "10n"
+              ],
+              "correct": "11n",
+              "task_id": "math_g7_monomials_019"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "12n + 8n = ?",
+                "kk": "12n + 8n = ?",
+                "en": "12n + 8n = ?"
+              },
+              "options": [
+                "20n",
+                "21n",
+                "19n"
+              ],
+              "correct": "20n",
+              "task_id": "math_g7_monomials_020"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "6x + 5x = ?",
+                "kk": "6x + 5x = ?",
+                "en": "6x + 5x = ?"
+              },
+              "options": [
+                "11x",
+                "12x",
+                "10x"
+              ],
+              "correct": "11x",
+              "task_id": "math_g7_monomials_021"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "15x + 8x = ?",
+                "kk": "15x + 8x = ?",
+                "en": "15x + 8x = ?"
+              },
+              "options": [
+                "23x",
+                "24x",
+                "22x"
+              ],
+              "correct": "23x",
+              "task_id": "math_g7_monomials_022"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "5a - 1a = ?",
+                "kk": "5a - 1a = ?",
+                "en": "5a - 1a = ?"
+              },
+              "options": [
+                "4a",
+                "5a",
+                "3a"
+              ],
+              "correct": "4a",
+              "task_id": "math_g7_monomials_023"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "14n + 13n = ?",
+                "kk": "14n + 13n = ?",
+                "en": "14n + 13n = ?"
+              },
+              "options": [
+                "27n",
+                "28n",
+                "26n"
+              ],
+              "correct": "27n",
+              "task_id": "math_g7_monomials_024"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "2x × 3 = ?",
+                "kk": "2x × 3 = ?",
+                "en": "2x × 3 = ?"
+              },
+              "options": [
+                "6x",
+                "7x",
+                "5x"
+              ],
+              "correct": "6x",
+              "task_id": "math_g7_monomials_025"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "9x × 2 = ?",
+                "kk": "9x × 2 = ?",
+                "en": "9x × 2 = ?"
+              },
+              "options": [
+                "18x",
+                "19x",
+                "17x"
+              ],
+              "correct": "18x",
+              "task_id": "math_g7_monomials_026"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "8n - 7n = ?",
+                "kk": "8n - 7n = ?",
+                "en": "8n - 7n = ?"
+              },
+              "options": [
+                "n",
+                "2n"
+              ],
+              "correct": "n",
+              "task_id": "math_g7_monomials_027"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "6y + 2y = ?",
+                "kk": "6y + 2y = ?",
+                "en": "6y + 2y = ?"
+              },
+              "options": [
+                "8y",
+                "9y",
+                "7y"
+              ],
+              "correct": "8y",
+              "task_id": "math_g7_monomials_028"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "4x + 1x = ?",
+                "kk": "4x + 1x = ?",
+                "en": "4x + 1x = ?"
+              },
+              "options": [
+                "5x",
+                "6x",
+                "4x"
+              ],
+              "correct": "5x",
+              "task_id": "math_g7_monomials_029"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "8n × 5 = ?",
+                "kk": "8n × 5 = ?",
+                "en": "8n × 5 = ?"
+              },
+              "options": [
+                "40n",
+                "41n",
+                "39n"
+              ],
+              "correct": "40n",
+              "task_id": "math_g7_monomials_030"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "3a × 5 = ?",
+                "kk": "3a × 5 = ?",
+                "en": "3a × 5 = ?"
+              },
+              "options": [
+                "15a",
+                "16a",
+                "14a"
+              ],
+              "correct": "15a",
+              "task_id": "math_g7_monomials_031"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "13n - 5n = ?",
+                "kk": "13n - 5n = ?",
+                "en": "13n - 5n = ?"
+              },
+              "options": [
+                "8n",
+                "9n",
+                "7n"
+              ],
+              "correct": "8n",
+              "task_id": "math_g7_monomials_032"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "2n + 1n = ?",
+                "kk": "2n + 1n = ?",
+                "en": "2n + 1n = ?"
+              },
+              "options": [
+                "3n",
+                "4n",
+                "2n"
+              ],
+              "correct": "3n",
+              "task_id": "math_g7_monomials_033"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "12x + 2x = ?",
+                "kk": "12x + 2x = ?",
+                "en": "12x + 2x = ?"
+              },
+              "options": [
+                "14x",
+                "15x",
+                "13x"
+              ],
+              "correct": "14x",
+              "task_id": "math_g7_monomials_034"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "3y × 8 = ?",
+                "kk": "3y × 8 = ?",
+                "en": "3y × 8 = ?"
+              },
+              "options": [
+                "24y",
+                "25y",
+                "23y"
+              ],
+              "correct": "24y",
+              "task_id": "math_g7_monomials_035"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "3n + 2n = ?",
+                "kk": "3n + 2n = ?",
+                "en": "3n + 2n = ?"
+              },
+              "options": [
+                "5n",
+                "6n",
+                "4n"
+              ],
+              "correct": "5n",
+              "task_id": "math_g7_monomials_036"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "20a - 18a = ?",
+                "kk": "20a - 18a = ?",
+                "en": "20a - 18a = ?"
+              },
+              "options": [
+                "2a",
+                "3a",
+                "a"
+              ],
+              "correct": "2a",
+              "task_id": "math_g7_monomials_037"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "15n + 11n = ?",
+                "kk": "15n + 11n = ?",
+                "en": "15n + 11n = ?"
+              },
+              "options": [
+                "26n",
+                "27n",
+                "25n"
+              ],
+              "correct": "26n",
+              "task_id": "math_g7_monomials_038"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "14n - 2n = ?",
+                "kk": "14n - 2n = ?",
+                "en": "14n - 2n = ?"
+              },
+              "options": [
+                "12n",
+                "13n",
+                "11n"
+              ],
+              "correct": "12n",
+              "task_id": "math_g7_monomials_039"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "11a - 5a = ?",
+                "kk": "11a - 5a = ?",
+                "en": "11a - 5a = ?"
+              },
+              "options": [
+                "6a",
+                "7a",
+                "5a"
+              ],
+              "correct": "6a",
+              "task_id": "math_g7_monomials_040"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "9a × 7 = ?",
+                "kk": "9a × 7 = ?",
+                "en": "9a × 7 = ?"
+              },
+              "options": [
+                "63a",
+                "64a",
+                "62a"
+              ],
+              "correct": "63a",
+              "task_id": "math_g7_monomials_041"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "8n × 8 = ?",
+                "kk": "8n × 8 = ?",
+                "en": "8n × 8 = ?"
+              },
+              "options": [
+                "64n",
+                "65n",
+                "63n"
+              ],
+              "correct": "64n",
+              "task_id": "math_g7_monomials_042"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "14a - 2a = ?",
+                "kk": "14a - 2a = ?",
+                "en": "14a - 2a = ?"
+              },
+              "options": [
+                "12a",
+                "13a",
+                "11a"
+              ],
+              "correct": "12a",
+              "task_id": "math_g7_monomials_043"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "3a × 3 = ?",
+                "kk": "3a × 3 = ?",
+                "en": "3a × 3 = ?"
+              },
+              "options": [
+                "9a",
+                "10a",
+                "8a"
+              ],
+              "correct": "9a",
+              "task_id": "math_g7_monomials_044"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "6y - 2y = ?",
+                "kk": "6y - 2y = ?",
+                "en": "6y - 2y = ?"
+              },
+              "options": [
+                "4y",
+                "5y",
+                "3y"
+              ],
+              "correct": "4y",
+              "task_id": "math_g7_monomials_045"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "2x × 8 = ?",
+                "kk": "2x × 8 = ?",
+                "en": "2x × 8 = ?"
+              },
+              "options": [
+                "16x",
+                "17x",
+                "15x"
+              ],
+              "correct": "16x",
+              "task_id": "math_g7_monomials_046"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "4x × 4 = ?",
+                "kk": "4x × 4 = ?",
+                "en": "4x × 4 = ?"
+              },
+              "options": [
+                "16x",
+                "17x",
+                "15x"
+              ],
+              "correct": "16x",
+              "task_id": "math_g7_monomials_047"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "7y × 2 = ?",
+                "kk": "7y × 2 = ?",
+                "en": "7y × 2 = ?"
+              },
+              "options": [
+                "14y",
+                "15y",
+                "13y"
+              ],
+              "correct": "14y",
+              "task_id": "math_g7_monomials_048"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "13n + 5n = ?",
+                "kk": "13n + 5n = ?",
+                "en": "13n + 5n = ?"
+              },
+              "options": [
+                "18n",
+                "19n",
+                "17n"
+              ],
+              "correct": "18n",
+              "task_id": "math_g7_monomials_049"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "19x - 1x = ?",
+                "kk": "19x - 1x = ?",
+                "en": "19x - 1x = ?"
+              },
+              "options": [
+                "18x",
+                "19x",
+                "17x"
+              ],
+              "correct": "18x",
+              "task_id": "math_g7_monomials_050"
+            }
+          ]
+        },
+        {
+          "topic_id": "math_g7_linear_equations",
+          "title": {
+            "ru": "Линейные уравнения",
+            "kk": "Сызықтық теңдеулер",
+            "en": "Linear equations"
+          },
+          "quest_icon": "equal-box",
+          "tasks": [
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "4x = -56, x = ?",
+                "kk": "4x = -56, x = ?",
+                "en": "4x = -56, x = ?"
+              },
+              "correct": -14,
+              "task_id": "math_g7_linear_equations_001"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "10x = 30, x = ?",
+                "kk": "10x = 30, x = ?",
+                "en": "10x = 30, x = ?"
+              },
+              "correct": 3,
+              "task_id": "math_g7_linear_equations_002"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "7x + (-20) = 64, x = ?",
+                "kk": "7x + (-20) = 64, x = ?",
+                "en": "7x + (-20) = 64, x = ?"
+              },
+              "correct": 12,
+              "task_id": "math_g7_linear_equations_003"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "7x + (-12) = -96, x = ?",
+                "kk": "7x + (-12) = -96, x = ?",
+                "en": "7x + (-12) = -96, x = ?"
+              },
+              "correct": -12,
+              "task_id": "math_g7_linear_equations_004"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "8x + 11 = 3x + -59, x = ?",
+                "kk": "8x + 11 = 3x + -59, x = ?",
+                "en": "8x + 11 = 3x + -59, x = ?"
+              },
+              "correct": -14,
+              "task_id": "math_g7_linear_equations_005"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "4x = 16, x = ?",
+                "kk": "4x = 16, x = ?",
+                "en": "4x = 16, x = ?"
+              },
+              "correct": 4,
+              "task_id": "math_g7_linear_equations_006"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "2x - 14 = 1x + -12, x = ?",
+                "kk": "2x - 14 = 1x + -12, x = ?",
+                "en": "2x - 14 = 1x + -12, x = ?"
+              },
+              "correct": 2,
+              "task_id": "math_g7_linear_equations_007"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "5x - 10 = 1x + -2, x = ?",
+                "kk": "5x - 10 = 1x + -2, x = ?",
+                "en": "5x - 10 = 1x + -2, x = ?"
+              },
+              "correct": 2,
+              "task_id": "math_g7_linear_equations_008"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "5x = 40, x = ?",
+                "kk": "5x = 40, x = ?",
+                "en": "5x = 40, x = ?"
+              },
+              "correct": 8,
+              "task_id": "math_g7_linear_equations_009"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "8x - 5 = 6x + -1, x = ?",
+                "kk": "8x - 5 = 6x + -1, x = ?",
+                "en": "8x - 5 = 6x + -1, x = ?"
+              },
+              "correct": 2,
+              "task_id": "math_g7_linear_equations_010"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "5x = -25, x = ?",
+                "kk": "5x = -25, x = ?",
+                "en": "5x = -25, x = ?"
+              },
+              "correct": -5,
+              "task_id": "math_g7_linear_equations_011"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "8x = -72, x = ?",
+                "kk": "8x = -72, x = ?",
+                "en": "8x = -72, x = ?"
+              },
+              "correct": -9,
+              "task_id": "math_g7_linear_equations_012"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "5x - 3 = 2x + 42, x = ?",
+                "kk": "5x - 3 = 2x + 42, x = ?",
+                "en": "5x - 3 = 2x + 42, x = ?"
+              },
+              "correct": 15,
+              "task_id": "math_g7_linear_equations_013"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "4x + 19 = 47, x = ?",
+                "kk": "4x + 19 = 47, x = ?",
+                "en": "4x + 19 = 47, x = ?"
+              },
+              "correct": 7,
+              "task_id": "math_g7_linear_equations_014"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "4x + 6 = 3x + 11, x = ?",
+                "kk": "4x + 6 = 3x + 11, x = ?",
+                "en": "4x + 6 = 3x + 11, x = ?"
+              },
+              "correct": 5,
+              "task_id": "math_g7_linear_equations_015"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "8x = -40, x = ?",
+                "kk": "8x = -40, x = ?",
+                "en": "8x = -40, x = ?"
+              },
+              "correct": -5,
+              "task_id": "math_g7_linear_equations_016"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "6x + 10 = 3x + -17, x = ?",
+                "kk": "6x + 10 = 3x + -17, x = ?",
+                "en": "6x + 10 = 3x + -17, x = ?"
+              },
+              "correct": -9,
+              "task_id": "math_g7_linear_equations_017"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "5x + 2 = 27, x = ?",
+                "kk": "5x + 2 = 27, x = ?",
+                "en": "5x + 2 = 27, x = ?"
+              },
+              "correct": 5,
+              "task_id": "math_g7_linear_equations_018"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "3x + 2 = 32, x = ?",
+                "kk": "3x + 2 = 32, x = ?",
+                "en": "3x + 2 = 32, x = ?"
+              },
+              "correct": 10,
+              "task_id": "math_g7_linear_equations_019"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "5x + 13 = 43, x = ?",
+                "kk": "5x + 13 = 43, x = ?",
+                "en": "5x + 13 = 43, x = ?"
+              },
+              "correct": 6,
+              "task_id": "math_g7_linear_equations_020"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "6x = 90, x = ?",
+                "kk": "6x = 90, x = ?",
+                "en": "6x = 90, x = ?"
+              },
+              "correct": 15,
+              "task_id": "math_g7_linear_equations_021"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "5x = -30, x = ?",
+                "kk": "5x = -30, x = ?",
+                "en": "5x = -30, x = ?"
+              },
+              "correct": -6,
+              "task_id": "math_g7_linear_equations_022"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "8x + 17 = 73, x = ?",
+                "kk": "8x + 17 = 73, x = ?",
+                "en": "8x + 17 = 73, x = ?"
+              },
+              "correct": 7,
+              "task_id": "math_g7_linear_equations_023"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "5x + (-2) = 28, x = ?",
+                "kk": "5x + (-2) = 28, x = ?",
+                "en": "5x + (-2) = 28, x = ?"
+              },
+              "correct": 6,
+              "task_id": "math_g7_linear_equations_024"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "5x + 17 = -33, x = ?",
+                "kk": "5x + 17 = -33, x = ?",
+                "en": "5x + 17 = -33, x = ?"
+              },
+              "correct": -10,
+              "task_id": "math_g7_linear_equations_025"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "10x = -20, x = ?",
+                "kk": "10x = -20, x = ?",
+                "en": "10x = -20, x = ?"
+              },
+              "correct": -2,
+              "task_id": "math_g7_linear_equations_026"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "5x + 13 = 4x + 14, x = ?",
+                "kk": "5x + 13 = 4x + 14, x = ?",
+                "en": "5x + 13 = 4x + 14, x = ?"
+              },
+              "correct": 1,
+              "task_id": "math_g7_linear_equations_027"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "11x + 8 = 129, x = ?",
+                "kk": "11x + 8 = 129, x = ?",
+                "en": "11x + 8 = 129, x = ?"
+              },
+              "correct": 11,
+              "task_id": "math_g7_linear_equations_028"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "4x + 0 = 2x + 20, x = ?",
+                "kk": "4x + 0 = 2x + 20, x = ?",
+                "en": "4x + 0 = 2x + 20, x = ?"
+              },
+              "correct": 10,
+              "task_id": "math_g7_linear_equations_029"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "4x = 56, x = ?",
+                "kk": "4x = 56, x = ?",
+                "en": "4x = 56, x = ?"
+              },
+              "correct": 14,
+              "task_id": "math_g7_linear_equations_030"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "10x = -30, x = ?",
+                "kk": "10x = -30, x = ?",
+                "en": "10x = -30, x = ?"
+              },
+              "correct": -3,
+              "task_id": "math_g7_linear_equations_031"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "8x - 15 = 3x + -25, x = ?",
+                "kk": "8x - 15 = 3x + -25, x = ?",
+                "en": "8x - 15 = 3x + -25, x = ?"
+              },
+              "correct": -2,
+              "task_id": "math_g7_linear_equations_032"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "4x - 1 = 2x + 29, x = ?",
+                "kk": "4x - 1 = 2x + 29, x = ?",
+                "en": "4x - 1 = 2x + 29, x = ?"
+              },
+              "correct": 15,
+              "task_id": "math_g7_linear_equations_033"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "2x = 2, x = ?",
+                "kk": "2x = 2, x = ?",
+                "en": "2x = 2, x = ?"
+              },
+              "correct": 1,
+              "task_id": "math_g7_linear_equations_034"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "7x + 1 = 22, x = ?",
+                "kk": "7x + 1 = 22, x = ?",
+                "en": "7x + 1 = 22, x = ?"
+              },
+              "correct": 3,
+              "task_id": "math_g7_linear_equations_035"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "6x = 84, x = ?",
+                "kk": "6x = 84, x = ?",
+                "en": "6x = 84, x = ?"
+              },
+              "correct": 14,
+              "task_id": "math_g7_linear_equations_036"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "6x + 2 = 26, x = ?",
+                "kk": "6x + 2 = 26, x = ?",
+                "en": "6x + 2 = 26, x = ?"
+              },
+              "correct": 4,
+              "task_id": "math_g7_linear_equations_037"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "8x + (-11) = -99, x = ?",
+                "kk": "8x + (-11) = -99, x = ?",
+                "en": "8x + (-11) = -99, x = ?"
+              },
+              "correct": -11,
+              "task_id": "math_g7_linear_equations_038"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "8x + 16 = -64, x = ?",
+                "kk": "8x + 16 = -64, x = ?",
+                "en": "8x + 16 = -64, x = ?"
+              },
+              "correct": -10,
+              "task_id": "math_g7_linear_equations_039"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "7x = -42, x = ?",
+                "kk": "7x = -42, x = ?",
+                "en": "7x = -42, x = ?"
+              },
+              "correct": -6,
+              "task_id": "math_g7_linear_equations_040"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "11x + (-4) = 161, x = ?",
+                "kk": "11x + (-4) = 161, x = ?",
+                "en": "11x + (-4) = 161, x = ?"
+              },
+              "correct": 15,
+              "task_id": "math_g7_linear_equations_041"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "3x + 1 = 28, x = ?",
+                "kk": "3x + 1 = 28, x = ?",
+                "en": "3x + 1 = 28, x = ?"
+              },
+              "correct": 9,
+              "task_id": "math_g7_linear_equations_042"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "2x + 3 = 1x + 1, x = ?",
+                "kk": "2x + 3 = 1x + 1, x = ?",
+                "en": "2x + 3 = 1x + 1, x = ?"
+              },
+              "correct": -2,
+              "task_id": "math_g7_linear_equations_043"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "7x - 8 = 4x + -44, x = ?",
+                "kk": "7x - 8 = 4x + -44, x = ?",
+                "en": "7x - 8 = 4x + -44, x = ?"
+              },
+              "correct": -12,
+              "task_id": "math_g7_linear_equations_044"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "7x - 14 = 5x + -32, x = ?",
+                "kk": "7x - 14 = 5x + -32, x = ?",
+                "en": "7x - 14 = 5x + -32, x = ?"
+              },
+              "correct": -9,
+              "task_id": "math_g7_linear_equations_045"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "3x = 45, x = ?",
+                "kk": "3x = 45, x = ?",
+                "en": "3x = 45, x = ?"
+              },
+              "correct": 15,
+              "task_id": "math_g7_linear_equations_046"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "2x = 8, x = ?",
+                "kk": "2x = 8, x = ?",
+                "en": "2x = 8, x = ?"
+              },
+              "correct": 4,
+              "task_id": "math_g7_linear_equations_047"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "1x + 2 = -11, x = ?",
+                "kk": "1x + 2 = -11, x = ?",
+                "en": "1x + 2 = -11, x = ?"
+              },
+              "correct": -13,
+              "task_id": "math_g7_linear_equations_048"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "6x = 18, x = ?",
+                "kk": "6x = 18, x = ?",
+                "en": "6x = 18, x = ?"
+              },
+              "correct": 3,
+              "task_id": "math_g7_linear_equations_049"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "2x + 1 = 1x + -2, x = ?",
+                "kk": "2x + 1 = 1x + -2, x = ?",
+                "en": "2x + 1 = 1x + -2, x = ?"
+              },
+              "correct": -3,
+              "task_id": "math_g7_linear_equations_050"
+            }
+          ]
+        },
+        {
+          "topic_id": "math_g7_powers",
+          "title": {
+            "ru": "Степень с натуральным показателем",
+            "kk": "Натурал көрсеткішті дәреже",
+            "en": "Powers with natural exponents"
+          },
+          "quest_icon": "exponent",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "(a^2)^4 = ?",
+                "kk": "(a^2)^4 = ?",
+                "en": "(a^2)^4 = ?"
+              },
+              "options": [
+                "a^8",
+                "a^6",
+                "a^9"
+              ],
+              "correct": "a^8",
+              "task_id": "math_g7_powers_001"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "3^3 = ?",
+                "kk": "3^3 = ?",
+                "en": "3^3 = ?"
+              },
+              "correct": 27,
+              "task_id": "math_g7_powers_002"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "4^4 = ?",
+                "kk": "4^4 = ?",
+                "en": "4^4 = ?"
+              },
+              "correct": 256,
+              "task_id": "math_g7_powers_003"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "2^3 = ?",
+                "kk": "2^3 = ?",
+                "en": "2^3 = ?"
+              },
+              "correct": 8,
+              "task_id": "math_g7_powers_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "(a^3)^4 = ?",
+                "kk": "(a^3)^4 = ?",
+                "en": "(a^3)^4 = ?"
+              },
+              "options": [
+                "a^12",
+                "a^7",
+                "a^13"
+              ],
+              "correct": "a^12",
+              "task_id": "math_g7_powers_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "y^3 × y^2 = ?",
+                "kk": "y^3 × y^2 = ?",
+                "en": "y^3 × y^2 = ?"
+              },
+              "options": [
+                "y^5",
+                "y^6"
+              ],
+              "correct": "y^5",
+              "task_id": "math_g7_powers_006"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "y^5 × y^5 = ?",
+                "kk": "y^5 × y^5 = ?",
+                "en": "y^5 × y^5 = ?"
+              },
+              "options": [
+                "y^10",
+                "y^25",
+                "y^11"
+              ],
+              "correct": "y^10",
+              "task_id": "math_g7_powers_007"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "y^6 × y^5 = ?",
+                "kk": "y^6 × y^5 = ?",
+                "en": "y^6 × y^5 = ?"
+              },
+              "options": [
+                "y^11",
+                "y^30",
+                "y^12"
+              ],
+              "correct": "y^11",
+              "task_id": "math_g7_powers_008"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "x^3 × x^2 = ?",
+                "kk": "x^3 × x^2 = ?",
+                "en": "x^3 × x^2 = ?"
+              },
+              "options": [
+                "x^5",
+                "x^6"
+              ],
+              "correct": "x^5",
+              "task_id": "math_g7_powers_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "y^3 × y^4 = ?",
+                "kk": "y^3 × y^4 = ?",
+                "en": "y^3 × y^4 = ?"
+              },
+              "options": [
+                "y^7",
+                "y^12",
+                "y^8"
+              ],
+              "correct": "y^7",
+              "task_id": "math_g7_powers_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "y^4 × y^4 = ?",
+                "kk": "y^4 × y^4 = ?",
+                "en": "y^4 × y^4 = ?"
+              },
+              "options": [
+                "y^8",
+                "y^16",
+                "y^9"
+              ],
+              "correct": "y^8",
+              "task_id": "math_g7_powers_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "a^4 × a^3 = ?",
+                "kk": "a^4 × a^3 = ?",
+                "en": "a^4 × a^3 = ?"
+              },
+              "options": [
+                "a^7",
+                "a^12",
+                "a^8"
+              ],
+              "correct": "a^7",
+              "task_id": "math_g7_powers_012"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "5^2 = ?",
+                "kk": "5^2 = ?",
+                "en": "5^2 = ?"
+              },
+              "correct": 25,
+              "task_id": "math_g7_powers_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "(x^4)^4 = ?",
+                "kk": "(x^4)^4 = ?",
+                "en": "(x^4)^4 = ?"
+              },
+              "options": [
+                "x^16",
+                "x^8",
+                "x^17"
+              ],
+              "correct": "x^16",
+              "task_id": "math_g7_powers_014"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "5^3 = ?",
+                "kk": "5^3 = ?",
+                "en": "5^3 = ?"
+              },
+              "correct": 125,
+              "task_id": "math_g7_powers_015"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "a^3 × a^2 = ?",
+                "kk": "a^3 × a^2 = ?",
+                "en": "a^3 × a^2 = ?"
+              },
+              "options": [
+                "a^5",
+                "a^6"
+              ],
+              "correct": "a^5",
+              "task_id": "math_g7_powers_016"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "y^5 × y^6 = ?",
+                "kk": "y^5 × y^6 = ?",
+                "en": "y^5 × y^6 = ?"
+              },
+              "options": [
+                "y^11",
+                "y^30",
+                "y^12"
+              ],
+              "correct": "y^11",
+              "task_id": "math_g7_powers_017"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "y^3 × y^5 = ?",
+                "kk": "y^3 × y^5 = ?",
+                "en": "y^3 × y^5 = ?"
+              },
+              "options": [
+                "y^8",
+                "y^15",
+                "y^9"
+              ],
+              "correct": "y^8",
+              "task_id": "math_g7_powers_018"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "a^3 × a^3 = ?",
+                "kk": "a^3 × a^3 = ?",
+                "en": "a^3 × a^3 = ?"
+              },
+              "options": [
+                "a^6",
+                "a^9",
+                "a^7"
+              ],
+              "correct": "a^6",
+              "task_id": "math_g7_powers_019"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "x^5 × x^4 = ?",
+                "kk": "x^5 × x^4 = ?",
+                "en": "x^5 × x^4 = ?"
+              },
+              "options": [
+                "x^9",
+                "x^20",
+                "x^10"
+              ],
+              "correct": "x^9",
+              "task_id": "math_g7_powers_020"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "y^6 × y^2 = ?",
+                "kk": "y^6 × y^2 = ?",
+                "en": "y^6 × y^2 = ?"
+              },
+              "options": [
+                "y^8",
+                "y^12",
+                "y^9"
+              ],
+              "correct": "y^8",
+              "task_id": "math_g7_powers_021"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "a^6 × a^2 = ?",
+                "kk": "a^6 × a^2 = ?",
+                "en": "a^6 × a^2 = ?"
+              },
+              "options": [
+                "a^8",
+                "a^12",
+                "a^9"
+              ],
+              "correct": "a^8",
+              "task_id": "math_g7_powers_022"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "y^2 × y^3 = ?",
+                "kk": "y^2 × y^3 = ?",
+                "en": "y^2 × y^3 = ?"
+              },
+              "options": [
+                "y^5",
+                "y^6"
+              ],
+              "correct": "y^5",
+              "task_id": "math_g7_powers_023"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "(x^3)^3 = ?",
+                "kk": "(x^3)^3 = ?",
+                "en": "(x^3)^3 = ?"
+              },
+              "options": [
+                "x^9",
+                "x^6",
+                "x^10"
+              ],
+              "correct": "x^9",
+              "task_id": "math_g7_powers_024"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "(x^3)^4 = ?",
+                "kk": "(x^3)^4 = ?",
+                "en": "(x^3)^4 = ?"
+              },
+              "options": [
+                "x^12",
+                "x^7",
+                "x^13"
+              ],
+              "correct": "x^12",
+              "task_id": "math_g7_powers_025"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "3^4 = ?",
+                "kk": "3^4 = ?",
+                "en": "3^4 = ?"
+              },
+              "correct": 81,
+              "task_id": "math_g7_powers_026"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "a^3 × a^5 = ?",
+                "kk": "a^3 × a^5 = ?",
+                "en": "a^3 × a^5 = ?"
+              },
+              "options": [
+                "a^8",
+                "a^15",
+                "a^9"
+              ],
+              "correct": "a^8",
+              "task_id": "math_g7_powers_027"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "(a^3)^2 = ?",
+                "kk": "(a^3)^2 = ?",
+                "en": "(a^3)^2 = ?"
+              },
+              "options": [
+                "a^6",
+                "a^5",
+                "a^7"
+              ],
+              "correct": "a^6",
+              "task_id": "math_g7_powers_028"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "(y^2)^4 = ?",
+                "kk": "(y^2)^4 = ?",
+                "en": "(y^2)^4 = ?"
+              },
+              "options": [
+                "y^8",
+                "y^6",
+                "y^9"
+              ],
+              "correct": "y^8",
+              "task_id": "math_g7_powers_029"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "(x^4)^3 = ?",
+                "kk": "(x^4)^3 = ?",
+                "en": "(x^4)^3 = ?"
+              },
+              "options": [
+                "x^12",
+                "x^7",
+                "x^13"
+              ],
+              "correct": "x^12",
+              "task_id": "math_g7_powers_030"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "4^2 = ?",
+                "kk": "4^2 = ?",
+                "en": "4^2 = ?"
+              },
+              "correct": 16,
+              "task_id": "math_g7_powers_031"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "a^3 × a^6 = ?",
+                "kk": "a^3 × a^6 = ?",
+                "en": "a^3 × a^6 = ?"
+              },
+              "options": [
+                "a^9",
+                "a^18",
+                "a^10"
+              ],
+              "correct": "a^9",
+              "task_id": "math_g7_powers_032"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "4^5 = ?",
+                "kk": "4^5 = ?",
+                "en": "4^5 = ?"
+              },
+              "correct": 1024,
+              "task_id": "math_g7_powers_033"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "2^2 = ?",
+                "kk": "2^2 = ?",
+                "en": "2^2 = ?"
+              },
+              "correct": 4,
+              "task_id": "math_g7_powers_034"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "(y^2)^2 = ?",
+                "kk": "(y^2)^2 = ?",
+                "en": "(y^2)^2 = ?"
+              },
+              "options": [
+                "y^4",
+                "y^5"
+              ],
+              "correct": "y^4",
+              "task_id": "math_g7_powers_035"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "a^2 × a^5 = ?",
+                "kk": "a^2 × a^5 = ?",
+                "en": "a^2 × a^5 = ?"
+              },
+              "options": [
+                "a^7",
+                "a^10",
+                "a^8"
+              ],
+              "correct": "a^7",
+              "task_id": "math_g7_powers_036"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "(a^2)^2 = ?",
+                "kk": "(a^2)^2 = ?",
+                "en": "(a^2)^2 = ?"
+              },
+              "options": [
+                "a^4",
+                "a^5"
+              ],
+              "correct": "a^4",
+              "task_id": "math_g7_powers_037"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "(y^2)^3 = ?",
+                "kk": "(y^2)^3 = ?",
+                "en": "(y^2)^3 = ?"
+              },
+              "options": [
+                "y^6",
+                "y^5",
+                "y^7"
+              ],
+              "correct": "y^6",
+              "task_id": "math_g7_powers_038"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "a^5 × a^5 = ?",
+                "kk": "a^5 × a^5 = ?",
+                "en": "a^5 × a^5 = ?"
+              },
+              "options": [
+                "a^10",
+                "a^25",
+                "a^11"
+              ],
+              "correct": "a^10",
+              "task_id": "math_g7_powers_039"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "3^2 = ?",
+                "kk": "3^2 = ?",
+                "en": "3^2 = ?"
+              },
+              "correct": 9,
+              "task_id": "math_g7_powers_040"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "5^5 = ?",
+                "kk": "5^5 = ?",
+                "en": "5^5 = ?"
+              },
+              "correct": 3125,
+              "task_id": "math_g7_powers_041"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "(y^4)^4 = ?",
+                "kk": "(y^4)^4 = ?",
+                "en": "(y^4)^4 = ?"
+              },
+              "options": [
+                "y^16",
+                "y^8",
+                "y^17"
+              ],
+              "correct": "y^16",
+              "task_id": "math_g7_powers_042"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "a^5 × a^4 = ?",
+                "kk": "a^5 × a^4 = ?",
+                "en": "a^5 × a^4 = ?"
+              },
+              "options": [
+                "a^9",
+                "a^20",
+                "a^10"
+              ],
+              "correct": "a^9",
+              "task_id": "math_g7_powers_043"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "(x^2)^4 = ?",
+                "kk": "(x^2)^4 = ?",
+                "en": "(x^2)^4 = ?"
+              },
+              "options": [
+                "x^8",
+                "x^6",
+                "x^9"
+              ],
+              "correct": "x^8",
+              "task_id": "math_g7_powers_044"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "a^4 × a^4 = ?",
+                "kk": "a^4 × a^4 = ?",
+                "en": "a^4 × a^4 = ?"
+              },
+              "options": [
+                "a^8",
+                "a^16",
+                "a^9"
+              ],
+              "correct": "a^8",
+              "task_id": "math_g7_powers_045"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "x^2 × x^6 = ?",
+                "kk": "x^2 × x^6 = ?",
+                "en": "x^2 × x^6 = ?"
+              },
+              "options": [
+                "x^8",
+                "x^12",
+                "x^9"
+              ],
+              "correct": "x^8",
+              "task_id": "math_g7_powers_046"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "x^5 × x^3 = ?",
+                "kk": "x^5 × x^3 = ?",
+                "en": "x^5 × x^3 = ?"
+              },
+              "options": [
+                "x^8",
+                "x^15",
+                "x^9"
+              ],
+              "correct": "x^8",
+              "task_id": "math_g7_powers_047"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "a^2 × a^2 = ?",
+                "kk": "a^2 × a^2 = ?",
+                "en": "a^2 × a^2 = ?"
+              },
+              "options": [
+                "a^4",
+                "a^5"
+              ],
+              "correct": "a^4",
+              "task_id": "math_g7_powers_048"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "y^5 × y^2 = ?",
+                "kk": "y^5 × y^2 = ?",
+                "en": "y^5 × y^2 = ?"
+              },
+              "options": [
+                "y^7",
+                "y^10",
+                "y^8"
+              ],
+              "correct": "y^7",
+              "task_id": "math_g7_powers_049"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "(y^3)^3 = ?",
+                "kk": "(y^3)^3 = ?",
+                "en": "(y^3)^3 = ?"
+              },
+              "options": [
+                "y^9",
+                "y^6",
+                "y^10"
+              ],
+              "correct": "y^9",
+              "task_id": "math_g7_powers_050"
+            }
+          ]
+        },
+        {
+          "topic_id": "math_g7_linear_function",
+          "title": {
+            "ru": "Линейная функция",
+            "kk": "Сызықтық функция",
+            "en": "Linear function"
+          },
+          "quest_icon": "function-variant",
+          "tasks": [
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = -3x + 10. Найди y при x = -3.",
+                "kk": "y = -3x + 10. Найди y при x = -3.",
+                "en": "y = -3x + 10. Найди y при x = -3."
+              },
+              "correct": 19,
+              "task_id": "math_g7_linear_function_001"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = 3x - 3. Найди y при x = -8.",
+                "kk": "y = 3x - 3. Найди y при x = -8.",
+                "en": "y = 3x - 3. Найди y при x = -8."
+              },
+              "correct": -27,
+              "task_id": "math_g7_linear_function_002"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = 2x + 5. Найди y при x = -7.",
+                "kk": "y = 2x + 5. Найди y при x = -7.",
+                "en": "y = 2x + 5. Найди y при x = -7."
+              },
+              "correct": -9,
+              "task_id": "math_g7_linear_function_003"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = 2x + 2. Найди y при x = 3.",
+                "kk": "y = 2x + 2. Найди y при x = 3.",
+                "en": "y = 2x + 2. Найди y при x = 3."
+              },
+              "correct": 8,
+              "task_id": "math_g7_linear_function_004"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = 3x - 1. Найди y при x = -6.",
+                "kk": "y = 3x - 1. Найди y при x = -6.",
+                "en": "y = 3x - 1. Найди y при x = -6."
+              },
+              "correct": -19,
+              "task_id": "math_g7_linear_function_005"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = -6x - 10. Найди y при x = -1.",
+                "kk": "y = -6x - 10. Найди y при x = -1.",
+                "en": "y = -6x - 10. Найди y при x = -1."
+              },
+              "correct": -4,
+              "task_id": "math_g7_linear_function_006"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = 2x + 6. Найди y при x = 1.",
+                "kk": "y = 2x + 6. Найди y при x = 1.",
+                "en": "y = 2x + 6. Найди y при x = 1."
+              },
+              "correct": 8,
+              "task_id": "math_g7_linear_function_007"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = -6x - 3. Найди y при x = 4.",
+                "kk": "y = -6x - 3. Найди y при x = 4.",
+                "en": "y = -6x - 3. Найди y при x = 4."
+              },
+              "correct": -27,
+              "task_id": "math_g7_linear_function_008"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = -1x + 4. Найди y при x = 8.",
+                "kk": "y = -1x + 4. Найди y при x = 8.",
+                "en": "y = -1x + 4. Найди y при x = 8."
+              },
+              "correct": -4,
+              "task_id": "math_g7_linear_function_009"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = -1x + 2. Найди y при x = 8.",
+                "kk": "y = -1x + 2. Найди y при x = 8.",
+                "en": "y = -1x + 2. Найди y при x = 8."
+              },
+              "correct": -6,
+              "task_id": "math_g7_linear_function_010"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = 3x - 10. Найди y при x = 5.",
+                "kk": "y = 3x - 10. Найди y при x = 5.",
+                "en": "y = 3x - 10. Найди y при x = 5."
+              },
+              "correct": 5,
+              "task_id": "math_g7_linear_function_011"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = 4x + 8. Найди y при x = 5.",
+                "kk": "y = 4x + 8. Найди y при x = 5.",
+                "en": "y = 4x + 8. Найди y при x = 5."
+              },
+              "correct": 28,
+              "task_id": "math_g7_linear_function_012"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = 2x - 4. Найди y при x = -8.",
+                "kk": "y = 2x - 4. Найди y при x = -8.",
+                "en": "y = 2x - 4. Найди y при x = -8."
+              },
+              "correct": -20,
+              "task_id": "math_g7_linear_function_013"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = 3x - 9. Найди y при x = -5.",
+                "kk": "y = 3x - 9. Найди y при x = -5.",
+                "en": "y = 3x - 9. Найди y при x = -5."
+              },
+              "correct": -24,
+              "task_id": "math_g7_linear_function_014"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = -5x + 5. Найди y при x = 1.",
+                "kk": "y = -5x + 5. Найди y при x = 1.",
+                "en": "y = -5x + 5. Найди y при x = 1."
+              },
+              "correct": 0,
+              "task_id": "math_g7_linear_function_015"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = -3x + 0. Найди y при x = 2.",
+                "kk": "y = -3x + 0. Найди y при x = 2.",
+                "en": "y = -3x + 0. Найди y при x = 2."
+              },
+              "correct": -6,
+              "task_id": "math_g7_linear_function_016"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = -2x - 3. Найди y при x = 6.",
+                "kk": "y = -2x - 3. Найди y при x = 6.",
+                "en": "y = -2x - 3. Найди y при x = 6."
+              },
+              "correct": -15,
+              "task_id": "math_g7_linear_function_017"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = 2x - 5. Найди y при x = 2.",
+                "kk": "y = 2x - 5. Найди y при x = 2.",
+                "en": "y = 2x - 5. Найди y при x = 2."
+              },
+              "correct": -1,
+              "task_id": "math_g7_linear_function_018"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = -4x + 7. Найди y при x = 3.",
+                "kk": "y = -4x + 7. Найди y при x = 3.",
+                "en": "y = -4x + 7. Найди y при x = 3."
+              },
+              "correct": -5,
+              "task_id": "math_g7_linear_function_019"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = -1x + 9. Найди y при x = -7.",
+                "kk": "y = -1x + 9. Найди y при x = -7.",
+                "en": "y = -1x + 9. Найди y при x = -7."
+              },
+              "correct": 16,
+              "task_id": "math_g7_linear_function_020"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = -4x + 3. Найди y при x = -4.",
+                "kk": "y = -4x + 3. Найди y при x = -4.",
+                "en": "y = -4x + 3. Найди y при x = -4."
+              },
+              "correct": 19,
+              "task_id": "math_g7_linear_function_021"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = 2x + 2. Найди y при x = 4.",
+                "kk": "y = 2x + 2. Найди y при x = 4.",
+                "en": "y = 2x + 2. Найди y при x = 4."
+              },
+              "correct": 10,
+              "task_id": "math_g7_linear_function_022"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = -4x - 9. Найди y при x = -5.",
+                "kk": "y = -4x - 9. Найди y при x = -5.",
+                "en": "y = -4x - 9. Найди y при x = -5."
+              },
+              "correct": 11,
+              "task_id": "math_g7_linear_function_023"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = 6x + 6. Найди y при x = 5.",
+                "kk": "y = 6x + 6. Найди y при x = 5.",
+                "en": "y = 6x + 6. Найди y при x = 5."
+              },
+              "correct": 36,
+              "task_id": "math_g7_linear_function_024"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = -4x - 4. Найди y при x = -3.",
+                "kk": "y = -4x - 4. Найди y при x = -3.",
+                "en": "y = -4x - 4. Найди y при x = -3."
+              },
+              "correct": 8,
+              "task_id": "math_g7_linear_function_025"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = -4x + 2. Найди y при x = -5.",
+                "kk": "y = -4x + 2. Найди y при x = -5.",
+                "en": "y = -4x + 2. Найди y при x = -5."
+              },
+              "correct": 22,
+              "task_id": "math_g7_linear_function_026"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = 4x - 6. Найди y при x = 8.",
+                "kk": "y = 4x - 6. Найди y при x = 8.",
+                "en": "y = 4x - 6. Найди y при x = 8."
+              },
+              "correct": 26,
+              "task_id": "math_g7_linear_function_027"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = -6x + 1. Найди y при x = -2.",
+                "kk": "y = -6x + 1. Найди y при x = -2.",
+                "en": "y = -6x + 1. Найди y при x = -2."
+              },
+              "correct": 13,
+              "task_id": "math_g7_linear_function_028"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = 4x - 3. Найди y при x = 4.",
+                "kk": "y = 4x - 3. Найди y при x = 4.",
+                "en": "y = 4x - 3. Найди y при x = 4."
+              },
+              "correct": 13,
+              "task_id": "math_g7_linear_function_029"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = -6x + 10. Найди y при x = -7.",
+                "kk": "y = -6x + 10. Найди y при x = -7.",
+                "en": "y = -6x + 10. Найди y при x = -7."
+              },
+              "correct": 52,
+              "task_id": "math_g7_linear_function_030"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = 4x + 9. Найди y при x = 7.",
+                "kk": "y = 4x + 9. Найди y при x = 7.",
+                "en": "y = 4x + 9. Найди y при x = 7."
+              },
+              "correct": 37,
+              "task_id": "math_g7_linear_function_031"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = 1x + 6. Найди y при x = 7.",
+                "kk": "y = 1x + 6. Найди y при x = 7.",
+                "en": "y = 1x + 6. Найди y при x = 7."
+              },
+              "correct": 13,
+              "task_id": "math_g7_linear_function_032"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = 1x - 7. Найди y при x = -7.",
+                "kk": "y = 1x - 7. Найди y при x = -7.",
+                "en": "y = 1x - 7. Найди y при x = -7."
+              },
+              "correct": -14,
+              "task_id": "math_g7_linear_function_033"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = 3x - 1. Найди y при x = -3.",
+                "kk": "y = 3x - 1. Найди y при x = -3.",
+                "en": "y = 3x - 1. Найди y при x = -3."
+              },
+              "correct": -10,
+              "task_id": "math_g7_linear_function_034"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = 1x - 2. Найди y при x = -8.",
+                "kk": "y = 1x - 2. Найди y при x = -8.",
+                "en": "y = 1x - 2. Найди y при x = -8."
+              },
+              "correct": -10,
+              "task_id": "math_g7_linear_function_035"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = -6x - 7. Найди y при x = -3.",
+                "kk": "y = -6x - 7. Найди y при x = -3.",
+                "en": "y = -6x - 7. Найди y при x = -3."
+              },
+              "correct": 11,
+              "task_id": "math_g7_linear_function_036"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = 1x - 7. Найди y при x = 3.",
+                "kk": "y = 1x - 7. Найди y при x = 3.",
+                "en": "y = 1x - 7. Найди y при x = 3."
+              },
+              "correct": -4,
+              "task_id": "math_g7_linear_function_037"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = -2x - 8. Найди y при x = 4.",
+                "kk": "y = -2x - 8. Найди y при x = 4.",
+                "en": "y = -2x - 8. Найди y при x = 4."
+              },
+              "correct": -16,
+              "task_id": "math_g7_linear_function_038"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = -6x + 6. Найди y при x = -1.",
+                "kk": "y = -6x + 6. Найди y при x = -1.",
+                "en": "y = -6x + 6. Найди y при x = -1."
+              },
+              "correct": 12,
+              "task_id": "math_g7_linear_function_039"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = -4x - 8. Найди y при x = -5.",
+                "kk": "y = -4x - 8. Найди y при x = -5.",
+                "en": "y = -4x - 8. Найди y при x = -5."
+              },
+              "correct": 12,
+              "task_id": "math_g7_linear_function_040"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = 1x + 1. Найди y при x = -5.",
+                "kk": "y = 1x + 1. Найди y при x = -5.",
+                "en": "y = 1x + 1. Найди y при x = -5."
+              },
+              "correct": -4,
+              "task_id": "math_g7_linear_function_041"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = -2x - 2. Найди y при x = 5.",
+                "kk": "y = -2x - 2. Найди y при x = 5.",
+                "en": "y = -2x - 2. Найди y при x = 5."
+              },
+              "correct": -12,
+              "task_id": "math_g7_linear_function_042"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = 1x + 0. Найди y при x = 1.",
+                "kk": "y = 1x + 0. Найди y при x = 1.",
+                "en": "y = 1x + 0. Найди y при x = 1."
+              },
+              "correct": 1,
+              "task_id": "math_g7_linear_function_043"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = 5x - 7. Найди y при x = 6.",
+                "kk": "y = 5x - 7. Найди y при x = 6.",
+                "en": "y = 5x - 7. Найди y при x = 6."
+              },
+              "correct": 23,
+              "task_id": "math_g7_linear_function_044"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = 1x + 10. Найди y при x = -5.",
+                "kk": "y = 1x + 10. Найди y при x = -5.",
+                "en": "y = 1x + 10. Найди y при x = -5."
+              },
+              "correct": 5,
+              "task_id": "math_g7_linear_function_045"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = -4x - 9. Найди y при x = 1.",
+                "kk": "y = -4x - 9. Найди y при x = 1.",
+                "en": "y = -4x - 9. Найди y при x = 1."
+              },
+              "correct": -13,
+              "task_id": "math_g7_linear_function_046"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = -5x - 10. Найди y при x = -8.",
+                "kk": "y = -5x - 10. Найди y при x = -8.",
+                "en": "y = -5x - 10. Найди y при x = -8."
+              },
+              "correct": 30,
+              "task_id": "math_g7_linear_function_047"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = -1x + 4. Найди y при x = 5.",
+                "kk": "y = -1x + 4. Найди y при x = 5.",
+                "en": "y = -1x + 4. Найди y при x = 5."
+              },
+              "correct": -1,
+              "task_id": "math_g7_linear_function_048"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = -5x + 7. Найди y при x = 6.",
+                "kk": "y = -5x + 7. Найди y при x = 6.",
+                "en": "y = -5x + 7. Найди y при x = 6."
+              },
+              "correct": -23,
+              "task_id": "math_g7_linear_function_049"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "y = -3x + 8. Найди y при x = -1.",
+                "kk": "y = -3x + 8. Найди y при x = -1.",
+                "en": "y = -3x + 8. Найди y при x = -1."
+              },
+              "correct": 11,
+              "task_id": "math_g7_linear_function_050"
+            }
+          ]
+        },
+        {
+          "topic_id": "math_g7_angles",
+          "title": {
+            "ru": "Углы и их измерение",
+            "kk": "Бұрыштар және оларды өлшеу",
+            "en": "Angles and measurement"
+          },
+          "quest_icon": "angle-acute",
+          "tasks": [
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "Угол смежный с углом 122° равен ? °",
+                "kk": "Угол смежный с углом 122° равен ? °",
+                "en": "Угол смежный с углом 122° равен ? °"
+              },
+              "correct": 58,
+              "task_id": "math_g7_angles_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сумма углов 101° и 79° на прямой линии равна",
+                "kk": "101° мен 79° бұрыштарының түзу сызықтағы қосындысы",
+                "en": "The sum of 101° and 79° angles on a straight line equals"
+              },
+              "options": [
+                "180°",
+                "90°",
+                "360°"
+              ],
+              "correct": "180°",
+              "task_id": "math_g7_angles_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Угол 75° называется",
+                "kk": "75° бұрышы қалай аталады",
+                "en": "An angle of 75° is called"
+              },
+              "options": [
+                "Острый",
+                "Прямой",
+                "Тупой"
+              ],
+              "correct": "Острый",
+              "task_id": "math_g7_angles_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Угол 89° называется",
+                "kk": "89° бұрышы қалай аталады",
+                "en": "An angle of 89° is called"
+              },
+              "options": [
+                "Острый",
+                "Прямой",
+                "Тупой"
+              ],
+              "correct": "Острый",
+              "task_id": "math_g7_angles_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Угол 100° называется",
+                "kk": "100° бұрышы қалай аталады",
+                "en": "An angle of 100° is called"
+              },
+              "options": [
+                "Тупой",
+                "Прямой",
+                "Острый"
+              ],
+              "correct": "Тупой",
+              "task_id": "math_g7_angles_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сумма углов 155° и 25° на прямой линии равна",
+                "kk": "155° мен 25° бұрыштарының түзу сызықтағы қосындысы",
+                "en": "The sum of 155° and 25° angles on a straight line equals"
+              },
+              "options": [
+                "180°",
+                "90°",
+                "360°"
+              ],
+              "correct": "180°",
+              "task_id": "math_g7_angles_006"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Угол 150° называется",
+                "kk": "150° бұрышы қалай аталады",
+                "en": "An angle of 150° is called"
+              },
+              "options": [
+                "Тупой",
+                "Прямой",
+                "Острый"
+              ],
+              "correct": "Тупой",
+              "task_id": "math_g7_angles_007"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Угол 30° называется",
+                "kk": "30° бұрышы қалай аталады",
+                "en": "An angle of 30° is called"
+              },
+              "options": [
+                "Острый",
+                "Прямой",
+                "Тупой"
+              ],
+              "correct": "Острый",
+              "task_id": "math_g7_angles_008"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "Угол смежный с углом 60° равен ? °",
+                "kk": "Угол смежный с углом 60° равен ? °",
+                "en": "Угол смежный с углом 60° равен ? °"
+              },
+              "correct": 120,
+              "task_id": "math_g7_angles_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Угол 120° называется",
+                "kk": "120° бұрышы қалай аталады",
+                "en": "An angle of 120° is called"
+              },
+              "options": [
+                "Тупой",
+                "Прямой",
+                "Острый"
+              ],
+              "correct": "Тупой",
+              "task_id": "math_g7_angles_010"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "Угол смежный с углом 23° равен ? °",
+                "kk": "Угол смежный с углом 23° равен ? °",
+                "en": "Угол смежный с углом 23° равен ? °"
+              },
+              "correct": 157,
+              "task_id": "math_g7_angles_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сумма углов 29° и 151° на прямой линии равна",
+                "kk": "29° мен 151° бұрыштарының түзу сызықтағы қосындысы",
+                "en": "The sum of 29° and 151° angles on a straight line equals"
+              },
+              "options": [
+                "180°",
+                "90°",
+                "360°"
+              ],
+              "correct": "180°",
+              "task_id": "math_g7_angles_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сумма углов 114° и 66° на прямой линии равна",
+                "kk": "114° мен 66° бұрыштарының түзу сызықтағы қосындысы",
+                "en": "The sum of 114° and 66° angles on a straight line equals"
+              },
+              "options": [
+                "180°",
+                "90°",
+                "360°"
+              ],
+              "correct": "180°",
+              "task_id": "math_g7_angles_013"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "Угол смежный с углом 55° равен ? °",
+                "kk": "Угол смежный с углом 55° равен ? °",
+                "en": "Угол смежный с углом 55° равен ? °"
+              },
+              "correct": 125,
+              "task_id": "math_g7_angles_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Угол 179° называется",
+                "kk": "179° бұрышы қалай аталады",
+                "en": "An angle of 179° is called"
+              },
+              "options": [
+                "Тупой",
+                "Прямой",
+                "Острый"
+              ],
+              "correct": "Тупой",
+              "task_id": "math_g7_angles_015"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "Угол смежный с углом 121° равен ? °",
+                "kk": "Угол смежный с углом 121° равен ? °",
+                "en": "Угол смежный с углом 121° равен ? °"
+              },
+              "correct": 59,
+              "task_id": "math_g7_angles_016"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Угол 45° называется",
+                "kk": "45° бұрышы қалай аталады",
+                "en": "An angle of 45° is called"
+              },
+              "options": [
+                "Острый",
+                "Прямой",
+                "Тупой"
+              ],
+              "correct": "Острый",
+              "task_id": "math_g7_angles_017"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "Угол смежный с углом 24° равен ? °",
+                "kk": "Угол смежный с углом 24° равен ? °",
+                "en": "Угол смежный с углом 24° равен ? °"
+              },
+              "correct": 156,
+              "task_id": "math_g7_angles_018"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Угол 15° называется",
+                "kk": "15° бұрышы қалай аталады",
+                "en": "An angle of 15° is called"
+              },
+              "options": [
+                "Острый",
+                "Прямой",
+                "Тупой"
+              ],
+              "correct": "Острый",
+              "task_id": "math_g7_angles_019"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "Угол смежный с углом 20° равен ? °",
+                "kk": "Угол смежный с углом 20° равен ? °",
+                "en": "Угол смежный с углом 20° равен ? °"
+              },
+              "correct": 160,
+              "task_id": "math_g7_angles_020"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Угол 60° называется",
+                "kk": "60° бұрышы қалай аталады",
+                "en": "An angle of 60° is called"
+              },
+              "options": [
+                "Острый",
+                "Прямой",
+                "Тупой"
+              ],
+              "correct": "Острый",
+              "task_id": "math_g7_angles_021"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Угол 135° называется",
+                "kk": "135° бұрышы қалай аталады",
+                "en": "An angle of 135° is called"
+              },
+              "options": [
+                "Тупой",
+                "Прямой",
+                "Острый"
+              ],
+              "correct": "Тупой",
+              "task_id": "math_g7_angles_022"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "Угол смежный с углом 53° равен ? °",
+                "kk": "Угол смежный с углом 53° равен ? °",
+                "en": "Угол смежный с углом 53° равен ? °"
+              },
+              "correct": 127,
+              "task_id": "math_g7_angles_023"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сумма углов 37° и 143° на прямой линии равна",
+                "kk": "37° мен 143° бұрыштарының түзу сызықтағы қосындысы",
+                "en": "The sum of 37° and 143° angles on a straight line equals"
+              },
+              "options": [
+                "180°",
+                "90°",
+                "360°"
+              ],
+              "correct": "180°",
+              "task_id": "math_g7_angles_024"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "Угол смежный с углом 132° равен ? °",
+                "kk": "Угол смежный с углом 132° равен ? °",
+                "en": "Угол смежный с углом 132° равен ? °"
+              },
+              "correct": 48,
+              "task_id": "math_g7_angles_025"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сумма углов 151° и 29° на прямой линии равна",
+                "kk": "151° мен 29° бұрыштарының түзу сызықтағы қосындысы",
+                "en": "The sum of 151° and 29° angles on a straight line equals"
+              },
+              "options": [
+                "180°",
+                "90°",
+                "360°"
+              ],
+              "correct": "180°",
+              "task_id": "math_g7_angles_026"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сумма углов 36° и 144° на прямой линии равна",
+                "kk": "36° мен 144° бұрыштарының түзу сызықтағы қосындысы",
+                "en": "The sum of 36° and 144° angles on a straight line equals"
+              },
+              "options": [
+                "180°",
+                "90°",
+                "360°"
+              ],
+              "correct": "180°",
+              "task_id": "math_g7_angles_027"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сумма углов 64° и 116° на прямой линии равна",
+                "kk": "64° мен 116° бұрыштарының түзу сызықтағы қосындысы",
+                "en": "The sum of 64° and 116° angles on a straight line equals"
+              },
+              "options": [
+                "180°",
+                "90°",
+                "360°"
+              ],
+              "correct": "180°",
+              "task_id": "math_g7_angles_028"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сумма углов 104° и 76° на прямой линии равна",
+                "kk": "104° мен 76° бұрыштарының түзу сызықтағы қосындысы",
+                "en": "The sum of 104° and 76° angles on a straight line equals"
+              },
+              "options": [
+                "180°",
+                "90°",
+                "360°"
+              ],
+              "correct": "180°",
+              "task_id": "math_g7_angles_029"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "Угол смежный с углом 102° равен ? °",
+                "kk": "Угол смежный с углом 102° равен ? °",
+                "en": "Угол смежный с углом 102° равен ? °"
+              },
+              "correct": 78,
+              "task_id": "math_g7_angles_030"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сумма углов 122° и 58° на прямой линии равна",
+                "kk": "122° мен 58° бұрыштарының түзу сызықтағы қосындысы",
+                "en": "The sum of 122° and 58° angles on a straight line equals"
+              },
+              "options": [
+                "180°",
+                "90°",
+                "360°"
+              ],
+              "correct": "180°",
+              "task_id": "math_g7_angles_031"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сумма углов 157° и 23° на прямой линии равна",
+                "kk": "157° мен 23° бұрыштарының түзу сызықтағы қосындысы",
+                "en": "The sum of 157° and 23° angles on a straight line equals"
+              },
+              "options": [
+                "180°",
+                "90°",
+                "360°"
+              ],
+              "correct": "180°",
+              "task_id": "math_g7_angles_032"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сумма углов 98° и 82° на прямой линии равна",
+                "kk": "98° мен 82° бұрыштарының түзу сызықтағы қосындысы",
+                "en": "The sum of 98° and 82° angles on a straight line equals"
+              },
+              "options": [
+                "180°",
+                "90°",
+                "360°"
+              ],
+              "correct": "180°",
+              "task_id": "math_g7_angles_033"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сумма углов 102° и 78° на прямой линии равна",
+                "kk": "102° мен 78° бұрыштарының түзу сызықтағы қосындысы",
+                "en": "The sum of 102° and 78° angles on a straight line equals"
+              },
+              "options": [
+                "180°",
+                "90°",
+                "360°"
+              ],
+              "correct": "180°",
+              "task_id": "math_g7_angles_034"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сумма углов 154° и 26° на прямой линии равна",
+                "kk": "154° мен 26° бұрыштарының түзу сызықтағы қосындысы",
+                "en": "The sum of 154° and 26° angles on a straight line equals"
+              },
+              "options": [
+                "180°",
+                "90°",
+                "360°"
+              ],
+              "correct": "180°",
+              "task_id": "math_g7_angles_035"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "Угол смежный с углом 163° равен ? °",
+                "kk": "Угол смежный с углом 163° равен ? °",
+                "en": "Угол смежный с углом 163° равен ? °"
+              },
+              "correct": 17,
+              "task_id": "math_g7_angles_036"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "Угол смежный с углом 143° равен ? °",
+                "kk": "Угол смежный с углом 143° равен ? °",
+                "en": "Угол смежный с углом 143° равен ? °"
+              },
+              "correct": 37,
+              "task_id": "math_g7_angles_037"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сумма углов 79° и 101° на прямой линии равна",
+                "kk": "79° мен 101° бұрыштарының түзу сызықтағы қосындысы",
+                "en": "The sum of 79° and 101° angles on a straight line equals"
+              },
+              "options": [
+                "180°",
+                "90°",
+                "360°"
+              ],
+              "correct": "180°",
+              "task_id": "math_g7_angles_038"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Угол 91° называется",
+                "kk": "91° бұрышы қалай аталады",
+                "en": "An angle of 91° is called"
+              },
+              "options": [
+                "Тупой",
+                "Прямой",
+                "Острый"
+              ],
+              "correct": "Тупой",
+              "task_id": "math_g7_angles_039"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "Угол смежный с углом 68° равен ? °",
+                "kk": "Угол смежный с углом 68° равен ? °",
+                "en": "Угол смежный с углом 68° равен ? °"
+              },
+              "correct": 112,
+              "task_id": "math_g7_angles_040"
+            }
+          ]
+        },
+        {
+          "topic_id": "math_g7_triangles",
+          "title": {
+            "ru": "Треугольники",
+            "kk": "Үшбұрыштар",
+            "en": "Triangles"
+          },
+          "quest_icon": "triangle-outline",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сумма углов любого треугольника равна",
+                "kk": "Кез келген үшбұрыштың бұрыштарының қосындысы",
+                "en": "The sum of angles in any triangle equals"
+              },
+              "options": [
+                "180°",
+                "360°",
+                "90°"
+              ],
+              "correct": "180°",
+              "task_id": "math_g7_triangles_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Треугольник с тремя равными сторонами называется",
+                "kk": "Үш қабырғасы тең үшбұрыш қалай аталады",
+                "en": "A triangle with three equal sides is called"
+              },
+              "options": [
+                "Равносторонним",
+                "Разносторонним",
+                "Прямоугольным"
+              ],
+              "correct": "Равносторонним",
+              "task_id": "math_g7_triangles_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Треугольник с двумя равными сторонами называется",
+                "kk": "Екі қабырғасы тең үшбұрыш қалай аталады",
+                "en": "A triangle with two equal sides is called"
+              },
+              "options": [
+                "Равнобедренным",
+                "Равносторонним",
+                "Тупоугольным"
+              ],
+              "correct": "Равнобедренным",
+              "task_id": "math_g7_triangles_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Треугольник с одним углом 90° называется",
+                "kk": "Бір бұрышы 90° болатын үшбұрыш қалай аталады",
+                "en": "A triangle with one 90° angle is called"
+              },
+              "options": [
+                "Прямоугольным",
+                "Остроугольным",
+                "Тупоугольным"
+              ],
+              "correct": "Прямоугольным",
+              "task_id": "math_g7_triangles_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Треугольник, у которого все углы острые, называется",
+                "kk": "Барлық бұрыштары сүйір үшбұрыш қалай аталады",
+                "en": "A triangle where all angles are acute is called"
+              },
+              "options": [
+                "Остроугольным",
+                "Тупоугольным",
+                "Прямоугольным"
+              ],
+              "correct": "Остроугольным",
+              "task_id": "math_g7_triangles_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Если два угла треугольника равны 50° и 60°, третий угол равен",
+                "kk": "Үшбұрыштың екі бұрышы 50° және 60° болса, үшінші бұрышы",
+                "en": "If two angles of a triangle are 50° and 60°, the third angle is"
+              },
+              "options": [
+                "70°",
+                "60°",
+                "80°"
+              ],
+              "correct": "70°",
+              "task_id": "math_g7_triangles_006"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сторону треугольника, лежащую напротив прямого угла, называют",
+                "kk": "Тікбұрышқа қарама-қарсы жатқан қабырғаны атайды",
+                "en": "The side of a triangle opposite the right angle is called the"
+              },
+              "options": [
+                "Гипотенузой",
+                "Катетом",
+                "Медианой"
+              ],
+              "correct": "Гипотенузой",
+              "task_id": "math_g7_triangles_007"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "В равностороннем треугольнике каждый угол равен",
+                "kk": "Тең қабырғалы үшбұрышта әрбір бұрыш",
+                "en": "In an equilateral triangle, each angle equals"
+              },
+              "options": [
+                "60°",
+                "90°",
+                "45°"
+              ],
+              "correct": "60°",
+              "task_id": "math_g7_triangles_008"
+            }
+          ]
+        },
+        {
+          "topic_id": "math_g7_parallel_lines",
+          "title": {
+            "ru": "Параллельные прямые",
+            "kk": "Параллель түзулер",
+            "en": "Parallel lines"
+          },
+          "quest_icon": "vector-triangle",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "При пересечении двух параллельных прямых секущей накрест лежащие углы",
+                "kk": "Екі параллель түзуді қиюшы кескенде іштей жатқан бұрыштар",
+                "en": "When two parallel lines are cut by a transversal, alternate interior angles are"
+              },
+              "options": [
+                "Равны",
+                "В сумме дают 90°",
+                "Всегда прямые"
+              ],
+              "correct": "Равны",
+              "task_id": "math_g7_parallel_lines_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "При пересечении двух параллельных прямых секущей соответственные углы",
+                "kk": "Екі параллель түзуді қиюшы кескенде сәйкес бұрыштар",
+                "en": "When two parallel lines are cut by a transversal, corresponding angles are"
+              },
+              "options": [
+                "Равны",
+                "В сумме дают 180°",
+                "Всегда острые"
+              ],
+              "correct": "Равны",
+              "task_id": "math_g7_parallel_lines_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сумма односторонних углов при параллельных прямых и секущей равна",
+                "kk": "Параллель түзулер мен қиюшыда бір жақты бұрыштардың қосындысы",
+                "en": "The sum of co-interior (same-side) angles for parallel lines and a transversal equals"
+              },
+              "options": [
+                "180°",
+                "90°",
+                "360°"
+              ],
+              "correct": "180°",
+              "task_id": "math_g7_parallel_lines_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Вертикальные углы всегда",
+                "kk": "Вертикаль бұрыштар әрқашан",
+                "en": "Vertical angles are always"
+              },
+              "options": [
+                "Равны",
+                "В сумме дают 90°",
+                "Различны"
+              ],
+              "correct": "Равны",
+              "task_id": "math_g7_parallel_lines_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Две прямые называются параллельными, если они",
+                "kk": "Екі түзу қашан параллель деп аталады",
+                "en": "Two lines are called parallel if they"
+              },
+              "options": [
+                "Никогда не пересекаются",
+                "Пересекаются под прямым углом",
+                "Пересекаются в одной точке"
+              ],
+              "correct": "Никогда не пересекаются",
+              "task_id": "math_g7_parallel_lines_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Прямая, пересекающая две параллельные прямые, называется",
+                "kk": "Екі параллель түзуді қиятын түзу қалай аталады",
+                "en": "A line that intersects two parallel lines is called a"
+              },
+              "options": [
+                "Секущей",
+                "Биссектрисой",
+                "Медианой"
+              ],
+              "correct": "Секущей",
+              "task_id": "math_g7_parallel_lines_006"
+            }
+          ]
+        }
+      ]
     }
   }
 }
