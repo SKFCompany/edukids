@@ -5,6 +5,13 @@ on:
     branches: [ main ]
   workflow_dispatch: {}
 
+env:
+  # Битый pip 26.2.1 на PyPI ломает внутренний venv, который python-for-android
+  # создаёт у себя (там безусловно выполняется "pip install -U pip"). Эта
+  # переменная действует на ЛЮБОЙ вызов pip в job'е, включая тот внутренний,
+  # и не даёт подняться выше заведомо рабочей версии.
+  PIP_CONSTRAINT: ${{ github.workspace }}/pip-constraints.txt
+
 jobs:
   build:
     runs-on: ubuntu-22.04
@@ -40,13 +47,15 @@ jobs:
         uses: actions/cache@v4
         with:
           path: ~/.buildozer
-          key: buildozer-global-v3-${{ hashFiles('buildozer.spec') }}
+          # v4: сброс кэша, т.к. предыдущий (v3) мог сохранить недо-собранный
+          # venv/hostpython3 из упавшей сборки с битым pip 26.2.1.
+          key: buildozer-global-v4-${{ hashFiles('buildozer.spec') }}
 
       - name: Cache buildozer project directory
         uses: actions/cache@v4
         with:
           path: .buildozer
-          key: buildozer-project-v3-${{ hashFiles('buildozer.spec') }}
+          key: buildozer-project-v4-${{ hashFiles('buildozer.spec') }}
 
       - name: Build APK with buildozer
         run: |
