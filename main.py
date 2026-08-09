@@ -331,17 +331,21 @@ KV = """
             font_style: "H6"
             size_hint_y: None
             height: dp(60)
-        MDTextField:
+        TextInput:
             id: answer_field
             hint_text: "Ответ"
             size_hint_x: 0.6
+            size_hint_y: None
+            height: dp(48)
             pos_hint: {"center_x": 0.5}
             font_size: "22sp"
-            foreground_color: 0.1, 0.1, 0.15, 1
-            theme_text_color: "Custom"
-            text_color_normal: 0.1, 0.1, 0.15, 1
-            text_color_focus: 0.1, 0.1, 0.15, 1
+            multiline: False
             halign: "center"
+            padding: [dp(12), dp(12), dp(12), dp(12)]
+            foreground_color: 0.1, 0.1, 0.15, 1
+            hint_text_color: 0.55, 0.55, 0.6, 1
+            background_color: 1, 1, 1, 1
+            cursor_color: 0.4, 0.3, 0.9, 1
         MDBoxLayout:
             id: options_box
             orientation: "vertical"
@@ -740,32 +744,6 @@ class LessonScreen(Screen):
     topic_id = StringProperty("")
 
     SESSION_SIZE = 8  # сколько заданий даём за один заход в тему - не весь банк разом
-
-    def on_kv_post(self, base_widget):
-        # В самом KivyMD 1.2.0 (textfield.kv, класс <MDTextField>) есть
-        # постоянная привязка "foreground_color: self.theme_cls.text_color".
-        # Это реактивное KV-правило самого фреймворка — оно живёт независимо
-        # от наших python-присвоений и может в любой момент (не только на
-        # focus) заново перезаписать цвет текста темой, из-за чего введённые
-        # цифры становятся невидимыми. Разово переустановить цвет недостаточно,
-        # поэтому держим его "принудительно" всё время, пока открыт урок.
-        self._fix_answer_field_color(0)
-
-    def _fix_answer_field_color(self, dt):
-        field = self.ids.answer_field
-        color = (0.1, 0.1, 0.15, 1)
-        field.foreground_color = color
-        field.text_color_normal = color
-        field.text_color_focus = color
-
-    def on_pre_enter(self, *args):
-        self._color_fix_event = Clock.schedule_interval(self._fix_answer_field_color, 0.25)
-
-    def on_leave(self, *args):
-        event = getattr(self, "_color_fix_event", None)
-        if event:
-            event.cancel()
-            self._color_fix_event = None
 
     def open_for(self, subject, grade, topic_id):
         self.subject = subject
