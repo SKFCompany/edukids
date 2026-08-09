@@ -741,6 +741,32 @@ class LessonScreen(Screen):
 
     SESSION_SIZE = 8  # сколько заданий даём за один заход в тему - не весь банк разом
 
+    def on_kv_post(self, base_widget):
+        # В самом KivyMD 1.2.0 (textfield.kv, класс <MDTextField>) есть
+        # постоянная привязка "foreground_color: self.theme_cls.text_color".
+        # Это реактивное KV-правило самого фреймворка — оно живёт независимо
+        # от наших python-присвоений и может в любой момент (не только на
+        # focus) заново перезаписать цвет текста темой, из-за чего введённые
+        # цифры становятся невидимыми. Разово переустановить цвет недостаточно,
+        # поэтому держим его "принудительно" всё время, пока открыт урок.
+        self._fix_answer_field_color(0)
+
+    def _fix_answer_field_color(self, dt):
+        field = self.ids.answer_field
+        color = (0.1, 0.1, 0.15, 1)
+        field.foreground_color = color
+        field.text_color_normal = color
+        field.text_color_focus = color
+
+    def on_pre_enter(self, *args):
+        self._color_fix_event = Clock.schedule_interval(self._fix_answer_field_color, 0.25)
+
+    def on_leave(self, *args):
+        event = getattr(self, "_color_fix_event", None)
+        if event:
+            event.cancel()
+            self._color_fix_event = None
+
     def open_for(self, subject, grade, topic_id):
         self.subject = subject
         self.grade = grade

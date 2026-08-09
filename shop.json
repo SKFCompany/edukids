@@ -1,0 +1,238 @@
+{
+  "avatars": [
+    {
+      "item_id": "avatar_cat",
+      "icon": "cat",
+      "price": 0,
+      "name": {
+        "ru": "Кот",
+        "kk": "Мысық",
+        "en": "Cat"
+      }
+    },
+    {
+      "item_id": "avatar_dog",
+      "icon": "dog",
+      "price": 30,
+      "name": {
+        "ru": "Пёс",
+        "kk": "Ит",
+        "en": "Dog"
+      }
+    },
+    {
+      "item_id": "avatar_owl",
+      "icon": "owl",
+      "price": 30,
+      "name": {
+        "ru": "Сова",
+        "kk": "Үкі",
+        "en": "Owl"
+      }
+    },
+    {
+      "item_id": "avatar_koala",
+      "icon": "koala",
+      "price": 40,
+      "name": {
+        "ru": "Коала",
+        "kk": "Коала",
+        "en": "Koala"
+      }
+    },
+    {
+      "item_id": "avatar_panda",
+      "icon": "panda",
+      "price": 40,
+      "name": {
+        "ru": "Панда",
+        "kk": "Панда",
+        "en": "Panda"
+      }
+    },
+    {
+      "item_id": "avatar_rabbit",
+      "icon": "rabbit",
+      "price": 40,
+      "name": {
+        "ru": "Заяц",
+        "kk": "Қоян",
+        "en": "Rabbit"
+      }
+    },
+    {
+      "item_id": "avatar_robot",
+      "icon": "robot-happy",
+      "price": 60,
+      "name": {
+        "ru": "Робот",
+        "kk": "Робот",
+        "en": "Robot"
+      }
+    },
+    {
+      "item_id": "avatar_unicorn",
+      "icon": "unicorn-variant",
+      "price": 80,
+      "name": {
+        "ru": "Единорог",
+        "kk": "Жалғыз мүйіз",
+        "en": "Unicorn"
+      }
+    },
+    {
+      "item_id": "avatar_alien",
+      "icon": "alien",
+      "price": 80,
+      "name": {
+        "ru": "Инопланетянин",
+        "kk": "Ғарышкер",
+        "en": "Alien"
+      }
+    },
+    {
+      "item_id": "avatar_dragon",
+      "icon": "sword-cross",
+      "price": 100,
+      "name": {
+        "ru": "Рыцарь",
+        "kk": "Батыр",
+        "en": "Knight"
+      }
+    }
+  ],
+  "accessories": [
+    {
+      "item_id": "acc_crown",
+      "icon": "crown-outline",
+      "price": 50,
+      "name": {
+        "ru": "Корона",
+        "kk": "Тәж",
+        "en": "Crown"
+      }
+    },
+    {
+      "item_id": "acc_glasses",
+      "icon": "glasses",
+      "price": 25,
+      "name": {
+        "ru": "Очки",
+        "kk": "Көзілдірік",
+        "en": "Glasses"
+      }
+    },
+    {
+      "item_id": "acc_hat",
+      "icon": "hat-fedora",
+      "price": 25,
+      "name": {
+        "ru": "Шляпа",
+        "kk": "Қалпақ",
+        "en": "Hat"
+      }
+    },
+    {
+      "item_id": "acc_sunglasses",
+      "icon": "sunglasses",
+      "price": 35,
+      "name": {
+        "ru": "Крутые очки",
+        "kk": "Сәнді көзілдірік",
+        "en": "Cool glasses"
+      }
+    }
+  ],
+  "rooms": [
+    {
+      "item_id": "room_sky",
+      "color": [
+        0.8,
+        0.9,
+        0.98,
+        1
+      ],
+      "price": 0,
+      "name": {
+        "ru": "Небо",
+        "kk": "Аспан",
+        "en": "Sky"
+      }
+    },
+    {
+      "item_id": "room_forest",
+      "color": [
+        0.83,
+        0.93,
+        0.8,
+        1
+      ],
+      "price": 40,
+      "name": {
+        "ru": "Лес",
+        "kk": "Орман",
+        "en": "Forest"
+      }
+    },
+    {
+      "item_id": "room_sunset",
+      "color": [
+        0.99,
+        0.87,
+        0.78,
+        1
+      ],
+      "price": 40,
+      "name": {
+        "ru": "Закат",
+        "kk": "Күн бату",
+        "en": "Sunset"
+      }
+    },
+    {
+      "item_id": "room_night",
+      "color": [
+        0.75,
+        0.75,
+        0.92,
+        1
+      ],
+      "price": 60,
+      "name": {
+        "ru": "Ночь",
+        "kk": "Түн",
+        "en": "Night"
+      }
+    },
+    {
+      "item_id": "room_candy",
+      "color": [
+        0.98,
+        0.83,
+        0.92,
+        1
+      ],
+      "price": 60,
+      "name": {
+        "ru": "Конфетная",
+        "kk": "Кәмпит",
+        "en": "Candy"
+      }
+    },
+    {
+      "item_id": "room_space",
+      "color": [
+        0.78,
+        0.78,
+        0.95,
+        1
+      ],
+      "price": 90,
+      "name": {
+        "ru": "Космос",
+        "kk": "Ғарыш",
+        "en": "Space"
+      }
+    }
+  ]
+}
