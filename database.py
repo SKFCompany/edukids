@@ -17,6 +17,7 @@ CREATE TABLE IF NOT EXISTS profiles (
     name TEXT NOT NULL,
     grade INTEGER NOT NULL DEFAULT 1,
     avatar TEXT DEFAULT 'cat',
+    gender TEXT DEFAULT 'neutral',
     language TEXT DEFAULT 'ru',
     coins INTEGER DEFAULT 0,
     xp INTEGER DEFAULT 0,
@@ -90,15 +91,17 @@ def init_db():
             conn.execute("ALTER TABLE profiles ADD COLUMN equipped_room TEXT DEFAULT 'room_sky'")
         if "equipped_companion" not in cols:
             conn.execute("ALTER TABLE profiles ADD COLUMN equipped_companion TEXT DEFAULT 'comp_duck'")
+        if "gender" not in cols:
+            conn.execute("ALTER TABLE profiles ADD COLUMN gender TEXT DEFAULT 'neutral'")
 
 
 # ---------- Профили ----------
 
-def create_profile(name: str, grade: int, avatar: str = "cat", language: str = "ru") -> int:
+def create_profile(name: str, grade: int, avatar: str = "cat", language: str = "ru", gender: str = "neutral") -> int:
     with get_connection() as conn:
         cur = conn.execute(
-            "INSERT INTO profiles (name, grade, avatar, language) VALUES (?, ?, ?, ?)",
-            (name, grade, avatar, language),
+            "INSERT INTO profiles (name, grade, avatar, language, gender) VALUES (?, ?, ?, ?, ?)",
+            (name, grade, avatar, language, gender),
         )
         return cur.lastrowid
 
@@ -216,6 +219,11 @@ def equip_room(profile_id: int, item_id: str):
 def update_grade(profile_id: int, grade: int):
     with get_connection() as conn:
         conn.execute("UPDATE profiles SET grade = ? WHERE id = ?", (grade, profile_id))
+
+
+def update_gender(profile_id: int, gender: str):
+    with get_connection() as conn:
+        conn.execute("UPDATE profiles SET gender = ? WHERE id = ?", (gender, profile_id))
 
 
 def grant_achievement(profile_id: int, badge_id: str) -> bool:

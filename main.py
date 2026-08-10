@@ -128,11 +128,45 @@ KV = """
             halign: "center"
             size_hint_y: None
             height: dp(30)
-        MDTextField:
+        TextInput:
             id: name_field
             hint_text: "Имя"
             size_hint_x: 0.8
+            size_hint_y: None
+            height: dp(48)
             pos_hint: {"center_x": 0.5}
+            multiline: False
+            halign: "center"
+            font_size: "20sp"
+            padding: [dp(12), dp(12), dp(12), dp(12)]
+            foreground_color: 0.1, 0.1, 0.15, 1
+            hint_text_color: 0.55, 0.55, 0.6, 1
+            background_color: 1, 1, 1, 1
+            cursor_color: 0.4, 0.3, 0.9, 1
+        MDLabel:
+            text: "Ты мальчик или девочка?"
+            halign: "center"
+            size_hint_y: None
+            height: dp(30)
+        MDBoxLayout:
+            size_hint_y: None
+            height: dp(48)
+            spacing: dp(12)
+            padding: [dp(40), 0]
+            MDRaisedButton:
+                id: boy_button
+                text: "Мальчик"
+                md_bg_color: 0.90, 0.90, 0.94, 1
+                text_color: 0.15, 0.15, 0.15, 1
+                size_hint_x: 0.5
+                on_release: root.pick_gender("boy")
+            MDRaisedButton:
+                id: girl_button
+                text: "Девочка"
+                md_bg_color: 0.90, 0.90, 0.94, 1
+                text_color: 0.15, 0.15, 0.15, 1
+                size_hint_x: 0.5
+                on_release: root.pick_gender("girl")
         MDLabel:
             text: "Выбери класс:"
             halign: "center"
@@ -409,6 +443,16 @@ KV = """
                     width: self.minimum_width
                     spacing: dp(8)
                     padding: [dp(8), 0]
+            MDLabel:
+                id: gender_section_label
+                text: ""
+                size_hint_y: None
+                height: dp(30)
+            MDBoxLayout:
+                id: gender_buttons
+                size_hint_y: None
+                height: dp(48)
+                spacing: dp(12)
 
 <InventoryScreen>:
     name: "inventory"
@@ -463,20 +507,40 @@ KV = """
 
 class WelcomeScreen(Screen):
     selected_grade = NumericProperty(1)
+    selected_gender = StringProperty("neutral")
 
     def on_kv_post(self, base_widget):
+        self._build_grade_buttons()
+
+    def pick_gender(self, gender):
+        self.selected_gender = gender
+        boy_selected = gender == "boy"
+        girl_selected = gender == "girl"
+        self.ids.boy_button.md_bg_color = OPTION_SELECTED_COLOR if boy_selected else OPTION_DEFAULT_COLOR
+        self.ids.boy_button.text_color = OPTION_SELECTED_TEXT if boy_selected else OPTION_DEFAULT_TEXT
+        self.ids.girl_button.md_bg_color = OPTION_SELECTED_COLOR if girl_selected else OPTION_DEFAULT_COLOR
+        self.ids.girl_button.text_color = OPTION_SELECTED_TEXT if girl_selected else OPTION_DEFAULT_TEXT
+
+    def _build_grade_buttons(self):
         self.ids.grade_buttons.clear_widgets()
         for g in range(1, 12):
-            btn = MDFlatButton(text=str(g), size_hint_x=None, width=dp(44),
-                                on_release=lambda inst, gg=g: self.pick_grade(gg))
+            is_selected = g == self.selected_grade
+            btn = MDRaisedButton(text=str(g), size_hint_x=None, width=dp(44)) if is_selected \
+                else MDFlatButton(text=str(g), size_hint_x=None, width=dp(44))
+            btn.bind(on_release=lambda inst, gg=g: self.pick_grade(gg))
             self.ids.grade_buttons.add_widget(btn)
 
     def pick_grade(self, grade):
         self.selected_grade = grade
+        # Пересобираем кнопки, а не мутируем свойства - так гарантированно
+        # видно, какой класс выбран (залитая MDRaisedButton вместо плоской).
+        self._build_grade_buttons()
 
     def create_profile(self):
         name = self.ids.name_field.text.strip() or "Друг"
-        profile_id = database.create_profile(name=name, grade=self.selected_grade, language=get_language())
+        profile_id = database.create_profile(
+            name=name, grade=self.selected_grade, language=get_language(), gender=self.selected_gender
+        )
         app = MDApp.get_running_app()
         app.profile_id = profile_id
         app.go_home()
@@ -898,9 +962,24 @@ class ProfileScreen(Screen):
                 btn.bind(on_release=lambda inst, gg=g: self.switch_grade(gg))
             self.ids.grade_buttons.add_widget(btn)
 
+        self.ids.gender_section_label.text = tr("gender_setting_label")
+        self.ids.gender_buttons.clear_widgets()
+        for code, label in (("boy", tr("gender_boy")), ("girl", tr("gender_girl"))):
+            is_current = profile["gender"] == code
+            btn = MDRaisedButton(text=label, size_hint_x=0.5) if is_current \
+                else MDFlatButton(text=label, size_hint_x=0.5)
+            if not is_current:
+                btn.bind(on_release=lambda inst, c=code: self.switch_gender(c))
+            self.ids.gender_buttons.add_widget(btn)
+
     def switch_grade(self, grade):
         app = MDApp.get_running_app()
         database.update_grade(app.profile_id, grade)
+        self.on_pre_enter()
+
+    def switch_gender(self, gender):
+        app = MDApp.get_running_app()
+        database.update_gender(app.profile_id, gender)
         self.on_pre_enter()
 
     def switch_language(self, code):

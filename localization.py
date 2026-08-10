@@ -67,6 +67,26 @@ STRINGS = {
         "kk": "Сынып",
         "en": "Grade",
     },
+    "gender_question": {
+        "ru": "Ты мальчик или девочка?",
+        "kk": "Сен ұлсың ба, қызсың ба?",
+        "en": "Are you a boy or a girl?",
+    },
+    "gender_boy": {
+        "ru": "Мальчик",
+        "kk": "Ұл",
+        "en": "Boy",
+    },
+    "gender_girl": {
+        "ru": "Девочка",
+        "kk": "Қыз",
+        "en": "Girl",
+    },
+    "gender_setting_label": {
+        "ru": "Я",
+        "kk": "Мен",
+        "en": "I am",
+    },
     "level_word": {
         "ru": "Уровень",
         "kk": "Деңгей",
