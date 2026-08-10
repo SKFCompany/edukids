@@ -4521,6 +4521,669 @@
           ]
         }
       ]
+    },
+    "7": {
+      "topics": [
+        {
+          "topic_id": "world_g7_forces_energy",
+          "title": {
+            "ru": "Силы и энергия",
+            "kk": "Күштер мен энергия",
+            "en": "Forces and Energy"
+          },
+          "quest_icon": "lightning-bolt",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сила, которая притягивает предметы к Земле, называется",
+                "kk": "Заттарды Жерге тартатын күш қалай аталады",
+                "en": "The force that pulls objects toward the Earth is called"
+              },
+              "options": [
+                "Сила тяжести",
+                "Сила трения",
+                "Сила упругости"
+              ],
+              "correct": "Сила тяжести",
+              "task_id": "world_g7_forces_energy_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сила, которая мешает предметам скользить друг по другу, — это",
+                "kk": "Заттардың бір-бірінің үстінде сырғуына кедергі келтіретін күш — бұл",
+                "en": "The force that prevents objects from sliding over each other is"
+              },
+              "options": [
+                "Трение",
+                "Тяжесть",
+                "Магнетизм"
+              ],
+              "correct": "Трение",
+              "task_id": "world_g7_forces_energy_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Энергия движущегося тела называется",
+                "kk": "Қозғалып тұрған дененің энергиясы қалай аталады",
+                "en": "The energy of a moving body is called"
+              },
+              "options": [
+                "Кинетической",
+                "Потенциальной",
+                "Химической"
+              ],
+              "correct": "Кинетической",
+              "task_id": "world_g7_forces_energy_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Энергия, накопленная в поднятом над землёй предмете, называется",
+                "kk": "Жерден жоғары көтерілген заттағы жинақталған энергия қалай аталады",
+                "en": "The energy stored in an object raised above the ground is called"
+              },
+              "options": [
+                "Потенциальной",
+                "Кинетической",
+                "Тепловой"
+              ],
+              "correct": "Потенциальной",
+              "task_id": "world_g7_forces_energy_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Простой механизм, представляющий собой наклонную плоскость, — это",
+                "kk": "Көлбеу жазықтық түріндегі қарапайым механизм — бұл",
+                "en": "A simple machine that is an inclined plane is a"
+              },
+              "options": [
+                "Клин",
+                "Рычаг",
+                "Блок"
+              ],
+              "correct": "Клин",
+              "task_id": "world_g7_forces_energy_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Единица измерения силы в физике называется",
+                "kk": "Физикада күшті өлшеу бірлігі қалай аталады",
+                "en": "The unit of force in physics is called the"
+              },
+              "options": [
+                "Ньютон",
+                "Ватт",
+                "Джоуль"
+              ],
+              "correct": "Ньютон",
+              "task_id": "world_g7_forces_energy_006"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Энергия не исчезает, а переходит из одной формы в другую — это закон",
+                "kk": "Энергия жоғалмайды, тек бір түрден екінші түрге өтеді — бұл заң",
+                "en": "Energy does not disappear but changes from one form to another — this is the law of"
+              },
+              "options": [
+                "Сохранения энергии",
+                "Всемирного тяготения",
+                "Инерции"
+              ],
+              "correct": "Сохранения энергии",
+              "task_id": "world_g7_forces_energy_007"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Тело, на которое не действуют силы или силы уравновешены, сохраняет своё состояние покоя или движения — это закон",
+                "kk": "Күштер әсер етпейтін немесе теңдестірілген дене өзінің тыныштық немесе қозғалыс күйін сақтайды — бұл заң",
+                "en": "A body with no net force acting on it keeps its state of rest or motion — this is the law of"
+              },
+              "options": [
+                "Инерции",
+                "Трения",
+                "Отражения"
+              ],
+              "correct": "Инерции",
+              "task_id": "world_g7_forces_energy_008"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Механическая работа совершается, когда",
+                "kk": "Механикалық жұмыс қашан орындалады",
+                "en": "Mechanical work is done when"
+              },
+              "options": [
+                "Сила перемещает тело",
+                "Тело просто нагревается",
+                "Тело меняет цвет"
+              ],
+              "correct": "Сила перемещает тело",
+              "task_id": "world_g7_forces_energy_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Рычаг облегчает работу, потому что",
+                "kk": "Иінтірек жұмысты жеңілдетеді, себебі ол",
+                "en": "A lever makes work easier because it"
+              },
+              "options": [
+                "Уменьшает нужную силу за счёт плеча",
+                "Увеличивает вес предмета",
+                "Меняет форму предмета"
+              ],
+              "correct": "Уменьшает нужную силу за счёт плеча",
+              "task_id": "world_g7_forces_energy_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Скорость показывает",
+                "kk": "Жылдамдық нені көрсетеді",
+                "en": "Speed shows"
+              },
+              "options": [
+                "Как быстро тело меняет своё положение",
+                "Только направление движения",
+                "Только вес тела"
+              ],
+              "correct": "Как быстро тело меняет своё положение",
+              "task_id": "world_g7_forces_energy_011"
+            }
+          ]
+        },
+        {
+          "topic_id": "world_g7_chemical_physical_changes",
+          "title": {
+            "ru": "Физические и химические явления",
+            "kk": "Физикалық және химиялық құбылыстар",
+            "en": "Physical and Chemical Changes"
+          },
+          "quest_icon": "flask-outline",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Таяние льда — это явление",
+                "kk": "Мұздың еруі — бұл құбылыс",
+                "en": "Melting ice is a"
+              },
+              "options": [
+                "Физическое",
+                "Химическое",
+                "Биологическое"
+              ],
+              "correct": "Физическое",
+              "task_id": "world_g7_chemical_physical_changes_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Горение дерева — это явление",
+                "kk": "Ағаштың жануы — бұл құбылыс",
+                "en": "Wood burning is a"
+              },
+              "options": [
+                "Химическое",
+                "Физическое",
+                "Механическое"
+              ],
+              "correct": "Химическое",
+              "task_id": "world_g7_chemical_physical_changes_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Ржавление железа происходит из-за реакции с",
+                "kk": "Темірдің тоттануы немен реакция арқасында болады",
+                "en": "Iron rusting happens because of a reaction with"
+              },
+              "options": [
+                "Кислородом и водой",
+                "Азотом",
+                "Углекислым газом только"
+              ],
+              "correct": "Кислородом и водой",
+              "task_id": "world_g7_chemical_physical_changes_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "После физического изменения вещество",
+                "kk": "Физикалық өзгерістен кейін зат",
+                "en": "After a physical change, a substance"
+              },
+              "options": [
+                "Остаётся тем же веществом",
+                "Превращается в новое вещество",
+                "Исчезает полностью"
+              ],
+              "correct": "Остаётся тем же веществом",
+              "task_id": "world_g7_chemical_physical_changes_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "После химической реакции образуется",
+                "kk": "Химиялық реакциядан кейін пайда болады",
+                "en": "After a chemical reaction, what forms is"
+              },
+              "options": [
+                "Новое вещество с другими свойствами",
+                "То же самое вещество",
+                "Ничего не меняется"
+              ],
+              "correct": "Новое вещество с другими свойствами",
+              "task_id": "world_g7_chemical_physical_changes_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Признаком химической реакции может быть",
+                "kk": "Химиялық реакцияның белгісі болуы мүмкін",
+                "en": "A sign of a chemical reaction can be"
+              },
+              "options": [
+                "Выделение газа или изменение цвета",
+                "Изменение только формы",
+                "Изменение только температуры воздуха"
+              ],
+              "correct": "Выделение газа или изменение цвета",
+              "task_id": "world_g7_chemical_physical_changes_006"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Испарение воды — это явление",
+                "kk": "Судың булануы — бұл құбылыс",
+                "en": "Water evaporation is a"
+              },
+              "options": [
+                "Физическое",
+                "Химическое",
+                "Ядерное"
+              ],
+              "correct": "Физическое",
+              "task_id": "world_g7_chemical_physical_changes_007"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Приготовление яичницы — это явление",
+                "kk": "Жұмыртқа қуыру — бұл құбылыс",
+                "en": "Frying an egg is a"
+              },
+              "options": [
+                "Химическое (белок меняет структуру)",
+                "Физическое",
+                "Никакое"
+              ],
+              "correct": "Химическое (белок меняет структуру)",
+              "task_id": "world_g7_chemical_physical_changes_008"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Разрезание яблока на кусочки — это явление",
+                "kk": "Алманы бөлікке кесу — бұл құбылыс",
+                "en": "Cutting an apple into pieces is a"
+              },
+              "options": [
+                "Физическое",
+                "Химическое",
+                "Биологическое"
+              ],
+              "correct": "Физическое",
+              "task_id": "world_g7_chemical_physical_changes_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Смешивание соды и уксуса с образованием пузырьков — это",
+                "kk": "Сода мен сірке суын араластырғанда көпіршіктер пайда болуы — бұл",
+                "en": "Mixing baking soda and vinegar to form bubbles is a"
+              },
+              "options": [
+                "Химическая реакция",
+                "Просто перемешивание",
+                "Физическое явление"
+              ],
+              "correct": "Химическая реакция",
+              "task_id": "world_g7_chemical_physical_changes_010"
+            }
+          ]
+        },
+        {
+          "topic_id": "world_g7_nervous_senses",
+          "title": {
+            "ru": "Нервная система и органы чувств",
+            "kk": "Жүйке жүйесі мен сезім мүшелері",
+            "en": "Nervous System and Senses"
+          },
+          "quest_icon": "brain",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Головной мозг является главным органом",
+                "kk": "Бас миы басты мүшесі болып табылады",
+                "en": "The brain is the main organ of the"
+              },
+              "options": [
+                "Нервной системы",
+                "Кровеносной системы",
+                "Дыхательной системы"
+              ],
+              "correct": "Нервной системы",
+              "task_id": "world_g7_nervous_senses_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Орган чувств, который позволяет нам видеть, — это",
+                "kk": "Бізге көруге мүмкіндік беретін сезім мүшесі — бұл",
+                "en": "The sense organ that allows us to see is the"
+              },
+              "options": [
+                "Глаза",
+                "Уши",
+                "Кожа"
+              ],
+              "correct": "Глаза",
+              "task_id": "world_g7_nervous_senses_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Спинной мозг соединяет головной мозг с",
+                "kk": "Жұлын бас миын немен байланыстырады",
+                "en": "The spinal cord connects the brain to"
+              },
+              "options": [
+                "Остальным телом через нервы",
+                "Только с сердцем",
+                "Только с лёгкими"
+              ],
+              "correct": "Остальным телом через нервы",
+              "task_id": "world_g7_nervous_senses_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Рефлекс — это",
+                "kk": "Рефлекс дегеніміз",
+                "en": "A reflex is"
+              },
+              "options": [
+                "Быстрая непроизвольная реакция организма",
+                "Осознанное решение",
+                "Долгий процесс обучения"
+              ],
+              "correct": "Быстрая непроизвольная реакция организма",
+              "task_id": "world_g7_nervous_senses_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Орган чувств, отвечающий за обоняние, — это",
+                "kk": "Иіс сезуге жауапты сезім мүшесі — бұл",
+                "en": "The sense organ responsible for smell is the"
+              },
+              "options": [
+                "Нос",
+                "Язык",
+                "Кожа"
+              ],
+              "correct": "Нос",
+              "task_id": "world_g7_nervous_senses_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Нервные клетки называются",
+                "kk": "Жүйке жасушалары қалай аталады",
+                "en": "Nerve cells are called"
+              },
+              "options": [
+                "Нейронами",
+                "Эритроцитами",
+                "Лейкоцитами"
+              ],
+              "correct": "Нейронами",
+              "task_id": "world_g7_nervous_senses_006"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Кожа — это орган чувств, отвечающий за",
+                "kk": "Тері — бұл неге жауапты сезім мүшесі",
+                "en": "Skin is a sense organ responsible for"
+              },
+              "options": [
+                "Осязание (прикосновение, температуру, боль)",
+                "Только зрение",
+                "Только слух"
+              ],
+              "correct": "Осязание (прикосновение, температуру, боль)",
+              "task_id": "world_g7_nervous_senses_007"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Когда рука касается горячего предмета и мгновенно отдёргивается, это пример",
+                "kk": "Қол ыстық затқа тиіп, лезде тартылып алынса, бұл не мысалы",
+                "en": "When a hand touches something hot and pulls back instantly, this is an example of"
+              },
+              "options": [
+                "Рефлекса",
+                "Долгого размышления",
+                "Забывчивости"
+              ],
+              "correct": "Рефлекса",
+              "task_id": "world_g7_nervous_senses_008"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Язык позволяет нам ощущать",
+                "kk": "Тіл бізге нені сезінуге мүмкіндік береді",
+                "en": "The tongue allows us to sense"
+              },
+              "options": [
+                "Вкус",
+                "Запах",
+                "Свет"
+              ],
+              "correct": "Вкус",
+              "task_id": "world_g7_nervous_senses_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Нервная система помогает организму",
+                "kk": "Жүйке жүйесі ағзаға немен көмектеседі",
+                "en": "The nervous system helps the body"
+              },
+              "options": [
+                "Быстро реагировать на изменения вокруг",
+                "Только переваривать пищу",
+                "Только расти в высоту"
+              ],
+              "correct": "Быстро реагировать на изменения вокруг",
+              "task_id": "world_g7_nervous_senses_010"
+            }
+          ]
+        },
+        {
+          "topic_id": "world_g7_kazakhstan_economy",
+          "title": {
+            "ru": "Хозяйство Казахстана",
+            "kk": "Қазақстан шаруашылығы",
+            "en": "Kazakhstan's Economy"
+          },
+          "quest_icon": "factory",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Основной экспортный ресурс Казахстана — это",
+                "kk": "Қазақстанның негізгі экспорттық ресурсы — бұл",
+                "en": "Kazakhstan's main export resource is"
+              },
+              "options": [
+                "Нефть",
+                "Кофе",
+                "Рыба"
+              ],
+              "correct": "Нефть",
+              "task_id": "world_g7_kazakhstan_economy_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Крупнейший город и финансовый центр Казахстана — это",
+                "kk": "Қазақстанның ең үлкен қаласы әрі қаржы орталығы — бұл",
+                "en": "Kazakhstan's largest city and financial center is"
+              },
+              "options": [
+                "Алматы",
+                "Шымкент",
+                "Караганда"
+              ],
+              "correct": "Алматы",
+              "task_id": "world_g7_kazakhstan_economy_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Казахстан является одним из крупнейших в мире производителей",
+                "kk": "Қазақстан әлемдегі ірі өндірушілердің бірі болып табылады",
+                "en": "Kazakhstan is one of the world's largest producers of"
+              },
+              "options": [
+                "Пшеницы и урана",
+                "Кофе и какао",
+                "Апельсинов"
+              ],
+              "correct": "Пшеницы и урана",
+              "task_id": "world_g7_kazakhstan_economy_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Столица Казахстана Астана расположена в",
+                "kk": "Қазақстанның астанасы Астана орналасқан",
+                "en": "Kazakhstan's capital, Astana, is located in the"
+              },
+              "options": [
+                "Северной части страны",
+                "Южной части страны",
+                "На берегу моря"
+              ],
+              "correct": "Северной части страны",
+              "task_id": "world_g7_kazakhstan_economy_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Национальная валюта Казахстана называется",
+                "kk": "Қазақстанның ұлттық валютасы қалай аталады",
+                "en": "Kazakhstan's national currency is called the"
+              },
+              "options": [
+                "Тенге",
+                "Рубль",
+                "Доллар"
+              ],
+              "correct": "Тенге",
+              "task_id": "world_g7_kazakhstan_economy_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Байконур известен как место, откуда запускают",
+                "kk": "Байқоңыр неден шығарылатын жер ретінде танымал",
+                "en": "Baikonur is known as the place from which they launch"
+              },
+              "options": [
+                "Космические ракеты",
+                "Морские корабли",
+                "Пассажирские поезда"
+              ],
+              "correct": "Космические ракеты",
+              "task_id": "world_g7_kazakhstan_economy_006"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Отрасль экономики, связанная с добычей угля, нефти и металлов, называется",
+                "kk": "Көмір, мұнай және металдарды өндірумен байланысты экономика саласы қалай аталады",
+                "en": "The branch of the economy related to mining coal, oil, and metals is called"
+              },
+              "options": [
+                "Добывающая промышленность",
+                "Сельское хозяйство",
+                "Туризм"
+              ],
+              "correct": "Добывающая промышленность",
+              "task_id": "world_g7_kazakhstan_economy_007"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Казахстан граничит с Россией, Китаем, Кыргызстаном, Узбекистаном и",
+                "kk": "Қазақстан Ресей, Қытай, Қырғызстан, Өзбекстанмен және немен шектеседі",
+                "en": "Kazakhstan borders Russia, China, Kyrgyzstan, Uzbekistan, and"
+              },
+              "options": [
+                "Туркменистаном",
+                "Индией",
+                "Монголией"
+              ],
+              "correct": "Туркменистаном",
+              "task_id": "world_g7_kazakhstan_economy_008"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сельское хозяйство Казахстана в северных областях в основном связано с выращиванием",
+                "kk": "Қазақстанның солтүстік облыстарындағы ауыл шаруашылығы негізінен немен байланысты",
+                "en": "Agriculture in Kazakhstan's northern regions is mainly connected with growing"
+              },
+              "options": [
+                "Зерновых культур",
+                "Тропических фруктов",
+                "Кофе"
+              ],
+              "correct": "Зерновых культур",
+              "task_id": "world_g7_kazakhstan_economy_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Туризм в Казахстане развивается благодаря",
+                "kk": "Қазақстанда туризм неге байланысты дамиды",
+                "en": "Tourism in Kazakhstan develops thanks to"
+              },
+              "options": [
+                "Горам, озёрам и природным заповедникам",
+                "Только пляжам на океане",
+                "Только зимним курортам за рубежом"
+              ],
+              "correct": "Горам, озёрам и природным заповедникам",
+              "task_id": "world_g7_kazakhstan_economy_010"
+            }
+          ]
+        }
+      ]
     }
   }
 }

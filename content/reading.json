@@ -7173,6 +7173,326 @@
               ],
               "correct": "Быстрее достичь цели",
               "task_id": "reading_g4_main_idea_008"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Ребята из нашего класса убрали мусор в парке, чтобы природа оставалась чистой.",
+                "kk": "Біздің сынып балалары табиғат таза болу үшін парктегі қоқысты жинады.",
+                "en": "Kids from our class picked up trash in the park to keep nature clean."
+              },
+              "question": {
+                "ru": "Какая главная мысль текста?",
+                "kk": "Мәтіннің басты ойы қандай?",
+                "en": "What is the main idea of the text?"
+              },
+              "options": [
+                "Нужно беречь природу",
+                "Парк был грязным",
+                "Дети любят гулять"
+              ],
+              "correct": "Нужно беречь природу",
+              "task_id": "reading_g4_main_idea_009"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Настоящий друг всегда поможет в трудную минуту и не бросит тебя в беде.",
+                "kk": "Шынайы дос қиын сәтте әрқашан көмектеседі және сені тастап кетпейді.",
+                "en": "A true friend always helps in hard times and never leaves you in trouble."
+              },
+              "question": {
+                "ru": "О чём этот текст?",
+                "kk": "Бұл мәтін не туралы?",
+                "en": "What is this text about?"
+              },
+              "options": [
+                "О настоящей дружбе",
+                "О школьных уроках",
+                "О путешествиях"
+              ],
+              "correct": "О настоящей дружбе",
+              "task_id": "reading_g4_main_idea_010"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Регулярные упражнения делают тело сильным и помогают лучше учиться в школе.",
+                "kk": "Тұрақты жаттығулар денені мықты етеді және мектепте жақсы оқуға көмектеседі.",
+                "en": "Regular exercise makes the body strong and helps you learn better at school."
+              },
+              "question": {
+                "ru": "Какая главная мысль текста?",
+                "kk": "Мәтіннің басты ойы қандай?",
+                "en": "What is the main idea of the text?"
+              },
+              "options": [
+                "Спорт полезен для здоровья и учёбы",
+                "Спорт занимает много времени",
+                "Все дети любят футбол"
+              ],
+              "correct": "Спорт полезен для здоровья и учёбы",
+              "task_id": "reading_g4_main_idea_011"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Если каждый день откладывать немного денег, можно накопить на что-то важное.",
+                "kk": "Күн сайын аздап ақша жинасаң, маңызды нәрсеге ақша жинауға болады.",
+                "en": "If you save a little money every day, you can save up for something important."
+              },
+              "question": {
+                "ru": "Какая главная мысль текста?",
+                "kk": "Мәтіннің басты ойы қандай?",
+                "en": "What is the main idea of the text?"
+              },
+              "options": [
+                "Важно уметь копить деньги",
+                "Деньги тратить легко",
+                "Все любят покупки"
+              ],
+              "correct": "Важно уметь копить деньги",
+              "task_id": "reading_g4_main_idea_012"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Пчёлы летают от цветка к цветку и переносят пыльцу, помогая растениям давать плоды.",
+                "kk": "Аралар гүлден гүлге ұшып, тозаңды тасиды және өсімдіктерге жеміс беруге көмектеседі.",
+                "en": "Bees fly from flower to flower carrying pollen, helping plants grow fruit."
+              },
+              "question": {
+                "ru": "Какая главная мысль текста?",
+                "kk": "Мәтіннің басты ойы қандай?",
+                "en": "What is the main idea of the text?"
+              },
+              "options": [
+                "Пчёлы важны для растений",
+                "Пчёлы делают мёд",
+                "Пчёлы живут в ульях"
+              ],
+              "correct": "Пчёлы важны для растений",
+              "task_id": "reading_g4_main_idea_013"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Перед сном полезно отложить телефон и почитать книгу — так легче заснуть.",
+                "kk": "Ұйықтар алдында телефонды қойып, кітап оқыған пайдалы — осылай оңай ұйықтайсың.",
+                "en": "Before bed it helps to put your phone away and read a book — it makes falling asleep easier."
+              },
+              "question": {
+                "ru": "Какая главная мысль текста?",
+                "kk": "Мәтіннің басты ойы қандай?",
+                "en": "What is the main idea of the text?"
+              },
+              "options": [
+                "Чтение перед сном помогает уснуть",
+                "Телефон нужно заряжать ночью",
+                "Книги интереснее фильмов"
+              ],
+              "correct": "Чтение перед сном помогает уснуть",
+              "task_id": "reading_g4_main_idea_014"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Умение слушать других так же важно, как умение говорить самому.",
+                "kk": "Басқаларды тыңдай білу өз сөзіңді айту сияқты маңызды.",
+                "en": "Listening to others is just as important as speaking yourself."
+              },
+              "question": {
+                "ru": "Какая главная мысль текста?",
+                "kk": "Мәтіннің басты ойы қандай?",
+                "en": "What is the main idea of the text?"
+              },
+              "options": [
+                "Слушать других тоже важно",
+                "Говорить приятнее, чем слушать",
+                "Взрослые не умеют слушать"
+              ],
+              "correct": "Слушать других тоже важно",
+              "task_id": "reading_g4_main_idea_015"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Даже маленькое доброе дело может сделать чей-то день намного лучше.",
+                "kk": "Кішкентай жақсылық та біреудің күнін әлдеқайда жақсартуы мүмкін.",
+                "en": "Even a small good deed can make someone's day much better."
+              },
+              "question": {
+                "ru": "Какая главная мысль текста?",
+                "kk": "Мәтіннің басты ойы қандай?",
+                "en": "What is the main idea of the text?"
+              },
+              "options": [
+                "Доброта важна, даже небольшая",
+                "Добрые дела трудно делать",
+                "Люди редко бывают добрыми"
+              ],
+              "correct": "Доброта важна, даже небольшая",
+              "task_id": "reading_g4_main_idea_016"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Зимой реки и озёра покрываются льдом, и по нему опасно ходить без взрослых.",
+                "kk": "Қыста өзен мен көлдер мұзбен жабылады, оның үстіне ересектерсіз шығу қауіпті.",
+                "en": "In winter, rivers and lakes freeze over, and it is dangerous to walk on the ice without adults."
+              },
+              "question": {
+                "ru": "Какая главная мысль текста?",
+                "kk": "Мәтіннің басты ойы қандай?",
+                "en": "What is the main idea of the text?"
+              },
+              "options": [
+                "На лёд опасно выходить без взрослых",
+                "Зимой холодно",
+                "Лёд очень красивый"
+              ],
+              "correct": "На лёд опасно выходить без взрослых",
+              "task_id": "reading_g4_main_idea_017"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Растения дают нам кислород, поэтому деревья и парки нужно охранять.",
+                "kk": "Өсімдіктер бізге оттегі береді, сондықтан ағаштар мен парктерді қорғау керек.",
+                "en": "Plants give us oxygen, so trees and parks need to be protected."
+              },
+              "question": {
+                "ru": "Какая главная мысль текста?",
+                "kk": "Мәтіннің басты ойы қандай?",
+                "en": "What is the main idea of the text?"
+              },
+              "options": [
+                "Деревья нужно охранять",
+                "Растения зелёные",
+                "В парках растут цветы"
+              ],
+              "correct": "Деревья нужно охранять",
+              "task_id": "reading_g4_main_idea_018"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Когда команда работает вместе, задача выполняется быстрее и лучше.",
+                "kk": "Команда бірге жұмыс істегенде, тапсырма тезірек әрі жақсырақ орындалады.",
+                "en": "When a team works together, the task gets done faster and better."
+              },
+              "question": {
+                "ru": "Какая главная мысль текста?",
+                "kk": "Мәтіннің басты ойы қандай?",
+                "en": "What is the main idea of the text?"
+              },
+              "options": [
+                "Работа в команде помогает",
+                "Одному работать проще",
+                "Команды часто спорят"
+              ],
+              "correct": "Работа в команде помогает",
+              "task_id": "reading_g4_main_idea_019"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Мытьё рук перед едой помогает не заболеть, потому что смывает микробы.",
+                "kk": "Тамақтанар алдында қол жуу ауырмауға көмектеседі, себебі микробтарды жуып тастайды.",
+                "en": "Washing hands before eating helps prevent illness because it removes germs."
+              },
+              "question": {
+                "ru": "Какая главная мысль текста?",
+                "kk": "Мәтіннің басты ойы қандай?",
+                "en": "What is the main idea of the text?"
+              },
+              "options": [
+                "Мытьё рук защищает от болезней",
+                "Еду нужно готовить дома",
+                "Микробы живут везде"
+              ],
+              "correct": "Мытьё рук защищает от болезней",
+              "task_id": "reading_g4_main_idea_020"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Библиотека — это место, где каждый может бесплатно взять книгу и узнать новое.",
+                "kk": "Кітапхана — әркім тегін кітап алып, жаңа нәрсе біле алатын орын.",
+                "en": "A library is a place where everyone can borrow a book for free and learn something new."
+              },
+              "question": {
+                "ru": "Какая главная мысль текста?",
+                "kk": "Мәтіннің басты ойы қандай?",
+                "en": "What is the main idea of the text?"
+              },
+              "options": [
+                "Библиотека помогает узнавать новое",
+                "В библиотеке тихо",
+                "Книги дорого стоят"
+              ],
+              "correct": "Библиотека помогает узнавать новое",
+              "task_id": "reading_g4_main_idea_021"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Верблюд может долго обходиться без воды, потому что запасает жир в горбах.",
+                "kk": "Түйе суысыз ұзақ уақыт өмір сүре алады, себебі өркешінде май жинайды.",
+                "en": "A camel can go a long time without water because it stores fat in its humps."
+              },
+              "question": {
+                "ru": "Какая главная мысль текста?",
+                "kk": "Мәтіннің басты ойы қандай?",
+                "en": "What is the main idea of the text?"
+              },
+              "options": [
+                "Верблюд приспособлен к жизни без воды",
+                "Верблюды живут в зоопарке",
+                "У верблюдов длинные ноги"
+              ],
+              "correct": "Верблюд приспособлен к жизни без воды",
+              "task_id": "reading_g4_main_idea_022"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Терпение помогает довести трудное дело до конца, даже если сразу не получается.",
+                "kk": "Шыдамдылық бірден шықпаса да, қиын істі аяғына дейін жеткізуге көмектеседі.",
+                "en": "Patience helps you finish a hard task, even when it does not work right away."
+              },
+              "question": {
+                "ru": "Какая главная мысль текста?",
+                "kk": "Мәтіннің басты ойы қандай?",
+                "en": "What is the main idea of the text?"
+              },
+              "options": [
+                "Терпение помогает достигать цели",
+                "Трудные дела делать не нужно",
+                "Всё получается сразу"
+              ],
+              "correct": "Терпение помогает достигать цели",
+              "task_id": "reading_g4_main_idea_023"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Раздельный сбор мусора помогает перерабатывать пластик и бумагу вместо того, чтобы их сжигать.",
+                "kk": "Қоқысты бөліп жинау пластик пен қағазды өртеудің орнына қайта өңдеуге көмектеседі.",
+                "en": "Sorting waste helps recycle plastic and paper instead of burning them."
+              },
+              "question": {
+                "ru": "Какая главная мысль текста?",
+                "kk": "Мәтіннің басты ойы қандай?",
+                "en": "What is the main idea of the text?"
+              },
+              "options": [
+                "Раздельный сбор мусора полезен для природы",
+                "Мусор всегда сжигают",
+                "Пластик легко разлагается"
+              ],
+              "correct": "Раздельный сбор мусора полезен для природы",
+              "task_id": "reading_g4_main_idea_024"
             }
           ]
         },
@@ -7344,6 +7664,326 @@
               ],
               "correct": "Наступила осень",
               "task_id": "reading_g4_cause_effect_008"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Мальчик не полил цветок неделю, и растение завяло.",
+                "kk": "Бала гүлді бір апта суармады, сондықтан өсімдік солды.",
+                "en": "The boy did not water the flower for a week, so the plant wilted."
+              },
+              "question": {
+                "ru": "Почему растение завяло?",
+                "kk": "Өсімдік неге солды?",
+                "en": "Why did the plant wilt?"
+              },
+              "options": [
+                "Его не поливали",
+                "Было слишком жарко",
+                "Его пересадили"
+              ],
+              "correct": "Его не поливали",
+              "task_id": "reading_g4_cause_effect_009"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Ученик не выучил правило, поэтому допустил ошибку в диктанте.",
+                "kk": "Оқушы ережені үйренбегендіктен, диктантта қате жіберді.",
+                "en": "The student did not learn the rule, so he made a mistake in the dictation."
+              },
+              "question": {
+                "ru": "Почему ученик допустил ошибку?",
+                "kk": "Оқушы неге қате жіберді?",
+                "en": "Why did the student make a mistake?"
+              },
+              "options": [
+                "Он не выучил правило",
+                "Диктант был лёгкий",
+                "Учитель диктовал быстро"
+              ],
+              "correct": "Он не выучил правило",
+              "task_id": "reading_g4_cause_effect_010"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Дорога стала скользкой после дождя, и машина медленно затормозила.",
+                "kk": "Жаңбырдан кейін жол тайғақ болды, сондықтан машина баяу тежелді.",
+                "en": "The road became slippery after the rain, so the car braked slowly."
+              },
+              "question": {
+                "ru": "Почему дорога стала скользкой?",
+                "kk": "Жол неге тайғақ болды?",
+                "en": "Why did the road become slippery?"
+              },
+              "options": [
+                "Прошёл дождь",
+                "Была жара",
+                "Дорогу помыли специально"
+              ],
+              "correct": "Прошёл дождь",
+              "task_id": "reading_g4_cause_effect_011"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Девочка легла спать поздно, поэтому утром чувствовала усталость.",
+                "kk": "Қыз кеш ұйықтады, сондықтан таңертең шаршады.",
+                "en": "The girl went to bed late, so she felt tired in the morning."
+              },
+              "question": {
+                "ru": "Почему девочка чувствовала усталость утром?",
+                "kk": "Қыз неге таңертең шаршады?",
+                "en": "Why did the girl feel tired in the morning?"
+              },
+              "options": [
+                "Она поздно легла спать",
+                "Она рано встала",
+                "Ей приснился плохой сон"
+              ],
+              "correct": "Она поздно легла спать",
+              "task_id": "reading_g4_cause_effect_012"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Мама забыла ключи дома, поэтому не смогла войти в квартиру.",
+                "kk": "Анам үйде кілттерін ұмытып кетті, сондықтан пәтерге кіре алмады.",
+                "en": "Mom forgot her keys at home, so she could not get into the apartment."
+              },
+              "question": {
+                "ru": "Почему мама не смогла войти в квартиру?",
+                "kk": "Анам неге пәтерге кіре алмады?",
+                "en": "Why could mom not get into the apartment?"
+              },
+              "options": [
+                "Она забыла ключи",
+                "Дверь была сломана",
+                "Она пришла слишком рано"
+              ],
+              "correct": "Она забыла ключи",
+              "task_id": "reading_g4_cause_effect_013"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Спортсмен тренировался каждый день, поэтому выиграл соревнование.",
+                "kk": "Спортшы күн сайын жаттықты, сондықтан жарыста жеңіп алды.",
+                "en": "The athlete trained every day, so he won the competition."
+              },
+              "question": {
+                "ru": "Почему спортсмен выиграл соревнование?",
+                "kk": "Спортшы неге жарыста жеңді?",
+                "en": "Why did the athlete win the competition?"
+              },
+              "options": [
+                "Он тренировался каждый день",
+                "Соперники не пришли",
+                "Соревнование отменили"
+              ],
+              "correct": "Он тренировался каждый день",
+              "task_id": "reading_g4_cause_effect_014"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Кот увидел мышь и быстро побежал за ней.",
+                "kk": "Мысық тышқанды көріп, оның артынан тез жүгірді.",
+                "en": "The cat saw a mouse and ran after it quickly."
+              },
+              "question": {
+                "ru": "Почему кот побежал?",
+                "kk": "Мысық неге жүгірді?",
+                "en": "Why did the cat run?"
+              },
+              "options": [
+                "Он увидел мышь",
+                "Он услышал музыку",
+                "Он проголодался утром"
+              ],
+              "correct": "Он увидел мышь",
+              "task_id": "reading_g4_cause_effect_015"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Ветер сломал старую ветку, и она упала на землю.",
+                "kk": "Жел ескі бұтақты сындырды, сондықтан ол жерге құлады.",
+                "en": "The wind broke an old branch, and it fell to the ground."
+              },
+              "question": {
+                "ru": "Почему ветка упала на землю?",
+                "kk": "Бұтақ неге жерге құлады?",
+                "en": "Why did the branch fall to the ground?"
+              },
+              "options": [
+                "Её сломал ветер",
+                "Её срезал садовник",
+                "Пошёл снег"
+              ],
+              "correct": "Её сломал ветер",
+              "task_id": "reading_g4_cause_effect_016"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Ребёнок съел много сладкого перед сном и потом плохо спал.",
+                "kk": "Бала ұйықтар алдында тәтті көп жеп, содан кейін нашар ұйықтады.",
+                "en": "The child ate a lot of sweets before bed and then slept badly."
+              },
+              "question": {
+                "ru": "Почему ребёнок плохо спал?",
+                "kk": "Бала неге нашар ұйықтады?",
+                "en": "Why did the child sleep badly?"
+              },
+              "options": [
+                "Он съел много сладкого",
+                "В комнате было холодно",
+                "Он читал допоздна"
+              ],
+              "correct": "Он съел много сладкого",
+              "task_id": "reading_g4_cause_effect_017"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Фермер посадил семена весной, и осенью собрал богатый урожай.",
+                "kk": "Фермер көктемде тұқым себіп, күзде мол өнім жинады.",
+                "en": "The farmer planted seeds in spring and gathered a rich harvest in autumn."
+              },
+              "question": {
+                "ru": "Почему фермер собрал богатый урожай?",
+                "kk": "Фермер неге мол өнім жинады?",
+                "en": "Why did the farmer gather a rich harvest?"
+              },
+              "options": [
+                "Он вовремя посадил семена",
+                "Осенью было холодно",
+                "Он купил новый трактор"
+              ],
+              "correct": "Он вовремя посадил семена",
+              "task_id": "reading_g4_cause_effect_018"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Свет в комнате погас, потому что закончилось электричество во всём доме.",
+                "kk": "Бөлмедегі жарық сөнді, себебі бүкіл үйде электр қуаты жоқ болды.",
+                "en": "The light in the room went out because the whole house lost power."
+              },
+              "question": {
+                "ru": "Почему свет в комнате погас?",
+                "kk": "Бөлмедегі жарық неге сөнді?",
+                "en": "Why did the light go out?"
+              },
+              "options": [
+                "Закончилось электричество",
+                "Кто-то выключил свет специально",
+                "Была ночь"
+              ],
+              "correct": "Закончилось электричество",
+              "task_id": "reading_g4_cause_effect_019"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Собака залаяла, потому что услышала незнакомый шум за дверью.",
+                "kk": "Ит есіктің сыртынан бейтаныс дыбыс естіп, үре бастады.",
+                "en": "The dog barked because it heard an unfamiliar noise behind the door."
+              },
+              "question": {
+                "ru": "Почему собака залаяла?",
+                "kk": "Ит неге үрді?",
+                "en": "Why did the dog bark?"
+              },
+              "options": [
+                "Она услышала незнакомый шум",
+                "Она хотела гулять",
+                "Она была голодна"
+              ],
+              "correct": "Она услышала незнакомый шум",
+              "task_id": "reading_g4_cause_effect_020"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Лёд на озере растаял, потому что наступила тёплая весна.",
+                "kk": "Көлдегі мұз еріді, себебі жылы көктем келді.",
+                "en": "The ice on the lake melted because warm spring arrived."
+              },
+              "question": {
+                "ru": "Почему лёд на озере растаял?",
+                "kk": "Көлдегі мұз неге еріді?",
+                "en": "Why did the ice on the lake melt?"
+              },
+              "options": [
+                "Наступила тёплая весна",
+                "Озеро замёрзло",
+                "Пошёл снег"
+              ],
+              "correct": "Наступила тёплая весна",
+              "task_id": "reading_g4_cause_effect_021"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Мальчик забыл зонт дома, поэтому промок под дождём по дороге в школу.",
+                "kk": "Бала қолшатырды үйде ұмытып кетті, сондықтан мектепке бара жатып жаңбырда су болды.",
+                "en": "The boy forgot his umbrella at home, so he got wet in the rain on the way to school."
+              },
+              "question": {
+                "ru": "Почему мальчик промок?",
+                "kk": "Бала неге су болды?",
+                "en": "Why did the boy get wet?"
+              },
+              "options": [
+                "Он забыл зонт дома",
+                "Дождя не было",
+                "Он остался дома"
+              ],
+              "correct": "Он забыл зонт дома",
+              "task_id": "reading_g4_cause_effect_022"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Ученики шумели на уроке, поэтому учитель попросил их успокоиться.",
+                "kk": "Оқушылар сабақта шулады, сондықтан мұғалім оларды тыныштандыруды сұрады.",
+                "en": "The students were noisy in class, so the teacher asked them to calm down."
+              },
+              "question": {
+                "ru": "Почему учитель попросил учеников успокоиться?",
+                "kk": "Мұғалім неге тыныштандыруды сұрады?",
+                "en": "Why did the teacher ask them to calm down?"
+              },
+              "options": [
+                "Они шумели на уроке",
+                "Урок закончился",
+                "Пришёл директор"
+              ],
+              "correct": "Они шумели на уроке",
+              "task_id": "reading_g4_cause_effect_023"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Батарейка в фонарике села, поэтому свет стал тусклым и погас.",
+                "kk": "Шамшырақтың батареясы бітті, сондықтан жарық солғын болып, сөнді.",
+                "en": "The flashlight's battery ran out, so the light became dim and went out."
+              },
+              "question": {
+                "ru": "Почему свет фонарика погас?",
+                "kk": "Шамшырақтың жарығы неге сөнді?",
+                "en": "Why did the flashlight go out?"
+              },
+              "options": [
+                "Батарейка села",
+                "Фонарик уронили",
+                "Стало светло на улице"
+              ],
+              "correct": "Батарейка села",
+              "task_id": "reading_g4_cause_effect_024"
             }
           ]
         },
@@ -7460,6 +8100,261 @@
               ],
               "correct": "Обе учат чему-то на примере истории",
               "task_id": "reading_g4_compare_texts_007"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "В чём разница между рассказом и стихотворением?",
+                "kk": "Әңгіме мен өлеңнің айырмашылығы неде?",
+                "en": "What is the difference between a story and a poem?"
+              },
+              "options": [
+                "Стихотворение обычно имеет рифму, а рассказ — нет",
+                "Рассказ всегда короче",
+                "Стихотворение пишут только о природе"
+              ],
+              "correct": "Стихотворение обычно имеет рифму, а рассказ — нет",
+              "task_id": "reading_g4_compare_texts_008"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Чем инструкция отличается от сказки?",
+                "kk": "Нұсқаулық ертегіден немен ерекшеленеді?",
+                "en": "How is an instruction different from a fairy tale?"
+              },
+              "options": [
+                "Инструкция объясняет, как что-то сделать",
+                "Сказка всегда написана в стихах",
+                "Инструкция длиннее сказки"
+              ],
+              "correct": "Инструкция объясняет, как что-то сделать",
+              "task_id": "reading_g4_compare_texts_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что общего у газетной статьи и научной книги?",
+                "kk": "Газет мақаласы мен ғылыми кітаптың ортақтығы неде?",
+                "en": "What do a newspaper article and a science book have in common?"
+              },
+              "options": [
+                "Обе рассказывают о реальных фактах",
+                "Обе написаны только для детей",
+                "Обе очень короткие"
+              ],
+              "correct": "Обе рассказывают о реальных фактах",
+              "task_id": "reading_g4_compare_texts_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Чем письмо другу отличается от делового письма?",
+                "kk": "Достыққа жазылған хат іскери хаттан немен ерекшеленеді?",
+                "en": "How is a letter to a friend different from a business letter?"
+              },
+              "options": [
+                "Письмо другу более неформальное и тёплое",
+                "Деловое письмо всегда короче",
+                "Письмо другу пишут только карандашом"
+              ],
+              "correct": "Письмо другу более неформальное и тёплое",
+              "task_id": "reading_g4_compare_texts_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что общего у басни и притчи?",
+                "kk": "Мысал мен нақыл сөздің ортақтығы неде?",
+                "en": "What do a fable and a parable have in common?"
+              },
+              "options": [
+                "Обе учат важному жизненному уроку",
+                "Обе написаны только о животных",
+                "Обе не имеют смысла"
+              ],
+              "correct": "Обе учат важному жизненному уроку",
+              "task_id": "reading_g4_compare_texts_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Чем дневник отличается от энциклопедии?",
+                "kk": "Күнделік энциклопедиядан немен ерекшеленеді?",
+                "en": "How is a diary different from an encyclopedia?"
+              },
+              "options": [
+                "Дневник описывает личные события автора",
+                "Энциклопедия описывает только сказки",
+                "Дневник всегда толще энциклопедии"
+              ],
+              "correct": "Дневник описывает личные события автора",
+              "task_id": "reading_g4_compare_texts_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что общего у рекламы и объявления?",
+                "kk": "Жарнама мен хабарландырудың ортақтығы неде?",
+                "en": "What do an advertisement and an announcement have in common?"
+              },
+              "options": [
+                "Обе стараются привлечь внимание людей",
+                "Обе пишутся только от руки",
+                "Обе всегда очень длинные"
+              ],
+              "correct": "Обе стараются привлечь внимание людей",
+              "task_id": "reading_g4_compare_texts_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Чем миф отличается от рассказа о реальном событии?",
+                "kk": "Миф нақты оқиға туралы әңгімеден немен ерекшеленеді?",
+                "en": "How is a myth different from a story about a real event?"
+              },
+              "options": [
+                "Миф объясняет мир с помощью выдуманных существ",
+                "Рассказ о реальном событии всегда короче",
+                "Миф пишут только в наши дни"
+              ],
+              "correct": "Миф объясняет мир с помощью выдуманных существ",
+              "task_id": "reading_g4_compare_texts_015"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что общего у пословицы и загадки?",
+                "kk": "Мақал мен жұмбақтың ортақтығы неде?",
+                "en": "What do a proverb and a riddle have in common?"
+              },
+              "options": [
+                "Обе — короткие народные тексты с глубоким смыслом",
+                "Обе описывают исторические события",
+                "Обе имеют по десять строк"
+              ],
+              "correct": "Обе — короткие народные тексты с глубоким смыслом",
+              "task_id": "reading_g4_compare_texts_016"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Чем рецепт отличается от рассказа?",
+                "kk": "Рецепт әңгімеден немен ерекшеленеді?",
+                "en": "How is a recipe different from a story?"
+              },
+              "options": [
+                "Рецепт описывает шаги по порядку",
+                "Рассказ всегда пишут о еде",
+                "Рецепт длиннее рассказа"
+              ],
+              "correct": "Рецепт описывает шаги по порядку",
+              "task_id": "reading_g4_compare_texts_017"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что общего у карты и плана здания?",
+                "kk": "Карта мен ғимарат жоспарының ортақтығы неде?",
+                "en": "What do a map and a building plan have in common?"
+              },
+              "options": [
+                "Обе показывают расположение объектов сверху",
+                "Обе рассказывают историю",
+                "Обе написаны словами без рисунков"
+              ],
+              "correct": "Обе показывают расположение объектов сверху",
+              "task_id": "reading_g4_compare_texts_018"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Чем интервью отличается от монолога?",
+                "kk": "Сұхбат монологтан немен ерекшеленеді?",
+                "en": "How is an interview different from a monologue?"
+              },
+              "options": [
+                "В интервью есть вопросы и ответы двух людей",
+                "Монолог всегда длиннее интервью",
+                "Интервью пишут только о спорте"
+              ],
+              "correct": "В интервью есть вопросы и ответы двух людей",
+              "task_id": "reading_g4_compare_texts_019"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что общего у комикса и мультфильма?",
+                "kk": "Комикс пен мультфильмнің ортақтығы неде?",
+                "en": "What do a comic book and a cartoon have in common?"
+              },
+              "options": [
+                "Обе истории рассказываются с помощью картинок",
+                "Обе всегда идут дольше часа",
+                "Обе не имеют героев"
+              ],
+              "correct": "Обе истории рассказываются с помощью картинок",
+              "task_id": "reading_g4_compare_texts_020"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Чем биография отличается от автобиографии?",
+                "kk": "Өмірбаян автоөмірбаяннан немен ерекшеленеді?",
+                "en": "How is a biography different from an autobiography?"
+              },
+              "options": [
+                "Биографию о человеке пишет кто-то другой",
+                "Автобиография всегда короче",
+                "Биография пишется только в стихах"
+              ],
+              "correct": "Биографию о человеке пишет кто-то другой",
+              "task_id": "reading_g4_compare_texts_021"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что общего у прогноза погоды и научной статьи?",
+                "kk": "Ауа райы болжамы мен ғылыми мақаланың ортақтығы неде?",
+                "en": "What do a weather forecast and a science article have in common?"
+              },
+              "options": [
+                "Обе основаны на наблюдениях и данных",
+                "Обе рассказывают выдуманные истории",
+                "Обе пишутся только зимой"
+              ],
+              "correct": "Обе основаны на наблюдениях и данных",
+              "task_id": "reading_g4_compare_texts_022"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Чем сказка отличается от новостной заметки?",
+                "kk": "Ертегі жаңалық хабарынан немен ерекшеленеді?",
+                "en": "How is a fairy tale different from a news report?"
+              },
+              "options": [
+                "Сказка выдумана, а новостная заметка описывает реальность",
+                "Новостная заметка всегда начинается со слов «жили-были»",
+                "Сказку пишут только взрослые"
+              ],
+              "correct": "Сказка выдумана, а новостная заметка описывает реальность",
+              "task_id": "reading_g4_compare_texts_023"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что общего у путеводителя и учебника?",
+                "kk": "Саяхат нұсқаулығы мен оқулықтың ортақтығы неде?",
+                "en": "What do a travel guide and a textbook have in common?"
+              },
+              "options": [
+                "Обе книги дают полезную информацию по теме",
+                "Обе описывают только приключения героев",
+                "Обе написаны стихами"
+              ],
+              "correct": "Обе книги дают полезную информацию по теме",
+              "task_id": "reading_g4_compare_texts_024"
             }
           ]
         },
@@ -7611,6 +8506,306 @@
               ],
               "correct": "Изобретатель показал робота на выставке",
               "task_id": "reading_g4_summarize_007"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "В субботу семья поехала на озеро, ловила рыбу и жарила её на костре.",
+                "kk": "Сенбіде отбасы көлге барып, балық аулап, оны отта қуырды.",
+                "en": "On Saturday the family went to the lake, fished, and grilled the fish over a campfire."
+              },
+              "question": {
+                "ru": "Как коротко пересказать текст?",
+                "kk": "Мәтінді қалай қысқаша айтуға болады?",
+                "en": "How would you briefly summarize the text?"
+              },
+              "options": [
+                "Семья провела день на озере и рыбачила",
+                "Семья смотрела фильм дома",
+                "Семья поехала в город за покупками"
+              ],
+              "correct": "Семья провела день на озере и рыбачила",
+              "task_id": "reading_g4_summarize_008"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Учительница объяснила новую тему, а потом ученики выполнили несколько упражнений в тетради.",
+                "kk": "Мұғалім жаңа тақырыпты түсіндірді, содан кейін оқушылар дәптерде бірнеше жаттығу орындады.",
+                "en": "The teacher explained a new topic, and then the students did several exercises in their notebooks."
+              },
+              "question": {
+                "ru": "Как коротко пересказать текст?",
+                "kk": "Мәтінді қалай қысқаша айтуға болады?",
+                "en": "How would you briefly summarize the text?"
+              },
+              "options": [
+                "Учительница объяснила тему, ученики попрактиковались",
+                "Ученики писали контрольную работу",
+                "Урок отменили из-за болезни учителя"
+              ],
+              "correct": "Учительница объяснила тему, ученики попрактиковались",
+              "task_id": "reading_g4_summarize_009"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Птица свила гнездо на дереве и через две недели в нём появились птенцы.",
+                "kk": "Құс ағашта ұя салып, екі аптадан кейін онда балапандар пайда болды.",
+                "en": "A bird built a nest in a tree, and two weeks later chicks appeared in it."
+              },
+              "question": {
+                "ru": "Как коротко пересказать текст?",
+                "kk": "Мәтінді қалай қысқаша айтуға болады?",
+                "en": "How would you briefly summarize the text?"
+              },
+              "options": [
+                "Птица построила гнездо, и вылупились птенцы",
+                "Птица улетела на юг",
+                "Дерево срубили"
+              ],
+              "correct": "Птица построила гнездо, и вылупились птенцы",
+              "task_id": "reading_g4_summarize_010"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Мальчик долго тренировался кататься на велосипеде и наконец поехал без поддержки.",
+                "kk": "Бала велосипедпен жүруге көп жаттықты да, ақыры демеусіз жүре бастады.",
+                "en": "The boy practiced riding his bike for a long time and finally rode without help."
+              },
+              "question": {
+                "ru": "Как коротко пересказать текст?",
+                "kk": "Мәтінді қалай қысқаша айтуға болады?",
+                "en": "How would you briefly summarize the text?"
+              },
+              "options": [
+                "Мальчик научился кататься на велосипеде",
+                "Мальчик сломал велосипед",
+                "Мальчик купил новый велосипед"
+              ],
+              "correct": "Мальчик научился кататься на велосипеде",
+              "task_id": "reading_g4_summarize_011"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Соседи вместе посадили деревья вдоль улицы, чтобы летом был приятный тенёк.",
+                "kk": "Көршілер жаз бойы жағымды көлеңке болу үшін көше бойына бірге ағаш отырғызды.",
+                "en": "Neighbors planted trees along the street together so there would be nice shade in summer."
+              },
+              "question": {
+                "ru": "Как коротко пересказать текст?",
+                "kk": "Мәтінді қалай қысқаша айтуға болады?",
+                "en": "How would you briefly summarize the text?"
+              },
+              "options": [
+                "Соседи посадили деревья для тени",
+                "Соседи покрасили забор",
+                "Соседи убирали снег зимой"
+              ],
+              "correct": "Соседи посадили деревья для тени",
+              "task_id": "reading_g4_summarize_012"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Девочка потеряла любимую игрушку в парке, но через час её нашёл добрый прохожий и вернул.",
+                "kk": "Қыз паркте сүйікті ойыншығын жоғалтып алды, бірақ бір сағаттан кейін мейірімді жолаушы оны тауып қайтарды.",
+                "en": "The girl lost her favorite toy in the park, but an hour later a kind stranger found it and returned it."
+              },
+              "question": {
+                "ru": "Как коротко пересказать текст?",
+                "kk": "Мәтінді қалай қысқаша айтуға болады?",
+                "en": "How would you briefly summarize the text?"
+              },
+              "options": [
+                "Прохожий нашёл и вернул потерянную игрушку",
+                "Девочка купила новую игрушку",
+                "Игрушка сломалась в парке"
+              ],
+              "correct": "Прохожий нашёл и вернул потерянную игрушку",
+              "task_id": "reading_g4_summarize_013"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Класс собрал деньги и подарил однокласснику подарок на день рождения.",
+                "kk": "Сынып ақша жинап, сыныптасына туған күніне сыйлық сыйлады.",
+                "en": "The class collected money and gave a classmate a birthday present."
+              },
+              "question": {
+                "ru": "Как коротко пересказать текст?",
+                "kk": "Мәтінді қалай қысқаша айтуға болады?",
+                "en": "How would you briefly summarize the text?"
+              },
+              "options": [
+                "Класс сделал подарок однокласснику",
+                "Учитель отменил день рождения",
+                "Класс не пришёл на праздник"
+              ],
+              "correct": "Класс сделал подарок однокласснику",
+              "task_id": "reading_g4_summarize_014"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Повар приготовил новый суп по рецепту бабушки, и всей семье он очень понравился.",
+                "kk": "Аспаз әжесінің рецепті бойынша жаңа сорпа дайындады, және барлық отбасы оны өте ұнатты.",
+                "en": "The cook made a new soup from grandma's recipe, and the whole family loved it."
+              },
+              "question": {
+                "ru": "Как коротко пересказать текст?",
+                "kk": "Мәтінді қалай қысқаша айтуға болады?",
+                "en": "How would you briefly summarize the text?"
+              },
+              "options": [
+                "Новый суп понравился всей семье",
+                "Семья пошла в ресторан",
+                "Повар забыл рецепт"
+              ],
+              "correct": "Новый суп понравился всей семье",
+              "task_id": "reading_g4_summarize_015"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Учёные изучили следы древнего животного и узнали, что оно жило миллионы лет назад.",
+                "kk": "Ғалымдар ежелгі жануардың іздерін зерттеп, оның миллион жыл бұрын өмір сүргенін білді.",
+                "en": "Scientists studied the tracks of an ancient animal and learned it lived millions of years ago."
+              },
+              "question": {
+                "ru": "Как коротко пересказать текст?",
+                "kk": "Мәтінді қалай қысқаша айтуға болады?",
+                "en": "How would you briefly summarize the text?"
+              },
+              "options": [
+                "Учёные узнали о древнем животном по следам",
+                "Учёные нашли живое древнее животное",
+                "Следы оказались подделкой"
+              ],
+              "correct": "Учёные узнали о древнем животном по следам",
+              "task_id": "reading_g4_summarize_016"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Дети посадили овощи весной, ухаживали за грядкой всё лето и собрали урожай осенью.",
+                "kk": "Балалар көктемде көкөніс егіп, бүкіл жаз бойы күтіп, күзде өнім жинады.",
+                "en": "The children planted vegetables in spring, tended the garden all summer, and harvested in autumn."
+              },
+              "question": {
+                "ru": "Как коротко пересказать текст?",
+                "kk": "Мәтінді қалай қысқаша айтуға болады?",
+                "en": "How would you briefly summarize the text?"
+              },
+              "options": [
+                "Дети вырастили овощи от посадки до урожая",
+                "Дети купили овощи в магазине",
+                "Урожай не удался из-за засухи"
+              ],
+              "correct": "Дети вырастили овощи от посадки до урожая",
+              "task_id": "reading_g4_summarize_017"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Мастер чинил старые часы неделю, а потом они снова стали точно показывать время.",
+                "kk": "Шебер ескі сағатты бір апта жөндеп, содан кейін ол қайтадан дәл уақыт көрсете бастады.",
+                "en": "The craftsman repaired the old clock for a week, and then it kept accurate time again."
+              },
+              "question": {
+                "ru": "Как коротко пересказать текст?",
+                "kk": "Мәтінді қалай қысқаша айтуға болады?",
+                "en": "How would you briefly summarize the text?"
+              },
+              "options": [
+                "Мастер отремонтировал старые часы",
+                "Часы выбросили как сломанные",
+                "Мастер купил новые часы"
+              ],
+              "correct": "Мастер отремонтировал старые часы",
+              "task_id": "reading_g4_summarize_018"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "В зоопарке родился маленький слонёнок, и посетители приходили посмотреть на него каждый день.",
+                "kk": "Хайуанаттар бағында кішкентай піл туды, және келушілер оны әр күні көруге келді.",
+                "en": "A baby elephant was born at the zoo, and visitors came to see it every day."
+              },
+              "question": {
+                "ru": "Как коротко пересказать текст?",
+                "kk": "Мәтінді қалай қысқаша айтуға болады?",
+                "en": "How would you briefly summarize the text?"
+              },
+              "options": [
+                "В зоопарке родился слонёнок и стал популярным",
+                "Зоопарк закрыли на ремонт",
+                "Слон убежал из вольера"
+              ],
+              "correct": "В зоопарке родился слонёнок и стал популярным",
+              "task_id": "reading_g4_summarize_019"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Мальчик нашёл на улице раненую птицу, отнёс её домой и ухаживал за ней, пока она не выздоровела.",
+                "kk": "Бала көшеден жаралы құсты тауып, үйіне алып барып, ол сауыққанша күтті.",
+                "en": "The boy found an injured bird on the street, took it home, and cared for it until it recovered."
+              },
+              "question": {
+                "ru": "Как коротко пересказать текст?",
+                "kk": "Мәтінді қалай қысқаша айтуға болады?",
+                "en": "How would you briefly summarize the text?"
+              },
+              "options": [
+                "Мальчик вылечил раненую птицу",
+                "Мальчик оставил птицу на улице",
+                "Птица улетела сразу"
+              ],
+              "correct": "Мальчик вылечил раненую птицу",
+              "task_id": "reading_g4_summarize_020"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Художник рисовал картину целый месяц, и на выставке её выбрали лучшей работой.",
+                "kk": "Суретші картинаны бір ай бойы салды, және көрмеде оны үздік жұмыс деп таңдады.",
+                "en": "The artist painted a picture for a whole month, and it was chosen as the best work at the exhibition."
+              },
+              "question": {
+                "ru": "Как коротко пересказать текст?",
+                "kk": "Мәтінді қалай қысқаша айтуға болады?",
+                "en": "How would you briefly summarize the text?"
+              },
+              "options": [
+                "Картина художника стала лучшей на выставке",
+                "Художник не успел закончить картину",
+                "Картину украли перед выставкой"
+              ],
+              "correct": "Картина художника стала лучшей на выставке",
+              "task_id": "reading_g4_summarize_021"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Пожарные быстро приехали на вызов и потушили огонь до того, как он распространился.",
+                "kk": "Өрт сөндірушілер шақыруға тез жетіп, өрт таралмай тұрып оны сөндірді.",
+                "en": "Firefighters arrived quickly and put out the fire before it could spread."
+              },
+              "question": {
+                "ru": "Как коротко пересказать текст?",
+                "kk": "Мәтінді қалай қысқаша айтуға болады?",
+                "en": "How would you briefly summarize the text?"
+              },
+              "options": [
+                "Пожарные быстро потушили огонь",
+                "Пожар уничтожил весь дом",
+                "Пожарные не приехали вовремя"
+              ],
+              "correct": "Пожарные быстро потушили огонь",
+              "task_id": "reading_g4_summarize_022"
             }
           ]
         }
@@ -7934,6 +9129,258 @@
               ],
               "correct": "Эпитет (яркое определение)",
               "task_id": "reading_g5_literary_devices_022"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «мудрый, как сова»?",
+                "kk": "«үкідей дана» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'wise as an owl'?"
+              },
+              "options": [
+                "Сравнение",
+                "Эпитет (яркое определение)"
+              ],
+              "correct": "Сравнение",
+              "task_id": "reading_g5_literary_devices_023"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «робкий свет»?",
+                "kk": "«именшек жарық» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'timid light'?"
+              },
+              "options": [
+                "Эпитет (яркое определение)",
+                "Сравнение"
+              ],
+              "correct": "Эпитет (яркое определение)",
+              "task_id": "reading_g5_literary_devices_024"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «шустрый, как белка»?",
+                "kk": "«тиіндей сылаң» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'quick as a squirrel'?"
+              },
+              "options": [
+                "Сравнение",
+                "Эпитет (яркое определение)"
+              ],
+              "correct": "Сравнение",
+              "task_id": "reading_g5_literary_devices_025"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «хрустальная тишина»?",
+                "kk": "«хрусталь тыныштық» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'crystal silence'?"
+              },
+              "options": [
+                "Эпитет (яркое определение)",
+                "Сравнение"
+              ],
+              "correct": "Эпитет (яркое определение)",
+              "task_id": "reading_g5_literary_devices_026"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «медленный, как черепаха»?",
+                "kk": "«тасбақадай баяу» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'slow as a turtle'?"
+              },
+              "options": [
+                "Сравнение",
+                "Эпитет (яркое определение)"
+              ],
+              "correct": "Сравнение",
+              "task_id": "reading_g5_literary_devices_027"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «бархатный голос»?",
+                "kk": "«барқыт дауыс» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'velvety voice'?"
+              },
+              "options": [
+                "Эпитет (яркое определение)",
+                "Сравнение"
+              ],
+              "correct": "Эпитет (яркое определение)",
+              "task_id": "reading_g5_literary_devices_028"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «голодный, как волк»?",
+                "kk": "«қасқырдай аш» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'hungry as a wolf'?"
+              },
+              "options": [
+                "Сравнение",
+                "Эпитет (яркое определение)"
+              ],
+              "correct": "Сравнение",
+              "task_id": "reading_g5_literary_devices_029"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «изумрудная трава»?",
+                "kk": "«изумруд шөп» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'emerald grass'?"
+              },
+              "options": [
+                "Эпитет (яркое определение)",
+                "Сравнение"
+              ],
+              "correct": "Эпитет (яркое определение)",
+              "task_id": "reading_g5_literary_devices_030"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «верный, как пёс»?",
+                "kk": "«иттей адал» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'loyal as a dog'?"
+              },
+              "options": [
+                "Сравнение",
+                "Эпитет (яркое определение)"
+              ],
+              "correct": "Сравнение",
+              "task_id": "reading_g5_literary_devices_031"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «жемчужная роса»?",
+                "kk": "«інжу шық» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'pearly dew'?"
+              },
+              "options": [
+                "Эпитет (яркое определение)",
+                "Сравнение"
+              ],
+              "correct": "Эпитет (яркое определение)",
+              "task_id": "reading_g5_literary_devices_032"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «колючий, как ёж»?",
+                "kk": "«кірпідей тікенді» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'prickly as a hedgehog'?"
+              },
+              "options": [
+                "Сравнение",
+                "Эпитет (яркое определение)"
+              ],
+              "correct": "Сравнение",
+              "task_id": "reading_g5_literary_devices_033"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «огненный закат»?",
+                "kk": "«от батыс» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'fiery sunset'?"
+              },
+              "options": [
+                "Эпитет (яркое определение)",
+                "Сравнение"
+              ],
+              "correct": "Эпитет (яркое определение)",
+              "task_id": "reading_g5_literary_devices_034"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «свободный, как птица»?",
+                "kk": "«құстай еркін» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'free as a bird'?"
+              },
+              "options": [
+                "Сравнение",
+                "Эпитет (яркое определение)"
+              ],
+              "correct": "Сравнение",
+              "task_id": "reading_g5_literary_devices_035"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «бриллиантовые звёзды»?",
+                "kk": "«бриллиант жұлдыздар» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'diamond stars'?"
+              },
+              "options": [
+                "Эпитет (яркое определение)",
+                "Сравнение"
+              ],
+              "correct": "Эпитет (яркое определение)",
+              "task_id": "reading_g5_literary_devices_036"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «трудолюбивый, как пчела»?",
+                "kk": "«аридей еңбекқор» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'hardworking as a bee'?"
+              },
+              "options": [
+                "Сравнение",
+                "Эпитет (яркое определение)"
+              ],
+              "correct": "Сравнение",
+              "task_id": "reading_g5_literary_devices_037"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «шёлковые волосы»?",
+                "kk": "«жібек шаш» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'silky hair'?"
+              },
+              "options": [
+                "Эпитет (яркое определение)",
+                "Сравнение"
+              ],
+              "correct": "Эпитет (яркое определение)",
+              "task_id": "reading_g5_literary_devices_038"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «осторожный, как кошка»?",
+                "kk": "«мысықтай сақ» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'cautious as a cat'?"
+              },
+              "options": [
+                "Сравнение",
+                "Эпитет (яркое определение)"
+              ],
+              "correct": "Сравнение",
+              "task_id": "reading_g5_literary_devices_039"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «стальной характер»?",
+                "kk": "«болат мінез» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'steely character'?"
+              },
+              "options": [
+                "Эпитет (яркое определение)",
+                "Сравнение"
+              ],
+              "correct": "Эпитет (яркое определение)",
+              "task_id": "reading_g5_literary_devices_040"
             }
           ]
         },
@@ -8085,6 +9532,346 @@
               ],
               "correct": "Изменение климата Земли",
               "task_id": "reading_g5_theme_plan_007"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Каждое утро дворник подметал улицу и поливал цветы у дома, чтобы соседям было приятно выходить во двор.",
+                "kk": "Күн сайын таңертең сыпырушы көшені сыпырып, үй жанындағы гүлдерді суарды, көршілер аулаға шыққанда жағымды болу үшін.",
+                "en": "Every morning the caretaker swept the street and watered the flowers by the house, so it was pleasant for neighbors to step outside."
+              },
+              "question": {
+                "ru": "Какая тема этого текста?",
+                "kk": "Бұл мәтіннің тақырыбы қандай?",
+                "en": "What is the theme of this text?"
+              },
+              "options": [
+                "Забота дворника о дворе",
+                "Строительство нового дома",
+                "Погода зимой"
+              ],
+              "correct": "Забота дворника о дворе",
+              "task_id": "reading_g5_theme_plan_008"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Космонавты провели полгода на станции, проводя эксперименты и наблюдая за Землёй из космоса.",
+                "kk": "Ғарышкерлер станцияда жарты жыл болып, тәжірибелер жүргізіп, Жерді ғарыштан бақылады.",
+                "en": "The astronauts spent six months on the station, running experiments and observing Earth from space."
+              },
+              "question": {
+                "ru": "Какая тема этого текста?",
+                "kk": "Бұл мәтіннің тақырыбы қандай?",
+                "en": "What is the theme of this text?"
+              },
+              "options": [
+                "Работа космонавтов на орбите",
+                "Полёт на самолёте",
+                "Изучение океана"
+              ],
+              "correct": "Работа космонавтов на орбите",
+              "task_id": "reading_g5_theme_plan_009"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Волки живут стаями и вместе охотятся, разделяя добычу между всеми членами группы.",
+                "kk": "Қасқырлар үйірмен өмір сүреді және бірге аң аулайды, олжаны топтың барлық мүшелеріне бөледі.",
+                "en": "Wolves live in packs and hunt together, sharing the prey among all members of the group."
+              },
+              "question": {
+                "ru": "Какая тема этого текста?",
+                "kk": "Бұл мәтіннің тақырыбы қандай?",
+                "en": "What is the theme of this text?"
+              },
+              "options": [
+                "Жизнь волков в стае",
+                "Разведение домашних собак",
+                "Миграция птиц"
+              ],
+              "correct": "Жизнь волков в стае",
+              "task_id": "reading_g5_theme_plan_010"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Художница смешала синюю и жёлтую краски и получила яркий зелёный цвет для своей картины.",
+                "kk": "Суретші көк пен сары бояуды араластырып, картинасы үшін жарқын жасыл түс алды.",
+                "en": "The artist mixed blue and yellow paint and got a bright green color for her painting."
+              },
+              "question": {
+                "ru": "Какая тема этого текста?",
+                "kk": "Бұл мәтіннің тақырыбы қандай?",
+                "en": "What is the theme of this text?"
+              },
+              "options": [
+                "Смешивание цветов в живописи",
+                "История музея",
+                "Продажа картин"
+              ],
+              "correct": "Смешивание цветов в живописи",
+              "task_id": "reading_g5_theme_plan_011"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Река Нил разливалась каждый год и приносила плодородный ил на поля египетских земледельцев.",
+                "kk": "Нил өзені жыл сайын тасып, мысырлық егіншілердің егістіктеріне құнарлы балшық әкелетін.",
+                "en": "The Nile River flooded every year, bringing fertile silt to the fields of Egyptian farmers."
+              },
+              "question": {
+                "ru": "Какая тема этого текста?",
+                "kk": "Бұл мәтіннің тақырыбы қандай?",
+                "en": "What is the theme of this text?"
+              },
+              "options": [
+                "Разливы Нила и земледелие в Египте",
+                "Строительство пирамид",
+                "Торговля специями"
+              ],
+              "correct": "Разливы Нила и земледелие в Египте",
+              "task_id": "reading_g5_theme_plan_012"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Юный музыкант каждый день по два часа занимался на скрипке, готовясь к городскому конкурсу.",
+                "kk": "Жас музыкант қалалық байқауға дайындалып, күн сайын екі сағат скрипкада жаттықты.",
+                "en": "The young musician practiced the violin for two hours every day, preparing for the city competition."
+              },
+              "question": {
+                "ru": "Какая тема этого текста?",
+                "kk": "Бұл мәтіннің тақырыбы қандай?",
+                "en": "What is the theme of this text?"
+              },
+              "options": [
+                "Подготовка музыканта к конкурсу",
+                "Покупка новой скрипки",
+                "История музыкальной школы"
+              ],
+              "correct": "Подготовка музыканта к конкурсу",
+              "task_id": "reading_g5_theme_plan_013"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Учёные исследовали глубины океана на подводном аппарате и обнаружили новый вид рыб.",
+                "kk": "Ғалымдар су асты аппаратымен мұхит тереңдігін зерттеп, жаңа балық түрін тапты.",
+                "en": "Scientists explored the depths of the ocean in a submersible and discovered a new species of fish."
+              },
+              "question": {
+                "ru": "Какая тема этого текста?",
+                "kk": "Бұл мәтіннің тақырыбы қандай?",
+                "en": "What is the theme of this text?"
+              },
+              "options": [
+                "Исследование океана и открытие нового вида",
+                "Строительство кораблей",
+                "Загрязнение воздуха"
+              ],
+              "correct": "Исследование океана и открытие нового вида",
+              "task_id": "reading_g5_theme_plan_014"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "В старом городе сохранились узкие улочки и каменные дома, построенные несколько веков назад.",
+                "kk": "Ескі қалада бірнеше ғасыр бұрын салынған тар көшелер мен тас үйлер сақталған.",
+                "en": "The old town still has narrow streets and stone houses built several centuries ago."
+              },
+              "question": {
+                "ru": "Какая тема этого текста?",
+                "kk": "Бұл мәтіннің тақырыбы қандай?",
+                "en": "What is the theme of this text?"
+              },
+              "options": [
+                "Историческая архитектура старого города",
+                "Современные небоскрёбы",
+                "Транспорт в городе"
+              ],
+              "correct": "Историческая архитектура старого города",
+              "task_id": "reading_g5_theme_plan_015"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Пекарь замешивал тесто с раннего утра, чтобы к открытию магазина хлеб был свежим и тёплым.",
+                "kk": "Наубайшы дүкен ашылғанда нан жаңа әрі жылы болу үшін таңертеңнен қамыр илейтін.",
+                "en": "The baker kneaded dough from early morning so the bread would be fresh and warm when the shop opened."
+              },
+              "question": {
+                "ru": "Какая тема этого текста?",
+                "kk": "Бұл мәтіннің тақырыбы қандай?",
+                "en": "What is the theme of this text?"
+              },
+              "options": [
+                "Работа пекаря по утрам",
+                "Продажа овощей",
+                "Ремонт магазина"
+              ],
+              "correct": "Работа пекаря по утрам",
+              "task_id": "reading_g5_theme_plan_016"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Дельфины общаются между собой с помощью щелчков и свистов, которые люди научились изучать.",
+                "kk": "Дельфиндер бір-бірімен сырт еткен дыбыстар мен ысқырықтар арқылы қарым-қатынас жасайды, оны адамдар зерттеуді үйренді.",
+                "en": "Dolphins communicate with each other using clicks and whistles, which people have learned to study."
+              },
+              "question": {
+                "ru": "Какая тема этого текста?",
+                "kk": "Бұл мәтіннің тақырыбы қандай?",
+                "en": "What is the theme of this text?"
+              },
+              "options": [
+                "Общение дельфинов между собой",
+                "Разведение рыбы в неволе",
+                "Строительство аквариума"
+              ],
+              "correct": "Общение дельфинов между собой",
+              "task_id": "reading_g5_theme_plan_017"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Инженер спроектировал мост так, чтобы он выдерживал сильный ветер и вес тяжёлых грузовиков.",
+                "kk": "Инженер көпірді күшті желге және ауыр жүк көліктерінің салмағына төтеп бере алатындай жобалады.",
+                "en": "The engineer designed the bridge to withstand strong wind and the weight of heavy trucks."
+              },
+              "question": {
+                "ru": "Какая тема этого текста?",
+                "kk": "Бұл мәтіннің тақырыбы қандай?",
+                "en": "What is the theme of this text?"
+              },
+              "options": [
+                "Проектирование прочного моста",
+                "История строительства дорог",
+                "Виды транспорта"
+              ],
+              "correct": "Проектирование прочного моста",
+              "task_id": "reading_g5_theme_plan_018"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Бабушка научила внучку вязать тёплые носки из шерсти, объясняя каждый шаг терпеливо.",
+                "kk": "Әже немересіне жүннен жылы шұлық тоқуды үйретіп, әр қадамды шыдамдылықпен түсіндірді.",
+                "en": "Grandmother taught her granddaughter to knit warm wool socks, patiently explaining every step."
+              },
+              "question": {
+                "ru": "Какая тема этого текста?",
+                "kk": "Бұл мәтіннің тақырыбы қандай?",
+                "en": "What is the theme of this text?"
+              },
+              "options": [
+                "Бабушка учит внучку вязать",
+                "Покупка шерстяных вещей",
+                "Праздник в семье"
+              ],
+              "correct": "Бабушка учит внучку вязать",
+              "task_id": "reading_g5_theme_plan_019"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "После землетрясения жители города вместе восстанавливали разрушенные дома и помогали друг другу.",
+                "kk": "Жер сілкінісінен кейін қала тұрғындары бүлінген үйлерді бірге қалпына келтіріп, бір-біріне көмектесті.",
+                "en": "After the earthquake, the city's residents rebuilt the damaged houses together and helped each other."
+              },
+              "question": {
+                "ru": "Какая тема этого текста?",
+                "kk": "Бұл мәтіннің тақырыбы қандай?",
+                "en": "What is the theme of this text?"
+              },
+              "options": [
+                "Восстановление города после землетрясения",
+                "Строительство нового парка",
+                "Проведение фестиваля"
+              ],
+              "correct": "Восстановление города после землетрясения",
+              "task_id": "reading_g5_theme_plan_020"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Спортивная команда тренировалась всю зиму, готовясь к весеннему турниру по волейболу.",
+                "kk": "Спорт командасы көктемгі волейбол турниріне дайындалып, бүкіл қыс бойы жаттықты.",
+                "en": "The sports team trained all winter, preparing for the spring volleyball tournament."
+              },
+              "question": {
+                "ru": "Какая тема этого текста?",
+                "kk": "Бұл мәтіннің тақырыбы қандай?",
+                "en": "What is the theme of this text?"
+              },
+              "options": [
+                "Подготовка команды к турниру",
+                "Строительство стадиона",
+                "Покупка спортивной формы"
+              ],
+              "correct": "Подготовка команды к турниру",
+              "task_id": "reading_g5_theme_plan_021"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Фотограф несколько часов ждал в лесу, чтобы сделать снимок редкой птицы в полёте.",
+                "kk": "Фотограф сирек кездесетін құстың ұшуын түсіру үшін орманда бірнеше сағат күтті.",
+                "en": "The photographer waited in the forest for several hours to capture a rare bird in flight."
+              },
+              "question": {
+                "ru": "Какая тема этого текста?",
+                "kk": "Бұл мәтіннің тақырыбы қандай?",
+                "en": "What is the theme of this text?"
+              },
+              "options": [
+                "Терпение фотографа при съёмке птицы",
+                "Продажа фотоаппаратов",
+                "Разведение птиц дома"
+              ],
+              "correct": "Терпение фотографа при съёмке птицы",
+              "task_id": "reading_g5_theme_plan_022"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "В деревне все жители собрались на праздник урожая, приготовили угощения и пели народные песни.",
+                "kk": "Ауылда барлық тұрғындар өнім мерекесіне жиналып, дәм дайындап, халық әндерін айтты.",
+                "en": "In the village, all the residents gathered for the harvest festival, prepared treats, and sang folk songs."
+              },
+              "question": {
+                "ru": "Какая тема этого текста?",
+                "kk": "Бұл мәтіннің тақырыбы қандай?",
+                "en": "What is the theme of this text?"
+              },
+              "options": [
+                "Праздник урожая в деревне",
+                "Строительство новой школы",
+                "Зимняя рыбалка"
+              ],
+              "correct": "Праздник урожая в деревне",
+              "task_id": "reading_g5_theme_plan_023"
+            },
+            {
+              "type": "passage_choice",
+              "passage": {
+                "ru": "Мальчик собирал марки со всего мира и вёл специальный альбом для своей коллекции.",
+                "kk": "Бала бүкіл әлемнен маркалар жинап, коллекциясы үшін арнайы альбом жүргізетін.",
+                "en": "The boy collected stamps from around the world and kept a special album for his collection."
+              },
+              "question": {
+                "ru": "Какая тема этого текста?",
+                "kk": "Бұл мәтіннің тақырыбы қандай?",
+                "en": "What is the theme of this text?"
+              },
+              "options": [
+                "Увлечение мальчика коллекционированием марок",
+                "Путешествие за границу",
+                "Работа почты"
+              ],
+              "correct": "Увлечение мальчика коллекционированием марок",
+              "task_id": "reading_g5_theme_plan_024"
             }
           ]
         },
@@ -8171,6 +9958,291 @@
               ],
               "correct": "Кто говорит",
               "task_id": "reading_g5_direct_indirect_speech_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Предложение «Марат крикнул: \"Осторожно!\"» содержит",
+                "kk": "«Марат: \"Абайла!\" — деп айқайлады» деген сөйлем нені қамтиды",
+                "en": "The sentence 'Marat shouted: \"Careful!\"' contains"
+              },
+              "options": [
+                "Прямую речь",
+                "Косвенную речь",
+                "Только вопрос"
+              ],
+              "correct": "Прямую речь",
+              "task_id": "reading_g5_direct_indirect_speech_006"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Предложение «Учитель сказал, что урок начнётся через пять минут» содержит",
+                "kk": "«Мұғалім сабақ бес минуттан кейін басталады деді» деген сөйлем нені қамтиды",
+                "en": "The sentence 'The teacher said the lesson would start in five minutes' contains"
+              },
+              "options": [
+                "Косвенную речь",
+                "Прямую речь",
+                "Диалог"
+              ],
+              "correct": "Косвенную речь",
+              "task_id": "reading_g5_direct_indirect_speech_007"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что стоит перед прямой речью в предложении «Он сказал: \"Я устал\"»?",
+                "kk": "«Ол: \"Мен шаршадым\" деді» деген сөйлемде тікелей сөйлеу алдында не тұрады?",
+                "en": "What comes before direct speech in the sentence 'He said: \"I am tired\"'?"
+              },
+              "options": [
+                "Двоеточие",
+                "Точка с запятой",
+                "Тире без слов автора"
+              ],
+              "correct": "Двоеточие",
+              "task_id": "reading_g5_direct_indirect_speech_008"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Переведите в косвенную речь: «Айдана сказала: \"Я иду домой\"» →",
+                "kk": "Жанама сөйлеуге аударыңыз: «Айдана: \"Мен үйге барамын\" деді» →",
+                "en": "Convert to indirect speech: 'Aidana said: \"I am going home\"' →"
+              },
+              "options": [
+                "Айдана сказала, что идёт домой",
+                "Айдана крикнула домой",
+                "Айдана спросила про дом"
+              ],
+              "correct": "Айдана сказала, что идёт домой",
+              "task_id": "reading_g5_direct_indirect_speech_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "В косвенной речи местоимение «я» обычно меняется на",
+                "kk": "Жанама сөйлеуде «мен» есімдігі әдетте немен ауыстырылады",
+                "en": "In indirect speech, the pronoun 'I' usually changes to"
+              },
+              "options": [
+                "Он/она",
+                "Мы",
+                "Ты"
+              ],
+              "correct": "Он/она",
+              "task_id": "reading_g5_direct_indirect_speech_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Предложение «Диана спросила: \"Который час?\"» является примером",
+                "kk": "«Диана: \"Сағат неше?\" — деп сұрады» деген сөйлем неге мысал болады",
+                "en": "The sentence 'Diana asked: \"What time is it?\"' is an example of"
+              },
+              "options": [
+                "Прямой речи с вопросом",
+                "Косвенной речи",
+                "Повествования"
+              ],
+              "correct": "Прямой речи с вопросом",
+              "task_id": "reading_g5_direct_indirect_speech_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Слова автора могут стоять",
+                "kk": "Автор сөздері қайда тұра алады",
+                "en": "The author's words can be placed"
+              },
+              "options": [
+                "До, после или внутри прямой речи",
+                "Только в начале предложения",
+                "Только после точки"
+              ],
+              "correct": "До, после или внутри прямой речи",
+              "task_id": "reading_g5_direct_indirect_speech_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Переведите в косвенную речь: «Учитель сказал: \"Откройте учебники\"» →",
+                "kk": "Жанама сөйлеуге аударыңыз: «Мұғалім: \"Оқулықтарды ашыңдар\" деді» →",
+                "en": "Convert to indirect speech: 'The teacher said: \"Open your textbooks\"' →"
+              },
+              "options": [
+                "Учитель сказал открыть учебники",
+                "Учитель закрыл учебники",
+                "Учитель спросил про учебники"
+              ],
+              "correct": "Учитель сказал открыть учебники",
+              "task_id": "reading_g5_direct_indirect_speech_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "В диалоге реплики разных людей обычно оформляются",
+                "kk": "Диалогта әртүрлі адамдардың сөздері әдетте қалай безендіріледі",
+                "en": "In a dialogue, lines from different people are usually formatted"
+              },
+              "options": [
+                "Каждая с новой строки и с тире",
+                "В одной строке через запятую",
+                "Без знаков препинания"
+              ],
+              "correct": "Каждая с новой строки и с тире",
+              "task_id": "reading_g5_direct_indirect_speech_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что из этого является примером косвенной речи?",
+                "kk": "Осылардың қайсысы жанама сөйлеуге мысал болады?",
+                "en": "Which of these is an example of indirect speech?"
+              },
+              "options": [
+                "Мама сказала, что ужин готов",
+                "Мама сказала: \"Ужин готов\"",
+                "\"Ужин готов!\" — сказала мама"
+              ],
+              "correct": "Мама сказала, что ужин готов",
+              "task_id": "reading_g5_direct_indirect_speech_015"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "В прямой речи чувства и интонация героя передаются",
+                "kk": "Тікелей сөйлеуде кейіпкердің сезімі мен интонациясы қалай беріледі",
+                "en": "In direct speech, a character's feelings and tone are conveyed"
+              },
+              "options": [
+                "Точнее, чем в косвенной",
+                "Хуже, чем в косвенной",
+                "Точно так же, как в косвенной"
+              ],
+              "correct": "Точнее, чем в косвенной",
+              "task_id": "reading_g5_direct_indirect_speech_016"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Переведите в косвенную речь: «Данияр сказал: \"Мне холодно\"» →",
+                "kk": "Жанама сөйлеуге аударыңыз: «Данияр: \"Маған суық\" деді» →",
+                "en": "Convert to indirect speech: 'Daniyar said: \"I am cold\"' →"
+              },
+              "options": [
+                "Данияр сказал, что ему холодно",
+                "Данияр спросил про холод",
+                "Данияр закричал от холода"
+              ],
+              "correct": "Данияр сказал, что ему холодно",
+              "task_id": "reading_g5_direct_indirect_speech_017"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Если слова автора стоят после прямой речи, перед ними ставится",
+                "kk": "Автор сөздері тікелей сөйлеуден кейін тұрса, олардың алдында не қойылады",
+                "en": "If the author's words come after direct speech, what is placed before them?"
+              },
+              "options": [
+                "Тире",
+                "Двоеточие",
+                "Ничего не ставится"
+              ],
+              "correct": "Тире",
+              "task_id": "reading_g5_direct_indirect_speech_018"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Косвенная речь чаще всего используется, чтобы",
+                "kk": "Жанама сөйлеу көбінесе не үшін қолданылады",
+                "en": "Indirect speech is most often used to"
+              },
+              "options": [
+                "Кратко передать смысл сказанного",
+                "Точно повторить каждое слово",
+                "Задать вопрос собеседнику"
+              ],
+              "correct": "Кратко передать смысл сказанного",
+              "task_id": "reading_g5_direct_indirect_speech_019"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какое предложение записано правильно?",
+                "kk": "Қай сөйлем дұрыс жазылған?",
+                "en": "Which sentence is written correctly?"
+              },
+              "options": [
+                "Отец сказал: \"Пора ужинать\".",
+                "Отец сказал \"Пора ужинать\"",
+                "Отец сказал, Пора ужинать"
+              ],
+              "correct": "Отец сказал: \"Пора ужинать\".",
+              "task_id": "reading_g5_direct_indirect_speech_020"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "В косвенной речи вопросительное предложение обычно превращается в",
+                "kk": "Жанама сөйлеуде сұраулы сөйлем әдетте немен ауысады",
+                "en": "In indirect speech, a question usually turns into"
+              },
+              "options": [
+                "Придаточное предложение с союзным словом",
+                "Восклицательное предложение",
+                "Ещё один вопрос в кавычках"
+              ],
+              "correct": "Придаточное предложение с союзным словом",
+              "task_id": "reading_g5_direct_indirect_speech_021"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Переведите в косвенную речь: «Бабушка спросила: \"Ты поел?\"» →",
+                "kk": "Жанама сөйлеуге аударыңыз: «Әже: \"Тамақтандың ба?\" деп сұрады» →",
+                "en": "Convert to indirect speech: 'Grandma asked: \"Have you eaten?\"' →"
+              },
+              "options": [
+                "Бабушка спросила, поел ли он",
+                "Бабушка сказала, что поела",
+                "Бабушка крикнула про еду"
+              ],
+              "correct": "Бабушка спросила, поел ли он",
+              "task_id": "reading_g5_direct_indirect_speech_022"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что из перечисленного НЕ относится к прямой речи?",
+                "kk": "Мыналардың қайсысы тікелей сөйлеуге ЖАТПАЙДЫ?",
+                "en": "Which of the following does NOT belong to direct speech?"
+              },
+              "options": [
+                "Отсутствие кавычек",
+                "Кавычки вокруг сказанного",
+                "Точное повторение слов говорящего"
+              ],
+              "correct": "Отсутствие кавычек",
+              "task_id": "reading_g5_direct_indirect_speech_023"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Реплики персонажей в пьесе обычно записывают",
+                "kk": "Пьесадағы кейіпкерлердің сөздері әдетте қалай жазылады",
+                "en": "Characters' lines in a play are usually written"
+              },
+              "options": [
+                "Без кавычек, с именем перед репликой",
+                "Всегда в кавычках",
+                "Только косвенной речью"
+              ],
+              "correct": "Без кавычек, с именем перед репликой",
+              "task_id": "reading_g5_direct_indirect_speech_024"
             }
           ]
         }
@@ -8410,6 +10482,230 @@
               ],
               "correct": "Метафора",
               "task_id": "reading_g6_metaphor_personification_016"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «дождь плакал за окном»?",
+                "kk": "«жаңбыр терезенің сыртында жылады» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'the rain wept outside the window'?"
+              },
+              "options": [
+                "Метафора",
+                "Олицетворение"
+              ],
+              "correct": "Олицетворение",
+              "task_id": "reading_g6_metaphor_personification_017"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «океан времени»?",
+                "kk": "«уақыт мұхиты» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'an ocean of time'?"
+              },
+              "options": [
+                "Метафора",
+                "Олицетворение"
+              ],
+              "correct": "Метафора",
+              "task_id": "reading_g6_metaphor_personification_018"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «осень раздевала деревья»?",
+                "kk": "«күз ағаштарды жалаңаштады» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'autumn undressed the trees'?"
+              },
+              "options": [
+                "Метафора",
+                "Олицетворение"
+              ],
+              "correct": "Олицетворение",
+              "task_id": "reading_g6_metaphor_personification_019"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «пламя надежды»?",
+                "kk": "«үміт жалыны» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'a flame of hope'?"
+              },
+              "options": [
+                "Метафора",
+                "Олицетворение"
+              ],
+              "correct": "Метафора",
+              "task_id": "reading_g6_metaphor_personification_020"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «часы бежали быстро»?",
+                "kk": "«сағат тез жүгірді» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'the clock ran fast'?"
+              },
+              "options": [
+                "Метафора",
+                "Олицетворение"
+              ],
+              "correct": "Олицетворение",
+              "task_id": "reading_g6_metaphor_personification_021"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «лабиринт мыслей»?",
+                "kk": "«ойлар лабиринті» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'a labyrinth of thoughts'?"
+              },
+              "options": [
+                "Метафора",
+                "Олицетворение"
+              ],
+              "correct": "Метафора",
+              "task_id": "reading_g6_metaphor_personification_022"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «метель выла всю ночь»?",
+                "kk": "«боран түні бойы ұлыды» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'the blizzard howled all night'?"
+              },
+              "options": [
+                "Метафора",
+                "Олицетворение"
+              ],
+              "correct": "Олицетворение",
+              "task_id": "reading_g6_metaphor_personification_023"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «занавес ночи опустился»?",
+                "kk": "«түн шымылдығы түсті» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'the curtain of night fell'?"
+              },
+              "options": [
+                "Метафора",
+                "Олицетворение"
+              ],
+              "correct": "Метафора",
+              "task_id": "reading_g6_metaphor_personification_024"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «книга звала меня прочесть себя»?",
+                "kk": "«кітап мені оқуға шақырды» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'the book called me to read it'?"
+              },
+              "options": [
+                "Метафора",
+                "Олицетворение"
+              ],
+              "correct": "Олицетворение",
+              "task_id": "reading_g6_metaphor_personification_025"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «поле битвы за оценки»?",
+                "kk": "«баға үшін шайқас алаңы» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'a battlefield for grades'?"
+              },
+              "options": [
+                "Метафора",
+                "Олицетворение"
+              ],
+              "correct": "Метафора",
+              "task_id": "reading_g6_metaphor_personification_026"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «луна следила за путниками»?",
+                "kk": "«ай жолаушыларды бақылады» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'the moon watched the travelers'?"
+              },
+              "options": [
+                "Метафора",
+                "Олицетворение"
+              ],
+              "correct": "Олицетворение",
+              "task_id": "reading_g6_metaphor_personification_027"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «река времени течёт незаметно»?",
+                "kk": "«уақыт өзені байқаусыз ағады» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'the river of time flows unnoticed'?"
+              },
+              "options": [
+                "Метафора",
+                "Олицетворение"
+              ],
+              "correct": "Метафора",
+              "task_id": "reading_g6_metaphor_personification_028"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «старый дом вздыхал по ночам»?",
+                "kk": "«ескі үй түнде күрсінетін» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'the old house sighed at night'?"
+              },
+              "options": [
+                "Метафора",
+                "Олицетворение"
+              ],
+              "correct": "Олицетворение",
+              "task_id": "reading_g6_metaphor_personification_029"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «буря аплодисментов»?",
+                "kk": "«қол шапалақтау дауылы» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'a storm of applause'?"
+              },
+              "options": [
+                "Метафора",
+                "Олицетворение"
+              ],
+              "correct": "Метафора",
+              "task_id": "reading_g6_metaphor_personification_030"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «волны шептались с берегом»?",
+                "kk": "«толқындар жағамен сыбырласты» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'the waves whispered to the shore'?"
+              },
+              "options": [
+                "Метафора",
+                "Олицетворение"
+              ],
+              "correct": "Олицетворение",
+              "task_id": "reading_g6_metaphor_personification_031"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что использовано во фразе «пустыня одиночества»?",
+                "kk": "«жалғыздық шөлі» тіркесінде не қолданылған?",
+                "en": "What literary device is used in the phrase 'a desert of loneliness'?"
+              },
+              "options": [
+                "Метафора",
+                "Олицетворение"
+              ],
+              "correct": "Метафора",
+              "task_id": "reading_g6_metaphor_personification_032"
             }
           ]
         },
@@ -8526,6 +10822,186 @@
               ],
               "correct": "Детектив",
               "task_id": "reading_g6_literary_genres_007"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Короткое стихотворение из трёх строк, часто о природе, родом из Японии, называется",
+                "kk": "Жапониядан шыққан, көбіне табиғат туралы үш жолдан тұратын қысқа өлең қалай аталады",
+                "en": "A short three-line poem, often about nature, originating from Japan, is called"
+              },
+              "options": [
+                "Хайку",
+                "Роман",
+                "Пьеса"
+              ],
+              "correct": "Хайку",
+              "task_id": "reading_g6_literary_genres_008"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Произведение, описывающее приключения героев в вымышленном мире с магией, относится к жанру",
+                "kk": "Кейіпкерлердің сиқыры бар ойдан шығарылған әлемдегі шытырман оқиғаларын сипаттайтын шығарма қай жанрға жатады",
+                "en": "A work describing characters' adventures in an imaginary world with magic belongs to the genre"
+              },
+              "options": [
+                "Фэнтези",
+                "Мемуары",
+                "Очерк"
+              ],
+              "correct": "Фэнтези",
+              "task_id": "reading_g6_literary_genres_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Произведение, рассказывающее реальную историю жизни автора от первого лица, называется",
+                "kk": "Автордың нақты өмір тарихын бірінші жақтан баяндайтын шығарма қалай аталады",
+                "en": "A work telling the real story of the author's life in the first person is called"
+              },
+              "options": [
+                "Автобиография",
+                "Басня",
+                "Комикс"
+              ],
+              "correct": "Автобиография",
+              "task_id": "reading_g6_literary_genres_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Произведение, действие которого происходит в далёком будущем среди роботов и космических кораблей, — это",
+                "kk": "Оқиғасы алыс болашақта роботтар мен ғарыш кемелерінің арасында өтетін шығарма — бұл",
+                "en": "A work set in the distant future among robots and spaceships is"
+              },
+              "options": [
+                "Научная фантастика",
+                "Историческая проза",
+                "Лирика"
+              ],
+              "correct": "Научная фантастика",
+              "task_id": "reading_g6_literary_genres_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Короткая заметка в газете, объективно рассказывающая о недавнем событии, называется",
+                "kk": "Газеттегі жақында болған оқиға туралы объективті түрде баяндайтын қысқа хабар қалай аталады",
+                "en": "A short newspaper piece that objectively reports a recent event is called"
+              },
+              "options": [
+                "Новостная статья",
+                "Ода",
+                "Легенда"
+              ],
+              "correct": "Новостная статья",
+              "task_id": "reading_g6_literary_genres_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Устное народное предание о происхождении мира или героях прошлого называется",
+                "kk": "Әлемнің шығуы немесе өткен кездегі батырлар туралы ауызша халықтық аңыз қалай аталады",
+                "en": "An oral folk tale about the origin of the world or heroes of the past is called"
+              },
+              "options": [
+                "Мифом",
+                "Отчётом",
+                "Инструкцией"
+              ],
+              "correct": "Мифом",
+              "task_id": "reading_g6_literary_genres_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Произведение о жизни известного человека, написанное другим автором на основе фактов, — это",
+                "kk": "Белгілі адамның өмірі туралы басқа автор фактілер негізінде жазған шығарма — бұл",
+                "en": "A work about the life of a famous person, written by another author based on facts, is"
+              },
+              "options": [
+                "Биография",
+                "Комедия",
+                "Загадка"
+              ],
+              "correct": "Биография",
+              "task_id": "reading_g6_literary_genres_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Пьеса, вызывающая смех у зрителей с помощью весёлых ситуаций, относится к жанру",
+                "kk": "Көрермендерді күлкілі жағдайлармен күлдіретін пьеса қай жанрға жатады",
+                "en": "A play that makes the audience laugh through funny situations belongs to the genre"
+              },
+              "options": [
+                "Комедия",
+                "Трагедия",
+                "Элегия"
+              ],
+              "correct": "Комедия",
+              "task_id": "reading_g6_literary_genres_015"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Произведение с печальным концом, где герой сталкивается с неразрешимым конфликтом, — это",
+                "kk": "Кейіпкер шешілмейтін қайшылыққа тап болатын, соңы қайғылы шығарма — бұл",
+                "en": "A work with a sad ending where the hero faces an unresolvable conflict is"
+              },
+              "options": [
+                "Трагедия",
+                "Комедия",
+                "Пародия"
+              ],
+              "correct": "Трагедия",
+              "task_id": "reading_g6_literary_genres_016"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Короткое, обычно шутливое подражание известному произведению называется",
+                "kk": "Белгілі шығармаға еліктеп жазылған қысқа, әдетте әзілді туынды қалай аталады",
+                "en": "A short, usually humorous imitation of a well-known work is called"
+              },
+              "options": [
+                "Пародией",
+                "Эпосом",
+                "Одой"
+              ],
+              "correct": "Пародией",
+              "task_id": "reading_g6_literary_genres_017"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Длинное поэтическое произведение о подвигах героев, часто связанное с историей народа, — это",
+                "kk": "Батырлардың ерліктері туралы, көбіне халық тарихымен байланысты ұзақ поэтикалық шығарма — бұл",
+                "en": "A long poetic work about the deeds of heroes, often tied to a nation's history, is"
+              },
+              "options": [
+                "Эпос",
+                "Частушка",
+                "Реклама"
+              ],
+              "correct": "Эпос",
+              "task_id": "reading_g6_literary_genres_018"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Текст, объясняющий, как устроено что-то (например, компьютер), с фактами и терминами, — это",
+                "kk": "Бір нәрсенің (мысалы, компьютердің) құрылысын фактілер мен терминдермен түсіндіретін мәтін — бұл",
+                "en": "A text that explains how something works (like a computer) using facts and terms is"
+              },
+              "options": [
+                "Научно-популярная статья",
+                "Сказка",
+                "Стихотворение"
+              ],
+              "correct": "Научно-популярная статья",
+              "task_id": "reading_g6_literary_genres_019"
             }
           ]
         }
@@ -8661,6 +11137,156 @@
               ],
               "correct": "Мнение",
               "task_id": "reading_g7_fact_opinion_008"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "«В году 12 месяцев» — это",
+                "kk": "«Жылда 12 ай бар» — бұл",
+                "en": "'There are 12 months in a year' is"
+              },
+              "options": [
+                "Факт (можно проверить)",
+                "Мнение",
+                "Шутка"
+              ],
+              "correct": "Факт (можно проверить)",
+              "task_id": "reading_g7_fact_opinion_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "«Этот фильм скучный» — это",
+                "kk": "«Бұл фильм жалықтырады» — бұл",
+                "en": "'This movie is boring' is"
+              },
+              "options": [
+                "Мнение",
+                "Факт",
+                "Закон"
+              ],
+              "correct": "Мнение",
+              "task_id": "reading_g7_fact_opinion_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "«Астана — столица Казахстана» — это",
+                "kk": "«Астана — Қазақстанның астанасы» — бұл",
+                "en": "'Astana is the capital of Kazakhstan' is"
+              },
+              "options": [
+                "Факт (проверяемая информация)",
+                "Мнение",
+                "Предположение"
+              ],
+              "correct": "Факт (проверяемая информация)",
+              "task_id": "reading_g7_fact_opinion_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "«Эта музыка звучит прекрасно» — это",
+                "kk": "«Бұл музыка керемет естіледі» — бұл",
+                "en": "'This music sounds beautiful' is"
+              },
+              "options": [
+                "Мнение (зависит от вкуса)",
+                "Факт",
+                "Правило"
+              ],
+              "correct": "Мнение (зависит от вкуса)",
+              "task_id": "reading_g7_fact_opinion_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "«Вода состоит из водорода и кислорода» — это",
+                "kk": "«Су сутегі мен оттегіден тұрады» — бұл",
+                "en": "'Water is made of hydrogen and oxygen' is"
+              },
+              "options": [
+                "Факт (научно доказано)",
+                "Мнение",
+                "Слух"
+              ],
+              "correct": "Факт (научно доказано)",
+              "task_id": "reading_g7_fact_opinion_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Найти мнение в тексте помогают слова",
+                "kk": "Мәтінде пікірді табуға көмектесетін сөздер",
+                "en": "Words that help you spot an opinion in a text are"
+              },
+              "options": [
+                "«Я считаю», «кажется», «лучше всего»",
+                "«В 2020 году», «согласно данным»",
+                "«Всегда», «никогда», числа"
+              ],
+              "correct": "«Я считаю», «кажется», «лучше всего»",
+              "task_id": "reading_g7_fact_opinion_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "«Собаки — самые лучшие домашние животные» — это",
+                "kk": "«Иттер — ең жақсы үй жануарлары» — бұл",
+                "en": "'Dogs are the best pets' is"
+              },
+              "options": [
+                "Мнение",
+                "Факт",
+                "Закон природы"
+              ],
+              "correct": "Мнение",
+              "task_id": "reading_g7_fact_opinion_015"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Автор новостной статьи должен в первую очередь опираться на",
+                "kk": "Жаңалық мақаласының авторы ең алдымен неге сүйенуі керек",
+                "en": "A news article's author should primarily rely on"
+              },
+              "options": [
+                "Проверенные факты",
+                "Личные вкусы",
+                "Слухи"
+              ],
+              "correct": "Проверенные факты",
+              "task_id": "reading_g7_fact_opinion_016"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "«Эверест — самая высокая гора на Земле» — это",
+                "kk": "«Эверест — Жердегі ең биік тау» — бұл",
+                "en": "'Everest is the highest mountain on Earth' is"
+              },
+              "options": [
+                "Факт (проверяется измерениями)",
+                "Мнение",
+                "Шутка"
+              ],
+              "correct": "Факт (проверяется измерениями)",
+              "task_id": "reading_g7_fact_opinion_017"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Смешение фактов и мнений в тексте без разделения может",
+                "kk": "Мәтінде фактілер мен пікірлерді бөлместен араластыру",
+                "en": "Mixing facts and opinions in a text without distinguishing them can"
+              },
+              "options": [
+                "Ввести читателя в заблуждение",
+                "Сделать текст более точным",
+                "Улучшить понимание фактов"
+              ],
+              "correct": "Ввести читателя в заблуждение",
+              "task_id": "reading_g7_fact_opinion_018"
             }
           ]
         },
@@ -8777,6 +11403,156 @@
               ],
               "correct": "Довод против основного тезиса",
               "task_id": "reading_g7_argumentation_007"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Вводная часть текста, где автор представляет тему и тезис, называется",
+                "kk": "Автор тақырып пен тезисті таныстыратын мәтіннің кіріспе бөлігі қалай аталады",
+                "en": "The opening part of a text where the author introduces the topic and thesis is called"
+              },
+              "options": [
+                "Введением",
+                "Заключением",
+                "Аргументом"
+              ],
+              "correct": "Введением",
+              "task_id": "reading_g7_argumentation_008"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Статистика и научные исследования в тексте служат в качестве",
+                "kk": "Мәтіндегі статистика мен ғылыми зерттеулер не үшін қызмет етеді",
+                "en": "Statistics and scientific studies in a text serve as"
+              },
+              "options": [
+                "Доказательств для аргумента",
+                "Личного мнения автора",
+                "Развлекательного элемента"
+              ],
+              "correct": "Доказательств для аргумента",
+              "task_id": "reading_g7_argumentation_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Автор, который признаёт и опровергает контраргумент, делает свой текст",
+                "kk": "Қарсы дәлелді мойындап, оны жоққа шығаратын автор өз мәтінін қандай етеді",
+                "en": "An author who acknowledges and refutes a counterargument makes their text"
+              },
+              "options": [
+                "Более убедительным",
+                "Более коротким",
+                "Менее понятным"
+              ],
+              "correct": "Более убедительным",
+              "task_id": "reading_g7_argumentation_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Мнение эксперта в определённой области считается",
+                "kk": "Белгілі бір саладағы сарапшының пікірі қандай болып саналады",
+                "en": "An expert's opinion in a specific field is considered"
+              },
+              "options": [
+                "Сильным аргументом",
+                "Слабым аргументом",
+                "Не имеющим значения"
+              ],
+              "correct": "Сильным аргументом",
+              "task_id": "reading_g7_argumentation_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Слово «следовательно» в аргументативном тексте обычно вводит",
+                "kk": "Дәлелдеу мәтінінде «сондықтан» сөзі әдетте не енгізеді",
+                "en": "The word 'therefore' in an argumentative text usually introduces"
+              },
+              "options": [
+                "Вывод из предыдущих аргументов",
+                "Новый вопрос",
+                "Извинение автора"
+              ],
+              "correct": "Вывод из предыдущих аргументов",
+              "task_id": "reading_g7_argumentation_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Аргумент, основанный только на эмоциях без фактов, обычно называют",
+                "kk": "Тек эмоцияға негізделген, фактісіз дәлелді әдетте не деп атайды",
+                "en": "An argument based only on emotion, without facts, is usually called"
+              },
+              "options": [
+                "Манипулятивным",
+                "Самым точным",
+                "Единственно верным"
+              ],
+              "correct": "Манипулятивным",
+              "task_id": "reading_g7_argumentation_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Чтобы убедить читателя, автор часто использует",
+                "kk": "Оқырманды сендіру үшін автор көбінесе нені қолданады",
+                "en": "To persuade the reader, an author often uses"
+              },
+              "options": [
+                "Логику, факты и примеры",
+                "Только личные обиды",
+                "Случайные слова"
+              ],
+              "correct": "Логику, факты и примеры",
+              "task_id": "reading_g7_argumentation_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Если автор ссылается на надёжный источник, это делает аргумент",
+                "kk": "Автор сенімді дереккөзге сілтеме жасаса, бұл дәлелді қандай етеді",
+                "en": "If an author cites a reliable source, it makes the argument"
+              },
+              "options": [
+                "Более достоверным",
+                "Более коротким",
+                "Более эмоциональным"
+              ],
+              "correct": "Более достоверным",
+              "task_id": "reading_g7_argumentation_015"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Структура аргументативного текста обычно включает",
+                "kk": "Дәлелдеу мәтінінің құрылымы әдетте нені қамтиды",
+                "en": "The structure of an argumentative text usually includes"
+              },
+              "options": [
+                "Введение, аргументы, заключение",
+                "Только диалоги героев",
+                "Список покупок"
+              ],
+              "correct": "Введение, аргументы, заключение",
+              "task_id": "reading_g7_argumentation_016"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Пример из личного опыта в тексте служит для того, чтобы",
+                "kk": "Мәтіндегі жеке тәжірибеден алынған мысал не үшін қызмет етеді",
+                "en": "An example from personal experience in a text serves to"
+              },
+              "options": [
+                "Проиллюстрировать общую мысль",
+                "Заменить все факты",
+                "Запутать читателя"
+              ],
+              "correct": "Проиллюстрировать общую мысль",
+              "task_id": "reading_g7_argumentation_017"
             }
           ]
         },
@@ -8878,6 +11654,141 @@
               ],
               "correct": "Проинформировать",
               "task_id": "reading_g7_author_purpose_006"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Личный дневник обычно пишется с целью",
+                "kk": "Жеке күнделік әдетте не мақсатпен жазылады",
+                "en": "A personal diary is usually written to"
+              },
+              "options": [
+                "Выразить свои мысли и чувства",
+                "Продать товар",
+                "Дать инструкцию"
+              ],
+              "correct": "Выразить свои мысли и чувства",
+              "task_id": "reading_g7_author_purpose_007"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Статья с заголовком «Пять причин заниматься спортом» написана с целью",
+                "kk": "«Спортпен айналысудың бес себебі» деген тақырыппен жазылған мақала қандай мақсатпен жазылған",
+                "en": "An article titled 'Five Reasons to Exercise' is written to"
+              },
+              "options": [
+                "Убедить читателя заниматься спортом",
+                "Просто развлечь",
+                "Продать спортивную форму"
+              ],
+              "correct": "Убедить читателя заниматься спортом",
+              "task_id": "reading_g7_author_purpose_008"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Стихотворение о красоте осени, скорее всего, написано с целью",
+                "kk": "Күздің әдемілігі туралы өлең, ең алдымен, қандай мақсатпен жазылған",
+                "en": "A poem about the beauty of autumn is most likely written to"
+              },
+              "options": [
+                "Передать чувства и настроение",
+                "Дать точные факты",
+                "Продать товар"
+              ],
+              "correct": "Передать чувства и настроение",
+              "task_id": "reading_g7_author_purpose_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Отчёт о погоде на завтра написан с целью",
+                "kk": "Ертеңгі ауа райы туралы есеп қандай мақсатпен жазылған",
+                "en": "A weather report for tomorrow is written to"
+              },
+              "options": [
+                "Проинформировать читателей",
+                "Развлечь",
+                "Убедить в чём-то"
+              ],
+              "correct": "Проинформировать читателей",
+              "task_id": "reading_g7_author_purpose_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сатирический рассказ, высмеивающий человеческую жадность, написан с целью",
+                "kk": "Адамның ашкөздігін мысқылдайтын сатиралық әңгіме қандай мақсатпен жазылған",
+                "en": "A satirical story mocking human greed is written to"
+              },
+              "options": [
+                "Показать проблему через юмор",
+                "Дать точную инструкцию",
+                "Продать товар"
+              ],
+              "correct": "Показать проблему через юмор",
+              "task_id": "reading_g7_author_purpose_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Учебник по математике написан прежде всего с целью",
+                "kk": "Математика оқулығы ең алдымен қандай мақсатпен жазылған",
+                "en": "A math textbook is written primarily to"
+              },
+              "options": [
+                "Научить решать задачи",
+                "Развлечь читателя",
+                "Убедить в чём-то"
+              ],
+              "correct": "Научить решать задачи",
+              "task_id": "reading_g7_author_purpose_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Речь политика перед выборами обычно написана с целью",
+                "kk": "Саясаткердің сайлау алдындағы сөзі әдетте қандай мақсатпен жазылады",
+                "en": "A politician's pre-election speech is usually written to"
+              },
+              "options": [
+                "Убедить людей голосовать за него",
+                "Дать научные факты",
+                "Просто развлечь"
+              ],
+              "correct": "Убедить людей голосовать за него",
+              "task_id": "reading_g7_author_purpose_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сказка для маленьких детей о дружбе написана прежде всего с целью",
+                "kk": "Кішкентай балаларға арналған достық туралы ертегі ең алдымен қандай мақсатпен жазылған",
+                "en": "A fairy tale for young children about friendship is written primarily to"
+              },
+              "options": [
+                "Научить важному уроку через историю",
+                "Дать точный отчёт о событиях",
+                "Продать книгу"
+              ],
+              "correct": "Научить важному уроку через историю",
+              "task_id": "reading_g7_author_purpose_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Если текст использует много ярких прилагательных и сравнений, скорее всего его цель —",
+                "kk": "Мәтінде жарқын сын есімдер мен салыстырулар көп болса, оның мақсаты, ең алдымен",
+                "en": "If a text uses many vivid adjectives and comparisons, its purpose is most likely"
+              },
+              "options": [
+                "Вызвать эмоции у читателя",
+                "Дать сухие факты",
+                "Просто перечислить события"
+              ],
+              "correct": "Вызвать эмоции у читателя",
+              "task_id": "reading_g7_author_purpose_015"
             }
           ]
         }
