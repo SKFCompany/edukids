@@ -386,7 +386,6 @@ KV = """
             spacing: dp(10)
             size_hint_y: None
             height: self.minimum_height
-        Widget:
         MDLabel:
             id: feedback_label
             text: ""
@@ -398,6 +397,7 @@ KV = """
             text: ""
             pos_hint: {"center_x": 0.5}
             on_release: root.check_answer()
+        Widget:
 
 <ProfileScreen>:
     name: "profile"
