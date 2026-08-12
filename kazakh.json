@@ -2942,6 +2942,276 @@
               ],
               "correct": "воскресенье",
               "task_id": "kazakh_g2_days_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «бүгін»?",
+                "kk": "«бүгін» сөзі нені білдіреді?",
+                "en": "What does the word 'бүгін' mean?"
+              },
+              "options": [
+                "сегодня",
+                "завтра",
+                "вчера"
+              ],
+              "correct": "сегодня",
+              "task_id": "kazakh_g2_days_015"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «сегодня» на казахском?",
+                "kk": "«сегодня» қазақ тілінде қалай болады?",
+                "en": "How do you say 'сегодня' in Kazakh?"
+              },
+              "options": [
+                "бүгін",
+                "ертең",
+                "кеше"
+              ],
+              "correct": "бүгін",
+              "task_id": "kazakh_g2_days_016"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «ертең»?",
+                "kk": "«ертең» сөзі нені білдіреді?",
+                "en": "What does the word 'ертең' mean?"
+              },
+              "options": [
+                "завтра",
+                "сегодня",
+                "вчера"
+              ],
+              "correct": "завтра",
+              "task_id": "kazakh_g2_days_017"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «завтра» на казахском?",
+                "kk": "«завтра» қазақ тілінде қалай болады?",
+                "en": "How do you say 'завтра' in Kazakh?"
+              },
+              "options": [
+                "ертең",
+                "бүгін",
+                "кеше"
+              ],
+              "correct": "ертең",
+              "task_id": "kazakh_g2_days_018"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «кеше»?",
+                "kk": "«кеше» сөзі нені білдіреді?",
+                "en": "What does the word 'кеше' mean?"
+              },
+              "options": [
+                "вчера",
+                "сегодня",
+                "завтра"
+              ],
+              "correct": "вчера",
+              "task_id": "kazakh_g2_days_019"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «вчера» на казахском?",
+                "kk": "«вчера» қазақ тілінде қалай болады?",
+                "en": "How do you say 'вчера' in Kazakh?"
+              },
+              "options": [
+                "кеше",
+                "бүгін",
+                "ертең"
+              ],
+              "correct": "кеше",
+              "task_id": "kazakh_g2_days_020"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «таң»?",
+                "kk": "«таң» сөзі нені білдіреді?",
+                "en": "What does the word 'таң' mean?"
+              },
+              "options": [
+                "утро",
+                "сегодня",
+                "завтра"
+              ],
+              "correct": "утро",
+              "task_id": "kazakh_g2_days_021"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «утро» на казахском?",
+                "kk": "«утро» қазақ тілінде қалай болады?",
+                "en": "How do you say 'утро' in Kazakh?"
+              },
+              "options": [
+                "таң",
+                "бүгін",
+                "ертең"
+              ],
+              "correct": "таң",
+              "task_id": "kazakh_g2_days_022"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «түс»?",
+                "kk": "«түс» сөзі нені білдіреді?",
+                "en": "What does the word 'түс' mean?"
+              },
+              "options": [
+                "день (полдень)",
+                "сегодня",
+                "завтра"
+              ],
+              "correct": "день (полдень)",
+              "task_id": "kazakh_g2_days_023"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «день (полдень)» на казахском?",
+                "kk": "«день (полдень)» қазақ тілінде қалай болады?",
+                "en": "How do you say 'день (полдень)' in Kazakh?"
+              },
+              "options": [
+                "түс",
+                "бүгін",
+                "ертең"
+              ],
+              "correct": "түс",
+              "task_id": "kazakh_g2_days_024"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «кеш»?",
+                "kk": "«кеш» сөзі нені білдіреді?",
+                "en": "What does the word 'кеш' mean?"
+              },
+              "options": [
+                "вечер",
+                "сегодня",
+                "завтра"
+              ],
+              "correct": "вечер",
+              "task_id": "kazakh_g2_days_025"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «вечер» на казахском?",
+                "kk": "«вечер» қазақ тілінде қалай болады?",
+                "en": "How do you say 'вечер' in Kazakh?"
+              },
+              "options": [
+                "кеш",
+                "бүгін",
+                "ертең"
+              ],
+              "correct": "кеш",
+              "task_id": "kazakh_g2_days_026"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «түн»?",
+                "kk": "«түн» сөзі нені білдіреді?",
+                "en": "What does the word 'түн' mean?"
+              },
+              "options": [
+                "ночь",
+                "сегодня",
+                "завтра"
+              ],
+              "correct": "ночь",
+              "task_id": "kazakh_g2_days_027"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «ночь» на казахском?",
+                "kk": "«ночь» қазақ тілінде қалай болады?",
+                "en": "How do you say 'ночь' in Kazakh?"
+              },
+              "options": [
+                "түн",
+                "бүгін",
+                "ертең"
+              ],
+              "correct": "түн",
+              "task_id": "kazakh_g2_days_028"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «апта»?",
+                "kk": "«апта» сөзі нені білдіреді?",
+                "en": "What does the word 'апта' mean?"
+              },
+              "options": [
+                "неделя",
+                "сегодня",
+                "завтра"
+              ],
+              "correct": "неделя",
+              "task_id": "kazakh_g2_days_029"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «неделя» на казахском?",
+                "kk": "«неделя» қазақ тілінде қалай болады?",
+                "en": "How do you say 'неделя' in Kazakh?"
+              },
+              "options": [
+                "апта",
+                "бүгін",
+                "ертең"
+              ],
+              "correct": "апта",
+              "task_id": "kazakh_g2_days_030"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «демалыс күндері»?",
+                "kk": "«демалыс күндері» сөзі нені білдіреді?",
+                "en": "What does the word 'демалыс күндері' mean?"
+              },
+              "options": [
+                "выходные",
+                "сегодня",
+                "завтра"
+              ],
+              "correct": "выходные",
+              "task_id": "kazakh_g2_days_031"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «выходные» на казахском?",
+                "kk": "«выходные» қазақ тілінде қалай болады?",
+                "en": "How do you say 'выходные' in Kazakh?"
+              },
+              "options": [
+                "демалыс күндері",
+                "бүгін",
+                "ертең"
+              ],
+              "correct": "демалыс күндері",
+              "task_id": "kazakh_g2_days_032"
             }
           ]
         }
@@ -6653,6 +6923,186 @@
               ],
               "correct": "асхана",
               "task_id": "kazakh_g5_house_024"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «төбе»?",
+                "kk": "«төбе» сөзі нені білдіреді?",
+                "en": "What does the word 'төбе' mean?"
+              },
+              "options": [
+                "потолок",
+                "стена",
+                "сад"
+              ],
+              "correct": "потолок",
+              "task_id": "kazakh_g5_house_025"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «потолок» на казахском?",
+                "kk": "«потолок» қазақ тілінде қалай болады?",
+                "en": "How do you say 'потолок' in Kazakh?"
+              },
+              "options": [
+                "төбе",
+                "қабырға",
+                "бақша"
+              ],
+              "correct": "төбе",
+              "task_id": "kazakh_g5_house_026"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «қабырға»?",
+                "kk": "«қабырға» сөзі нені білдіреді?",
+                "en": "What does the word 'қабырға' mean?"
+              },
+              "options": [
+                "стена",
+                "потолок",
+                "сад"
+              ],
+              "correct": "стена",
+              "task_id": "kazakh_g5_house_027"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «стена» на казахском?",
+                "kk": "«стена» қазақ тілінде қалай болады?",
+                "en": "How do you say 'стена' in Kazakh?"
+              },
+              "options": [
+                "қабырға",
+                "төбе",
+                "бақша"
+              ],
+              "correct": "қабырға",
+              "task_id": "kazakh_g5_house_028"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «бақша»?",
+                "kk": "«бақша» сөзі нені білдіреді?",
+                "en": "What does the word 'бақша' mean?"
+              },
+              "options": [
+                "сад",
+                "потолок",
+                "стена"
+              ],
+              "correct": "сад",
+              "task_id": "kazakh_g5_house_029"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «сад» на казахском?",
+                "kk": "«сад» қазақ тілінде қалай болады?",
+                "en": "How do you say 'сад' in Kazakh?"
+              },
+              "options": [
+                "бақша",
+                "төбе",
+                "қабырға"
+              ],
+              "correct": "бақша",
+              "task_id": "kazakh_g5_house_030"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «үстел»?",
+                "kk": "«үстел» сөзі нені білдіреді?",
+                "en": "What does the word 'үстел' mean?"
+              },
+              "options": [
+                "стол",
+                "потолок",
+                "стена"
+              ],
+              "correct": "стол",
+              "task_id": "kazakh_g5_house_031"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «стол» на казахском?",
+                "kk": "«стол» қазақ тілінде қалай болады?",
+                "en": "How do you say 'стол' in Kazakh?"
+              },
+              "options": [
+                "үстел",
+                "төбе",
+                "қабырға"
+              ],
+              "correct": "үстел",
+              "task_id": "kazakh_g5_house_032"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «орындық»?",
+                "kk": "«орындық» сөзі нені білдіреді?",
+                "en": "What does the word 'орындық' mean?"
+              },
+              "options": [
+                "стул",
+                "потолок",
+                "стена"
+              ],
+              "correct": "стул",
+              "task_id": "kazakh_g5_house_033"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «стул» на казахском?",
+                "kk": "«стул» қазақ тілінде қалай болады?",
+                "en": "How do you say 'стул' in Kazakh?"
+              },
+              "options": [
+                "орындық",
+                "төбе",
+                "қабырға"
+              ],
+              "correct": "орындық",
+              "task_id": "kazakh_g5_house_034"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «балкон»?",
+                "kk": "«балкон» сөзі нені білдіреді?",
+                "en": "What does the word 'балкон' mean?"
+              },
+              "options": [
+                "балкон",
+                "потолок",
+                "стена"
+              ],
+              "correct": "балкон",
+              "task_id": "kazakh_g5_house_035"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «балкон» на казахском?",
+                "kk": "«балкон» қазақ тілінде қалай болады?",
+                "en": "How do you say 'балкон' in Kazakh?"
+              },
+              "options": [
+                "балкон",
+                "төбе",
+                "қабырға"
+              ],
+              "correct": "балкон",
+              "task_id": "kazakh_g5_house_036"
             }
           ]
         },
@@ -6964,6 +7414,156 @@
               ],
               "correct": "платье",
               "task_id": "kazakh_g5_clothes_020"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «белдемше»?",
+                "kk": "«белдемше» сөзі нені білдіреді?",
+                "en": "What does the word 'белдемше' mean?"
+              },
+              "options": [
+                "юбка",
+                "свитер",
+                "шорты"
+              ],
+              "correct": "юбка",
+              "task_id": "kazakh_g5_clothes_021"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «юбка» на казахском?",
+                "kk": "«юбка» қазақ тілінде қалай болады?",
+                "en": "How do you say 'юбка' in Kazakh?"
+              },
+              "options": [
+                "белдемше",
+                "свитер",
+                "шорт"
+              ],
+              "correct": "белдемше",
+              "task_id": "kazakh_g5_clothes_022"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «свитер»?",
+                "kk": "«свитер» сөзі нені білдіреді?",
+                "en": "What does the word 'свитер' mean?"
+              },
+              "options": [
+                "свитер",
+                "юбка",
+                "шорты"
+              ],
+              "correct": "свитер",
+              "task_id": "kazakh_g5_clothes_023"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «свитер» на казахском?",
+                "kk": "«свитер» қазақ тілінде қалай болады?",
+                "en": "How do you say 'свитер' in Kazakh?"
+              },
+              "options": [
+                "свитер",
+                "белдемше",
+                "шорт"
+              ],
+              "correct": "свитер",
+              "task_id": "kazakh_g5_clothes_024"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «шорт»?",
+                "kk": "«шорт» сөзі нені білдіреді?",
+                "en": "What does the word 'шорт' mean?"
+              },
+              "options": [
+                "шорты",
+                "юбка",
+                "свитер"
+              ],
+              "correct": "шорты",
+              "task_id": "kazakh_g5_clothes_025"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «шорты» на казахском?",
+                "kk": "«шорты» қазақ тілінде қалай болады?",
+                "en": "How do you say 'шорты' in Kazakh?"
+              },
+              "options": [
+                "шорт",
+                "белдемше",
+                "свитер"
+              ],
+              "correct": "шорт",
+              "task_id": "kazakh_g5_clothes_026"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «белбеу»?",
+                "kk": "«белбеу» сөзі нені білдіреді?",
+                "en": "What does the word 'белбеу' mean?"
+              },
+              "options": [
+                "пояс",
+                "юбка",
+                "свитер"
+              ],
+              "correct": "пояс",
+              "task_id": "kazakh_g5_clothes_027"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «пояс» на казахском?",
+                "kk": "«пояс» қазақ тілінде қалай болады?",
+                "en": "How do you say 'пояс' in Kazakh?"
+              },
+              "options": [
+                "белбеу",
+                "белдемше",
+                "свитер"
+              ],
+              "correct": "белбеу",
+              "task_id": "kazakh_g5_clothes_028"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «сөмке»?",
+                "kk": "«сөмке» сөзі нені білдіреді?",
+                "en": "What does the word 'сөмке' mean?"
+              },
+              "options": [
+                "сумка",
+                "юбка",
+                "свитер"
+              ],
+              "correct": "сумка",
+              "task_id": "kazakh_g5_clothes_029"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «сумка» на казахском?",
+                "kk": "«сумка» қазақ тілінде қалай болады?",
+                "en": "How do you say 'сумка' in Kazakh?"
+              },
+              "options": [
+                "сөмке",
+                "белдемше",
+                "свитер"
+              ],
+              "correct": "сөмке",
+              "task_id": "kazakh_g5_clothes_030"
             }
           ]
         },
@@ -7275,6 +7875,186 @@
               ],
               "correct": "гимнастика",
               "task_id": "kazakh_g5_sports_020"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «волейбол»?",
+                "kk": "«волейбол» сөзі нені білдіреді?",
+                "en": "What does the word 'волейбол' mean?"
+              },
+              "options": [
+                "волейбол",
+                "лыжи",
+                "коньки"
+              ],
+              "correct": "волейбол",
+              "task_id": "kazakh_g5_sports_021"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «волейбол» на казахском?",
+                "kk": "«волейбол» қазақ тілінде қалай болады?",
+                "en": "How do you say 'волейбол' in Kazakh?"
+              },
+              "options": [
+                "волейбол",
+                "шаңғы тебу",
+                "коньки тебу"
+              ],
+              "correct": "волейбол",
+              "task_id": "kazakh_g5_sports_022"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «шаңғы тебу»?",
+                "kk": "«шаңғы тебу» сөзі нені білдіреді?",
+                "en": "What does the word 'шаңғы тебу' mean?"
+              },
+              "options": [
+                "лыжи",
+                "волейбол",
+                "коньки"
+              ],
+              "correct": "лыжи",
+              "task_id": "kazakh_g5_sports_023"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «лыжи» на казахском?",
+                "kk": "«лыжи» қазақ тілінде қалай болады?",
+                "en": "How do you say 'лыжи' in Kazakh?"
+              },
+              "options": [
+                "шаңғы тебу",
+                "волейбол",
+                "коньки тебу"
+              ],
+              "correct": "шаңғы тебу",
+              "task_id": "kazakh_g5_sports_024"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «коньки тебу»?",
+                "kk": "«коньки тебу» сөзі нені білдіреді?",
+                "en": "What does the word 'коньки тебу' mean?"
+              },
+              "options": [
+                "коньки",
+                "волейбол",
+                "лыжи"
+              ],
+              "correct": "коньки",
+              "task_id": "kazakh_g5_sports_025"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «коньки» на казахском?",
+                "kk": "«коньки» қазақ тілінде қалай болады?",
+                "en": "How do you say 'коньки' in Kazakh?"
+              },
+              "options": [
+                "коньки тебу",
+                "волейбол",
+                "шаңғы тебу"
+              ],
+              "correct": "коньки тебу",
+              "task_id": "kazakh_g5_sports_026"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «бокс»?",
+                "kk": "«бокс» сөзі нені білдіреді?",
+                "en": "What does the word 'бокс' mean?"
+              },
+              "options": [
+                "бокс",
+                "волейбол",
+                "лыжи"
+              ],
+              "correct": "бокс",
+              "task_id": "kazakh_g5_sports_027"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «бокс» на казахском?",
+                "kk": "«бокс» қазақ тілінде қалай болады?",
+                "en": "How do you say 'бокс' in Kazakh?"
+              },
+              "options": [
+                "бокс",
+                "волейбол",
+                "шаңғы тебу"
+              ],
+              "correct": "бокс",
+              "task_id": "kazakh_g5_sports_028"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «гандбол»?",
+                "kk": "«гандбол» сөзі нені білдіреді?",
+                "en": "What does the word 'гандбол' mean?"
+              },
+              "options": [
+                "гандбол",
+                "волейбол",
+                "лыжи"
+              ],
+              "correct": "гандбол",
+              "task_id": "kazakh_g5_sports_029"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «гандбол» на казахском?",
+                "kk": "«гандбол» қазақ тілінде қалай болады?",
+                "en": "How do you say 'гандбол' in Kazakh?"
+              },
+              "options": [
+                "гандбол",
+                "волейбол",
+                "шаңғы тебу"
+              ],
+              "correct": "гандбол",
+              "task_id": "kazakh_g5_sports_030"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «карате»?",
+                "kk": "«карате» сөзі нені білдіреді?",
+                "en": "What does the word 'карате' mean?"
+              },
+              "options": [
+                "карате",
+                "волейбол",
+                "лыжи"
+              ],
+              "correct": "карате",
+              "task_id": "kazakh_g5_sports_031"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «карате» на казахском?",
+                "kk": "«карате» қазақ тілінде қалай болады?",
+                "en": "How do you say 'карате' in Kazakh?"
+              },
+              "options": [
+                "карате",
+                "волейбол",
+                "шаңғы тебу"
+              ],
+              "correct": "карате",
+              "task_id": "kazakh_g5_sports_032"
             }
           ]
         },
@@ -7586,6 +8366,156 @@
               ],
               "correct": "мотоцикл",
               "task_id": "kazakh_g5_transport_020"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «тікұшақ»?",
+                "kk": "«тікұшақ» сөзі нені білдіреді?",
+                "en": "What does the word 'тікұшақ' mean?"
+              },
+              "options": [
+                "вертолёт",
+                "грузовик",
+                "лодка"
+              ],
+              "correct": "вертолёт",
+              "task_id": "kazakh_g5_transport_021"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «вертолёт» на казахском?",
+                "kk": "«вертолёт» қазақ тілінде қалай болады?",
+                "en": "How do you say 'вертолёт' in Kazakh?"
+              },
+              "options": [
+                "тікұшақ",
+                "жүк көлігі",
+                "қайық"
+              ],
+              "correct": "тікұшақ",
+              "task_id": "kazakh_g5_transport_022"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «жүк көлігі»?",
+                "kk": "«жүк көлігі» сөзі нені білдіреді?",
+                "en": "What does the word 'жүк көлігі' mean?"
+              },
+              "options": [
+                "грузовик",
+                "вертолёт",
+                "лодка"
+              ],
+              "correct": "грузовик",
+              "task_id": "kazakh_g5_transport_023"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «грузовик» на казахском?",
+                "kk": "«грузовик» қазақ тілінде қалай болады?",
+                "en": "How do you say 'грузовик' in Kazakh?"
+              },
+              "options": [
+                "жүк көлігі",
+                "тікұшақ",
+                "қайық"
+              ],
+              "correct": "жүк көлігі",
+              "task_id": "kazakh_g5_transport_024"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «қайық»?",
+                "kk": "«қайық» сөзі нені білдіреді?",
+                "en": "What does the word 'қайық' mean?"
+              },
+              "options": [
+                "лодка",
+                "вертолёт",
+                "грузовик"
+              ],
+              "correct": "лодка",
+              "task_id": "kazakh_g5_transport_025"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «лодка» на казахском?",
+                "kk": "«лодка» қазақ тілінде қалай болады?",
+                "en": "How do you say 'лодка' in Kazakh?"
+              },
+              "options": [
+                "қайық",
+                "тікұшақ",
+                "жүк көлігі"
+              ],
+              "correct": "қайық",
+              "task_id": "kazakh_g5_transport_026"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «скутер»?",
+                "kk": "«скутер» сөзі нені білдіреді?",
+                "en": "What does the word 'скутер' mean?"
+              },
+              "options": [
+                "скутер",
+                "вертолёт",
+                "грузовик"
+              ],
+              "correct": "скутер",
+              "task_id": "kazakh_g5_transport_027"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «скутер» на казахском?",
+                "kk": "«скутер» қазақ тілінде қалай болады?",
+                "en": "How do you say 'скутер' in Kazakh?"
+              },
+              "options": [
+                "скутер",
+                "тікұшақ",
+                "жүк көлігі"
+              ],
+              "correct": "скутер",
+              "task_id": "kazakh_g5_transport_028"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «трактор»?",
+                "kk": "«трактор» сөзі нені білдіреді?",
+                "en": "What does the word 'трактор' mean?"
+              },
+              "options": [
+                "трактор",
+                "вертолёт",
+                "грузовик"
+              ],
+              "correct": "трактор",
+              "task_id": "kazakh_g5_transport_029"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «трактор» на казахском?",
+                "kk": "«трактор» қазақ тілінде қалай болады?",
+                "en": "How do you say 'трактор' in Kazakh?"
+              },
+              "options": [
+                "трактор",
+                "тікұшақ",
+                "жүк көлігі"
+              ],
+              "correct": "трактор",
+              "task_id": "kazakh_g5_transport_030"
             }
           ]
         }
@@ -7901,6 +8831,156 @@
               ],
               "correct": "сурет салу",
               "task_id": "kazakh_g6_hobbies_020"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «ән айту»?",
+                "kk": "«ән айту» сөзі нені білдіреді?",
+                "en": "What does the word 'ән айту' mean?"
+              },
+              "options": [
+                "пение",
+                "вязание",
+                "поход"
+              ],
+              "correct": "пение",
+              "task_id": "kazakh_g6_hobbies_021"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «пение» на казахском?",
+                "kk": "«пение» қазақ тілінде қалай болады?",
+                "en": "How do you say 'пение' in Kazakh?"
+              },
+              "options": [
+                "ән айту",
+                "тоқу",
+                "туризм"
+              ],
+              "correct": "ән айту",
+              "task_id": "kazakh_g6_hobbies_022"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «тоқу»?",
+                "kk": "«тоқу» сөзі нені білдіреді?",
+                "en": "What does the word 'тоқу' mean?"
+              },
+              "options": [
+                "вязание",
+                "пение",
+                "поход"
+              ],
+              "correct": "вязание",
+              "task_id": "kazakh_g6_hobbies_023"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «вязание» на казахском?",
+                "kk": "«вязание» қазақ тілінде қалай болады?",
+                "en": "How do you say 'вязание' in Kazakh?"
+              },
+              "options": [
+                "тоқу",
+                "ән айту",
+                "туризм"
+              ],
+              "correct": "тоқу",
+              "task_id": "kazakh_g6_hobbies_024"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «туризм»?",
+                "kk": "«туризм» сөзі нені білдіреді?",
+                "en": "What does the word 'туризм' mean?"
+              },
+              "options": [
+                "поход",
+                "пение",
+                "вязание"
+              ],
+              "correct": "поход",
+              "task_id": "kazakh_g6_hobbies_025"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «поход» на казахском?",
+                "kk": "«поход» қазақ тілінде қалай болады?",
+                "en": "How do you say 'поход' in Kazakh?"
+              },
+              "options": [
+                "туризм",
+                "ән айту",
+                "тоқу"
+              ],
+              "correct": "туризм",
+              "task_id": "kazakh_g6_hobbies_026"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «үстел ойындары»?",
+                "kk": "«үстел ойындары» сөзі нені білдіреді?",
+                "en": "What does the word 'үстел ойындары' mean?"
+              },
+              "options": [
+                "настольные игры",
+                "пение",
+                "вязание"
+              ],
+              "correct": "настольные игры",
+              "task_id": "kazakh_g6_hobbies_027"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «настольные игры» на казахском?",
+                "kk": "«настольные игры» қазақ тілінде қалай болады?",
+                "en": "How do you say 'настольные игры' in Kazakh?"
+              },
+              "options": [
+                "үстел ойындары",
+                "ән айту",
+                "тоқу"
+              ],
+              "correct": "үстел ойындары",
+              "task_id": "kazakh_g6_hobbies_028"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «блог жүргізу»?",
+                "kk": "«блог жүргізу» сөзі нені білдіреді?",
+                "en": "What does the word 'блог жүргізу' mean?"
+              },
+              "options": [
+                "блоггинг",
+                "пение",
+                "вязание"
+              ],
+              "correct": "блоггинг",
+              "task_id": "kazakh_g6_hobbies_029"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «блоггинг» на казахском?",
+                "kk": "«блоггинг» қазақ тілінде қалай болады?",
+                "en": "How do you say 'блоггинг' in Kazakh?"
+              },
+              "options": [
+                "блог жүргізу",
+                "ән айту",
+                "тоқу"
+              ],
+              "correct": "блог жүргізу",
+              "task_id": "kazakh_g6_hobbies_030"
             }
           ]
         },
@@ -8212,6 +9292,156 @@
               ],
               "correct": "қолданба",
               "task_id": "kazakh_g6_technology_020"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «құпия сөз»?",
+                "kk": "«құпия сөз» сөзі нені білдіреді?",
+                "en": "What does the word 'құпия сөз' mean?"
+              },
+              "options": [
+                "пароль",
+                "зарядное устройство",
+                "планшет"
+              ],
+              "correct": "пароль",
+              "task_id": "kazakh_g6_technology_021"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «пароль» на казахском?",
+                "kk": "«пароль» қазақ тілінде қалай болады?",
+                "en": "How do you say 'пароль' in Kazakh?"
+              },
+              "options": [
+                "құпия сөз",
+                "зарядтағыш",
+                "планшет"
+              ],
+              "correct": "құпия сөз",
+              "task_id": "kazakh_g6_technology_022"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «зарядтағыш»?",
+                "kk": "«зарядтағыш» сөзі нені білдіреді?",
+                "en": "What does the word 'зарядтағыш' mean?"
+              },
+              "options": [
+                "зарядное устройство",
+                "пароль",
+                "планшет"
+              ],
+              "correct": "зарядное устройство",
+              "task_id": "kazakh_g6_technology_023"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «зарядное устройство» на казахском?",
+                "kk": "«зарядное устройство» қазақ тілінде қалай болады?",
+                "en": "How do you say 'зарядное устройство' in Kazakh?"
+              },
+              "options": [
+                "зарядтағыш",
+                "құпия сөз",
+                "планшет"
+              ],
+              "correct": "зарядтағыш",
+              "task_id": "kazakh_g6_technology_024"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «планшет»?",
+                "kk": "«планшет» сөзі нені білдіреді?",
+                "en": "What does the word 'планшет' mean?"
+              },
+              "options": [
+                "планшет",
+                "пароль",
+                "зарядное устройство"
+              ],
+              "correct": "планшет",
+              "task_id": "kazakh_g6_technology_025"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «планшет» на казахском?",
+                "kk": "«планшет» қазақ тілінде қалай болады?",
+                "en": "How do you say 'планшет' in Kazakh?"
+              },
+              "options": [
+                "планшет",
+                "құпия сөз",
+                "зарядтағыш"
+              ],
+              "correct": "планшет",
+              "task_id": "kazakh_g6_technology_026"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «тінтуір»?",
+                "kk": "«тінтуір» сөзі нені білдіреді?",
+                "en": "What does the word 'тінтуір' mean?"
+              },
+              "options": [
+                "мышка",
+                "пароль",
+                "зарядное устройство"
+              ],
+              "correct": "мышка",
+              "task_id": "kazakh_g6_technology_027"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «мышка» на казахском?",
+                "kk": "«мышка» қазақ тілінде қалай болады?",
+                "en": "How do you say 'мышка' in Kazakh?"
+              },
+              "options": [
+                "тінтуір",
+                "құпия сөз",
+                "зарядтағыш"
+              ],
+              "correct": "тінтуір",
+              "task_id": "kazakh_g6_technology_028"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «файл»?",
+                "kk": "«файл» сөзі нені білдіреді?",
+                "en": "What does the word 'файл' mean?"
+              },
+              "options": [
+                "файл",
+                "пароль",
+                "зарядное устройство"
+              ],
+              "correct": "файл",
+              "task_id": "kazakh_g6_technology_029"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «файл» на казахском?",
+                "kk": "«файл» қазақ тілінде қалай болады?",
+                "en": "How do you say 'файл' in Kazakh?"
+              },
+              "options": [
+                "файл",
+                "құпия сөз",
+                "зарядтағыш"
+              ],
+              "correct": "файл",
+              "task_id": "kazakh_g6_technology_030"
             }
           ]
         },
@@ -8523,6 +9753,156 @@
               ],
               "correct": "страна",
               "task_id": "kazakh_g6_geography_terms_020"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «тау»?",
+                "kk": "«тау» сөзі нені білдіреді?",
+                "en": "What does the word 'тау' mean?"
+              },
+              "options": [
+                "гора",
+                "река",
+                "озеро"
+              ],
+              "correct": "гора",
+              "task_id": "kazakh_g6_geography_terms_021"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «гора» на казахском?",
+                "kk": "«гора» қазақ тілінде қалай болады?",
+                "en": "How do you say 'гора' in Kazakh?"
+              },
+              "options": [
+                "тау",
+                "өзен",
+                "көл"
+              ],
+              "correct": "тау",
+              "task_id": "kazakh_g6_geography_terms_022"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «өзен»?",
+                "kk": "«өзен» сөзі нені білдіреді?",
+                "en": "What does the word 'өзен' mean?"
+              },
+              "options": [
+                "река",
+                "гора",
+                "озеро"
+              ],
+              "correct": "река",
+              "task_id": "kazakh_g6_geography_terms_023"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «река» на казахском?",
+                "kk": "«река» қазақ тілінде қалай болады?",
+                "en": "How do you say 'река' in Kazakh?"
+              },
+              "options": [
+                "өзен",
+                "тау",
+                "көл"
+              ],
+              "correct": "өзен",
+              "task_id": "kazakh_g6_geography_terms_024"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «көл»?",
+                "kk": "«көл» сөзі нені білдіреді?",
+                "en": "What does the word 'көл' mean?"
+              },
+              "options": [
+                "озеро",
+                "гора",
+                "река"
+              ],
+              "correct": "озеро",
+              "task_id": "kazakh_g6_geography_terms_025"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «озеро» на казахском?",
+                "kk": "«озеро» қазақ тілінде қалай болады?",
+                "en": "How do you say 'озеро' in Kazakh?"
+              },
+              "options": [
+                "көл",
+                "тау",
+                "өзен"
+              ],
+              "correct": "көл",
+              "task_id": "kazakh_g6_geography_terms_026"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «шөл»?",
+                "kk": "«шөл» сөзі нені білдіреді?",
+                "en": "What does the word 'шөл' mean?"
+              },
+              "options": [
+                "пустыня",
+                "гора",
+                "река"
+              ],
+              "correct": "пустыня",
+              "task_id": "kazakh_g6_geography_terms_027"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «пустыня» на казахском?",
+                "kk": "«пустыня» қазақ тілінде қалай болады?",
+                "en": "How do you say 'пустыня' in Kazakh?"
+              },
+              "options": [
+                "шөл",
+                "тау",
+                "өзен"
+              ],
+              "correct": "шөл",
+              "task_id": "kazakh_g6_geography_terms_028"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «орман»?",
+                "kk": "«орман» сөзі нені білдіреді?",
+                "en": "What does the word 'орман' mean?"
+              },
+              "options": [
+                "лес",
+                "гора",
+                "река"
+              ],
+              "correct": "лес",
+              "task_id": "kazakh_g6_geography_terms_029"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «лес» на казахском?",
+                "kk": "«лес» қазақ тілінде қалай болады?",
+                "en": "How do you say 'лес' in Kazakh?"
+              },
+              "options": [
+                "орман",
+                "тау",
+                "өзен"
+              ],
+              "correct": "орман",
+              "task_id": "kazakh_g6_geography_terms_030"
             }
           ]
         },
@@ -8834,6 +10214,156 @@
               ],
               "correct": "развивать",
               "task_id": "kazakh_g6_verbs_advanced_020"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «көмектесу»?",
+                "kk": "«көмектесу» сөзі нені білдіреді?",
+                "en": "What does the word 'көмектесу' mean?"
+              },
+              "options": [
+                "помогать",
+                "строить",
+                "измерять"
+              ],
+              "correct": "помогать",
+              "task_id": "kazakh_g6_verbs_advanced_021"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «помогать» на казахском?",
+                "kk": "«помогать» қазақ тілінде қалай болады?",
+                "en": "How do you say 'помогать' in Kazakh?"
+              },
+              "options": [
+                "көмектесу",
+                "салу",
+                "өлшеу"
+              ],
+              "correct": "көмектесу",
+              "task_id": "kazakh_g6_verbs_advanced_022"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «салу»?",
+                "kk": "«салу» сөзі нені білдіреді?",
+                "en": "What does the word 'салу' mean?"
+              },
+              "options": [
+                "строить",
+                "помогать",
+                "измерять"
+              ],
+              "correct": "строить",
+              "task_id": "kazakh_g6_verbs_advanced_023"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «строить» на казахском?",
+                "kk": "«строить» қазақ тілінде қалай болады?",
+                "en": "How do you say 'строить' in Kazakh?"
+              },
+              "options": [
+                "салу",
+                "көмектесу",
+                "өлшеу"
+              ],
+              "correct": "салу",
+              "task_id": "kazakh_g6_verbs_advanced_024"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «өлшеу»?",
+                "kk": "«өлшеу» сөзі нені білдіреді?",
+                "en": "What does the word 'өлшеу' mean?"
+              },
+              "options": [
+                "измерять",
+                "помогать",
+                "строить"
+              ],
+              "correct": "измерять",
+              "task_id": "kazakh_g6_verbs_advanced_025"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «измерять» на казахском?",
+                "kk": "«измерять» қазақ тілінде қалай болады?",
+                "en": "How do you say 'измерять' in Kazakh?"
+              },
+              "options": [
+                "өлшеу",
+                "көмектесу",
+                "салу"
+              ],
+              "correct": "өлшеу",
+              "task_id": "kazakh_g6_verbs_advanced_026"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «жинау»?",
+                "kk": "«жинау» сөзі нені білдіреді?",
+                "en": "What does the word 'жинау' mean?"
+              },
+              "options": [
+                "собирать",
+                "помогать",
+                "строить"
+              ],
+              "correct": "собирать",
+              "task_id": "kazakh_g6_verbs_advanced_027"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «собирать» на казахском?",
+                "kk": "«собирать» қазақ тілінде қалай болады?",
+                "en": "How do you say 'собирать' in Kazakh?"
+              },
+              "options": [
+                "жинау",
+                "көмектесу",
+                "салу"
+              ],
+              "correct": "жинау",
+              "task_id": "kazakh_g6_verbs_advanced_028"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «есте сақтау»?",
+                "kk": "«есте сақтау» сөзі нені білдіреді?",
+                "en": "What does the word 'есте сақтау' mean?"
+              },
+              "options": [
+                "запоминать",
+                "помогать",
+                "строить"
+              ],
+              "correct": "запоминать",
+              "task_id": "kazakh_g6_verbs_advanced_029"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «запоминать» на казахском?",
+                "kk": "«запоминать» қазақ тілінде қалай болады?",
+                "en": "How do you say 'запоминать' in Kazakh?"
+              },
+              "options": [
+                "есте сақтау",
+                "көмектесу",
+                "салу"
+              ],
+              "correct": "есте сақтау",
+              "task_id": "kazakh_g6_verbs_advanced_030"
             }
           ]
         }
@@ -9149,6 +10679,156 @@
               ],
               "correct": "болезнь",
               "task_id": "kazakh_g7_health_020"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «диета»?",
+                "kk": "«диета» сөзі нені білдіреді?",
+                "en": "What does the word 'диета' mean?"
+              },
+              "options": [
+                "диета",
+                "прививка",
+                "врач"
+              ],
+              "correct": "диета",
+              "task_id": "kazakh_g7_health_021"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «диета» на казахском?",
+                "kk": "«диета» қазақ тілінде қалай болады?",
+                "en": "How do you say 'диета' in Kazakh?"
+              },
+              "options": [
+                "диета",
+                "вакцина",
+                "дәрігер"
+              ],
+              "correct": "диета",
+              "task_id": "kazakh_g7_health_022"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «вакцина»?",
+                "kk": "«вакцина» сөзі нені білдіреді?",
+                "en": "What does the word 'вакцина' mean?"
+              },
+              "options": [
+                "прививка",
+                "диета",
+                "врач"
+              ],
+              "correct": "прививка",
+              "task_id": "kazakh_g7_health_023"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «прививка» на казахском?",
+                "kk": "«прививка» қазақ тілінде қалай болады?",
+                "en": "How do you say 'прививка' in Kazakh?"
+              },
+              "options": [
+                "вакцина",
+                "диета",
+                "дәрігер"
+              ],
+              "correct": "вакцина",
+              "task_id": "kazakh_g7_health_024"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «дәрігер»?",
+                "kk": "«дәрігер» сөзі нені білдіреді?",
+                "en": "What does the word 'дәрігер' mean?"
+              },
+              "options": [
+                "врач",
+                "диета",
+                "прививка"
+              ],
+              "correct": "врач",
+              "task_id": "kazakh_g7_health_025"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «врач» на казахском?",
+                "kk": "«врач» қазақ тілінде қалай болады?",
+                "en": "How do you say 'врач' in Kazakh?"
+              },
+              "options": [
+                "дәрігер",
+                "диета",
+                "вакцина"
+              ],
+              "correct": "дәрігер",
+              "task_id": "kazakh_g7_health_026"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «ауырсыну»?",
+                "kk": "«ауырсыну» сөзі нені білдіреді?",
+                "en": "What does the word 'ауырсыну' mean?"
+              },
+              "options": [
+                "боль",
+                "диета",
+                "прививка"
+              ],
+              "correct": "боль",
+              "task_id": "kazakh_g7_health_027"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «боль» на казахском?",
+                "kk": "«боль» қазақ тілінде қалай болады?",
+                "en": "How do you say 'боль' in Kazakh?"
+              },
+              "options": [
+                "ауырсыну",
+                "диета",
+                "вакцина"
+              ],
+              "correct": "ауырсыну",
+              "task_id": "kazakh_g7_health_028"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «ұйқы»?",
+                "kk": "«ұйқы» сөзі нені білдіреді?",
+                "en": "What does the word 'ұйқы' mean?"
+              },
+              "options": [
+                "сон",
+                "диета",
+                "прививка"
+              ],
+              "correct": "сон",
+              "task_id": "kazakh_g7_health_029"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «сон» на казахском?",
+                "kk": "«сон» қазақ тілінде қалай болады?",
+                "en": "How do you say 'сон' in Kazakh?"
+              },
+              "options": [
+                "ұйқы",
+                "диета",
+                "вакцина"
+              ],
+              "correct": "ұйқы",
+              "task_id": "kazakh_g7_health_030"
             }
           ]
         },
@@ -9460,6 +11140,156 @@
               ],
               "correct": "чистота",
               "task_id": "kazakh_g7_environment_020"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «шығарынды»?",
+                "kk": "«шығарынды» сөзі нені білдіреді?",
+                "en": "What does the word 'шығарынды' mean?"
+              },
+              "options": [
+                "выброс",
+                "биоразнообразие",
+                "парниковый эффект"
+              ],
+              "correct": "выброс",
+              "task_id": "kazakh_g7_environment_021"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «выброс» на казахском?",
+                "kk": "«выброс» қазақ тілінде қалай болады?",
+                "en": "How do you say 'выброс' in Kazakh?"
+              },
+              "options": [
+                "шығарынды",
+                "биоалуантүрлілік",
+                "жылыжай әсері"
+              ],
+              "correct": "шығарынды",
+              "task_id": "kazakh_g7_environment_022"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «биоалуантүрлілік»?",
+                "kk": "«биоалуантүрлілік» сөзі нені білдіреді?",
+                "en": "What does the word 'биоалуантүрлілік' mean?"
+              },
+              "options": [
+                "биоразнообразие",
+                "выброс",
+                "парниковый эффект"
+              ],
+              "correct": "биоразнообразие",
+              "task_id": "kazakh_g7_environment_023"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «биоразнообразие» на казахском?",
+                "kk": "«биоразнообразие» қазақ тілінде қалай болады?",
+                "en": "How do you say 'биоразнообразие' in Kazakh?"
+              },
+              "options": [
+                "биоалуантүрлілік",
+                "шығарынды",
+                "жылыжай әсері"
+              ],
+              "correct": "биоалуантүрлілік",
+              "task_id": "kazakh_g7_environment_024"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «жылыжай әсері»?",
+                "kk": "«жылыжай әсері» сөзі нені білдіреді?",
+                "en": "What does the word 'жылыжай әсері' mean?"
+              },
+              "options": [
+                "парниковый эффект",
+                "выброс",
+                "биоразнообразие"
+              ],
+              "correct": "парниковый эффект",
+              "task_id": "kazakh_g7_environment_025"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «парниковый эффект» на казахском?",
+                "kk": "«парниковый эффект» қазақ тілінде қалай болады?",
+                "en": "How do you say 'парниковый эффект' in Kazakh?"
+              },
+              "options": [
+                "жылыжай әсері",
+                "шығарынды",
+                "биоалуантүрлілік"
+              ],
+              "correct": "жылыжай әсері",
+              "task_id": "kazakh_g7_environment_026"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «озон қабаты»?",
+                "kk": "«озон қабаты» сөзі нені білдіреді?",
+                "en": "What does the word 'озон қабаты' mean?"
+              },
+              "options": [
+                "озоновый слой",
+                "выброс",
+                "биоразнообразие"
+              ],
+              "correct": "озоновый слой",
+              "task_id": "kazakh_g7_environment_027"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «озоновый слой» на казахском?",
+                "kk": "«озоновый слой» қазақ тілінде қалай болады?",
+                "en": "How do you say 'озоновый слой' in Kazakh?"
+              },
+              "options": [
+                "озон қабаты",
+                "шығарынды",
+                "биоалуантүрлілік"
+              ],
+              "correct": "озон қабаты",
+              "task_id": "kazakh_g7_environment_028"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «ормансыздандыру»?",
+                "kk": "«ормансыздандыру» сөзі нені білдіреді?",
+                "en": "What does the word 'ормансыздандыру' mean?"
+              },
+              "options": [
+                "вырубка лесов",
+                "выброс",
+                "биоразнообразие"
+              ],
+              "correct": "вырубка лесов",
+              "task_id": "kazakh_g7_environment_029"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «вырубка лесов» на казахском?",
+                "kk": "«вырубка лесов» қазақ тілінде қалай болады?",
+                "en": "How do you say 'вырубка лесов' in Kazakh?"
+              },
+              "options": [
+                "ормансыздандыру",
+                "шығарынды",
+                "биоалуантүрлілік"
+              ],
+              "correct": "ормансыздандыру",
+              "task_id": "kazakh_g7_environment_030"
             }
           ]
         },
@@ -9771,6 +11601,156 @@
               ],
               "correct": "разговор",
               "task_id": "kazakh_g7_communication_020"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «диалог»?",
+                "kk": "«диалог» сөзі нені білдіреді?",
+                "en": "What does the word 'диалог' mean?"
+              },
+              "options": [
+                "диалог",
+                "комплимент",
+                "обещание"
+              ],
+              "correct": "диалог",
+              "task_id": "kazakh_g7_communication_021"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «диалог» на казахском?",
+                "kk": "«диалог» қазақ тілінде қалай болады?",
+                "en": "How do you say 'диалог' in Kazakh?"
+              },
+              "options": [
+                "диалог",
+                "мақтау",
+                "уәде"
+              ],
+              "correct": "диалог",
+              "task_id": "kazakh_g7_communication_022"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «мақтау»?",
+                "kk": "«мақтау» сөзі нені білдіреді?",
+                "en": "What does the word 'мақтау' mean?"
+              },
+              "options": [
+                "комплимент",
+                "диалог",
+                "обещание"
+              ],
+              "correct": "комплимент",
+              "task_id": "kazakh_g7_communication_023"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «комплимент» на казахском?",
+                "kk": "«комплимент» қазақ тілінде қалай болады?",
+                "en": "How do you say 'комплимент' in Kazakh?"
+              },
+              "options": [
+                "мақтау",
+                "диалог",
+                "уәде"
+              ],
+              "correct": "мақтау",
+              "task_id": "kazakh_g7_communication_024"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «уәде»?",
+                "kk": "«уәде» сөзі нені білдіреді?",
+                "en": "What does the word 'уәде' mean?"
+              },
+              "options": [
+                "обещание",
+                "диалог",
+                "комплимент"
+              ],
+              "correct": "обещание",
+              "task_id": "kazakh_g7_communication_025"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «обещание» на казахском?",
+                "kk": "«обещание» қазақ тілінде қалай болады?",
+                "en": "How do you say 'обещание' in Kazakh?"
+              },
+              "options": [
+                "уәде",
+                "диалог",
+                "мақтау"
+              ],
+              "correct": "уәде",
+              "task_id": "kazakh_g7_communication_026"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «шағым»?",
+                "kk": "«шағым» сөзі нені білдіреді?",
+                "en": "What does the word 'шағым' mean?"
+              },
+              "options": [
+                "жалоба",
+                "диалог",
+                "комплимент"
+              ],
+              "correct": "жалоба",
+              "task_id": "kazakh_g7_communication_027"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «жалоба» на казахском?",
+                "kk": "«жалоба» қазақ тілінде қалай болады?",
+                "en": "How do you say 'жалоба' in Kazakh?"
+              },
+              "options": [
+                "шағым",
+                "диалог",
+                "мақтау"
+              ],
+              "correct": "шағым",
+              "task_id": "kazakh_g7_communication_028"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «алғыс»?",
+                "kk": "«алғыс» сөзі нені білдіреді?",
+                "en": "What does the word 'алғыс' mean?"
+              },
+              "options": [
+                "благодарность",
+                "диалог",
+                "комплимент"
+              ],
+              "correct": "благодарность",
+              "task_id": "kazakh_g7_communication_029"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «благодарность» на казахском?",
+                "kk": "«благодарность» қазақ тілінде қалай болады?",
+                "en": "How do you say 'благодарность' in Kazakh?"
+              },
+              "options": [
+                "алғыс",
+                "диалог",
+                "мақтау"
+              ],
+              "correct": "алғыс",
+              "task_id": "kazakh_g7_communication_030"
             }
           ]
         },
@@ -10082,6 +12062,156 @@
               ],
               "correct": "честный",
               "task_id": "kazakh_g7_character_traits_020"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «батыл»?",
+                "kk": "«батыл» сөзі нені білдіреді?",
+                "en": "What does the word 'батыл' mean?"
+              },
+              "options": [
+                "смелый",
+                "добрый",
+                "умный"
+              ],
+              "correct": "смелый",
+              "task_id": "kazakh_g7_character_traits_021"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «смелый» на казахском?",
+                "kk": "«смелый» қазақ тілінде қалай болады?",
+                "en": "How do you say 'смелый' in Kazakh?"
+              },
+              "options": [
+                "батыл",
+                "мейірімді",
+                "ақылды"
+              ],
+              "correct": "батыл",
+              "task_id": "kazakh_g7_character_traits_022"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «мейірімді»?",
+                "kk": "«мейірімді» сөзі нені білдіреді?",
+                "en": "What does the word 'мейірімді' mean?"
+              },
+              "options": [
+                "добрый",
+                "смелый",
+                "умный"
+              ],
+              "correct": "добрый",
+              "task_id": "kazakh_g7_character_traits_023"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «добрый» на казахском?",
+                "kk": "«добрый» қазақ тілінде қалай болады?",
+                "en": "How do you say 'добрый' in Kazakh?"
+              },
+              "options": [
+                "мейірімді",
+                "батыл",
+                "ақылды"
+              ],
+              "correct": "мейірімді",
+              "task_id": "kazakh_g7_character_traits_024"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «ақылды»?",
+                "kk": "«ақылды» сөзі нені білдіреді?",
+                "en": "What does the word 'ақылды' mean?"
+              },
+              "options": [
+                "умный",
+                "смелый",
+                "добрый"
+              ],
+              "correct": "умный",
+              "task_id": "kazakh_g7_character_traits_025"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «умный» на казахском?",
+                "kk": "«умный» қазақ тілінде қалай болады?",
+                "en": "How do you say 'умный' in Kazakh?"
+              },
+              "options": [
+                "ақылды",
+                "батыл",
+                "мейірімді"
+              ],
+              "correct": "ақылды",
+              "task_id": "kazakh_g7_character_traits_026"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «байсалды»?",
+                "kk": "«байсалды» сөзі нені білдіреді?",
+                "en": "What does the word 'байсалды' mean?"
+              },
+              "options": [
+                "спокойный",
+                "смелый",
+                "добрый"
+              ],
+              "correct": "спокойный",
+              "task_id": "kazakh_g7_character_traits_027"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «спокойный» на казахском?",
+                "kk": "«спокойный» қазақ тілінде қалай болады?",
+                "en": "How do you say 'спокойный' in Kazakh?"
+              },
+              "options": [
+                "байсалды",
+                "батыл",
+                "мейірімді"
+              ],
+              "correct": "байсалды",
+              "task_id": "kazakh_g7_character_traits_028"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что означает слово «достық»?",
+                "kk": "«достық» сөзі нені білдіреді?",
+                "en": "What does the word 'достық' mean?"
+              },
+              "options": [
+                "дружелюбный",
+                "смелый",
+                "добрый"
+              ],
+              "correct": "дружелюбный",
+              "task_id": "kazakh_g7_character_traits_029"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как будет «дружелюбный» на казахском?",
+                "kk": "«дружелюбный» қазақ тілінде қалай болады?",
+                "en": "How do you say 'дружелюбный' in Kazakh?"
+              },
+              "options": [
+                "достық",
+                "батыл",
+                "мейірімді"
+              ],
+              "correct": "достық",
+              "task_id": "kazakh_g7_character_traits_030"
             }
           ]
         }
