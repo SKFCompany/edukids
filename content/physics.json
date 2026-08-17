@@ -1,0 +1,1711 @@
+{
+  "grades": {
+    "8": {
+      "topics": [
+        {
+          "topic_id": "physics_g8_intro",
+          "title": {
+            "ru": "Введение в физику",
+            "kk": "Физикаға кіріспе",
+            "en": "Introduction to Physics"
+          },
+          "quest_icon": "atom",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что изучает физика?",
+                "kk": "Физика нені зерттейді?",
+                "en": "What does physics study?"
+              },
+              "options": [
+                "Явления природы и законы, которые ими управляют",
+                "Только живые организмы",
+                "Только историю"
+              ],
+              "correct": "Явления природы и законы, которые ими управляют",
+              "task_id": "physics_g8_intro_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое физическая величина?",
+                "kk": "Физикалық шама дегеніміз не?",
+                "en": "What is a physical quantity?"
+              },
+              "options": [
+                "Свойство тела, которое можно измерить",
+                "Только цвет предмета",
+                "Только форма предмета"
+              ],
+              "correct": "Свойство тела, которое можно измерить",
+              "task_id": "physics_g8_intro_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая единица измерения длины является основной в СИ?",
+                "kk": "ХБ жүйесінде ұзындықтың негізгі өлшем бірлігі қандай?",
+                "en": "What is the base SI unit of length?"
+              },
+              "options": [
+                "Метр",
+                "Килограмм",
+                "Секунда"
+              ],
+              "correct": "Метр",
+              "task_id": "physics_g8_intro_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая единица измерения массы является основной в СИ?",
+                "kk": "ХБ жүйесінде массаның негізгі өлшем бірлігі қандай?",
+                "en": "What is the base SI unit of mass?"
+              },
+              "options": [
+                "Килограмм",
+                "Метр",
+                "Литр"
+              ],
+              "correct": "Килограмм",
+              "task_id": "physics_g8_intro_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой прибор используют для измерения длины?",
+                "kk": "Ұзындықты өлшеу үшін қандай құрал қолданылады?",
+                "en": "Which instrument is used to measure length?"
+              },
+              "options": [
+                "Линейку",
+                "Весы",
+                "Термометр"
+              ],
+              "correct": "Линейку",
+              "task_id": "physics_g8_intro_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое физическое явление?",
+                "kk": "Физикалық құбылыс дегеніміз не?",
+                "en": "What is a physical phenomenon?"
+              },
+              "options": [
+                "Изменение, при котором вещество остаётся тем же",
+                "Только химическая реакция",
+                "Только биологический процесс"
+              ],
+              "correct": "Изменение, при котором вещество остаётся тем же",
+              "task_id": "physics_g8_intro_006"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Кто из этих учёных знаменит открытиями в физике?",
+                "kk": "Осы ғалымдардың қайсысы физикадағы жаңалықтарымен танымал?",
+                "en": "Which of these scientists is famous for discoveries in physics?"
+              },
+              "options": [
+                "Исаак Ньютон",
+                "Чарльз Дарвин",
+                "Дмитрий Менделеев"
+              ],
+              "correct": "Исаак Ньютон",
+              "task_id": "physics_g8_intro_007"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое эксперимент в физике?",
+                "kk": "Физикадағы эксперимент дегеніміз не?",
+                "en": "What is an experiment in physics?"
+              },
+              "options": [
+                "Опыт для проверки гипотезы",
+                "Просто рисунок явления",
+                "Только чтение учебника"
+              ],
+              "correct": "Опыт для проверки гипотезы",
+              "task_id": "physics_g8_intro_008"
+            }
+          ]
+        },
+        {
+          "topic_id": "physics_g8_motion",
+          "title": {
+            "ru": "Механическое движение",
+            "kk": "Механикалық қозғалыс",
+            "en": "Mechanical Motion"
+          },
+          "quest_icon": "run-fast",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое механическое движение?",
+                "kk": "Механикалық қозғалыс дегеніміз не?",
+                "en": "What is mechanical motion?"
+              },
+              "options": [
+                "Изменение положения тела относительно других тел со временем",
+                "Изменение цвета тела",
+                "Изменение массы тела"
+              ],
+              "correct": "Изменение положения тела относительно других тел со временем",
+              "task_id": "physics_g8_motion_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое траектория движения?",
+                "kk": "Қозғалыс траекториясы дегеніміз не?",
+                "en": "What is a trajectory of motion?"
+              },
+              "options": [
+                "Линия, по которой движется тело",
+                "Скорость тела",
+                "Масса тела"
+              ],
+              "correct": "Линия, по которой движется тело",
+              "task_id": "physics_g8_motion_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как вычисляется скорость равномерного движения?",
+                "kk": "Бірқалыпты қозғалыстың жылдамдығы қалай есептеледі?",
+                "en": "How is the speed of uniform motion calculated?"
+              },
+              "options": [
+                "Путь делить на время",
+                "Путь умножить на время",
+                "Время делить на путь"
+              ],
+              "correct": "Путь делить на время",
+              "task_id": "physics_g8_motion_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Единица измерения скорости в СИ — это",
+                "kk": "ХБ жүйесінде жылдамдықтың өлшем бірлігі — бұл",
+                "en": "The SI unit of speed is"
+              },
+              "options": [
+                "м/с",
+                "кг",
+                "секунда"
+              ],
+              "correct": "м/с",
+              "task_id": "physics_g8_motion_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Тело двигалось 100 м за 20 секунд. Какова его скорость?",
+                "kk": "Дене 20 секундта 100 м жол жүрді. Оның жылдамдығы қандай?",
+                "en": "A body traveled 100 m in 20 seconds. What is its speed?"
+              },
+              "options": [
+                "5 м/с",
+                "20 м/с",
+                "2000 м/с"
+              ],
+              "correct": "5 м/с",
+              "task_id": "physics_g8_motion_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что называют системой отсчёта?",
+                "kk": "Санақ жүйесі деп нені атайды?",
+                "en": "What is called a frame of reference?"
+              },
+              "options": [
+                "Тело отсчёта, система координат и часы",
+                "Только тело отсчёта",
+                "Только часы"
+              ],
+              "correct": "Тело отсчёта, система координат и часы",
+              "task_id": "physics_g8_motion_006"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Движение, при котором скорость тела не меняется, называется",
+                "kk": "Дененің жылдамдығы өзгермейтін қозғалыс қалай аталады?",
+                "en": "Motion in which a body's speed does not change is called"
+              },
+              "options": [
+                "Равномерным",
+                "Ускоренным",
+                "Замедленным"
+              ],
+              "correct": "Равномерным",
+              "task_id": "physics_g8_motion_007"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое путь в физике?",
+                "kk": "Физикада жол дегеніміз не?",
+                "en": "What is distance in physics?"
+              },
+              "options": [
+                "Длина траектории движения тела",
+                "Направление движения",
+                "Масса тела"
+              ],
+              "correct": "Длина траектории движения тела",
+              "task_id": "physics_g8_motion_008"
+            }
+          ]
+        },
+        {
+          "topic_id": "physics_g8_interaction",
+          "title": {
+            "ru": "Взаимодействие тел",
+            "kk": "Денелердің өзара әрекеттесуі",
+            "en": "Interaction of Bodies"
+          },
+          "quest_icon": "arrow-collapse-horizontal",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое масса тела?",
+                "kk": "Дене массасы дегеніміз не?",
+                "en": "What is the mass of a body?"
+              },
+              "options": [
+                "Мера количества вещества в теле",
+                "Скорость тела",
+                "Цвет тела"
+              ],
+              "correct": "Мера количества вещества в теле",
+              "task_id": "physics_g8_interaction_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой прибор измеряет массу тела?",
+                "kk": "Дене массасын қандай құрал өлшейді?",
+                "en": "Which instrument measures the mass of a body?"
+              },
+              "options": [
+                "Весы",
+                "Линейка",
+                "Термометр"
+              ],
+              "correct": "Весы",
+              "task_id": "physics_g8_interaction_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое плотность вещества?",
+                "kk": "Зат тығыздығы дегеніміз не?",
+                "en": "What is the density of a substance?"
+              },
+              "options": [
+                "Отношение массы тела к его объёму",
+                "Отношение объёма к массе",
+                "Только объём тела"
+              ],
+              "correct": "Отношение массы тела к его объёму",
+              "task_id": "physics_g8_interaction_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое сила в физике?",
+                "kk": "Физикада күш дегеніміз не?",
+                "en": "What is force in physics?"
+              },
+              "options": [
+                "Мера взаимодействия тел",
+                "Только масса тела",
+                "Только скорость тела"
+              ],
+              "correct": "Мера взаимодействия тел",
+              "task_id": "physics_g8_interaction_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "В каких единицах измеряется сила в СИ?",
+                "kk": "ХБ жүйесінде күш қандай бірлікпен өлшенеді?",
+                "en": "In which units is force measured in SI?"
+              },
+              "options": [
+                "Ньютон",
+                "Килограмм",
+                "Метр"
+              ],
+              "correct": "Ньютон",
+              "task_id": "physics_g8_interaction_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое давление?",
+                "kk": "Қысым дегеніміз не?",
+                "en": "What is pressure?"
+              },
+              "options": [
+                "Сила, действующая на единицу площади",
+                "Только сила",
+                "Только площадь"
+              ],
+              "correct": "Сила, действующая на единицу площади",
+              "task_id": "physics_g8_interaction_006"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Почему широкие лыжи легче скользят по снегу, чем узкие?",
+                "kk": "Кең шаңғы неге тар шаңғыдан қар үстінде жеңіл сырғанайды?",
+                "en": "Why do wide skis glide more easily on snow than narrow ones?"
+              },
+              "options": [
+                "Они уменьшают давление на снег",
+                "Они тяжелее",
+                "Они длиннее"
+              ],
+              "correct": "Они уменьшают давление на снег",
+              "task_id": "physics_g8_interaction_007"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сила трения возникает при",
+                "kk": "Үйкеліс күші қашан пайда болады?",
+                "en": "Friction force arises when"
+              },
+              "options": [
+                "Соприкосновении и относительном движении тел",
+                "Только нагревании тела",
+                "Только увеличении массы"
+              ],
+              "correct": "Соприкосновении и относительном движении тел",
+              "task_id": "physics_g8_interaction_008"
+            }
+          ]
+        },
+        {
+          "topic_id": "physics_g8_work_energy",
+          "title": {
+            "ru": "Работа и энергия",
+            "kk": "Жұмыс және энергия",
+            "en": "Work and Energy"
+          },
+          "quest_icon": "lightning-bolt-outline",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое механическая работа?",
+                "kk": "Механикалық жұмыс дегеніміз не?",
+                "en": "What is mechanical work?"
+              },
+              "options": [
+                "Произведение силы на путь в направлении силы",
+                "Только сила",
+                "Только путь"
+              ],
+              "correct": "Произведение силы на путь в направлении силы",
+              "task_id": "physics_g8_work_energy_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "В каких единицах измеряется работа в СИ?",
+                "kk": "ХБ жүйесінде жұмыс қандай бірлікпен өлшенеді?",
+                "en": "In which units is work measured in SI?"
+              },
+              "options": [
+                "Джоуль",
+                "Ньютон",
+                "Ватт"
+              ],
+              "correct": "Джоуль",
+              "task_id": "physics_g8_work_energy_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое мощность?",
+                "kk": "Қуат дегеніміз не?",
+                "en": "What is power?"
+              },
+              "options": [
+                "Работа, совершённая за единицу времени",
+                "Только сила",
+                "Только масса"
+              ],
+              "correct": "Работа, совершённая за единицу времени",
+              "task_id": "physics_g8_work_energy_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "В каких единицах измеряется мощность в СИ?",
+                "kk": "ХБ жүйесінде қуат қандай бірлікпен өлшенеді?",
+                "en": "In which units is power measured in SI?"
+              },
+              "options": [
+                "Ватт",
+                "Джоуль",
+                "Ньютон"
+              ],
+              "correct": "Ватт",
+              "task_id": "physics_g8_work_energy_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Кинетическая энергия тела зависит от",
+                "kk": "Дененің кинетикалық энергиясы неге байланысты",
+                "en": "A body's kinetic energy depends on"
+              },
+              "options": [
+                "Массы и скорости тела",
+                "Только цвета тела",
+                "Только температуры воздуха"
+              ],
+              "correct": "Массы и скорости тела",
+              "task_id": "physics_g8_work_energy_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Потенциальная энергия тела, поднятого над землёй, зависит от",
+                "kk": "Жерден биіктетілген дененің потенциалдық энергиясы неге байланысты",
+                "en": "The potential energy of a body raised above the ground depends on"
+              },
+              "options": [
+                "Высоты и массы тела",
+                "Только скорости",
+                "Только цвета"
+              ],
+              "correct": "Высоты и массы тела",
+              "task_id": "physics_g8_work_energy_006"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Закон сохранения энергии гласит, что энергия",
+                "kk": "Энергияның сақталу заңы бойынша энергия",
+                "en": "The law of conservation of energy states that energy"
+              },
+              "options": [
+                "Не исчезает, а переходит из одной формы в другую",
+                "Всегда исчезает со временем",
+                "Существует только в одной форме"
+              ],
+              "correct": "Не исчезает, а переходит из одной формы в другую",
+              "task_id": "physics_g8_work_energy_007"
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "topics": [
+        {
+          "topic_id": "physics_g9_kinematics",
+          "title": {
+            "ru": "Равноускоренное движение",
+            "kk": "Бірқалыпты үдемелі қозғалыс",
+            "en": "Uniformly Accelerated Motion"
+          },
+          "quest_icon": "speedometer",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется движение с постоянным ускорением?",
+                "kk": "Тұрақты үдеумен болатын қозғалыс қалай аталады?",
+                "en": "What is motion with constant acceleration called?"
+              },
+              "options": [
+                "Равноускоренное движение",
+                "Равномерное движение",
+                "Покой"
+              ],
+              "correct": "Равноускоренное движение",
+              "task_id": "physics_g9_kinematics_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое ускорение?",
+                "kk": "Үдеу дегеніміз не?",
+                "en": "What is acceleration?"
+              },
+              "options": [
+                "Изменение скорости за единицу времени",
+                "Только скорость тела",
+                "Только путь тела"
+              ],
+              "correct": "Изменение скорости за единицу времени",
+              "task_id": "physics_g9_kinematics_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "В каких единицах измеряется ускорение в СИ?",
+                "kk": "ХБ жүйесінде үдеу қандай бірлікпен өлшенеді?",
+                "en": "In which units is acceleration measured in SI?"
+              },
+              "options": [
+                "м/с²",
+                "м/с",
+                "с"
+              ],
+              "correct": "м/с²",
+              "task_id": "physics_g9_kinematics_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Свободное падение тел — это движение под действием",
+                "kk": "Дененің еркін құлауы — бұл әсерімен болатын қозғалыс",
+                "en": "Free fall of bodies is motion under the action of"
+              },
+              "options": [
+                "Только силы тяжести",
+                "Только силы трения",
+                "Только силы упругости"
+              ],
+              "correct": "Только силы тяжести",
+              "task_id": "physics_g9_kinematics_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое равномерное движение по окружности?",
+                "kk": "Шеңбер бойымен бірқалыпты қозғалыс дегеніміз не?",
+                "en": "What is uniform circular motion?"
+              },
+              "options": [
+                "Движение с постоянной по модулю скоростью по кругу",
+                "Движение по прямой",
+                "Движение с постоянным ускорением по прямой"
+              ],
+              "correct": "Движение с постоянной по модулю скоростью по кругу",
+              "task_id": "physics_g9_kinematics_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Ускорение при равномерном движении по окружности направлено",
+                "kk": "Шеңбер бойымен бірқалыпты қозғалыстағы үдеу қалай бағытталған?",
+                "en": "Acceleration in uniform circular motion is directed"
+              },
+              "options": [
+                "К центру окружности",
+                "По касательной",
+                "Против движения"
+              ],
+              "correct": "К центру окружности",
+              "task_id": "physics_g9_kinematics_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "physics_g9_newton_laws",
+          "title": {
+            "ru": "Законы Ньютона",
+            "kk": "Ньютон заңдары",
+            "en": "Newton's Laws"
+          },
+          "quest_icon": "sigma",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Первый закон Ньютона называют законом",
+                "kk": "Ньютонның бірінші заңы қалай аталады?",
+                "en": "Newton's first law is called the law of"
+              },
+              "options": [
+                "Инерции",
+                "Всемирного тяготения",
+                "Сохранения импульса"
+              ],
+              "correct": "Инерции",
+              "task_id": "physics_g9_newton_laws_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Второй закон Ньютона связывает силу, массу и",
+                "kk": "Ньютонның екінші заңы күшті, массаны және немен байланыстырады",
+                "en": "Newton's second law relates force, mass, and"
+              },
+              "options": [
+                "Ускорение",
+                "Только скорость",
+                "Только время"
+              ],
+              "correct": "Ускорение",
+              "task_id": "physics_g9_newton_laws_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "По формуле второго закона Ньютона F = m·a, ускорение растёт при",
+                "kk": "F = m·a формуласы бойынша үдеу қашан артады?",
+                "en": "By Newton's second law formula F = m·a, acceleration increases when"
+              },
+              "options": [
+                "Увеличении силы при неизменной массе",
+                "Уменьшении силы",
+                "Увеличении времени"
+              ],
+              "correct": "Увеличении силы при неизменной массе",
+              "task_id": "physics_g9_newton_laws_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Третий закон Ньютона гласит: силы действия и противодействия",
+                "kk": "Ньютонның үшінші заңы бойынша әсер және кері әсер күштері",
+                "en": "Newton's third law states that action and reaction forces are"
+              },
+              "options": [
+                "Равны по модулю и противоположны по направлению",
+                "Всегда направлены в одну сторону",
+                "Никогда не бывают равны"
+              ],
+              "correct": "Равны по модулю и противоположны по направлению",
+              "task_id": "physics_g9_newton_laws_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Тело сохраняет состояние покоя или равномерного движения, если",
+                "kk": "Дене тыныштық немесе бірқалыпты қозғалыс күйін қашан сақтайды",
+                "en": "A body maintains rest or uniform motion if"
+              },
+              "options": [
+                "Сумма сил, действующих на него, равна нулю",
+                "На него действует любая сила",
+                "Оно ускоряется"
+              ],
+              "correct": "Сумма сил, действующих на него, равна нулю",
+              "task_id": "physics_g9_newton_laws_005"
+            }
+          ]
+        },
+        {
+          "topic_id": "physics_g9_momentum",
+          "title": {
+            "ru": "Импульс тела",
+            "kk": "Дене импульсі",
+            "en": "Momentum"
+          },
+          "quest_icon": "arrow-right-bold",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое импульс тела?",
+                "kk": "Дене импульсі дегеніміз не?",
+                "en": "What is the momentum of a body?"
+              },
+              "options": [
+                "Произведение массы тела на его скорость",
+                "Только масса тела",
+                "Только скорость тела"
+              ],
+              "correct": "Произведение массы тела на его скорость",
+              "task_id": "physics_g9_momentum_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Закон сохранения импульса гласит, что в замкнутой системе импульс",
+                "kk": "Импульстің сақталу заңы бойынша тұйық жүйеде импульс",
+                "en": "The law of conservation of momentum states that in a closed system, momentum"
+              },
+              "options": [
+                "Остаётся постоянным",
+                "Всегда увеличивается",
+                "Всегда уменьшается"
+              ],
+              "correct": "Остаётся постоянным",
+              "task_id": "physics_g9_momentum_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "В каких единицах измеряется импульс в СИ?",
+                "kk": "ХБ жүйесінде импульс қандай бірлікпен өлшенеді?",
+                "en": "In which units is momentum measured in SI?"
+              },
+              "options": [
+                "кг·м/с",
+                "Ньютон",
+                "Джоуль"
+              ],
+              "correct": "кг·м/с",
+              "task_id": "physics_g9_momentum_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "При столкновении двух тел без внешних сил их общий импульс",
+                "kk": "Сыртқы күштерсіз екі дене соқтығысқанда олардың жалпы импульсі",
+                "en": "When two bodies collide with no external forces, their total momentum"
+              },
+              "options": [
+                "Сохраняется",
+                "Исчезает",
+                "Удваивается"
+              ],
+              "correct": "Сохраняется",
+              "task_id": "physics_g9_momentum_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Реактивное движение ракеты основано на законе",
+                "kk": "Зымыранның реактивті қозғалысы қандай заңға негізделген",
+                "en": "A rocket's jet propulsion is based on the law of"
+              },
+              "options": [
+                "Сохранения импульса",
+                "Всемирного тяготения",
+                "Ома"
+              ],
+              "correct": "Сохранения импульса",
+              "task_id": "physics_g9_momentum_005"
+            }
+          ]
+        },
+        {
+          "topic_id": "physics_g9_vibrations_waves",
+          "title": {
+            "ru": "Механические колебания и волны",
+            "kk": "Механикалық тербелістер мен толқындар",
+            "en": "Mechanical Vibrations and Waves"
+          },
+          "quest_icon": "sine-wave",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое колебательное движение?",
+                "kk": "Тербелмелі қозғалыс дегеніміз не?",
+                "en": "What is oscillatory motion?"
+              },
+              "options": [
+                "Периодически повторяющееся движение",
+                "Движение только по прямой",
+                "Движение с постоянной скоростью"
+              ],
+              "correct": "Периодически повторяющееся движение",
+              "task_id": "physics_g9_vibrations_waves_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое период колебаний?",
+                "kk": "Тербеліс периоды дегеніміз не?",
+                "en": "What is the period of oscillation?"
+              },
+              "options": [
+                "Время одного полного колебания",
+                "Только скорость колебаний",
+                "Только высота колебаний"
+              ],
+              "correct": "Время одного полного колебания",
+              "task_id": "physics_g9_vibrations_waves_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Частота колебаний — это",
+                "kk": "Тербеліс жиілігі — бұл",
+                "en": "The frequency of oscillation is"
+              },
+              "options": [
+                "Число колебаний за единицу времени",
+                "Время одного колебания",
+                "Расстояние от положения равновесия"
+              ],
+              "correct": "Число колебаний за единицу времени",
+              "task_id": "physics_g9_vibrations_waves_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется волна, в которой колебания происходят вдоль направления распространения?",
+                "kk": "Тербелістер таралу бағытымен бағыттас болатын толқын қалай аталады",
+                "en": "What is a wave called in which oscillations occur along the direction of propagation?"
+              },
+              "options": [
+                "Продольная",
+                "Поперечная",
+                "Стоячая"
+              ],
+              "correct": "Продольная",
+              "task_id": "physics_g9_vibrations_waves_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Звук распространяется в виде волн какого типа?",
+                "kk": "Дыбыс қандай толқындар түрінде таралады?",
+                "en": "Sound propagates as which type of waves?"
+              },
+              "options": [
+                "Продольных",
+                "Только поперечных",
+                "Электромагнитных"
+              ],
+              "correct": "Продольных",
+              "task_id": "physics_g9_vibrations_waves_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Может ли звук распространяться в вакууме?",
+                "kk": "Дыбыс вакуумда таралады ма?",
+                "en": "Can sound travel through a vacuum?"
+              },
+              "options": [
+                "Нет, звуку нужна среда",
+                "Да, всегда",
+                "Да, но только быстрее"
+              ],
+              "correct": "Нет, звуку нужна среда",
+              "task_id": "physics_g9_vibrations_waves_006"
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "topics": [
+        {
+          "topic_id": "physics_g10_molecular",
+          "title": {
+            "ru": "Молекулярная физика",
+            "kk": "Молекулалық физика",
+            "en": "Molecular Physics"
+          },
+          "quest_icon": "molecule",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Молекулярно-кинетическая теория утверждает, что все вещества состоят из",
+                "kk": "Молекулалық-кинетикалық теория бойынша барлық заттар неден тұрады",
+                "en": "Molecular-kinetic theory states that all substances consist of"
+              },
+              "options": [
+                "Постоянно движущихся частиц",
+                "Неподвижных частиц",
+                "Только жидкости"
+              ],
+              "correct": "Постоянно движущихся частиц",
+              "task_id": "physics_g10_molecular_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое диффузия?",
+                "kk": "Диффузия дегеніміз не?",
+                "en": "What is diffusion?"
+              },
+              "options": [
+                "Взаимное проникновение молекул одного вещества в другое",
+                "Только нагревание вещества",
+                "Только сжатие вещества"
+              ],
+              "correct": "Взаимное проникновение молекул одного вещества в другое",
+              "task_id": "physics_g10_molecular_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Температура тела связана со",
+                "kk": "Дене температурасы немен байланысты",
+                "en": "The temperature of a body is related to"
+              },
+              "options": [
+                "Средней кинетической энергией его молекул",
+                "Только объёмом тела",
+                "Только цветом тела"
+              ],
+              "correct": "Средней кинетической энергией его молекул",
+              "task_id": "physics_g10_molecular_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Идеальный газ — это модель, в которой молекулы",
+                "kk": "Идеал газ — бұл молекулалары қандай модель",
+                "en": "An ideal gas is a model in which molecules"
+              },
+              "options": [
+                "Не взаимодействуют друг с другом (кроме соударений)",
+                "Всегда притягиваются друг к другу",
+                "Неподвижны"
+              ],
+              "correct": "Не взаимодействуют друг с другом (кроме соударений)",
+              "task_id": "physics_g10_molecular_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "В каких единицах измеряется температура в СИ?",
+                "kk": "ХБ жүйесінде температура қандай бірлікпен өлшенеді?",
+                "en": "In which units is temperature measured in SI?"
+              },
+              "options": [
+                "Кельвин",
+                "Цельсий только",
+                "Фаренгейт"
+              ],
+              "correct": "Кельвин",
+              "task_id": "physics_g10_molecular_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "При повышении температуры газа при постоянном объёме его давление",
+                "kk": "Тұрақты көлемде газ температурасы артқанда оның қысымы",
+                "en": "When the temperature of a gas increases at constant volume, its pressure"
+              },
+              "options": [
+                "Увеличивается",
+                "Уменьшается",
+                "Не меняется"
+              ],
+              "correct": "Увеличивается",
+              "task_id": "physics_g10_molecular_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "physics_g10_electrostatics",
+          "title": {
+            "ru": "Электростатика",
+            "kk": "Электростатика",
+            "en": "Electrostatics"
+          },
+          "quest_icon": "flash",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какие бывают виды электрического заряда?",
+                "kk": "Электр заряды қандай түрлерге бөлінеді",
+                "en": "What types of electric charge exist?"
+              },
+              "options": [
+                "Положительный и отрицательный",
+                "Только положительный",
+                "Только нейтральный"
+              ],
+              "correct": "Положительный и отрицательный",
+              "task_id": "physics_g10_electrostatics_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Одноимённо заряженные тела",
+                "kk": "Бірдей зарядталған денелер бір-бірін",
+                "en": "Bodies with like charges"
+              },
+              "options": [
+                "Отталкиваются",
+                "Притягиваются",
+                "Никак не взаимодействуют"
+              ],
+              "correct": "Отталкиваются",
+              "task_id": "physics_g10_electrostatics_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Разноимённо заряженные тела",
+                "kk": "Әртүрлі зарядталған денелер бір-бірін",
+                "en": "Bodies with unlike charges"
+              },
+              "options": [
+                "Притягиваются",
+                "Отталкиваются",
+                "Никак не взаимодействуют"
+              ],
+              "correct": "Притягиваются",
+              "task_id": "physics_g10_electrostatics_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Закон Кулона описывает силу взаимодействия между",
+                "kk": "Кулон заңы неге арасындағы әсер күшін сипаттайды",
+                "en": "Coulomb's law describes the force of interaction between"
+              },
+              "options": [
+                "Точечными электрическими зарядами",
+                "Только массами тел",
+                "Только магнитами"
+              ],
+              "correct": "Точечными электрическими зарядами",
+              "task_id": "physics_g10_electrostatics_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Электрическое поле создаётся",
+                "kk": "Электр өрісі немен жасалады",
+                "en": "An electric field is created by"
+              },
+              "options": [
+                "Электрическим зарядом",
+                "Только магнитом",
+                "Только движением тела"
+              ],
+              "correct": "Электрическим зарядом",
+              "task_id": "physics_g10_electrostatics_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "В каких единицах измеряется электрический заряд в СИ?",
+                "kk": "ХБ жүйесінде электр заряды қандай бірлікпен өлшенеді?",
+                "en": "In which units is electric charge measured in SI?"
+              },
+              "options": [
+                "Кулон",
+                "Ампер",
+                "Вольт"
+              ],
+              "correct": "Кулон",
+              "task_id": "physics_g10_electrostatics_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "physics_g10_dc_circuits",
+          "title": {
+            "ru": "Постоянный электрический ток",
+            "kk": "Тұрақты электр тогы",
+            "en": "Direct Current Circuits"
+          },
+          "quest_icon": "current-dc",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Закон Ома для участка цепи гласит: сила тока",
+                "kk": "Тізбек бөлігі үшін Ом заңы бойынша ток күші",
+                "en": "Ohm's law for a circuit section states that current is"
+              },
+              "options": [
+                "Прямо пропорциональна напряжению и обратно пропорциональна сопротивлению",
+                "Не зависит от напряжения",
+                "Всегда постоянна"
+              ],
+              "correct": "Прямо пропорциональна напряжению и обратно пропорциональна сопротивлению",
+              "task_id": "physics_g10_dc_circuits_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "В каких единицах измеряется сила тока в СИ?",
+                "kk": "ХБ жүйесінде ток күші қандай бірлікпен өлшенеді?",
+                "en": "In which units is current measured in SI?"
+              },
+              "options": [
+                "Ампер",
+                "Вольт",
+                "Ом"
+              ],
+              "correct": "Ампер",
+              "task_id": "physics_g10_dc_circuits_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "В каких единицах измеряется напряжение в СИ?",
+                "kk": "ХБ жүйесінде кернеу қандай бірлікпен өлшенеді?",
+                "en": "In which units is voltage measured in SI?"
+              },
+              "options": [
+                "Вольт",
+                "Ампер",
+                "Ом"
+              ],
+              "correct": "Вольт",
+              "task_id": "physics_g10_dc_circuits_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "В каких единицах измеряется сопротивление в СИ?",
+                "kk": "ХБ жүйесінде кедергі қандай бірлікпен өлшенеді?",
+                "en": "In which units is resistance measured in SI?"
+              },
+              "options": [
+                "Ом",
+                "Ампер",
+                "Вольт"
+              ],
+              "correct": "Ом",
+              "task_id": "physics_g10_dc_circuits_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "При последовательном соединении проводников общее сопротивление равно",
+                "kk": "Өткізгіштерді тізбектей жалғағанда жалпы кедергі неге тең",
+                "en": "When resistors are connected in series, the total resistance equals"
+              },
+              "options": [
+                "Сумме сопротивлений",
+                "Наименьшему сопротивлению",
+                "Всегда нулю"
+              ],
+              "correct": "Сумме сопротивлений",
+              "task_id": "physics_g10_dc_circuits_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "При параллельном соединении проводников общее сопротивление",
+                "kk": "Өткізгіштерді параллель жалғағанда жалпы кедергі",
+                "en": "When resistors are connected in parallel, the total resistance is"
+              },
+              "options": [
+                "Меньше наименьшего из сопротивлений",
+                "Больше суммы сопротивлений",
+                "Всегда равно нулю"
+              ],
+              "correct": "Меньше наименьшего из сопротивлений",
+              "task_id": "physics_g10_dc_circuits_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "physics_g10_magnetic_field",
+          "title": {
+            "ru": "Магнитное поле",
+            "kk": "Магнит өрісі",
+            "en": "Magnetic Field"
+          },
+          "quest_icon": "magnet",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Магнитное поле создаётся",
+                "kk": "Магнит өрісі немен жасалады",
+                "en": "A magnetic field is created by"
+              },
+              "options": [
+                "Движущимися электрическими зарядами (током)",
+                "Только неподвижными зарядами",
+                "Только силой тяжести"
+              ],
+              "correct": "Движущимися электрическими зарядами (током)",
+              "task_id": "physics_g10_magnetic_field_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называются полюса магнита?",
+                "kk": "Магниттің полюстері қалай аталады?",
+                "en": "What are the poles of a magnet called?"
+              },
+              "options": [
+                "Северный и южный",
+                "Положительный и отрицательный",
+                "Верхний и нижний"
+              ],
+              "correct": "Северный и южный",
+              "task_id": "physics_g10_magnetic_field_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Одноимённые полюса магнитов",
+                "kk": "Бірдей магнит полюстері бір-бірін",
+                "en": "Like poles of magnets"
+              },
+              "options": [
+                "Отталкиваются",
+                "Притягиваются",
+                "Не взаимодействуют"
+              ],
+              "correct": "Отталкиваются",
+              "task_id": "physics_g10_magnetic_field_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Прибор, показывающий направление магнитного поля Земли, — это",
+                "kk": "Жердің магнит өрісінің бағытын көрсететін құрал — бұл",
+                "en": "The instrument that shows the direction of Earth's magnetic field is a"
+              },
+              "options": [
+                "Компас",
+                "Амперметр",
+                "Вольтметр"
+              ],
+              "correct": "Компас",
+              "task_id": "physics_g10_magnetic_field_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Электромагнит создаёт магнитное поле с помощью",
+                "kk": "Электромагнит магнит өрісін немен жасайды",
+                "en": "An electromagnet creates a magnetic field using"
+              },
+              "options": [
+                "Электрического тока в катушке",
+                "Только постоянного магнита",
+                "Только силы трения"
+              ],
+              "correct": "Электрического тока в катушке",
+              "task_id": "physics_g10_magnetic_field_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Явление электромагнитной индукции — это возникновение",
+                "kk": "Электромагниттік индукция құбылысы — бұл немесе туындауы",
+                "en": "The phenomenon of electromagnetic induction is the generation of"
+              },
+              "options": [
+                "Электрического тока при изменении магнитного поля",
+                "Магнитного поля без тока",
+                "Тепла без электричества"
+              ],
+              "correct": "Электрического тока при изменении магнитного поля",
+              "task_id": "physics_g10_magnetic_field_006"
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "topics": [
+        {
+          "topic_id": "physics_g11_geometric_optics",
+          "title": {
+            "ru": "Геометрическая оптика",
+            "kk": "Геометриялық оптика",
+            "en": "Geometric Optics"
+          },
+          "quest_icon": "eye-outline",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Закон отражения света гласит: угол падения",
+                "kk": "Жарықтың шағылу заңы бойынша түсу бұрышы",
+                "en": "The law of reflection states that the angle of incidence"
+              },
+              "options": [
+                "Равен углу отражения",
+                "Всегда больше угла отражения",
+                "Всегда меньше угла отражения"
+              ],
+              "correct": "Равен углу отражения",
+              "task_id": "physics_g11_geometric_optics_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое преломление света?",
+                "kk": "Жарықтың сынуы дегеніміз не?",
+                "en": "What is the refraction of light?"
+              },
+              "options": [
+                "Изменение направления света при переходе из одной среды в другую",
+                "Полное исчезновение света",
+                "Только отражение света"
+              ],
+              "correct": "Изменение направления света при переходе из одной среды в другую",
+              "task_id": "physics_g11_geometric_optics_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Собирающая линза заставляет параллельные лучи света",
+                "kk": "Жинағыш линза параллель жарық сәулелерін немен әсер етеді",
+                "en": "A converging lens causes parallel light rays to"
+              },
+              "options": [
+                "Сходиться в одной точке (фокусе)",
+                "Расходиться в разные стороны",
+                "Отражаться назад"
+              ],
+              "correct": "Сходиться в одной точке (фокусе)",
+              "task_id": "physics_g11_geometric_optics_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Рассеивающая линза заставляет параллельные лучи света",
+                "kk": "Шашыратқыш линза параллель жарық сәулелерін немен әсер етеді",
+                "en": "A diverging lens causes parallel light rays to"
+              },
+              "options": [
+                "Расходиться в разные стороны",
+                "Сходиться в одной точке",
+                "Отражаться полностью"
+              ],
+              "correct": "Расходиться в разные стороны",
+              "task_id": "physics_g11_geometric_optics_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Мнимое изображение в оптике — это изображение, которое",
+                "kk": "Оптикадағы жалған кескін дегеніміз — қандай кескін",
+                "en": "A virtual image in optics is an image that"
+              },
+              "options": [
+                "Нельзя получить на экране",
+                "Всегда можно получить на экране",
+                "Не существует никогда"
+              ],
+              "correct": "Нельзя получить на экране",
+              "task_id": "physics_g11_geometric_optics_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Явление полного внутреннего отражения используется в",
+                "kk": "Толық ішкі шағылу құбылысы неде қолданылады",
+                "en": "The phenomenon of total internal reflection is used in"
+              },
+              "options": [
+                "Оптоволоконных кабелях",
+                "Только зеркалах ванной комнаты",
+                "Только термометрах"
+              ],
+              "correct": "Оптоволоконных кабелях",
+              "task_id": "physics_g11_geometric_optics_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "physics_g11_wave_optics",
+          "title": {
+            "ru": "Волновая оптика",
+            "kk": "Толқындық оптика",
+            "en": "Wave Optics"
+          },
+          "quest_icon": "waveform",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что доказывает явление интерференции света?",
+                "kk": "Жарық интерференциясы құбылысы нені дәлелдейді?",
+                "en": "What does the phenomenon of light interference prove?"
+              },
+              "options": [
+                "Волновую природу света",
+                "Только корпускулярную природу света",
+                "Отсутствие у света каких-либо свойств"
+              ],
+              "correct": "Волновую природу света",
+              "task_id": "physics_g11_wave_optics_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Дифракция света — это явление",
+                "kk": "Жарық дифракциясы — бұл жарықтың",
+                "en": "Diffraction of light is the phenomenon of light"
+              },
+              "options": [
+                "Огибания светом препятствий",
+                "Полного поглощения света",
+                "Отсутствия распространения света"
+              ],
+              "correct": "Огибания светом препятствий",
+              "task_id": "physics_g11_wave_optics_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какое явление объясняет разложение белого света на цвета радуги призмой?",
+                "kk": "Ақ жарықтың призмамен кемпірқосақ түстеріне бөліну құбылысы қалай аталады?",
+                "en": "Which phenomenon explains a prism splitting white light into rainbow colors?"
+              },
+              "options": [
+                "Дисперсия света",
+                "Отражение света",
+                "Поглощение света"
+              ],
+              "correct": "Дисперсия света",
+              "task_id": "physics_g11_wave_optics_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Явление поляризации света показывает, что световые волны являются",
+                "kk": "Жарықтың поляризациясы құбылысы жарық толқындарының қандай екенін көрсетеді",
+                "en": "The phenomenon of light polarization shows that light waves are"
+              },
+              "options": [
+                "Поперечными",
+                "Продольными",
+                "Не являются волнами вовсе"
+              ],
+              "correct": "Поперечными",
+              "task_id": "physics_g11_wave_optics_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Видимый свет является частью",
+                "kk": "Көрінетін жарық немененің бөлігі",
+                "en": "Visible light is part of the"
+              },
+              "options": [
+                "Электромагнитного спектра",
+                "Только звуковых волн",
+                "Только гравитационных волн"
+              ],
+              "correct": "Электромагнитного спектра",
+              "task_id": "physics_g11_wave_optics_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Скорость света в вакууме составляет примерно",
+                "kk": "Вакуумдегі жарық жылдамдығы шамамен",
+                "en": "The speed of light in a vacuum is approximately"
+              },
+              "options": [
+                "300 000 км/с",
+                "300 км/с",
+                "3 000 000 км/с"
+              ],
+              "correct": "300 000 км/с",
+              "task_id": "physics_g11_wave_optics_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "physics_g11_atomic_nuclear",
+          "title": {
+            "ru": "Атомная и ядерная физика",
+            "kk": "Атомдық және ядролық физика",
+            "en": "Atomic and Nuclear Physics"
+          },
+          "quest_icon": "radioactive",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Атом состоит из ядра и",
+                "kk": "Атом ядро мен неден тұрады",
+                "en": "An atom consists of a nucleus and"
+              },
+              "options": [
+                "Электронной оболочки",
+                "Только протонов",
+                "Только нейтронов"
+              ],
+              "correct": "Электронной оболочки",
+              "task_id": "physics_g11_atomic_nuclear_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Ядро атома состоит из",
+                "kk": "Атом ядросы неден тұрады",
+                "en": "The nucleus of an atom consists of"
+              },
+              "options": [
+                "Протонов и нейтронов",
+                "Только протонов",
+                "Только электронов"
+              ],
+              "correct": "Протонов и нейтронов",
+              "task_id": "physics_g11_atomic_nuclear_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Радиоактивность — это",
+                "kk": "Радиоактивтілік дегеніміз",
+                "en": "Radioactivity is"
+              },
+              "options": [
+                "Самопроизвольный распад ядер атомов",
+                "Только свечение вещества на солнце",
+                "Только нагревание тела"
+              ],
+              "correct": "Самопроизвольный распад ядер атомов",
+              "task_id": "physics_g11_atomic_nuclear_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Реакция деления ядра происходит при",
+                "kk": "Ядро бөліну реакциясы қашан жүреді",
+                "en": "Nuclear fission occurs when"
+              },
+              "options": [
+                "Расщеплении тяжёлого ядра на более лёгкие",
+                "Слиянии двух лёгких ядер",
+                "Полном исчезновении ядра"
+              ],
+              "correct": "Расщеплении тяжёлого ядра на более лёгкие",
+              "task_id": "physics_g11_atomic_nuclear_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Реакция синтеза ядра происходит при",
+                "kk": "Ядро синтезі реакциясы қашан жүреді",
+                "en": "Nuclear fusion occurs when"
+              },
+              "options": [
+                "Слиянии лёгких ядер в более тяжёлое",
+                "Расщеплении тяжёлого ядра",
+                "Отсутствии ядерных реакций"
+              ],
+              "correct": "Слиянии лёгких ядер в более тяжёлое",
+              "task_id": "physics_g11_atomic_nuclear_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Атомная электростанция вырабатывает энергию за счёт",
+                "kk": "Атом электр станциясы энергияны немен өндіреді",
+                "en": "A nuclear power plant generates energy through"
+              },
+              "options": [
+                "Управляемой реакции деления ядер",
+                "Сжигания угля только",
+                "Ветряных турбин"
+              ],
+              "correct": "Управляемой реакции деления ядер",
+              "task_id": "physics_g11_atomic_nuclear_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "physics_g11_electromagnetic_waves",
+          "title": {
+            "ru": "Электромагнитные волны",
+            "kk": "Электромагниттік толқындар",
+            "en": "Electromagnetic Waves"
+          },
+          "quest_icon": "wifi",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Электромагнитные волны создаются",
+                "kk": "Электромагниттік толқындар немен жасалады",
+                "en": "Electromagnetic waves are created by"
+              },
+              "options": [
+                "Ускоренно движущимися электрическими зарядами",
+                "Только неподвижными зарядами",
+                "Только силой тяжести"
+              ],
+              "correct": "Ускоренно движущимися электрическими зарядами",
+              "task_id": "physics_g11_electromagnetic_waves_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Могут ли электромагнитные волны распространяться в вакууме?",
+                "kk": "Электромагниттік толқындар вакуумде тарала ма?",
+                "en": "Can electromagnetic waves propagate in a vacuum?"
+              },
+              "options": [
+                "Да, им не нужна среда",
+                "Нет, им обязательно нужна среда",
+                "Только в воде"
+              ],
+              "correct": "Да, им не нужна среда",
+              "task_id": "physics_g11_electromagnetic_waves_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "К электромагнитным волнам НЕ относится",
+                "kk": "Электромагниттік толқындарға ЖАТПАЙДЫ",
+                "en": "Which of these is NOT an electromagnetic wave?"
+              },
+              "options": [
+                "Звуковая волна",
+                "Радиоволна",
+                "Рентгеновское излучение"
+              ],
+              "correct": "Звуковая волна",
+              "task_id": "physics_g11_electromagnetic_waves_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Порядок электромагнитных волн от большей к меньшей длине волны включает",
+                "kk": "Электромагниттік толқындардың ұзын толқыннан қысқа толқынға дейінгі реті нені қамтиды",
+                "en": "The order of electromagnetic waves from longer to shorter wavelength includes"
+              },
+              "options": [
+                "Радиоволны, видимый свет, рентген",
+                "Только видимый свет",
+                "Только радиоволны"
+              ],
+              "correct": "Радиоволны, видимый свет, рентген",
+              "task_id": "physics_g11_electromagnetic_waves_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Радиосвязь основана на использовании",
+                "kk": "Радиобайланыс неге негізделген",
+                "en": "Radio communication is based on the use of"
+              },
+              "options": [
+                "Электромагнитных волн",
+                "Только звуковых волн",
+                "Только света от лампочки"
+              ],
+              "correct": "Электромагнитных волн",
+              "task_id": "physics_g11_electromagnetic_waves_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Ультрафиолетовое излучение имеет длину волны",
+                "kk": "Ультракүлгін сәулеленудің толқын ұзындығы",
+                "en": "Ultraviolet radiation has a wavelength that is"
+              },
+              "options": [
+                "Короче, чем у видимого света",
+                "Длиннее, чем у видимого света",
+                "Такую же, как у радиоволн"
+              ],
+              "correct": "Короче, чем у видимого света",
+              "task_id": "physics_g11_electromagnetic_waves_006"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

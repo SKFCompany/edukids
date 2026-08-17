@@ -1,0 +1,1636 @@
+{
+  "grades": {
+    "8": {
+      "topics": [
+        {
+          "topic_id": "chemistry_g8_intro",
+          "title": {
+            "ru": "Введение в химию",
+            "kk": "Химияға кіріспе",
+            "en": "Introduction to Chemistry"
+          },
+          "quest_icon": "flask-outline",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что изучает химия?",
+                "kk": "Химия нені зерттейді?",
+                "en": "What does chemistry study?"
+              },
+              "options": [
+                "Вещества и их превращения",
+                "Только живые организмы",
+                "Только звёзды"
+              ],
+              "correct": "Вещества и их превращения",
+              "task_id": "chemistry_g8_intro_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое атом?",
+                "kk": "Атом дегеніміз не?",
+                "en": "What is an atom?"
+              },
+              "options": [
+                "Мельчайшая частица химического элемента",
+                "Крупная частица воды",
+                "Вид молекулы только воздуха"
+              ],
+              "correct": "Мельчайшая частица химического элемента",
+              "task_id": "chemistry_g8_intro_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое молекула?",
+                "kk": "Молекула дегеніміз не?",
+                "en": "What is a molecule?"
+              },
+              "options": [
+                "Частица, состоящая из двух и более атомов",
+                "Только один атом",
+                "Вид кристалла"
+              ],
+              "correct": "Частица, состоящая из двух и более атомов",
+              "task_id": "chemistry_g8_intro_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется таблица, в которой упорядочены все химические элементы?",
+                "kk": "Барлық химиялық элементтер реттелген кесте қалай аталады?",
+                "en": "What is the table called in which all chemical elements are arranged?"
+              },
+              "options": [
+                "Периодическая таблица",
+                "Таблица умножения",
+                "Календарь"
+              ],
+              "correct": "Периодическая таблица",
+              "task_id": "chemistry_g8_intro_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Кто создал периодическую таблицу химических элементов?",
+                "kk": "Химиялық элементтердің периодтық кестесін кім жасады?",
+                "en": "Who created the periodic table of chemical elements?"
+              },
+              "options": [
+                "Дмитрий Менделеев",
+                "Исаак Ньютон",
+                "Альберт Эйнштейн"
+              ],
+              "correct": "Дмитрий Менделеев",
+              "task_id": "chemistry_g8_intro_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой газ необходим для горения?",
+                "kk": "Жану үшін қандай газ қажет?",
+                "en": "Which gas is necessary for burning?"
+              },
+              "options": [
+                "Кислород",
+                "Азот",
+                "Углекислый газ"
+              ],
+              "correct": "Кислород",
+              "task_id": "chemistry_g8_intro_006"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое химический элемент?",
+                "kk": "Химиялық элемент дегеніміз не?",
+                "en": "What is a chemical element?"
+              },
+              "options": [
+                "Вид атомов с одинаковым зарядом ядра",
+                "Любое вещество на кухне",
+                "Только металл"
+              ],
+              "correct": "Вид атомов с одинаковым зарядом ядра",
+              "task_id": "chemistry_g8_intro_007"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой прибор используют для нагревания веществ в лаборатории?",
+                "kk": "Зертханада заттарды қыздыру үшін қандай құрал қолданылады?",
+                "en": "Which instrument is used to heat substances in a lab?"
+              },
+              "options": [
+                "Спиртовку или горелку",
+                "Линейку",
+                "Микроскоп"
+              ],
+              "correct": "Спиртовку или горелку",
+              "task_id": "chemistry_g8_intro_008"
+            }
+          ]
+        },
+        {
+          "topic_id": "chemistry_g8_structure",
+          "title": {
+            "ru": "Строение атома и молекулы",
+            "kk": "Атом және молекула құрылысы",
+            "en": "Atomic and Molecular Structure"
+          },
+          "quest_icon": "atom-variant",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Из чего состоит атом?",
+                "kk": "Атом неден тұрады?",
+                "en": "What is an atom made of?"
+              },
+              "options": [
+                "Из ядра и электронов",
+                "Только из электронов",
+                "Только из протонов"
+              ],
+              "correct": "Из ядра и электронов",
+              "task_id": "chemistry_g8_structure_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой заряд имеет электрон?",
+                "kk": "Электронның заряды қандай?",
+                "en": "What charge does an electron have?"
+              },
+              "options": [
+                "Отрицательный",
+                "Положительный",
+                "Нейтральный"
+              ],
+              "correct": "Отрицательный",
+              "task_id": "chemistry_g8_structure_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой заряд имеет протон?",
+                "kk": "Протонның заряды қандай?",
+                "en": "What charge does a proton have?"
+              },
+              "options": [
+                "Положительный",
+                "Отрицательный",
+                "Нейтральный"
+              ],
+              "correct": "Положительный",
+              "task_id": "chemistry_g8_structure_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Частица без электрического заряда в ядре атома называется",
+                "kk": "Атом ядросындағы электр зарядсыз бөлшек қалай аталады?",
+                "en": "The particle with no electric charge in an atom's nucleus is called"
+              },
+              "options": [
+                "Нейтрон",
+                "Протон",
+                "Электрон"
+              ],
+              "correct": "Нейтрон",
+              "task_id": "chemistry_g8_structure_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Простое вещество кислород состоит из атомов",
+                "kk": "Оттегі жай заты неден тұрады?",
+                "en": "The simple substance oxygen consists of atoms of"
+              },
+              "options": [
+                "Только кислорода",
+                "Кислорода и водорода",
+                "Только азота"
+              ],
+              "correct": "Только кислорода",
+              "task_id": "chemistry_g8_structure_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сложное вещество (соединение) состоит из атомов",
+                "kk": "Күрделі зат (қосылыс) неден тұрады?",
+                "en": "A compound substance consists of atoms of"
+              },
+              "options": [
+                "Двух и более разных элементов",
+                "Только одного элемента",
+                "Только металлов"
+              ],
+              "correct": "Двух и более разных элементов",
+              "task_id": "chemistry_g8_structure_006"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Вода (H₂O) состоит из атомов",
+                "kk": "Су (H₂O) неден тұрады?",
+                "en": "Water (H₂O) is made of atoms of"
+              },
+              "options": [
+                "Водорода и кислорода",
+                "Только водорода",
+                "Только кислорода"
+              ],
+              "correct": "Водорода и кислорода",
+              "task_id": "chemistry_g8_structure_007"
+            }
+          ]
+        },
+        {
+          "topic_id": "chemistry_g8_reactions",
+          "title": {
+            "ru": "Химические реакции",
+            "kk": "Химиялық реакциялар",
+            "en": "Chemical Reactions"
+          },
+          "quest_icon": "test-tube",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое химическая реакция?",
+                "kk": "Химиялық реакция дегеніміз не?",
+                "en": "What is a chemical reaction?"
+              },
+              "options": [
+                "Превращение одних веществ в другие",
+                "Только изменение формы предмета",
+                "Только изменение температуры"
+              ],
+              "correct": "Превращение одних веществ в другие",
+              "task_id": "chemistry_g8_reactions_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой признак может указывать на химическую реакцию?",
+                "kk": "Химиялық реакцияны қандай белгі көрсете алады?",
+                "en": "What sign can indicate a chemical reaction?"
+              },
+              "options": [
+                "Изменение цвета или выделение газа",
+                "Только изменение размера",
+                "Только изменение веса"
+              ],
+              "correct": "Изменение цвета или выделение газа",
+              "task_id": "chemistry_g8_reactions_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Вещества, вступающие в реакцию, называются",
+                "kk": "Реакцияға түсетін заттар қалай аталады?",
+                "en": "Substances that enter into a reaction are called"
+              },
+              "options": [
+                "Реагентами",
+                "Продуктами",
+                "Катализаторами"
+              ],
+              "correct": "Реагентами",
+              "task_id": "chemistry_g8_reactions_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Вещества, образующиеся в результате реакции, называются",
+                "kk": "Реакция нәтижесінде пайда болатын заттар қалай аталады?",
+                "en": "Substances formed as a result of a reaction are called"
+              },
+              "options": [
+                "Продуктами",
+                "Реагентами",
+                "Растворителями"
+              ],
+              "correct": "Продуктами",
+              "task_id": "chemistry_g8_reactions_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что ускоряет химическую реакцию, не расходуясь сам?",
+                "kk": "Химиялық реакцияны өзі жұмсалмай тездететін не?",
+                "en": "What speeds up a chemical reaction without being consumed itself?"
+              },
+              "options": [
+                "Катализатор",
+                "Реагент",
+                "Продукт"
+              ],
+              "correct": "Катализатор",
+              "task_id": "chemistry_g8_reactions_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Горение — это реакция вещества с",
+                "kk": "Жану — бұл заттың немен реакциясы",
+                "en": "Combustion is a reaction of a substance with"
+              },
+              "options": [
+                "Кислородом",
+                "Азотом",
+                "Водой"
+              ],
+              "correct": "Кислородом",
+              "task_id": "chemistry_g8_reactions_006"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Ржавление железа — это реакция железа с",
+                "kk": "Темірдің тоттануы — бұл темірдің немен реакциясы",
+                "en": "Iron rusting is a reaction of iron with"
+              },
+              "options": [
+                "Кислородом и водой",
+                "Только водой",
+                "Только теплом"
+              ],
+              "correct": "Кислородом и водой",
+              "task_id": "chemistry_g8_reactions_007"
+            }
+          ]
+        },
+        {
+          "topic_id": "chemistry_g8_mixtures",
+          "title": {
+            "ru": "Растворы и смеси",
+            "kk": "Ерітінділер мен қоспалар",
+            "en": "Solutions and Mixtures"
+          },
+          "quest_icon": "beaker-outline",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое раствор?",
+                "kk": "Ерітінді дегеніміз не?",
+                "en": "What is a solution?"
+              },
+              "options": [
+                "Однородная смесь двух и более веществ",
+                "Только чистое вещество",
+                "Только твёрдое тело"
+              ],
+              "correct": "Однородная смесь двух и более веществ",
+              "task_id": "chemistry_g8_mixtures_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Вещество, которого в растворе больше, называется",
+                "kk": "Ерітіндіде көп болатын зат қалай аталады?",
+                "en": "The substance present in greater amount in a solution is called"
+              },
+              "options": [
+                "Растворителем",
+                "Растворённым веществом",
+                "Осадком"
+              ],
+              "correct": "Растворителем",
+              "task_id": "chemistry_g8_mixtures_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Самый распространённый растворитель на Земле — это",
+                "kk": "Жердегі ең көп таралған еріткіш — бұл",
+                "en": "The most common solvent on Earth is"
+              },
+              "options": [
+                "Вода",
+                "Спирт",
+                "Масло"
+              ],
+              "correct": "Вода",
+              "task_id": "chemistry_g8_mixtures_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как можно ускорить растворение сахара в воде?",
+                "kk": "Судағы қантты еруін қалай тездетуге болады?",
+                "en": "How can you speed up sugar dissolving in water?"
+              },
+              "options": [
+                "Подогреть воду и помешать",
+                "Охладить воду",
+                "Добавить масло"
+              ],
+              "correct": "Подогреть воду и помешать",
+              "task_id": "chemistry_g8_mixtures_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Раствор, в котором вещество больше не растворяется, называется",
+                "kk": "Заттың енді ерімейтін ерітіндісі қалай аталады?",
+                "en": "A solution in which a substance no longer dissolves is called"
+              },
+              "options": [
+                "Насыщенным",
+                "Разбавленным",
+                "Пустым"
+              ],
+              "correct": "Насыщенным",
+              "task_id": "chemistry_g8_mixtures_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Смешивание масла и воды даёт",
+                "kk": "Май мен суды араластырса не пайда болады",
+                "en": "Mixing oil and water produces"
+              },
+              "options": [
+                "Неоднородную (расслаивающуюся) смесь",
+                "Однородный раствор",
+                "Новое чистое вещество"
+              ],
+              "correct": "Неоднородную (расслаивающуюся) смесь",
+              "task_id": "chemistry_g8_mixtures_006"
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "topics": [
+        {
+          "topic_id": "chemistry_g9_periodic_law",
+          "title": {
+            "ru": "Периодический закон",
+            "kk": "Периодтық заң",
+            "en": "Periodic Law"
+          },
+          "quest_icon": "table",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Периодический закон гласит, что свойства элементов зависят от",
+                "kk": "Периодтық заң бойынша элементтердің қасиеттері неге байланысты",
+                "en": "The periodic law states that the properties of elements depend on"
+              },
+              "options": [
+                "Заряда ядра атома",
+                "Только цвета вещества",
+                "Только массы вещества"
+              ],
+              "correct": "Заряда ядра атома",
+              "task_id": "chemistry_g9_periodic_law_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "В периодической таблице период — это",
+                "kk": "Периодтық кестеде период дегеніміз",
+                "en": "In the periodic table, a period is a"
+              },
+              "options": [
+                "Горизонтальный ряд элементов",
+                "Вертикальный столбец элементов",
+                "Только один элемент"
+              ],
+              "correct": "Горизонтальный ряд элементов",
+              "task_id": "chemistry_g9_periodic_law_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "В периодической таблице группа — это",
+                "kk": "Периодтық кестеде топ дегеніміз",
+                "en": "In the periodic table, a group is a"
+              },
+              "options": [
+                "Вертикальный столбец элементов",
+                "Горизонтальный ряд элементов",
+                "Только металлы"
+              ],
+              "correct": "Вертикальный столбец элементов",
+              "task_id": "chemistry_g9_periodic_law_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Элементы одной группы имеют схожие",
+                "kk": "Бір топтағы элементтердің қандай ұқсастығы бар",
+                "en": "Elements in the same group have similar"
+              },
+              "options": [
+                "Химические свойства",
+                "Всегда одинаковый цвет",
+                "Всегда одинаковую массу"
+              ],
+              "correct": "Химические свойства",
+              "task_id": "chemistry_g9_periodic_law_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Металлические свойства элементов в периоде слева направо обычно",
+                "kk": "Периодта солдан оңға қарай элементтердің металдық қасиеттері әдетте",
+                "en": "Metallic properties of elements across a period from left to right usually"
+              },
+              "options": [
+                "Уменьшаются",
+                "Увеличиваются",
+                "Не меняются"
+              ],
+              "correct": "Уменьшаются",
+              "task_id": "chemistry_g9_periodic_law_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Инертные (благородные) газы находятся в",
+                "kk": "Асыл газдар кестенің қай тобында орналасқан",
+                "en": "Noble gases are located in the"
+              },
+              "options": [
+                "Последней группе таблицы",
+                "Первой группе таблицы",
+                "Только в 3 периоде"
+              ],
+              "correct": "Последней группе таблицы",
+              "task_id": "chemistry_g9_periodic_law_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "chemistry_g9_bonds",
+          "title": {
+            "ru": "Химическая связь",
+            "kk": "Химиялық байланыс",
+            "en": "Chemical Bonding"
+          },
+          "quest_icon": "link-variant",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой тип связи образуется между атомами металла и неметалла?",
+                "kk": "Металл мен бейметалл атомдарының арасында қандай байланыс түзіледі",
+                "en": "What type of bond forms between a metal and a nonmetal atom?"
+              },
+              "options": [
+                "Ионная связь",
+                "Ковалентная неполярная",
+                "Металлическая"
+              ],
+              "correct": "Ионная связь",
+              "task_id": "chemistry_g9_bonds_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой тип связи образуется между атомами одного неметалла?",
+                "kk": "Бір бейметалл атомдарының арасында қандай байланыс түзіледі",
+                "en": "What type of bond forms between atoms of the same nonmetal?"
+              },
+              "options": [
+                "Ковалентная неполярная связь",
+                "Ионная связь",
+                "Металлическая связь"
+              ],
+              "correct": "Ковалентная неполярная связь",
+              "task_id": "chemistry_g9_bonds_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Ковалентная связь образуется за счёт",
+                "kk": "Коваленттік байланыс немен түзіледі",
+                "en": "A covalent bond forms through"
+              },
+              "options": [
+                "Общих электронных пар",
+                "Полной передачи электронов",
+                "Притяжения ядер без электронов"
+              ],
+              "correct": "Общих электронных пар",
+              "task_id": "chemistry_g9_bonds_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Ионная связь образуется за счёт",
+                "kk": "Иондық байланыс немен түзіледі",
+                "en": "An ionic bond forms through"
+              },
+              "options": [
+                "Притяжения противоположно заряженных ионов",
+                "Общих электронных пар",
+                "Свободного движения электронов"
+              ],
+              "correct": "Притяжения противоположно заряженных ионов",
+              "task_id": "chemistry_g9_bonds_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Металлическая связь характерна для",
+                "kk": "Металдық байланыс неге тән",
+                "en": "Metallic bonding is characteristic of"
+              },
+              "options": [
+                "Металлов и их сплавов",
+                "Только газов",
+                "Только воды"
+              ],
+              "correct": "Металлов и их сплавов",
+              "task_id": "chemistry_g9_bonds_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Молекула воды (H₂O) образована связью",
+                "kk": "Су молекуласы (H₂O) қандай байланыспен түзілген",
+                "en": "The water molecule (H₂O) is formed by a"
+              },
+              "options": [
+                "Ковалентной полярной",
+                "Ионной",
+                "Металлической"
+              ],
+              "correct": "Ковалентной полярной",
+              "task_id": "chemistry_g9_bonds_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "chemistry_g9_inorganic_classes",
+          "title": {
+            "ru": "Классы неорганических соединений",
+            "kk": "Бейорганикалық қосылыстар кластары",
+            "en": "Classes of Inorganic Compounds"
+          },
+          "quest_icon": "flask-round-bottom",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Оксиды — это соединения элемента с",
+                "kk": "Оксидтер — бұл элементтің немен қосылысы",
+                "en": "Oxides are compounds of an element with"
+              },
+              "options": [
+                "Кислородом",
+                "Водородом",
+                "Азотом"
+              ],
+              "correct": "Кислородом",
+              "task_id": "chemistry_g9_inorganic_classes_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Кислоты при диссоциации в воде образуют ионы",
+                "kk": "Қышқылдар суда диссоциацияланғанда қандай иондар түзеді",
+                "en": "Acids, when dissociating in water, form which ions?"
+              },
+              "options": [
+                "Водорода (H⁺)",
+                "Гидроксида (OH⁻)",
+                "Металла только"
+              ],
+              "correct": "Водорода (H⁺)",
+              "task_id": "chemistry_g9_inorganic_classes_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Основания при диссоциации в воде образуют ионы",
+                "kk": "Негіздер суда диссоциацияланғанда қандай иондар түзеді",
+                "en": "Bases, when dissociating in water, form which ions?"
+              },
+              "options": [
+                "Гидроксида (OH⁻)",
+                "Водорода (H⁺)",
+                "Кислотного остатка"
+              ],
+              "correct": "Гидроксида (OH⁻)",
+              "task_id": "chemistry_g9_inorganic_classes_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Соли образуются в реакции",
+                "kk": "Тұздар қандай реакцияда түзіледі",
+                "en": "Salts are formed in the reaction of"
+              },
+              "options": [
+                "Кислоты с основанием",
+                "Только кислорода с водой",
+                "Только двух металлов"
+              ],
+              "correct": "Кислоты с основанием",
+              "task_id": "chemistry_g9_inorganic_classes_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Реакция кислоты с основанием, дающая соль и воду, называется",
+                "kk": "Тұз бен су беретін қышқыл мен негіз реакциясы қалай аталады",
+                "en": "The reaction of an acid with a base that produces a salt and water is called"
+              },
+              "options": [
+                "Реакцией нейтрализации",
+                "Реакцией горения",
+                "Реакцией разложения"
+              ],
+              "correct": "Реакцией нейтрализации",
+              "task_id": "chemistry_g9_inorganic_classes_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Индикатор лакмус в кислой среде окрашивается в",
+                "kk": "Лакмус индикаторы қышқыл ортада қандай түске боялады",
+                "en": "Litmus indicator turns which color in an acidic environment?"
+              },
+              "options": [
+                "Красный цвет",
+                "Синий цвет",
+                "Зелёный цвет"
+              ],
+              "correct": "Красный цвет",
+              "task_id": "chemistry_g9_inorganic_classes_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "chemistry_g9_dissociation",
+          "title": {
+            "ru": "Электролитическая диссоциация",
+            "kk": "Электролиттік диссоциация",
+            "en": "Electrolytic Dissociation"
+          },
+          "quest_icon": "water-percent",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое электролитическая диссоциация?",
+                "kk": "Электролиттік диссоциация дегеніміз не?",
+                "en": "What is electrolytic dissociation?"
+              },
+              "options": [
+                "Распад вещества на ионы в растворе",
+                "Только испарение вещества",
+                "Только плавление вещества"
+              ],
+              "correct": "Распад вещества на ионы в растворе",
+              "task_id": "chemistry_g9_dissociation_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Вещества, которые проводят электрический ток в растворе, называются",
+                "kk": "Ерітіндіде электр тогын өткізетін заттар қалай аталады",
+                "en": "Substances that conduct electric current in solution are called"
+              },
+              "options": [
+                "Электролитами",
+                "Неэлектролитами",
+                "Катализаторами"
+              ],
+              "correct": "Электролитами",
+              "task_id": "chemistry_g9_dissociation_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Ион с положительным зарядом называется",
+                "kk": "Оң зарядты ион қалай аталады",
+                "en": "A positively charged ion is called a"
+              },
+              "options": [
+                "Катионом",
+                "Анионом",
+                "Нейтроном"
+              ],
+              "correct": "Катионом",
+              "task_id": "chemistry_g9_dissociation_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Ион с отрицательным зарядом называется",
+                "kk": "Теріс зарядты ион қалай аталады",
+                "en": "A negatively charged ion is called an"
+              },
+              "options": [
+                "Анионом",
+                "Катионом",
+                "Протоном"
+              ],
+              "correct": "Анионом",
+              "task_id": "chemistry_g9_dissociation_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Поваренная соль (NaCl) в воде диссоциирует на",
+                "kk": "Ас тұзы (NaCl) суда неге диссоциацияланады",
+                "en": "Table salt (NaCl) dissociates in water into"
+              },
+              "options": [
+                "Ионы Na⁺ и Cl⁻",
+                "Только атомы натрия",
+                "Только молекулы хлора"
+              ],
+              "correct": "Ионы Na⁺ и Cl⁻",
+              "task_id": "chemistry_g9_dissociation_005"
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "topics": [
+        {
+          "topic_id": "chemistry_g10_metals",
+          "title": {
+            "ru": "Металлы",
+            "kk": "Металдар",
+            "en": "Metals"
+          },
+          "quest_icon": "gold",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Металлы в химических реакциях обычно",
+                "kk": "Металдар химиялық реакцияларда әдетте",
+                "en": "In chemical reactions, metals usually"
+              },
+              "options": [
+                "Отдают электроны",
+                "Принимают электроны",
+                "Не участвуют в реакциях"
+              ],
+              "correct": "Отдают электроны",
+              "task_id": "chemistry_g10_metals_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой металл является самым распространённым в земной коре?",
+                "kk": "Жер қыртысында ең көп таралған металл қайсы?",
+                "en": "Which metal is the most abundant in the Earth's crust?"
+              },
+              "options": [
+                "Алюминий",
+                "Золото",
+                "Серебро"
+              ],
+              "correct": "Алюминий",
+              "task_id": "chemistry_g10_metals_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Реакция металла с кислотой обычно выделяет",
+                "kk": "Металдың қышқылмен реакциясы әдетте не бөледі",
+                "en": "A reaction of a metal with an acid usually releases"
+              },
+              "options": [
+                "Водород",
+                "Кислород",
+                "Азот"
+              ],
+              "correct": "Водород",
+              "task_id": "chemistry_g10_metals_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сплав — это",
+                "kk": "Қорытпа дегеніміз",
+                "en": "An alloy is"
+              },
+              "options": [
+                "Смесь двух и более металлов",
+                "Только чистый металл",
+                "Только неметалл"
+              ],
+              "correct": "Смесь двух и более металлов",
+              "task_id": "chemistry_g10_metals_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Ржавление — это результат реакции железа с",
+                "kk": "Тоттану — темірдің немен реакциясының нәтижесі",
+                "en": "Rusting is the result of iron reacting with"
+              },
+              "options": [
+                "Кислородом и влагой",
+                "Только азотом",
+                "Только водородом"
+              ],
+              "correct": "Кислородом и влагой",
+              "task_id": "chemistry_g10_metals_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Медь, применяемая в электрических проводах, ценится за",
+                "kk": "Электр сымдарында қолданылатын мыс немен бағаланады",
+                "en": "Copper, used in electrical wires, is valued for its"
+              },
+              "options": [
+                "Хорошую электропроводность",
+                "Мягкость только",
+                "Лёгкость только"
+              ],
+              "correct": "Хорошую электропроводность",
+              "task_id": "chemistry_g10_metals_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "chemistry_g10_nonmetals",
+          "title": {
+            "ru": "Неметаллы",
+            "kk": "Бейметалдар",
+            "en": "Nonmetals"
+          },
+          "quest_icon": "weather-hazy",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Неметаллы в химических реакциях обычно",
+                "kk": "Бейметалдар химиялық реакцияларда әдетте",
+                "en": "In chemical reactions, nonmetals usually"
+              },
+              "options": [
+                "Принимают электроны",
+                "Отдают электроны",
+                "Никогда не реагируют"
+              ],
+              "correct": "Принимают электроны",
+              "task_id": "chemistry_g10_nonmetals_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой неметалл необходим для дыхания живых организмов?",
+                "kk": "Тірі ағзалардың тыныс алуы үшін қандай бейметалл қажет?",
+                "en": "Which nonmetal is necessary for the respiration of living organisms?"
+              },
+              "options": [
+                "Кислород",
+                "Азот",
+                "Хлор"
+              ],
+              "correct": "Кислород",
+              "task_id": "chemistry_g10_nonmetals_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой неметалл составляет большую часть воздуха?",
+                "kk": "Ауаның негізгі бөлігін қандай бейметалл құрайды?",
+                "en": "Which nonmetal makes up the largest part of the air?"
+              },
+              "options": [
+                "Азот",
+                "Кислород",
+                "Углерод"
+              ],
+              "correct": "Азот",
+              "task_id": "chemistry_g10_nonmetals_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Углерод является основой для",
+                "kk": "Көміртек негізі болатын не",
+                "en": "Carbon is the basis for"
+              },
+              "options": [
+                "Всех органических соединений",
+                "Только металлических сплавов",
+                "Только воды"
+              ],
+              "correct": "Всех органических соединений",
+              "task_id": "chemistry_g10_nonmetals_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сера при горении образует газ с резким запахом —",
+                "kk": "Күкірт жанғанда қандай өткір иісті газ түзеді",
+                "en": "Sulfur, when burned, forms a gas with a sharp smell —"
+              },
+              "options": [
+                "Сернистый газ (SO₂)",
+                "Кислород (O₂)",
+                "Азот (N₂)"
+              ],
+              "correct": "Сернистый газ (SO₂)",
+              "task_id": "chemistry_g10_nonmetals_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Инертные газы (например, гелий, неон) отличаются",
+                "kk": "Асыл газдар (мысалы, гелий, неон) немен ерекшеленеді",
+                "en": "Noble gases (e.g., helium, neon) are distinguished by"
+              },
+              "options": [
+                "Крайне низкой химической активностью",
+                "Очень высокой химической активностью",
+                "Только жидким состоянием"
+              ],
+              "correct": "Крайне низкой химической активностью",
+              "task_id": "chemistry_g10_nonmetals_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "chemistry_g10_organic_intro",
+          "title": {
+            "ru": "Введение в органическую химию",
+            "kk": "Органикалық химияға кіріспе",
+            "en": "Introduction to Organic Chemistry"
+          },
+          "quest_icon": "leaf",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Органическая химия изучает соединения",
+                "kk": "Органикалық химия неге негізделген қосылыстарды зерттейді",
+                "en": "Organic chemistry studies compounds of"
+              },
+              "options": [
+                "Углерода",
+                "Только металлов",
+                "Только воды"
+              ],
+              "correct": "Углерода",
+              "task_id": "chemistry_g10_organic_intro_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Почему углерод способен образовывать так много разных соединений?",
+                "kk": "Көміртек неге соншама көп әртүрлі қосылыс түзе алады",
+                "en": "Why can carbon form so many different compounds?"
+              },
+              "options": [
+                "Он может образовывать 4 связи и длинные цепи",
+                "У него нет электронов",
+                "Он не реагирует с другими элементами"
+              ],
+              "correct": "Он может образовывать 4 связи и длинные цепи",
+              "task_id": "chemistry_g10_organic_intro_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Простейшие органические соединения, состоящие только из углерода и водорода, называются",
+                "kk": "Тек көміртек пен сутегіден тұратын ең қарапайым органикалық қосылыстар қалай аталады",
+                "en": "The simplest organic compounds consisting of only carbon and hydrogen are called"
+              },
+              "options": [
+                "Углеводородами",
+                "Оксидами",
+                "Солями"
+              ],
+              "correct": "Углеводородами",
+              "task_id": "chemistry_g10_organic_intro_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Основным источником углеводородов в природе является",
+                "kk": "Табиғатта көмірсутектердің негізгі көзі — бұл",
+                "en": "The main source of hydrocarbons in nature is"
+              },
+              "options": [
+                "Нефть и природный газ",
+                "Только вода",
+                "Только воздух"
+              ],
+              "correct": "Нефть и природный газ",
+              "task_id": "chemistry_g10_organic_intro_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Молекула метана (CH₄) состоит из атомов",
+                "kk": "Метан молекуласы (CH₄) неден тұрады",
+                "en": "The methane molecule (CH₄) consists of atoms of"
+              },
+              "options": [
+                "Углерода и водорода",
+                "Только углерода",
+                "Только кислорода"
+              ],
+              "correct": "Углерода и водорода",
+              "task_id": "chemistry_g10_organic_intro_005"
+            }
+          ]
+        },
+        {
+          "topic_id": "chemistry_g10_hydrocarbons",
+          "title": {
+            "ru": "Углеводороды",
+            "kk": "Көмірсутектер",
+            "en": "Hydrocarbons"
+          },
+          "quest_icon": "gas-station",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Углеводороды, содержащие только одинарные связи между атомами углерода, называются",
+                "kk": "Көміртек атомдары арасында тек жалғыз байланысы бар көмірсутектер қалай аталады",
+                "en": "Hydrocarbons containing only single bonds between carbon atoms are called"
+              },
+              "options": [
+                "Алканами (предельными)",
+                "Алкенами",
+                "Алкинами"
+              ],
+              "correct": "Алканами (предельными)",
+              "task_id": "chemistry_g10_hydrocarbons_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Углеводороды с одной двойной связью между атомами углерода называются",
+                "kk": "Көміртек атомдары арасында бір қос байланысы бар көмірсутектер қалай аталады",
+                "en": "Hydrocarbons with one double bond between carbon atoms are called"
+              },
+              "options": [
+                "Алкенами",
+                "Алканами",
+                "Алкинами"
+              ],
+              "correct": "Алкенами",
+              "task_id": "chemistry_g10_hydrocarbons_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Углеводороды с тройной связью между атомами углерода называются",
+                "kk": "Көміртек атомдары арасында үштік байланысы бар көмірсутектер қалай аталады",
+                "en": "Hydrocarbons with a triple bond between carbon atoms are called"
+              },
+              "options": [
+                "Алкинами",
+                "Алканами",
+                "Алкенами"
+              ],
+              "correct": "Алкинами",
+              "task_id": "chemistry_g10_hydrocarbons_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Простейший алкан — это",
+                "kk": "Ең қарапайым алкан — бұл",
+                "en": "The simplest alkane is"
+              },
+              "options": [
+                "Метан",
+                "Этен",
+                "Этин"
+              ],
+              "correct": "Метан",
+              "task_id": "chemistry_g10_hydrocarbons_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Бензин, используемый для автомобилей, получают из",
+                "kk": "Автомобильдерге қолданылатын бензин неден алынады",
+                "en": "Gasoline used for cars is obtained from"
+              },
+              "options": [
+                "Нефти",
+                "Угля только",
+                "Воды"
+              ],
+              "correct": "Нефти",
+              "task_id": "chemistry_g10_hydrocarbons_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Полимеры (например, полиэтилен) образуются из мономеров в результате реакции",
+                "kk": "Полимерлер (мысалы, полиэтилен) мономерлерден қандай реакция нәтижесінде түзіледі",
+                "en": "Polymers (e.g., polyethylene) are formed from monomers as a result of"
+              },
+              "options": [
+                "Полимеризации",
+                "Нейтрализации",
+                "Диссоциации"
+              ],
+              "correct": "Полимеризации",
+              "task_id": "chemistry_g10_hydrocarbons_006"
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "topics": [
+        {
+          "topic_id": "chemistry_g11_alcohols_acids",
+          "title": {
+            "ru": "Спирты и карбоновые кислоты",
+            "kk": "Спирттер мен карбон қышқылдары",
+            "en": "Alcohols and Carboxylic Acids"
+          },
+          "quest_icon": "flask-round-bottom-outline",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Спирты — это органические соединения, содержащие функциональную группу",
+                "kk": "Спирттер — функционалдық тобы қандай органикалық қосылыстар",
+                "en": "Alcohols are organic compounds containing the functional group"
+              },
+              "options": [
+                "-OH (гидроксильную)",
+                "-COOH",
+                "-NH₂"
+              ],
+              "correct": "-OH (гидроксильную)",
+              "task_id": "chemistry_g11_alcohols_acids_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Простейший одноатомный спирт — это",
+                "kk": "Ең қарапайым бір атомды спирт — бұл",
+                "en": "The simplest monohydric alcohol is"
+              },
+              "options": [
+                "Метанол",
+                "Этановая кислота",
+                "Метан"
+              ],
+              "correct": "Метанол",
+              "task_id": "chemistry_g11_alcohols_acids_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Этанол, используемый в напитках, получают из сахара путём",
+                "kk": "Сусындарда қолданылатын этанол қанттан қалай алынады",
+                "en": "Ethanol used in beverages is obtained from sugar through"
+              },
+              "options": [
+                "Брожения",
+                "Только плавления",
+                "Только окисления кислородом"
+              ],
+              "correct": "Брожения",
+              "task_id": "chemistry_g11_alcohols_acids_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Карбоновые кислоты содержат функциональную группу",
+                "kk": "Карбон қышқылдарының функционалдық тобы",
+                "en": "Carboxylic acids contain the functional group"
+              },
+              "options": [
+                "-COOH",
+                "-OH",
+                "-NH₂"
+              ],
+              "correct": "-COOH",
+              "task_id": "chemistry_g11_alcohols_acids_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Уксусная кислота, используемая в кулинарии, является примером",
+                "kk": "Тағам дайындауда қолданылатын сірке қышқылы немененің мысалы",
+                "en": "Acetic acid, used in cooking, is an example of"
+              },
+              "options": [
+                "Карбоновой кислоты",
+                "Спирта",
+                "Оксида металла"
+              ],
+              "correct": "Карбоновой кислоты",
+              "task_id": "chemistry_g11_alcohols_acids_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Реакция спирта с карбоновой кислотой образует",
+                "kk": "Спирттің карбон қышқылымен реакциясы неге әкеледі",
+                "en": "The reaction of an alcohol with a carboxylic acid produces"
+              },
+              "options": [
+                "Сложный эфир и воду",
+                "Только соль",
+                "Только новый металл"
+              ],
+              "correct": "Сложный эфир и воду",
+              "task_id": "chemistry_g11_alcohols_acids_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "chemistry_g11_biomolecules",
+          "title": {
+            "ru": "Белки, жиры, углеводы",
+            "kk": "Ақуыздар, майлар, көмірсулар",
+            "en": "Proteins, Fats, Carbohydrates"
+          },
+          "quest_icon": "food-apple",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Белки состоят из мономеров, называемых",
+                "kk": "Ақуыздар қандай мономерлерден тұрады",
+                "en": "Proteins are made of monomers called"
+              },
+              "options": [
+                "Аминокислотами",
+                "Моносахаридами",
+                "Нуклеотидами"
+              ],
+              "correct": "Аминокислотами",
+              "task_id": "chemistry_g11_biomolecules_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Углеводы (например, крахмал) состоят из мономеров, называемых",
+                "kk": "Көмірсулар (мысалы, крахмал) қандай мономерлерден тұрады",
+                "en": "Carbohydrates (e.g., starch) are made of monomers called"
+              },
+              "options": [
+                "Моносахаридами (сахарами)",
+                "Аминокислотами",
+                "Жирными кислотами"
+              ],
+              "correct": "Моносахаридами (сахарами)",
+              "task_id": "chemistry_g11_biomolecules_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Жиры образованы соединением глицерина и",
+                "kk": "Майлар глицерин мен неден түзіледі",
+                "en": "Fats are formed by the combination of glycerol and"
+              },
+              "options": [
+                "Жирных кислот",
+                "Аминокислот",
+                "Нуклеотидов"
+              ],
+              "correct": "Жирных кислот",
+              "task_id": "chemistry_g11_biomolecules_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Нуклеиновые кислоты (ДНК, РНК) состоят из мономеров, называемых",
+                "kk": "Нуклеин қышқылдары (ДНҚ, РНҚ) қандай мономерлерден тұрады",
+                "en": "Nucleic acids (DNA, RNA) are made of monomers called"
+              },
+              "options": [
+                "Нуклеотидами",
+                "Аминокислотами",
+                "Моносахаридами"
+              ],
+              "correct": "Нуклеотидами",
+              "task_id": "chemistry_g11_biomolecules_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая биомолекула является главным источником быстрой энергии для организма?",
+                "kk": "Ағзаға арналған тез энергияның негізгі көзі қандай биомолекула",
+                "en": "Which biomolecule is the main source of quick energy for the body?"
+              },
+              "options": [
+                "Углеводы (глюкоза)",
+                "ДНК",
+                "Только вода"
+              ],
+              "correct": "Углеводы (глюкоза)",
+              "task_id": "chemistry_g11_biomolecules_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Ферменты в организме в основном состоят из",
+                "kk": "Ағзадағы ферменттер негізінен неден тұрады",
+                "en": "Enzymes in the body are mainly made of"
+              },
+              "options": [
+                "Белков",
+                "Только жиров",
+                "Только минералов"
+              ],
+              "correct": "Белков",
+              "task_id": "chemistry_g11_biomolecules_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "chemistry_g11_industrial",
+          "title": {
+            "ru": "Химическое производство",
+            "kk": "Химиялық өндіріс",
+            "en": "Chemical Manufacturing"
+          },
+          "quest_icon": "factory",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Химическая промышленность производит вещества, используемые в",
+                "kk": "Химия өнеркәсібі қай салаларда қолданылатын заттар шығарады",
+                "en": "The chemical industry produces substances used in"
+              },
+              "options": [
+                "Разных отраслях экономики (медицина, строительство и др.)",
+                "Только в кулинарии",
+                "Только в спорте"
+              ],
+              "correct": "Разных отраслях экономики (медицина, строительство и др.)",
+              "task_id": "chemistry_g11_industrial_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Производство минеральных удобрений важно для",
+                "kk": "Минералды тыңайтқыштар өндірісі не үшін маңызды",
+                "en": "The production of mineral fertilizers is important for"
+              },
+              "options": [
+                "Повышения урожайности сельского хозяйства",
+                "Только производства игрушек",
+                "Только производства одежды"
+              ],
+              "correct": "Повышения урожайности сельского хозяйства",
+              "task_id": "chemistry_g11_industrial_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Производство пластмасс основано на переработке",
+                "kk": "Пластмасса өндірісі нені өңдеуге негізделген",
+                "en": "Plastic production is based on processing"
+              },
+              "options": [
+                "Продуктов нефтехимии",
+                "Только руды металлов",
+                "Только древесины"
+              ],
+              "correct": "Продуктов нефтехимии",
+              "task_id": "chemistry_g11_industrial_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Почему важно контролировать химические выбросы заводов?",
+                "kk": "Зауыттардың химиялық шығарындыларын бақылау неге маңызды?",
+                "en": "Why is it important to control the chemical emissions of factories?"
+              },
+              "options": [
+                "Чтобы не загрязнять окружающую среду",
+                "Выбросы никогда не бывают вредными",
+                "Заводы не производят выбросов"
+              ],
+              "correct": "Чтобы не загрязнять окружающую среду",
+              "task_id": "chemistry_g11_industrial_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Катализаторы в промышленности используются, чтобы",
+                "kk": "Катализаторлар өнеркәсіпте не үшін қолданылады",
+                "en": "Catalysts are used in industry to"
+              },
+              "options": [
+                "Ускорить химические реакции и снизить затраты",
+                "Замедлить все реакции",
+                "Полностью остановить производство"
+              ],
+              "correct": "Ускорить химические реакции и снизить затраты",
+              "task_id": "chemistry_g11_industrial_005"
+            }
+          ]
+        },
+        {
+          "topic_id": "chemistry_g11_everyday_life",
+          "title": {
+            "ru": "Химия и повседневная жизнь",
+            "kk": "Химия және күнделікті өмір",
+            "en": "Chemistry and Everyday Life"
+          },
+          "quest_icon": "home-heart",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Мыло очищает жир благодаря своей способности",
+                "kk": "Сабын майды тазалайды, себебі оның қабілеті",
+                "en": "Soap cleans grease because of its ability to"
+              },
+              "options": [
+                "Соединять жир и воду в одну смесь",
+                "Только нагревать воду",
+                "Только менять цвет одежды"
+              ],
+              "correct": "Соединять жир и воду в одну смесь",
+              "task_id": "chemistry_g11_everyday_life_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Пищевая сода (гидрокарбонат натрия) используется в выпечке, потому что при нагревании выделяет",
+                "kk": "Ас содасы (натрий гидрокарбонаты) наубайхана ісінде неге қолданылады",
+                "en": "Baking soda (sodium bicarbonate) is used in baking because when heated it releases"
+              },
+              "options": [
+                "Углекислый газ, поднимающий тесто",
+                "Только воду",
+                "Только кислород"
+              ],
+              "correct": "Углекислый газ, поднимающий тесто",
+              "task_id": "chemistry_g11_everyday_life_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Витамин C является примером",
+                "kk": "Витамин C немененің мысалы",
+                "en": "Vitamin C is an example of"
+              },
+              "options": [
+                "Органического соединения, необходимого для здоровья",
+                "Металла",
+                "Неорганической соли только"
+              ],
+              "correct": "Органического соединения, необходимого для здоровья",
+              "task_id": "chemistry_g11_everyday_life_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Зубная паста часто содержит фтор, потому что он помогает",
+                "kk": "Тіс пастасында фтор жиі болады, себебі ол немен көмектеседі",
+                "en": "Toothpaste often contains fluoride because it helps"
+              },
+              "options": [
+                "Укреплять зубную эмаль",
+                "Окрашивать зубы",
+                "Разрушать зубную эмаль"
+              ],
+              "correct": "Укреплять зубную эмаль",
+              "task_id": "chemistry_g11_everyday_life_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Ржавчина на металлических предметах в быту — это результат реакции с",
+                "kk": "Тұрмыстағы металл заттардағы тот немен реакция нәтижесі",
+                "en": "Rust on household metal objects is the result of a reaction with"
+              },
+              "options": [
+                "Кислородом и влагой воздуха",
+                "Только солнечным светом",
+                "Только холодом"
+              ],
+              "correct": "Кислородом и влагой воздуха",
+              "task_id": "chemistry_g11_everyday_life_005"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

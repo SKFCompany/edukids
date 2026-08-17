@@ -1,0 +1,1636 @@
+{
+  "grades": {
+    "8": {
+      "topics": [
+        {
+          "topic_id": "geography_g8_intro",
+          "title": {
+            "ru": "Введение в географию",
+            "kk": "Географияға кіріспе",
+            "en": "Introduction to Geography"
+          },
+          "quest_icon": "compass-outline",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что изучает география?",
+                "kk": "География нені зерттейді?",
+                "en": "What does geography study?"
+              },
+              "options": [
+                "Земную поверхность, природу и население",
+                "Только звёзды",
+                "Только химические вещества"
+              ],
+              "correct": "Земную поверхность, природу и население",
+              "task_id": "geography_g8_intro_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется прибор, показывающий стороны света?",
+                "kk": "Дүние жүзі тараптарын көрсететін құрал қалай аталады?",
+                "en": "What is the instrument that shows the cardinal directions called?"
+              },
+              "options": [
+                "Компас",
+                "Термометр",
+                "Барометр"
+              ],
+              "correct": "Компас",
+              "task_id": "geography_g8_intro_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое масштаб карты?",
+                "kk": "Карта масштабы дегеніміз не?",
+                "en": "What is a map scale?"
+              },
+              "options": [
+                "Отношение расстояния на карте к расстоянию на местности",
+                "Только цвет карты",
+                "Только название карты"
+              ],
+              "correct": "Отношение расстояния на карте к расстоянию на местности",
+              "task_id": "geography_g8_intro_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сколько параллелей и меридианов образуют географические координаты?",
+                "kk": "Географиялық координаталарды не құрайды?",
+                "en": "What forms geographic coordinates?"
+              },
+              "options": [
+                "Широта и долгота",
+                "Только высота",
+                "Только температура"
+              ],
+              "correct": "Широта и долгота",
+              "task_id": "geography_g8_intro_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Нулевой меридиан проходит через город",
+                "kk": "Нөлдік меридиан қай қала арқылы өтеді",
+                "en": "The prime meridian passes through the city of"
+              },
+              "options": [
+                "Гринвич (Лондон)",
+                "Париж",
+                "Москву"
+              ],
+              "correct": "Гринвич (Лондон)",
+              "task_id": "geography_g8_intro_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Экватор делит Землю на",
+                "kk": "Экватор Жерді немен бөледі?",
+                "en": "The equator divides the Earth into"
+              },
+              "options": [
+                "Северное и Южное полушария",
+                "Восточное и только Западное полушария",
+                "Только на два материка"
+              ],
+              "correct": "Северное и Южное полушария",
+              "task_id": "geography_g8_intro_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "geography_g8_lithosphere",
+          "title": {
+            "ru": "Литосфера и рельеф",
+            "kk": "Литосфера және бедер",
+            "en": "Lithosphere and Relief"
+          },
+          "quest_icon": "terrain",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется твёрдая оболочка Земли?",
+                "kk": "Жердің қатты қабаты қалай аталады?",
+                "en": "What is the solid shell of the Earth called?"
+              },
+              "options": [
+                "Литосфера",
+                "Атмосфера",
+                "Гидросфера"
+              ],
+              "correct": "Литосфера",
+              "task_id": "geography_g8_lithosphere_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называются крупные блоки земной коры, которые медленно двигаются?",
+                "kk": "Жер қыртысының баяу қозғалатын үлкен бөліктері қалай аталады?",
+                "en": "What are the large blocks of the Earth's crust that move slowly called?"
+              },
+              "options": [
+                "Тектонические плиты",
+                "Вулканы",
+                "Реки"
+              ],
+              "correct": "Тектонические плиты",
+              "task_id": "geography_g8_lithosphere_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что происходит при столкновении тектонических плит?",
+                "kk": "Тектоникалық плиталар соқтығысқанда не болады?",
+                "en": "What happens when tectonic plates collide?"
+              },
+              "options": [
+                "Могут образовываться горы или землетрясения",
+                "Ничего не происходит",
+                "Всегда образуется океан"
+              ],
+              "correct": "Могут образовываться горы или землетрясения",
+              "task_id": "geography_g8_lithosphere_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется гора, извергающая лаву?",
+                "kk": "Лава атқылайтын тау қалай аталады?",
+                "en": "What is a mountain that erupts lava called?"
+              },
+              "options": [
+                "Вулкан",
+                "Ледник",
+                "Каньон"
+              ],
+              "correct": "Вулкан",
+              "task_id": "geography_g8_lithosphere_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Самая высокая горная система мира — это",
+                "kk": "Әлемдегі ең биік тау жүйесі — бұл",
+                "en": "The highest mountain range in the world is the"
+              },
+              "options": [
+                "Гималаи",
+                "Уральские горы",
+                "Альпы"
+              ],
+              "correct": "Гималаи",
+              "task_id": "geography_g8_lithosphere_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Равнина — это участок земной поверхности с",
+                "kk": "Жазық — бұл жер бетінің қандай учаскесі",
+                "en": "A plain is an area of the Earth's surface with"
+              },
+              "options": [
+                "Небольшими перепадами высот",
+                "Только высокими горами",
+                "Только глубокими впадинами"
+              ],
+              "correct": "Небольшими перепадами высот",
+              "task_id": "geography_g8_lithosphere_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "geography_g8_atmosphere",
+          "title": {
+            "ru": "Атмосфера и климат",
+            "kk": "Атмосфера және климат",
+            "en": "Atmosphere and Climate"
+          },
+          "quest_icon": "weather-cloudy",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется воздушная оболочка Земли?",
+                "kk": "Жердің ауа қабығы қалай аталады?",
+                "en": "What is the air shell of the Earth called?"
+              },
+              "options": [
+                "Атмосфера",
+                "Литосфера",
+                "Гидросфера"
+              ],
+              "correct": "Атмосфера",
+              "task_id": "geography_g8_atmosphere_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой газ преобладает в атмосфере Земли?",
+                "kk": "Жер атмосферасында қандай газ басым?",
+                "en": "Which gas is most abundant in Earth's atmosphere?"
+              },
+              "options": [
+                "Азот",
+                "Кислород",
+                "Углекислый газ"
+              ],
+              "correct": "Азот",
+              "task_id": "geography_g8_atmosphere_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое климат?",
+                "kk": "Климат дегеніміз не?",
+                "en": "What is climate?"
+              },
+              "options": [
+                "Многолетний режим погоды в определённой местности",
+                "Погода одного дня",
+                "Только температура воздуха"
+              ],
+              "correct": "Многолетний режим погоды в определённой местности",
+              "task_id": "geography_g8_atmosphere_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Чем отличается погода от климата?",
+                "kk": "Ауа райы климаттан немен ерекшеленеді?",
+                "en": "How does weather differ from climate?"
+              },
+              "options": [
+                "Погода меняется каждый день, климат — многолетняя закономерность",
+                "Это одно и то же",
+                "Погода не меняется никогда"
+              ],
+              "correct": "Погода меняется каждый день, климат — многолетняя закономерность",
+              "task_id": "geography_g8_atmosphere_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой климатический пояс расположен на экваторе?",
+                "kk": "Экваторда қандай климаттық белдеу орналасқан?",
+                "en": "Which climate zone is located at the equator?"
+              },
+              "options": [
+                "Экваториальный (жаркий и влажный)",
+                "Полярный (холодный)",
+                "Умеренный"
+              ],
+              "correct": "Экваториальный (жаркий и влажный)",
+              "task_id": "geography_g8_atmosphere_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что измеряет барометр?",
+                "kk": "Барометр нені өлшейді?",
+                "en": "What does a barometer measure?"
+              },
+              "options": [
+                "Атмосферное давление",
+                "Температуру воздуха",
+                "Скорость ветра"
+              ],
+              "correct": "Атмосферное давление",
+              "task_id": "geography_g8_atmosphere_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "geography_g8_hydrosphere",
+          "title": {
+            "ru": "Гидросфера",
+            "kk": "Гидросфера",
+            "en": "Hydrosphere"
+          },
+          "quest_icon": "waves",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется водная оболочка Земли?",
+                "kk": "Жердің су қабығы қалай аталады?",
+                "en": "What is the water shell of the Earth called?"
+              },
+              "options": [
+                "Гидросфера",
+                "Атмосфера",
+                "Литосфера"
+              ],
+              "correct": "Гидросфера",
+              "task_id": "geography_g8_hydrosphere_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какую часть поверхности Земли занимает вода?",
+                "kk": "Жер бетінің қанша бөлігін су алып жатыр?",
+                "en": "What portion of the Earth's surface is covered by water?"
+              },
+              "options": [
+                "Около 70%",
+                "Около 30%",
+                "Около 10%"
+              ],
+              "correct": "Около 70%",
+              "task_id": "geography_g8_hydrosphere_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сколько процентов воды на Земле является пресной?",
+                "kk": "Жердегі судың қанша пайызы тұщы?",
+                "en": "What percentage of Earth's water is fresh water?"
+              },
+              "options": [
+                "Около 3%",
+                "Около 50%",
+                "Около 97%"
+              ],
+              "correct": "Около 3%",
+              "task_id": "geography_g8_hydrosphere_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Крупнейший океан на Земле — это",
+                "kk": "Жердегі ең үлкен мұхит — бұл",
+                "en": "The largest ocean on Earth is the"
+              },
+              "options": [
+                "Тихий океан",
+                "Атлантический океан",
+                "Индийский океан"
+              ],
+              "correct": "Тихий океан",
+              "task_id": "geography_g8_hydrosphere_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Где хранится большая часть пресной воды на Земле?",
+                "kk": "Жердегі тұщы судың көп бөлігі қайда сақталған?",
+                "en": "Where is most of Earth's fresh water stored?"
+              },
+              "options": [
+                "В ледниках и ледяных шапках",
+                "В морях",
+                "В облаках"
+              ],
+              "correct": "В ледниках и ледяных шапках",
+              "task_id": "geography_g8_hydrosphere_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется постоянный водный поток, текущий в понижении рельефа?",
+                "kk": "Рельеф ойысымен ағатын тұрақты су ағыны қалай аталады?",
+                "en": "What is a constant flow of water running through a depression in the land called?"
+              },
+              "options": [
+                "Река",
+                "Озеро",
+                "Болото"
+              ],
+              "correct": "Река",
+              "task_id": "geography_g8_hydrosphere_006"
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "topics": [
+        {
+          "topic_id": "geography_g9_population",
+          "title": {
+            "ru": "Население Земли",
+            "kk": "Жер халқы",
+            "en": "World Population"
+          },
+          "quest_icon": "account-multiple",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сколько примерно людей живёт на Земле сегодня?",
+                "kk": "Бүгінде Жерде шамамен қанша адам тұрады?",
+                "en": "About how many people live on Earth today?"
+              },
+              "options": [
+                "Более 8 миллиардов",
+                "Около 1 миллиона",
+                "Около 100 миллионов"
+              ],
+              "correct": "Более 8 миллиардов",
+              "task_id": "geography_g9_population_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется наука, изучающая население?",
+                "kk": "Халықты зерттейтін ғылым қалай аталады?",
+                "en": "What is the science that studies population called?"
+              },
+              "options": [
+                "Демография",
+                "Геология",
+                "Метеорология"
+              ],
+              "correct": "Демография",
+              "task_id": "geography_g9_population_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется страна с наибольшим населением в мире?",
+                "kk": "Әлемдегі ең көп халқы бар ел қалай аталады?",
+                "en": "What is the most populous country in the world called?"
+              },
+              "options": [
+                "Индия",
+                "Россия",
+                "Казахстан"
+              ],
+              "correct": "Индия",
+              "task_id": "geography_g9_population_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется процесс переселения людей из одной страны в другую?",
+                "kk": "Адамдардың бір елден екінші елге көшуі қалай аталады?",
+                "en": "What is the process of people moving from one country to another called?"
+              },
+              "options": [
+                "Миграция",
+                "Урбанизация",
+                "Индустриализация"
+              ],
+              "correct": "Миграция",
+              "task_id": "geography_g9_population_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется процесс роста городов и городского населения?",
+                "kk": "Қалалар мен қала халқының өсу процесі қалай аталады?",
+                "en": "What is the growth of cities and urban population called?"
+              },
+              "options": [
+                "Урбанизация",
+                "Миграция",
+                "Глобализация"
+              ],
+              "correct": "Урбанизация",
+              "task_id": "geography_g9_population_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется наиболее густонаселённая часть суши?",
+                "kk": "Құрлықтың ең тығыз қоныстанған бөлігі қалай аталады?",
+                "en": "What is the most densely populated part of land called?"
+              },
+              "options": [
+                "Азия",
+                "Антарктида",
+                "Австралия"
+              ],
+              "correct": "Азия",
+              "task_id": "geography_g9_population_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "geography_g9_economy",
+          "title": {
+            "ru": "Мировое хозяйство",
+            "kk": "Әлемдік шаруашылық",
+            "en": "World Economy"
+          },
+          "quest_icon": "factory",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Отрасль экономики, связанная с выращиванием растений и разведением скота, называется",
+                "kk": "Өсімдік өсіру мен мал шаруашылығымен байланысты экономика саласы қалай аталады",
+                "en": "The branch of the economy related to growing crops and raising livestock is called"
+              },
+              "options": [
+                "Сельское хозяйство",
+                "Промышленность",
+                "Сфера услуг"
+              ],
+              "correct": "Сельское хозяйство",
+              "task_id": "geography_g9_economy_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Отрасль экономики, связанная с производством товаров на заводах, называется",
+                "kk": "Зауыттарда тауар өндірумен байланысты экономика саласы қалай аталады",
+                "en": "The branch of the economy related to producing goods in factories is called"
+              },
+              "options": [
+                "Промышленность",
+                "Сельское хозяйство",
+                "Туризм"
+              ],
+              "correct": "Промышленность",
+              "task_id": "geography_g9_economy_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сфера услуг включает в себя",
+                "kk": "Қызмет көрсету саласына не кіреді",
+                "en": "The service sector includes"
+              },
+              "options": [
+                "Образование, медицину, торговлю",
+                "Только добычу угля",
+                "Только выращивание пшеницы"
+              ],
+              "correct": "Образование, медицину, торговлю",
+              "task_id": "geography_g9_economy_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется обмен товарами между странами?",
+                "kk": "Елдер арасындағы тауар алмасуы қалай аталады?",
+                "en": "What is the exchange of goods between countries called?"
+              },
+              "options": [
+                "Международная торговля",
+                "Миграция",
+                "Урбанизация"
+              ],
+              "correct": "Международная торговля",
+              "task_id": "geography_g9_economy_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Экспорт — это",
+                "kk": "Экспорт дегеніміз",
+                "en": "Export is"
+              },
+              "options": [
+                "Вывоз товаров из страны",
+                "Ввоз товаров в страну",
+                "Уничтожение товаров"
+              ],
+              "correct": "Вывоз товаров из страны",
+              "task_id": "geography_g9_economy_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Импорт — это",
+                "kk": "Импорт дегеніміз",
+                "en": "Import is"
+              },
+              "options": [
+                "Ввоз товаров в страну",
+                "Вывоз товаров из страны",
+                "Производство товаров дома"
+              ],
+              "correct": "Ввоз товаров в страну",
+              "task_id": "geography_g9_economy_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "geography_g9_resources",
+          "title": {
+            "ru": "Природные ресурсы",
+            "kk": "Табиғи ресурстар",
+            "en": "Natural Resources"
+          },
+          "quest_icon": "leaf-circle",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называются ресурсы, которые могут восстанавливаться (лес, вода)?",
+                "kk": "Қалпына келе алатын ресурстар (орман, су) қалай аталады?",
+                "en": "What are resources that can be replenished (forests, water) called?"
+              },
+              "options": [
+                "Возобновляемые ресурсы",
+                "Невозобновляемые ресурсы",
+                "Искусственные ресурсы"
+              ],
+              "correct": "Возобновляемые ресурсы",
+              "task_id": "geography_g9_resources_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называются ресурсы, которые не восстанавливаются (нефть, уголь)?",
+                "kk": "Қалпына келмейтін ресурстар (мұнай, көмір) қалай аталады?",
+                "en": "What are resources that do not renew (oil, coal) called?"
+              },
+              "options": [
+                "Невозобновляемые ресурсы",
+                "Возобновляемые ресурсы",
+                "Водные ресурсы только"
+              ],
+              "correct": "Невозобновляемые ресурсы",
+              "task_id": "geography_g9_resources_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой вид энергии получают от солнечных панелей?",
+                "kk": "Күн панельдерінен қандай энергия алынады?",
+                "en": "What type of energy is obtained from solar panels?"
+              },
+              "options": [
+                "Солнечная энергия",
+                "Ядерная энергия",
+                "Энергия угля"
+              ],
+              "correct": "Солнечная энергия",
+              "task_id": "geography_g9_resources_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой вид энергии получают от ветряных турбин?",
+                "kk": "Жел турбиналарынан қандай энергия алынады?",
+                "en": "What type of energy is obtained from wind turbines?"
+              },
+              "options": [
+                "Энергия ветра",
+                "Энергия угля",
+                "Ядерная энергия"
+              ],
+              "correct": "Энергия ветра",
+              "task_id": "geography_g9_resources_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Почему важно бережно использовать невозобновляемые ресурсы?",
+                "kk": "Жаңартылмайтын ресурстарды неге үнемдеп жұмсау керек?",
+                "en": "Why is it important to use non-renewable resources carefully?"
+              },
+              "options": [
+                "Они не восстанавливаются и могут закончиться",
+                "Их всегда бесконечно много",
+                "Они не нужны экономике"
+              ],
+              "correct": "Они не восстанавливаются и могут закончиться",
+              "task_id": "geography_g9_resources_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Казахстан богат такими ресурсами, как",
+                "kk": "Қазақстан қандай ресурстарға бай",
+                "en": "Kazakhstan is rich in resources such as"
+              },
+              "options": [
+                "Нефть, уголь, уран",
+                "Только рыба",
+                "Только тропические фрукты"
+              ],
+              "correct": "Нефть, уголь, уран",
+              "task_id": "geography_g9_resources_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "geography_g9_kz_regions",
+          "title": {
+            "ru": "Экономические районы Казахстана",
+            "kk": "Қазақстанның экономикалық аудандары",
+            "en": "Economic Regions of Kazakhstan"
+          },
+          "quest_icon": "map",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой регион Казахстана известен добычей нефти на Каспии?",
+                "kk": "Қазақстанның қай өңірі Каспийдегі мұнай өндірумен танымал?",
+                "en": "Which region of Kazakhstan is known for oil extraction in the Caspian?"
+              },
+              "options": [
+                "Западный Казахстан",
+                "Южный Казахстан",
+                "Восточный Казахстан"
+              ],
+              "correct": "Западный Казахстан",
+              "task_id": "geography_g9_kz_regions_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой регион Казахстана известен выращиванием хлопка и риса?",
+                "kk": "Қазақстанның қай өңірі мақта мен күріш өсірумен танымал?",
+                "en": "Which region of Kazakhstan is known for growing cotton and rice?"
+              },
+              "options": [
+                "Южный Казахстан",
+                "Северный Казахстан",
+                "Западный Казахстан"
+              ],
+              "correct": "Южный Казахстан",
+              "task_id": "geography_g9_kz_regions_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой регион Казахстана считается главной житницей (зерновой)?",
+                "kk": "Қазақстанның қай өңірі негізгі астық қоймасы саналады?",
+                "en": "Which region of Kazakhstan is considered the main grain-growing region?"
+              },
+              "options": [
+                "Северный Казахстан",
+                "Южный Казахстан",
+                "Западный Казахстан"
+              ],
+              "correct": "Северный Казахстан",
+              "task_id": "geography_g9_kz_regions_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой регион Казахстана богат угольными месторождениями (Карагандинский бассейн)?",
+                "kk": "Қазақстанның қай өңірі көмір кен орындарына бай (Қарағанды бассейні)?",
+                "en": "Which region of Kazakhstan is rich in coal deposits (Karaganda Basin)?"
+              },
+              "options": [
+                "Центральный Казахстан",
+                "Южный Казахстан",
+                "Западный Казахстан"
+              ],
+              "correct": "Центральный Казахстан",
+              "task_id": "geography_g9_kz_regions_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Алматы и прилегающие горы находятся в",
+                "kk": "Алматы және оны қоршаған таулар қай жерде орналасқан",
+                "en": "Almaty and its surrounding mountains are located in"
+              },
+              "options": [
+                "Юго-восточном Казахстане",
+                "Северном Казахстане",
+                "Западном Казахстане"
+              ],
+              "correct": "Юго-восточном Казахстане",
+              "task_id": "geography_g9_kz_regions_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Байконур, откуда запускают космические ракеты, расположен в",
+                "kk": "Ғарыш зымырандары ұшырылатын Байқоңыр қай облыста орналасқан",
+                "en": "Baikonur, from which space rockets are launched, is located in"
+              },
+              "options": [
+                "Кызылординской области",
+                "Восточно-Казахстанской области",
+                "Актюбинской области"
+              ],
+              "correct": "Кызылординской области",
+              "task_id": "geography_g9_kz_regions_006"
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "topics": [
+        {
+          "topic_id": "geography_g10_political_map",
+          "title": {
+            "ru": "Политическая карта мира",
+            "kk": "Әлемнің саяси картасы",
+            "en": "Political Map of the World"
+          },
+          "quest_icon": "flag",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сколько примерно независимых государств существует в мире сегодня?",
+                "kk": "Бүгінде әлемде шамамен неше тәуелсіз мемлекет бар?",
+                "en": "About how many independent states exist in the world today?"
+              },
+              "options": [
+                "Около 195",
+                "Около 50",
+                "Около 500"
+              ],
+              "correct": "Около 195",
+              "task_id": "geography_g10_political_map_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется международная организация, объединяющая почти все страны мира?",
+                "kk": "Әлемдегі барлық дерлік елдерді біріктіретін халықаралық ұйым қалай аталады?",
+                "en": "What is the international organization that unites almost all countries of the world called?"
+              },
+              "options": [
+                "Организация Объединённых Наций (ООН)",
+                "Европейский союз",
+                "НАТО"
+              ],
+              "correct": "Организация Объединённых Наций (ООН)",
+              "task_id": "geography_g10_political_map_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется форма правления, при которой власть передаётся по наследству?",
+                "kk": "Билік мұрагерлікпен берілетін басқару нысаны қалай аталады?",
+                "en": "What is the form of government in which power is inherited called?"
+              },
+              "options": [
+                "Монархия",
+                "Республика",
+                "Демократия только"
+              ],
+              "correct": "Монархия",
+              "task_id": "geography_g10_political_map_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Казахстан по форме правления является",
+                "kk": "Қазақстан басқару нысаны бойынша қандай мемлекет",
+                "en": "Kazakhstan, by its form of government, is a"
+              },
+              "options": [
+                "Президентской республикой",
+                "Монархией",
+                "Колонией"
+              ],
+              "correct": "Президентской республикой",
+              "task_id": "geography_g10_political_map_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется линия, разделяющая территории двух государств?",
+                "kk": "Екі мемлекеттің аумағын бөлетін сызық қалай аталады?",
+                "en": "What is the line separating the territories of two states called?"
+              },
+              "options": [
+                "Государственная граница",
+                "Экватор всегда",
+                "Меридиан всегда"
+              ],
+              "correct": "Государственная граница",
+              "task_id": "geography_g10_political_map_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Столица государства — это обычно",
+                "kk": "Мемлекеттің астанасы — бұл әдетте",
+                "en": "The capital of a state is usually"
+              },
+              "options": [
+                "Главный административный центр страны",
+                "Самый маленький город страны",
+                "Город без населения"
+              ],
+              "correct": "Главный административный центр страны",
+              "task_id": "geography_g10_political_map_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "geography_g10_globalization",
+          "title": {
+            "ru": "Глобализация",
+            "kk": "Жаһандану",
+            "en": "Globalization"
+          },
+          "quest_icon": "web",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое глобализация?",
+                "kk": "Жаһандану дегеніміз не?",
+                "en": "What is globalization?"
+              },
+              "options": [
+                "Усиление взаимосвязей между странами мира",
+                "Изоляция стран друг от друга",
+                "Только рост населения"
+              ],
+              "correct": "Усиление взаимосвязей между странами мира",
+              "task_id": "geography_g10_globalization_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что способствует глобализации сегодня?",
+                "kk": "Бүгінде жаһандануға не ықпал етеді?",
+                "en": "What promotes globalization today?"
+              },
+              "options": [
+                "Интернет и современные средства связи",
+                "Только войны",
+                "Только закрытые границы"
+              ],
+              "correct": "Интернет и современные средства связи",
+              "task_id": "geography_g10_globalization_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Транснациональная корпорация — это компания, которая",
+                "kk": "Трансұлттық корпорация — бұл қандай компания",
+                "en": "A transnational corporation is a company that"
+              },
+              "options": [
+                "Работает в нескольких странах",
+                "Работает только в одном городе",
+                "Не имеет сотрудников"
+              ],
+              "correct": "Работает в нескольких странах",
+              "task_id": "geography_g10_globalization_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Одним из плюсов глобализации считается",
+                "kk": "Жаһанданудың бір артықшылығы деп не саналады",
+                "en": "One of the advantages of globalization is considered to be"
+              },
+              "options": [
+                "Более быстрый обмен знаниями и технологиями",
+                "Полное исчезновение культур",
+                "Отсутствие торговли между странами"
+              ],
+              "correct": "Более быстрый обмен знаниями и технологиями",
+              "task_id": "geography_g10_globalization_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Одним из минусов глобализации считается",
+                "kk": "Жаһанданудың бір кемшілігі деп не саналады",
+                "en": "One of the disadvantages of globalization is considered to be"
+              },
+              "options": [
+                "Угроза культурному разнообразию",
+                "Полное исчезновение бедности",
+                "Отсутствие связи между странами"
+              ],
+              "correct": "Угроза культурному разнообразию",
+              "task_id": "geography_g10_globalization_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая организация регулирует международную торговлю?",
+                "kk": "Халықаралық сауданы қандай ұйым реттейді?",
+                "en": "Which organization regulates international trade?"
+              },
+              "options": [
+                "Всемирная торговая организация (ВТО)",
+                "НАТО",
+                "Красный Крест"
+              ],
+              "correct": "Всемирная торговая организация (ВТО)",
+              "task_id": "geography_g10_globalization_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "geography_g10_global_problems",
+          "title": {
+            "ru": "Глобальные проблемы человечества",
+            "kk": "Адамзаттың жаһандық мәселелері",
+            "en": "Global Problems of Humanity"
+          },
+          "quest_icon": "alert-circle",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая глобальная проблема связана с повышением средней температуры на Земле?",
+                "kk": "Жердегі орташа температураның көтерілуімен байланысты жаһандық мәселе қайсы?",
+                "en": "Which global problem is related to the rise in Earth's average temperature?"
+              },
+              "options": [
+                "Глобальное потепление",
+                "Урбанизация",
+                "Миграция"
+              ],
+              "correct": "Глобальное потепление",
+              "task_id": "geography_g10_global_problems_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая проблема связана с нехваткой продовольствия в некоторых регионах мира?",
+                "kk": "Әлемнің кейбір аймақтарында тамақ жетіспеушілігімен байланысты мәселе қайсы?",
+                "en": "Which problem is related to food shortages in some regions of the world?"
+              },
+              "options": [
+                "Проблема голода",
+                "Проблема глобализации",
+                "Проблема урбанизации"
+              ],
+              "correct": "Проблема голода",
+              "task_id": "geography_g10_global_problems_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая глобальная проблема связана с истощением природных ресурсов?",
+                "kk": "Табиғи ресурстардың таусылуымен байланысты жаһандық мәселе қайсы?",
+                "en": "Which global problem is related to the depletion of natural resources?"
+              },
+              "options": [
+                "Проблема исчерпаемости ресурсов",
+                "Проблема демографии",
+                "Проблема миграции"
+              ],
+              "correct": "Проблема исчерпаемости ресурсов",
+              "task_id": "geography_g10_global_problems_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая организация занимается охраной здоровья людей во всём мире?",
+                "kk": "Бүкіл әлемде адамдардың денсаулығын қорғаумен қандай ұйым айналысады?",
+                "en": "Which organization deals with protecting people's health worldwide?"
+              },
+              "options": [
+                "Всемирная организация здравоохранения (ВОЗ)",
+                "ЮНЕСКО",
+                "МОК"
+              ],
+              "correct": "Всемирная организация здравоохранения (ВОЗ)",
+              "task_id": "geography_g10_global_problems_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как решение экологических проблем может помочь будущим поколениям?",
+                "kk": "Экологиялық мәселелерді шешу болашақ ұрпаққа қалай көмектеседі?",
+                "en": "How can solving environmental problems help future generations?"
+              },
+              "options": [
+                "Сохранить природные ресурсы и здоровую среду",
+                "Ускорить исчерпание ресурсов",
+                "Увеличить загрязнение"
+              ],
+              "correct": "Сохранить природные ресурсы и здоровую среду",
+              "task_id": "geography_g10_global_problems_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая глобальная проблема связана с распространением опасных заболеваний по всему миру?",
+                "kk": "Қауіпті аурулардың бүкіл әлемге таралуымен байланысты жаһандық мәселе қайсы?",
+                "en": "Which global problem is related to the spread of dangerous diseases worldwide?"
+              },
+              "options": [
+                "Проблема пандемий",
+                "Проблема глобализации",
+                "Проблема урбанизации"
+              ],
+              "correct": "Проблема пандемий",
+              "task_id": "geography_g10_global_problems_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "geography_g10_world_regions",
+          "title": {
+            "ru": "Регионы мира",
+            "kk": "Әлем аймақтары",
+            "en": "Regions of the World"
+          },
+          "quest_icon": "earth",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой регион мира включает Германию, Францию и Италию?",
+                "kk": "Германия, Франция және Италияны қамтитын әлем аймағы қайсы?",
+                "en": "Which world region includes Germany, France, and Italy?"
+              },
+              "options": [
+                "Западная Европа",
+                "Юго-Восточная Азия",
+                "Северная Африка"
+              ],
+              "correct": "Западная Европа",
+              "task_id": "geography_g10_world_regions_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой регион мира известен как родина риса и включает Вьетнам, Таиланд?",
+                "kk": "Күрішке отан саналатын, Вьетнам мен Тайландты қамтитын аймақ қайсы?",
+                "en": "Which world region is known as the home of rice and includes Vietnam, Thailand?"
+              },
+              "options": [
+                "Юго-Восточная Азия",
+                "Северная Европа",
+                "Южная Америка"
+              ],
+              "correct": "Юго-Восточная Азия",
+              "task_id": "geography_g10_world_regions_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Казахстан и другие страны Центральной Азии входят в регион",
+                "kk": "Қазақстан және Орталық Азияның басқа елдері қай аймаққа кіреді",
+                "en": "Kazakhstan and other Central Asian countries belong to the region of"
+              },
+              "options": [
+                "Центральная Азия",
+                "Западная Африка",
+                "Карибский бассейн"
+              ],
+              "correct": "Центральная Азия",
+              "task_id": "geography_g10_world_regions_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой регион включает страны Египет, Марокко и Алжир?",
+                "kk": "Мысыр, Марокко және Алжирді қамтитын аймақ қайсы?",
+                "en": "Which region includes the countries of Egypt, Morocco, and Algeria?"
+              },
+              "options": [
+                "Северная Африка",
+                "Южная Азия",
+                "Восточная Европа"
+              ],
+              "correct": "Северная Африка",
+              "task_id": "geography_g10_world_regions_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой регион включает страны Бразилия, Аргентина, Чили?",
+                "kk": "Бразилия, Аргентина, Чилиді қамтитын аймақ қайсы?",
+                "en": "Which region includes the countries of Brazil, Argentina, Chile?"
+              },
+              "options": [
+                "Южная Америка",
+                "Северная Европа",
+                "Юго-Западная Азия"
+              ],
+              "correct": "Южная Америка",
+              "task_id": "geography_g10_world_regions_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Регион Ближнего Востока известен богатыми запасами",
+                "kk": "Таяу Шығыс аймағы неге бай екенімен танымал",
+                "en": "The Middle East region is known for its rich reserves of"
+              },
+              "options": [
+                "Нефти",
+                "Пресной воды",
+                "Древесины"
+              ],
+              "correct": "Нефти",
+              "task_id": "geography_g10_world_regions_006"
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "topics": [
+        {
+          "topic_id": "geography_g11_world_economy_kz",
+          "title": {
+            "ru": "Мировая экономика и Казахстан",
+            "kk": "Әлемдік экономика және Қазақстан",
+            "en": "World Economy and Kazakhstan"
+          },
+          "quest_icon": "chart-line",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Экономика Казахстана в значительной степени опирается на экспорт",
+                "kk": "Қазақстан экономикасы негізінен неге сүйенеді",
+                "en": "Kazakhstan's economy relies significantly on the export of"
+              },
+              "options": [
+                "Нефти и газа",
+                "Только фруктов",
+                "Только текстиля"
+              ],
+              "correct": "Нефти и газа",
+              "task_id": "geography_g11_world_economy_kz_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая организация объединяет Казахстан с Россией и другими странами в единый экономический рынок?",
+                "kk": "Қазақстанды Ресей және басқа елдермен бірыңғай экономикалық нарыққа біріктіретін ұйым қайсы?",
+                "en": "Which organization unites Kazakhstan with Russia and other countries into a single economic market?"
+              },
+              "options": [
+                "Евразийский экономический союз (ЕАЭС)",
+                "НАТО",
+                "Красный Крест"
+              ],
+              "correct": "Евразийский экономический союз (ЕАЭС)",
+              "task_id": "geography_g11_world_economy_kz_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Диверсификация экономики означает",
+                "kk": "Экономиканы әртараптандыру дегеніміз",
+                "en": "Economic diversification means"
+              },
+              "options": [
+                "Развитие разных отраслей вместо зависимости от одной",
+                "Полный отказ от промышленности",
+                "Опору только на один товар"
+              ],
+              "correct": "Развитие разных отраслей вместо зависимости от одной",
+              "task_id": "geography_g11_world_economy_kz_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Крупнейшим торговым партнёром Казахстана в Азии является",
+                "kk": "Қазақстанның Азиядағы ең ірі сауда серіктесі — бұл",
+                "en": "Kazakhstan's largest trading partner in Asia is"
+              },
+              "options": [
+                "Китай",
+                "Бразилия",
+                "Канада"
+              ],
+              "correct": "Китай",
+              "task_id": "geography_g11_world_economy_kz_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Развитие транзитного потенциала Казахстана связано с его",
+                "kk": "Қазақстанның транзиттік әлеуетінің дамуы немен байланысты",
+                "en": "The development of Kazakhstan's transit potential is related to its"
+              },
+              "options": [
+                "Выгодным географическим положением между Европой и Азией",
+                "Отсутствием дорог",
+                "Только морскими портами"
+              ],
+              "correct": "Выгодным географическим положением между Европой и Азией",
+              "task_id": "geography_g11_world_economy_kz_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Программа развития несырьевого сектора экономики Казахстана направлена на",
+                "kk": "Қазақстан экономикасының шикізаттық емес секторын дамыту бағдарламасы неге бағытталған",
+                "en": "Kazakhstan's program to develop the non-resource sector of the economy aims to"
+              },
+              "options": [
+                "Снижение зависимости от нефти и газа",
+                "Увеличение только добычи нефти",
+                "Полный отказ от промышленности"
+              ],
+              "correct": "Снижение зависимости от нефти и газа",
+              "task_id": "geography_g11_world_economy_kz_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "geography_g11_urbanization_cities",
+          "title": {
+            "ru": "Урбанизация и города мира",
+            "kk": "Урбандану және әлем қалалары",
+            "en": "Urbanization and World Cities"
+          },
+          "quest_icon": "city",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется город с населением более 10 миллионов человек?",
+                "kk": "Халқы 10 миллионнан асатын қала қалай аталады?",
+                "en": "What is a city with a population of more than 10 million people called?"
+              },
+              "options": [
+                "Мегаполис (мегагород)",
+                "Посёлок",
+                "Деревня"
+              ],
+              "correct": "Мегаполис (мегагород)",
+              "task_id": "geography_g11_urbanization_cities_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая проблема часто возникает в быстрорастущих городах развивающихся стран?",
+                "kk": "Дамушы елдердің тез өсіп жатқан қалаларында жиі қандай мәселе туындайды",
+                "en": "What problem often arises in rapidly growing cities of developing countries?"
+              },
+              "options": [
+                "Трущобы и нехватка инфраструктуры",
+                "Слишком мало жителей",
+                "Отсутствие транспорта совсем"
+              ],
+              "correct": "Трущобы и нехватка инфраструктуры",
+              "task_id": "geography_g11_urbanization_cities_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Концепция «умного города» подразумевает использование",
+                "kk": "«Ақылды қала» тұжырымдамасы нені білдіреді",
+                "en": "The 'smart city' concept implies the use of"
+              },
+              "options": [
+                "Технологий для улучшения городской жизни",
+                "Только старых зданий",
+                "Отказ от любых технологий"
+              ],
+              "correct": "Технологий для улучшения городской жизни",
+              "task_id": "geography_g11_urbanization_cities_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Астана и Алматы являются примерами",
+                "kk": "Астана мен Алматы немененің мысалы",
+                "en": "Astana and Almaty are examples of"
+              },
+              "options": [
+                "Крупных городов Казахстана",
+                "Только маленьких посёлков",
+                "Только сельских районов"
+              ],
+              "correct": "Крупных городов Казахстана",
+              "task_id": "geography_g11_urbanization_cities_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое агломерация?",
+                "kk": "Агломерация дегеніміз не?",
+                "en": "What is an agglomeration?"
+              },
+              "options": [
+                "Группа тесно связанных городских поселений вокруг крупного центра",
+                "Один изолированный посёлок",
+                "Только сельская местность"
+              ],
+              "correct": "Группа тесно связанных городских поселений вокруг крупного центра",
+              "task_id": "geography_g11_urbanization_cities_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Развитие общественного транспорта в городах помогает",
+                "kk": "Қалаларда қоғамдық көлікті дамыту немен көмектеседі",
+                "en": "Developing public transport in cities helps"
+              },
+              "options": [
+                "Снизить заторы и загрязнение воздуха",
+                "Увеличить количество личных автомобилей",
+                "Ухудшить экологию"
+              ],
+              "correct": "Снизить заторы и загрязнение воздуха",
+              "task_id": "geography_g11_urbanization_cities_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "geography_g11_sustainable_development",
+          "title": {
+            "ru": "Устойчивое развитие",
+            "kk": "Тұрақты даму",
+            "en": "Sustainable Development"
+          },
+          "quest_icon": "recycle",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сколько Целей устойчивого развития приняла Организация Объединённых Наций?",
+                "kk": "Біріккен Ұлттар Ұйымы неше Тұрақты даму мақсатын қабылдады?",
+                "en": "How many Sustainable Development Goals did the United Nations adopt?"
+              },
+              "options": [
+                "17",
+                "5",
+                "50"
+              ],
+              "correct": "17",
+              "task_id": "geography_g11_sustainable_development_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Возобновляемые источники энергии способствуют устойчивому развитию, потому что",
+                "kk": "Жаңартылатын энергия көздері тұрақты дамуға немен ықпал етеді",
+                "en": "Renewable energy sources contribute to sustainable development because they"
+              },
+              "options": [
+                "Не истощают природные ресурсы",
+                "Всегда дороже ископаемого топлива",
+                "Никогда не используются"
+              ],
+              "correct": "Не истощают природные ресурсы",
+              "task_id": "geography_g11_sustainable_development_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Экономический, социальный и экологический аспекты образуют три основы",
+                "kk": "Экономикалық, әлеуметтік және экологиялық аспектілер немененің үш негізін құрайды",
+                "en": "Economic, social, and environmental aspects form the three pillars of"
+              },
+              "options": [
+                "Устойчивого развития",
+                "Только глобализации",
+                "Только урбанизации"
+              ],
+              "correct": "Устойчивого развития",
+              "task_id": "geography_g11_sustainable_development_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Устойчивое сельское хозяйство стремится к",
+                "kk": "Тұрақты ауыл шаруашылығы неге ұмтылады",
+                "en": "Sustainable agriculture strives to"
+              },
+              "options": [
+                "Сохранению почв и водных ресурсов для будущих урожаев",
+                "Максимально быстрому истощению почвы",
+                "Полному отказу от земледелия"
+              ],
+              "correct": "Сохранению почв и водных ресурсов для будущих урожаев",
+              "task_id": "geography_g11_sustainable_development_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Циркулярная (замкнутая) экономика направлена на",
+                "kk": "Айналымдық (тұйық) экономика неге бағытталған",
+                "en": "The circular economy aims at"
+              },
+              "options": [
+                "Повторное использование и переработку ресурсов",
+                "Одноразовое использование всех товаров",
+                "Увеличение количества отходов"
+              ],
+              "correct": "Повторное использование и переработку ресурсов",
+              "task_id": "geography_g11_sustainable_development_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Образование играет важную роль в устойчивом развитии, потому что",
+                "kk": "Білім беру тұрақты дамуда неге маңызды рөл атқарады",
+                "en": "Education plays an important role in sustainable development because it"
+              },
+              "options": [
+                "Формирует ответственное отношение к ресурсам",
+                "Не влияет на развитие вообще",
+                "Только увеличивает потребление"
+              ],
+              "correct": "Формирует ответственное отношение к ресурсам",
+              "task_id": "geography_g11_sustainable_development_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "geography_g11_transport_communication",
+          "title": {
+            "ru": "Транспорт и связь в мире",
+            "kk": "Әлемдегі көлік және байланыс",
+            "en": "Transport and Communication in the World"
+          },
+          "quest_icon": "truck-fast",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой вид транспорта наиболее эффективен для перевозки больших объёмов грузов на дальние расстояния по воде?",
+                "kk": "Су арқылы алыс қашықтыққа үлкен көлемдегі жүкті тасымалдауда қандай көлік түрі ең тиімді",
+                "en": "Which type of transport is most efficient for moving large volumes of cargo over long distances by water?"
+              },
+              "options": [
+                "Морской транспорт",
+                "Легковой автомобиль",
+                "Велосипед"
+              ],
+              "correct": "Морской транспорт",
+              "task_id": "geography_g11_transport_communication_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой международный железнодорожный маршрут связывает Казахстан с Китаем и Европой?",
+                "kk": "Қазақстанды Қытай мен Еуропамен байланыстыратын халықаралық теміржол бағыты қайсы?",
+                "en": "Which international railway route connects Kazakhstan with China and Europe?"
+              },
+              "options": [
+                "Новый Шёлковый путь",
+                "Транссибирская магистраль только",
+                "Панамериканское шоссе"
+              ],
+              "correct": "Новый Шёлковый путь",
+              "task_id": "geography_g11_transport_communication_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Развитие интернета и мобильной связи способствует",
+                "kk": "Интернет пен мобильді байланыстың дамуы немен ықпал етеді",
+                "en": "The development of the internet and mobile communication contributes to"
+              },
+              "options": [
+                "Быстрому обмену информацией между людьми по всему миру",
+                "Только изоляции стран друг от друга",
+                "Замедлению обмена информацией"
+              ],
+              "correct": "Быстрому обмену информацией между людьми по всему миру",
+              "task_id": "geography_g11_transport_communication_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Логистические хабы (узлы) важны для экономики, потому что они",
+                "kk": "Логистикалық хабтар (тораптар) экономика үшін неге маңызды",
+                "en": "Logistics hubs are important for the economy because they"
+              },
+              "options": [
+                "Ускоряют перевалку и распределение грузов",
+                "Замедляют всю торговлю",
+                "Не имеют значения для экономики"
+              ],
+              "correct": "Ускоряют перевалку и распределение грузов",
+              "task_id": "geography_g11_transport_communication_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Спутниковая связь позволяет обеспечивать связь",
+                "kk": "Спутниктік байланыс байланысты қайда қамтамасыз ете алады",
+                "en": "Satellite communication makes it possible to provide connectivity"
+              },
+              "options": [
+                "Даже в самых удалённых и труднодоступных районах",
+                "Только в крупных городах",
+                "Только внутри одного здания"
+              ],
+              "correct": "Даже в самых удалённых и труднодоступных районах",
+              "task_id": "geography_g11_transport_communication_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Авиатранспорт наиболее выгоден для перевозки",
+                "kk": "Әуе көлігі не тасымалдау үшін ең тиімді",
+                "en": "Air transport is most advantageous for carrying"
+              },
+              "options": [
+                "Пассажиров и срочных грузов на большие расстояния",
+                "Тяжёлых грузов на короткие расстояния",
+                "Только местных грузов внутри одного города"
+              ],
+              "correct": "Пассажиров и срочных грузов на большие расстояния",
+              "task_id": "geography_g11_transport_communication_006"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

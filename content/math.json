@@ -20408,6 +20408,246 @@
               ],
               "correct": "60°",
               "task_id": "math_g7_triangles_008"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Если два угла треугольника равны 40° и 70°, третий угол равен",
+                "kk": "Үшбұрыштың екі бұрышы 40° және 70° болса, үшінші бұрышы",
+                "en": "If two angles of a triangle are 40° and 70°, the third angle is"
+              },
+              "options": [
+                "70°",
+                "60°",
+                "80°"
+              ],
+              "correct": "70°",
+              "task_id": "math_g7_triangles_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Если два угла треугольника равны 90° и 30°, третий угол равен",
+                "kk": "Үшбұрыштың екі бұрышы 90° және 30° болса, үшінші бұрышы",
+                "en": "If two angles of a triangle are 90° and 30°, the third angle is"
+              },
+              "options": [
+                "60°",
+                "70°",
+                "50°"
+              ],
+              "correct": "60°",
+              "task_id": "math_g7_triangles_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Если два угла треугольника равны 45° и 45°, третий угол равен",
+                "kk": "Үшбұрыштың екі бұрышы 45° және 45° болса, үшінші бұрышы",
+                "en": "If two angles of a triangle are 45° and 45°, the third angle is"
+              },
+              "options": [
+                "90°",
+                "45°",
+                "60°"
+              ],
+              "correct": "90°",
+              "task_id": "math_g7_triangles_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Если два угла треугольника равны 100° и 40°, третий угол равен",
+                "kk": "Үшбұрыштың екі бұрышы 100° және 40° болса, үшінші бұрышы",
+                "en": "If two angles of a triangle are 100° and 40°, the third angle is"
+              },
+              "options": [
+                "40°",
+                "50°",
+                "60°"
+              ],
+              "correct": "40°",
+              "task_id": "math_g7_triangles_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Треугольник со сторонами 3, 4, 5 является",
+                "kk": "Қабырғалары 3, 4, 5 болатын үшбұрыш қандай",
+                "en": "A triangle with sides 3, 4, 5 is"
+              },
+              "options": [
+                "Прямоугольным",
+                "Равносторонним",
+                "Тупоугольным"
+              ],
+              "correct": "Прямоугольным",
+              "task_id": "math_g7_triangles_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Внешний угол треугольника равен сумме",
+                "kk": "Үшбұрыштың сыртқы бұрышы неге тең",
+                "en": "An exterior angle of a triangle equals the sum of"
+              },
+              "options": [
+                "Двух несмежных внутренних углов",
+                "Всех трёх внутренних углов",
+                "Только одного внутреннего угла"
+              ],
+              "correct": "Двух несмежных внутренних углов",
+              "task_id": "math_g7_triangles_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "В равнобедренном треугольнике с углом при вершине 40° углы при основании равны",
+                "kk": "Төбесіндегі бұрышы 40° болатын тең бүйірлі үшбұрышта табанындағы бұрыштар",
+                "en": "In an isosceles triangle with a 40° apex angle, the base angles equal"
+              },
+              "options": [
+                "70° и 70°",
+                "40° и 100°",
+                "60° и 80°"
+              ],
+              "correct": "70° и 70°",
+              "task_id": "math_g7_triangles_015"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Может ли треугольник иметь два тупых угла?",
+                "kk": "Үшбұрыштың екі доғал бұрышы бола ма?",
+                "en": "Can a triangle have two obtuse angles?"
+              },
+              "options": [
+                "Нет, это невозможно",
+                "Да, всегда",
+                "Да, но только равнобедренный"
+              ],
+              "correct": "Нет, это невозможно",
+              "task_id": "math_g7_triangles_016"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Медиана треугольника соединяет вершину с",
+                "kk": "Үшбұрыштың медианасы төбені немен байланыстырады",
+                "en": "A triangle's median connects a vertex to"
+              },
+              "options": [
+                "Серединой противоположной стороны",
+                "Другой вершиной",
+                "Серединой любой стороны"
+              ],
+              "correct": "Серединой противоположной стороны",
+              "task_id": "math_g7_triangles_017"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Биссектриса угла треугольника делит угол на",
+                "kk": "Үшбұрыш бұрышының биссектрисасы бұрышты немешеге бөледі",
+                "en": "An angle bisector of a triangle divides the angle into"
+              },
+              "options": [
+                "Два равных угла",
+                "Три равных угла",
+                "Два неравных угла"
+              ],
+              "correct": "Два равных угла",
+              "task_id": "math_g7_triangles_018"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Высота треугольника — это отрезок, проведённый из вершины",
+                "kk": "Үшбұрыштың биіктігі — бұл төбеден жүргізілген кесінді",
+                "en": "The altitude of a triangle is a segment drawn from a vertex"
+              },
+              "options": [
+                "Перпендикулярно противоположной стороне",
+                "Параллельно основанию",
+                "К середине угла"
+              ],
+              "correct": "Перпендикулярно противоположной стороне",
+              "task_id": "math_g7_triangles_019"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Треугольник со сторонами 5, 5, 8 является",
+                "kk": "Қабырғалары 5, 5, 8 болатын үшбұрыш қандай",
+                "en": "A triangle with sides 5, 5, 8 is"
+              },
+              "options": [
+                "Равнобедренным",
+                "Равносторонним",
+                "Разносторонним"
+              ],
+              "correct": "Равнобедренным",
+              "task_id": "math_g7_triangles_020"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Треугольник со сторонами 6, 7, 9 является",
+                "kk": "Қабырғалары 6, 7, 9 болатын үшбұрыш қандай",
+                "en": "A triangle with sides 6, 7, 9 is"
+              },
+              "options": [
+                "Разносторонним",
+                "Равнобедренным",
+                "Равносторонним"
+              ],
+              "correct": "Разносторонним",
+              "task_id": "math_g7_triangles_021"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Если один угол треугольника тупой, остальные два угла обязательно",
+                "kk": "Үшбұрыштың бір бұрышы доғал болса, қалған екі бұрыш міндетті түрде",
+                "en": "If one angle of a triangle is obtuse, the other two angles must be"
+              },
+              "options": [
+                "Острые",
+                "Оба прямые",
+                "Оба тупые"
+              ],
+              "correct": "Острые",
+              "task_id": "math_g7_triangles_022"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сумма углов при основании равнобедренного треугольника с углом при вершине 80° равна",
+                "kk": "Төбесіндегі бұрышы 80° болатын тең бүйірлі үшбұрыштың табанындағы бұрыштар қосындысы",
+                "en": "The sum of base angles in an isosceles triangle with an 80° apex angle equals"
+              },
+              "options": [
+                "100°",
+                "80°",
+                "50°"
+              ],
+              "correct": "100°",
+              "task_id": "math_g7_triangles_023"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Может ли сумма двух сторон треугольника быть меньше третьей стороны?",
+                "kk": "Үшбұрыштың екі қабырғасының қосындысы үшінші қабырғадан кіші бола ма?",
+                "en": "Can the sum of two sides of a triangle be less than the third side?"
+              },
+              "options": [
+                "Нет, это противоречит неравенству треугольника",
+                "Да, всегда",
+                "Да, если треугольник тупоугольный"
+              ],
+              "correct": "Нет, это противоречит неравенству треугольника",
+              "task_id": "math_g7_triangles_024"
             }
           ]
         },
@@ -20509,6 +20749,1798 @@
               ],
               "correct": "Секущей",
               "task_id": "math_g7_parallel_lines_006"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Если один из накрест лежащих углов равен 65°, второй равен",
+                "kk": "Іштей жатқан бұрыштардың бірі 65° болса, екіншісі",
+                "en": "If one alternate interior angle is 65°, the other equals"
+              },
+              "options": [
+                "65°",
+                "115°",
+                "25°"
+              ],
+              "correct": "65°",
+              "task_id": "math_g7_parallel_lines_007"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Если один из соответственных углов равен 110°, второй равен",
+                "kk": "Сәйкес бұрыштардың бірі 110° болса, екіншісі",
+                "en": "If one corresponding angle is 110°, the other equals"
+              },
+              "options": [
+                "110°",
+                "70°",
+                "180°"
+              ],
+              "correct": "110°",
+              "task_id": "math_g7_parallel_lines_008"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Если один из односторонних углов равен 70°, второй равен",
+                "kk": "Бір жақты бұрыштардың бірі 70° болса, екіншісі",
+                "en": "If one co-interior angle is 70°, the other equals"
+              },
+              "options": [
+                "110°",
+                "70°",
+                "20°"
+              ],
+              "correct": "110°",
+              "task_id": "math_g7_parallel_lines_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Если вертикальный угол равен 55°, то соседний с ним угол на прямой равен",
+                "kk": "Вертикаль бұрыш 55° болса, түзудегі оған көрші бұрыш",
+                "en": "If a vertical angle is 55°, the adjacent angle on the line equals"
+              },
+              "options": [
+                "125°",
+                "55°",
+                "35°"
+              ],
+              "correct": "125°",
+              "task_id": "math_g7_parallel_lines_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сколько пар накрест лежащих углов образуется при пересечении двух параллельных прямых секущей?",
+                "kk": "Екі параллель түзуді қиюшы кескенде неше жұп іштей жатқан бұрыш пайда болады?",
+                "en": "How many pairs of alternate interior angles form when a transversal cuts two parallel lines?"
+              },
+              "options": [
+                "2",
+                "4",
+                "1"
+              ],
+              "correct": "2",
+              "task_id": "math_g7_parallel_lines_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сколько пар соответственных углов образуется при пересечении двух параллельных прямых секущей?",
+                "kk": "Екі параллель түзуді қиюшы кескенде неше жұп сәйкес бұрыш пайда болады?",
+                "en": "How many pairs of corresponding angles form when a transversal cuts two parallel lines?"
+              },
+              "options": [
+                "4",
+                "2",
+                "8"
+              ],
+              "correct": "4",
+              "task_id": "math_g7_parallel_lines_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Если прямая перпендикулярна одной из двух параллельных прямых, она",
+                "kk": "Түзу екі параллель түзудің біреуіне перпендикуляр болса, ол",
+                "en": "If a line is perpendicular to one of two parallel lines, it is"
+              },
+              "options": [
+                "Перпендикулярна и второй",
+                "Параллельна второй",
+                "Не пересекает вторую"
+              ],
+              "correct": "Перпендикулярна и второй",
+              "task_id": "math_g7_parallel_lines_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Угол, смежный с углом 40°, равен",
+                "kk": "40° бұрышпен көрші бұрыш",
+                "en": "An angle supplementary to a 40° angle equals"
+              },
+              "options": [
+                "140°",
+                "40°",
+                "50°"
+              ],
+              "correct": "140°",
+              "task_id": "math_g7_parallel_lines_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Угол, смежный с углом 125°, равен",
+                "kk": "125° бұрышпен көрші бұрыш",
+                "en": "An angle supplementary to a 125° angle equals"
+              },
+              "options": [
+                "55°",
+                "125°",
+                "35°"
+              ],
+              "correct": "55°",
+              "task_id": "math_g7_parallel_lines_015"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Прямые называются перпендикулярными, если угол между ними равен",
+                "kk": "Түзулер қашан перпендикуляр деп аталады",
+                "en": "Lines are called perpendicular if the angle between them equals"
+              },
+              "options": [
+                "90°",
+                "180°",
+                "45°"
+              ],
+              "correct": "90°",
+              "task_id": "math_g7_parallel_lines_016"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Если два накрест лежащих угла равны, то прямые",
+                "kk": "Егер екі іштей жатқан бұрыш тең болса, түзулер",
+                "en": "If two alternate interior angles are equal, the lines are"
+              },
+              "options": [
+                "Параллельны",
+                "Перпендикулярны",
+                "Пересекаются под 45°"
+              ],
+              "correct": "Параллельны",
+              "task_id": "math_g7_parallel_lines_017"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сумма всех четырёх углов, образованных пересечением двух прямых, равна",
+                "kk": "Екі түзудің қиылысуынан пайда болған төрт бұрыштың қосындысы",
+                "en": "The sum of all four angles formed by two intersecting lines equals"
+              },
+              "options": [
+                "360°",
+                "180°",
+                "90°"
+              ],
+              "correct": "360°",
+              "task_id": "math_g7_parallel_lines_018"
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "topics": [
+        {
+          "topic_id": "math_g8_rational_fractions",
+          "title": {
+            "ru": "Рациональные дроби",
+            "kk": "Рационал бөлшектер",
+            "en": "Rational Fractions"
+          },
+          "quest_icon": "fraction-one-half",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Дробь называется рациональной, если она содержит",
+                "kk": "Бөлшек қашан рационал деп аталады",
+                "en": "A fraction is called rational if it contains"
+              },
+              "options": [
+                "Переменную в знаменателе",
+                "Только числа",
+                "Только знак минус"
+              ],
+              "correct": "Переменную в знаменателе",
+              "task_id": "math_g8_rational_fractions_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "При каком значении x дробь 1/x не имеет смысла?",
+                "kk": "1/x бөлшегі қандай x мәнінде мағынасыз болады?",
+                "en": "For which value of x does the fraction 1/x not make sense?"
+              },
+              "options": [
+                "x = 0",
+                "x = 1",
+                "x = -1"
+              ],
+              "correct": "x = 0",
+              "task_id": "math_g8_rational_fractions_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Чтобы сложить дроби с разными знаменателями, нужно найти",
+                "kk": "Бөлімдері әртүрлі бөлшектерді қосу үшін нені табу керек",
+                "en": "To add fractions with different denominators, you need to find"
+              },
+              "options": [
+                "Общий знаменатель",
+                "Общий числитель",
+                "Разность знаменателей"
+              ],
+              "correct": "Общий знаменатель",
+              "task_id": "math_g8_rational_fractions_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сократить дробь означает",
+                "kk": "Бөлшекті қысқарту дегеніміз",
+                "en": "To simplify a fraction means to"
+              },
+              "options": [
+                "Разделить числитель и знаменатель на общий множитель",
+                "Умножить дробь на 2",
+                "Прибавить единицу"
+              ],
+              "correct": "Разделить числитель и знаменатель на общий множитель",
+              "task_id": "math_g8_rational_fractions_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Область допустимых значений — это значения переменной, при которых",
+                "kk": "Рұқсат етілген мәндер облысы дегеніміз — айнымалының қандай мәндері",
+                "en": "The domain of definition is the values of the variable for which"
+              },
+              "options": [
+                "Выражение имеет смысл (знаменатель не равен нулю)",
+                "Выражение всегда равно нулю",
+                "Выражение отрицательно"
+              ],
+              "correct": "Выражение имеет смысл (знаменатель не равен нулю)",
+              "task_id": "math_g8_rational_fractions_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Чтобы умножить дроби, нужно",
+                "kk": "Бөлшектерді көбейту үшін не істеу керек",
+                "en": "To multiply fractions, you need to"
+              },
+              "options": [
+                "Перемножить числители и перемножить знаменатели",
+                "Сложить числители",
+                "Сложить знаменатели"
+              ],
+              "correct": "Перемножить числители и перемножить знаменатели",
+              "task_id": "math_g8_rational_fractions_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "math_g8_square_roots",
+          "title": {
+            "ru": "Квадратные корни",
+            "kk": "Квадрат түбірлер",
+            "en": "Square Roots"
+          },
+          "quest_icon": "square-root",
+          "tasks": [
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "√4 = ?",
+                "kk": "√4 = ?",
+                "en": "√4 = ?"
+              },
+              "correct": 2,
+              "task_id": "math_g8_square_roots_001"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "√9 = ?",
+                "kk": "√9 = ?",
+                "en": "√9 = ?"
+              },
+              "correct": 3,
+              "task_id": "math_g8_square_roots_002"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "√16 = ?",
+                "kk": "√16 = ?",
+                "en": "√16 = ?"
+              },
+              "correct": 4,
+              "task_id": "math_g8_square_roots_003"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "√25 = ?",
+                "kk": "√25 = ?",
+                "en": "√25 = ?"
+              },
+              "correct": 5,
+              "task_id": "math_g8_square_roots_004"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "√36 = ?",
+                "kk": "√36 = ?",
+                "en": "√36 = ?"
+              },
+              "correct": 6,
+              "task_id": "math_g8_square_roots_005"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "√49 = ?",
+                "kk": "√49 = ?",
+                "en": "√49 = ?"
+              },
+              "correct": 7,
+              "task_id": "math_g8_square_roots_006"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "√64 = ?",
+                "kk": "√64 = ?",
+                "en": "√64 = ?"
+              },
+              "correct": 8,
+              "task_id": "math_g8_square_roots_007"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "√81 = ?",
+                "kk": "√81 = ?",
+                "en": "√81 = ?"
+              },
+              "correct": 9,
+              "task_id": "math_g8_square_roots_008"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "√100 = ?",
+                "kk": "√100 = ?",
+                "en": "√100 = ?"
+              },
+              "correct": 10,
+              "task_id": "math_g8_square_roots_009"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "√144 = ?",
+                "kk": "√144 = ?",
+                "en": "√144 = ?"
+              },
+              "correct": 12,
+              "task_id": "math_g8_square_roots_010"
+            }
+          ]
+        },
+        {
+          "topic_id": "math_g8_quadratic_equations",
+          "title": {
+            "ru": "Квадратные уравнения",
+            "kk": "Квадрат теңдеулер",
+            "en": "Quadratic Equations"
+          },
+          "quest_icon": "function-variant",
+          "tasks": [
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "x² = 9, положительный корень x = ?",
+                "kk": "x² = 9, оң түбір x = ?",
+                "en": "x² = 9, positive root x = ?"
+              },
+              "correct": 3,
+              "task_id": "math_g8_quadratic_equations_001"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "x² = 16, положительный корень x = ?",
+                "kk": "x² = 16, оң түбір x = ?",
+                "en": "x² = 16, positive root x = ?"
+              },
+              "correct": 4,
+              "task_id": "math_g8_quadratic_equations_002"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "x² = 25, положительный корень x = ?",
+                "kk": "x² = 25, оң түбір x = ?",
+                "en": "x² = 25, positive root x = ?"
+              },
+              "correct": 5,
+              "task_id": "math_g8_quadratic_equations_003"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "x² = 36, положительный корень x = ?",
+                "kk": "x² = 36, оң түбір x = ?",
+                "en": "x² = 36, positive root x = ?"
+              },
+              "correct": 6,
+              "task_id": "math_g8_quadratic_equations_004"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "x² = 49, положительный корень x = ?",
+                "kk": "x² = 49, оң түбір x = ?",
+                "en": "x² = 49, positive root x = ?"
+              },
+              "correct": 7,
+              "task_id": "math_g8_quadratic_equations_005"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "x² = 64, положительный корень x = ?",
+                "kk": "x² = 64, оң түбір x = ?",
+                "en": "x² = 64, positive root x = ?"
+              },
+              "correct": 8,
+              "task_id": "math_g8_quadratic_equations_006"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "x² = 81, положительный корень x = ?",
+                "kk": "x² = 81, оң түбір x = ?",
+                "en": "x² = 81, positive root x = ?"
+              },
+              "correct": 9,
+              "task_id": "math_g8_quadratic_equations_007"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "x² = 4, положительный корень x = ?",
+                "kk": "x² = 4, оң түбір x = ?",
+                "en": "x² = 4, positive root x = ?"
+              },
+              "correct": 2,
+              "task_id": "math_g8_quadratic_equations_008"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "x² = 100, положительный корень x = ?",
+                "kk": "x² = 100, оң түбір x = ?",
+                "en": "x² = 100, positive root x = ?"
+              },
+              "correct": 10,
+              "task_id": "math_g8_quadratic_equations_009"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "x² = 121, положительный корень x = ?",
+                "kk": "x² = 121, оң түбір x = ?",
+                "en": "x² = 121, positive root x = ?"
+              },
+              "correct": 11,
+              "task_id": "math_g8_quadratic_equations_010"
+            }
+          ]
+        },
+        {
+          "topic_id": "math_g8_inequalities",
+          "title": {
+            "ru": "Неравенства",
+            "kk": "Теңсіздіктер",
+            "en": "Inequalities"
+          },
+          "quest_icon": "greater-than",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Решить неравенство — значит найти все значения переменной, при которых оно",
+                "kk": "Теңсіздікті шешу дегеніміз — айнымалының қандай мәндерін табу",
+                "en": "To solve an inequality means to find all values of the variable for which it is"
+              },
+              "options": [
+                "Верно",
+                "Равно нулю",
+                "Неверно"
+              ],
+              "correct": "Верно",
+              "task_id": "math_g8_inequalities_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Если обе части неравенства умножить на отрицательное число, знак неравенства",
+                "kk": "Теңсіздіктің екі жағын теріс санға көбейтсе, теңсіздік белгісі",
+                "en": "If both sides of an inequality are multiplied by a negative number, the inequality sign"
+              },
+              "options": [
+                "Меняется на противоположный",
+                "Остаётся тем же",
+                "Исчезает"
+              ],
+              "correct": "Меняется на противоположный",
+              "task_id": "math_g8_inequalities_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Решение неравенства x > 3 на числовой прямой изображается",
+                "kk": "x > 3 теңсіздігінің шешімі сан түзуінде қалай көрсетіледі",
+                "en": "The solution to x > 3 on the number line is shown as"
+              },
+              "options": [
+                "Лучом вправо от 3 (не включая 3)",
+                "Точкой в 3",
+                "Всей прямой"
+              ],
+              "correct": "Лучом вправо от 3 (не включая 3)",
+              "task_id": "math_g8_inequalities_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Двойное неравенство 2 < x < 5 означает, что x находится",
+                "kk": "2 < x < 5 қос теңсіздігі x-тің қайда орналасқанын білдіреді",
+                "en": "The double inequality 2 < x < 5 means that x is"
+              },
+              "options": [
+                "Строго между 2 и 5",
+                "Только равно 2",
+                "Только равно 5"
+              ],
+              "correct": "Строго между 2 и 5",
+              "task_id": "math_g8_inequalities_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Если к обеим частям неравенства прибавить одно и то же число, знак неравенства",
+                "kk": "Теңсіздіктің екі жағына бірдей санды қосса, теңсіздік белгісі",
+                "en": "If the same number is added to both sides of an inequality, the inequality sign"
+              },
+              "options": [
+                "Не меняется",
+                "Всегда меняется",
+                "Исчезает"
+              ],
+              "correct": "Не меняется",
+              "task_id": "math_g8_inequalities_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Система неравенств считается решённой, когда найдено пересечение",
+                "kk": "Теңсіздіктер жүйесі қашан шешілген деп саналады",
+                "en": "A system of inequalities is considered solved when you find the intersection of"
+              },
+              "options": [
+                "Решений всех неравенств системы",
+                "Только первого неравенства",
+                "Только последнего неравенства"
+              ],
+              "correct": "Решений всех неравенств системы",
+              "task_id": "math_g8_inequalities_006"
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "topics": [
+        {
+          "topic_id": "math_g9_progressions",
+          "title": {
+            "ru": "Прогрессии",
+            "kk": "Прогрессиялар",
+            "en": "Sequences"
+          },
+          "quest_icon": "chart-line-variant",
+          "tasks": [
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "Арифметическая прогрессия: 2, 5, 8, 11, ... Найдите 5-й член.",
+                "kk": "Арифметикалық прогрессия: 2, 5, 8, 11, ... 5-мүшесін табыңыз.",
+                "en": "Arithmetic sequence: 2, 5, 8, 11, ... Find the 5th term."
+              },
+              "correct": 14,
+              "task_id": "math_g9_progressions_001"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "Арифметическая прогрессия: 3, 7, 11, ... Найдите 6-й член.",
+                "kk": "Арифметикалық прогрессия: 3, 7, 11, ... 6-мүшесін табыңыз.",
+                "en": "Arithmetic sequence: 3, 7, 11, ... Find the 6th term."
+              },
+              "correct": 23,
+              "task_id": "math_g9_progressions_002"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "Арифметическая прогрессия: 10, 8, 6, ... Найдите 5-й член.",
+                "kk": "Арифметикалық прогрессия: 10, 8, 6, ... 5-мүшесін табыңыз.",
+                "en": "Arithmetic sequence: 10, 8, 6, ... Find the 5th term."
+              },
+              "correct": 2,
+              "task_id": "math_g9_progressions_003"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "Геометрическая прогрессия: 2, 4, 8, 16, ... Найдите 6-й член.",
+                "kk": "Геометриялық прогрессия: 2, 4, 8, 16, ... 6-мүшесін табыңыз.",
+                "en": "Geometric sequence: 2, 4, 8, 16, ... Find the 6th term."
+              },
+              "correct": 64,
+              "task_id": "math_g9_progressions_004"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "Геометрическая прогрессия: 1, 3, 9, ... Найдите 5-й член.",
+                "kk": "Геометриялық прогрессия: 1, 3, 9, ... 5-мүшесін табыңыз.",
+                "en": "Geometric sequence: 1, 3, 9, ... Find the 5th term."
+              },
+              "correct": 81,
+              "task_id": "math_g9_progressions_005"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "Арифметическая прогрессия: первый член 5, разность 3. Найдите 4-й член.",
+                "kk": "Арифметикалық прогрессия: бірінші мүшесі 5, айырымы 3. 4-мүшесін табыңыз.",
+                "en": "Arithmetic sequence: first term 5, common difference 3. Find the 4th term."
+              },
+              "correct": 14,
+              "task_id": "math_g9_progressions_006"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "Сумма первых трёх членов арифметической прогрессии 2, 4, 6 равна",
+                "kk": "2, 4, 6 арифметикалық прогрессиясының алғашқы үш мүшесінің қосындысы",
+                "en": "The sum of the first three terms of the arithmetic sequence 2, 4, 6 is"
+              },
+              "correct": 12,
+              "task_id": "math_g9_progressions_007"
+            },
+            {
+              "type": "input_number",
+              "question": {
+                "ru": "Геометрическая прогрессия: первый член 3, знаменатель 2. Найдите 4-й член.",
+                "kk": "Геометриялық прогрессия: бірінші мүшесі 3, бөзгіші 2. 4-мүшесін табыңыз.",
+                "en": "Geometric sequence: first term 3, ratio 2. Find the 4th term."
+              },
+              "correct": 24,
+              "task_id": "math_g9_progressions_008"
+            }
+          ]
+        },
+        {
+          "topic_id": "math_g9_quadratic_function",
+          "title": {
+            "ru": "Квадратичная функция",
+            "kk": "Квадраттық функция",
+            "en": "Quadratic Function"
+          },
+          "quest_icon": "chart-bell-curve",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "График квадратичной функции y = ax² + bx + c называется",
+                "kk": "y = ax² + bx + c квадраттық функциясының графигі қалай аталады",
+                "en": "The graph of the quadratic function y = ax² + bx + c is called a"
+              },
+              "options": [
+                "Парабола",
+                "Прямая линия",
+                "Окружность"
+              ],
+              "correct": "Парабола",
+              "task_id": "math_g9_quadratic_function_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Если a > 0 в y = ax² + bx + c, ветви параболы направлены",
+                "kk": "y = ax² + bx + c теңдеуінде a > 0 болса, парабола тармақтары бағытталады",
+                "en": "If a > 0 in y = ax² + bx + c, the branches of the parabola point"
+              },
+              "options": [
+                "Вверх",
+                "Вниз",
+                "Влево"
+              ],
+              "correct": "Вверх",
+              "task_id": "math_g9_quadratic_function_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Если a < 0 в y = ax² + bx + c, ветви параболы направлены",
+                "kk": "y = ax² + bx + c теңдеуінде a < 0 болса, парабола тармақтары бағытталады",
+                "en": "If a < 0 in y = ax² + bx + c, the branches of the parabola point"
+              },
+              "options": [
+                "Вниз",
+                "Вверх",
+                "Вправо"
+              ],
+              "correct": "Вниз",
+              "task_id": "math_g9_quadratic_function_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Точка пересечения ветвей параболы называется",
+                "kk": "Параболаның тармақтары түйісетін нүкте қалай аталады",
+                "en": "The point where the parabola's branches meet is called the"
+              },
+              "options": [
+                "Вершиной",
+                "Основанием",
+                "Центром окружности"
+              ],
+              "correct": "Вершиной",
+              "task_id": "math_g9_quadratic_function_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Ось симметрии параболы — это",
+                "kk": "Параболаның симметрия осі — бұл",
+                "en": "The axis of symmetry of a parabola is a"
+              },
+              "options": [
+                "Вертикальная прямая через вершину",
+                "Горизонтальная прямая через начало координат",
+                "Диагональ"
+              ],
+              "correct": "Вертикальная прямая через вершину",
+              "task_id": "math_g9_quadratic_function_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Нули функции — это значения x, при которых",
+                "kk": "Функцияның нөлдері дегеніміз — x-тің қандай мәндері",
+                "en": "The zeros of a function are the values of x where"
+              },
+              "options": [
+                "y = 0",
+                "x = 0",
+                "y максимально"
+              ],
+              "correct": "y = 0",
+              "task_id": "math_g9_quadratic_function_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "math_g9_systems_equations",
+          "title": {
+            "ru": "Системы уравнений",
+            "kk": "Теңдеулер жүйесі",
+            "en": "Systems of Equations"
+          },
+          "quest_icon": "equal-box",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что называют решением системы уравнений?",
+                "kk": "Теңдеулер жүйесінің шешімі деп нені атайды?",
+                "en": "What is called the solution of a system of equations?"
+              },
+              "options": [
+                "Пару значений переменных, удовлетворяющую всем уравнениям",
+                "Любое число",
+                "Только значение x"
+              ],
+              "correct": "Пару значений переменных, удовлетворяющую всем уравнениям",
+              "task_id": "math_g9_systems_equations_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Метод подстановки заключается в том, чтобы",
+                "kk": "Алмастыру әдісі неден тұрады?",
+                "en": "The substitution method involves"
+              },
+              "options": [
+                "Выразить одну переменную через другую и подставить",
+                "Сложить оба уравнения",
+                "Умножить уравнения друг на друга"
+              ],
+              "correct": "Выразить одну переменную через другую и подставить",
+              "task_id": "math_g9_systems_equations_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Графически решение системы двух линейных уравнений — это",
+                "kk": "Екі сызықтық теңдеу жүйесінің графикалық шешімі — бұл",
+                "en": "The graphical solution of a system of two linear equations is"
+              },
+              "options": [
+                "Точка пересечения прямых",
+                "Все точки на одной прямой",
+                "Начало координат всегда"
+              ],
+              "correct": "Точка пересечения прямых",
+              "task_id": "math_g9_systems_equations_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Если прямые в системе параллельны и не совпадают, система имеет",
+                "kk": "Жүйедегі түзулер параллель әрі сәйкес келмесе, жүйенің",
+                "en": "If the lines in a system are parallel and do not coincide, the system has"
+              },
+              "options": [
+                "Нет решений",
+                "Одно решение",
+                "Бесконечно много решений"
+              ],
+              "correct": "Нет решений",
+              "task_id": "math_g9_systems_equations_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Если оба уравнения системы задают одну и ту же прямую, система имеет",
+                "kk": "Жүйенің екі теңдеуі де бір түзуді берсе, жүйенің",
+                "en": "If both equations in a system describe the same line, the system has"
+              },
+              "options": [
+                "Бесконечно много решений",
+                "Ровно одно решение",
+                "Нет решений"
+              ],
+              "correct": "Бесконечно много решений",
+              "task_id": "math_g9_systems_equations_005"
+            }
+          ]
+        },
+        {
+          "topic_id": "math_g9_stats_probability",
+          "title": {
+            "ru": "Статистика и вероятность",
+            "kk": "Статистика және ықтималдық",
+            "en": "Statistics and Probability"
+          },
+          "quest_icon": "chart-box-outline",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое вероятность события?",
+                "kk": "Оқиғаның ықтималдығы дегеніміз не?",
+                "en": "What is the probability of an event?"
+              },
+              "options": [
+                "Число от 0 до 1, показывающее шанс события",
+                "Всегда число больше 1",
+                "Только целое число"
+              ],
+              "correct": "Число от 0 до 1, показывающее шанс события",
+              "task_id": "math_g9_stats_probability_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Вероятность невозможного события равна",
+                "kk": "Мүмкін емес оқиғаның ықтималдығы",
+                "en": "The probability of an impossible event equals"
+              },
+              "options": [
+                "0",
+                "1",
+                "0.5"
+              ],
+              "correct": "0",
+              "task_id": "math_g9_stats_probability_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Вероятность достоверного события равна",
+                "kk": "Ақиқат оқиғаның ықтималдығы",
+                "en": "The probability of a certain event equals"
+              },
+              "options": [
+                "1",
+                "0",
+                "0.5"
+              ],
+              "correct": "1",
+              "task_id": "math_g9_stats_probability_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "При броске монеты вероятность выпадения орла равна",
+                "kk": "Теңгені лақтырғанда елтаңба түсу ықтималдығы",
+                "en": "When flipping a coin, the probability of getting heads is"
+              },
+              "options": [
+                "0.5",
+                "1",
+                "0"
+              ],
+              "correct": "0.5",
+              "task_id": "math_g9_stats_probability_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Среднее арифметическое чисел 2, 4, 6 равно",
+                "kk": "2, 4, 6 сандарының арифметикалық ортасы",
+                "en": "The arithmetic mean of the numbers 2, 4, 6 is"
+              },
+              "options": [
+                "4",
+                "3",
+                "6"
+              ],
+              "correct": "4",
+              "task_id": "math_g9_stats_probability_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Медиана упорядоченного набора чисел — это",
+                "kk": "Реттелген сандар жиынының медианасы — бұл",
+                "en": "The median of an ordered set of numbers is"
+              },
+              "options": [
+                "Число в середине набора",
+                "Всегда наибольшее число",
+                "Всегда наименьшее число"
+              ],
+              "correct": "Число в середине набора",
+              "task_id": "math_g9_stats_probability_006"
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "topics": [
+        {
+          "topic_id": "math_g10_trig_functions",
+          "title": {
+            "ru": "Тригонометрические функции",
+            "kk": "Тригонометриялық функциялар",
+            "en": "Trigonometric Functions"
+          },
+          "quest_icon": "sine-wave",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Чему равен sin(90°)?",
+                "kk": "sin(90°) неге тең?",
+                "en": "What is sin(90°)?"
+              },
+              "options": [
+                "1",
+                "0",
+                "0.5"
+              ],
+              "correct": "1",
+              "task_id": "math_g10_trig_functions_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Чему равен cos(0°)?",
+                "kk": "cos(0°) неге тең?",
+                "en": "What is cos(0°)?"
+              },
+              "options": [
+                "1",
+                "0",
+                "-1"
+              ],
+              "correct": "1",
+              "task_id": "math_g10_trig_functions_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Чему равен sin(0°)?",
+                "kk": "sin(0°) неге тең?",
+                "en": "What is sin(0°)?"
+              },
+              "options": [
+                "0",
+                "1",
+                "-1"
+              ],
+              "correct": "0",
+              "task_id": "math_g10_trig_functions_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Основное тригонометрическое тождество: sin²α + cos²α = ?",
+                "kk": "Негізгі тригонометриялық тепе-теңдік: sin²α + cos²α = ?",
+                "en": "The fundamental trigonometric identity: sin²α + cos²α = ?"
+              },
+              "options": [
+                "1",
+                "0",
+                "2"
+              ],
+              "correct": "1",
+              "task_id": "math_g10_trig_functions_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Период функции y = sin(x) равен",
+                "kk": "y = sin(x) функциясының периоды",
+                "en": "The period of y = sin(x) is"
+              },
+              "options": [
+                "2π",
+                "π",
+                "π/2"
+              ],
+              "correct": "2π",
+              "task_id": "math_g10_trig_functions_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Функция y = cos(x) является",
+                "kk": "y = cos(x) функциясы қандай",
+                "en": "The function y = cos(x) is"
+              },
+              "options": [
+                "Чётной функцией",
+                "Нечётной функцией",
+                "Ни чётной, ни нечётной"
+              ],
+              "correct": "Чётной функцией",
+              "task_id": "math_g10_trig_functions_006"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Функция y = sin(x) является",
+                "kk": "y = sin(x) функциясы қандай",
+                "en": "The function y = sin(x) is"
+              },
+              "options": [
+                "Нечётной функцией",
+                "Чётной функцией",
+                "Ни чётной, ни нечётной"
+              ],
+              "correct": "Нечётной функцией",
+              "task_id": "math_g10_trig_functions_007"
+            }
+          ]
+        },
+        {
+          "topic_id": "math_g10_exponential_function",
+          "title": {
+            "ru": "Показательная функция",
+            "kk": "Көрсеткіштік функция",
+            "en": "Exponential Function"
+          },
+          "quest_icon": "chart-line",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Функция вида y = aˣ (a > 0, a ≠ 1) называется",
+                "kk": "y = aˣ (a > 0, a ≠ 1) түріндегі функция қалай аталады",
+                "en": "A function of the form y = aˣ (a > 0, a ≠ 1) is called"
+              },
+              "options": [
+                "Показательной функцией",
+                "Линейной функцией",
+                "Квадратичной функцией"
+              ],
+              "correct": "Показательной функцией",
+              "task_id": "math_g10_exponential_function_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Если основание a > 1, показательная функция y = aˣ",
+                "kk": "Егер негізі a > 1 болса, y = aˣ көрсеткіштік функциясы",
+                "en": "If the base a > 1, the exponential function y = aˣ"
+              },
+              "options": [
+                "Возрастает",
+                "Убывает",
+                "Не меняется"
+              ],
+              "correct": "Возрастает",
+              "task_id": "math_g10_exponential_function_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Если основание 0 < a < 1, показательная функция y = aˣ",
+                "kk": "Егер негізі 0 < a < 1 болса, y = aˣ көрсеткіштік функциясы",
+                "en": "If the base is 0 < a < 1, the exponential function y = aˣ"
+              },
+              "options": [
+                "Убывает",
+                "Возрастает",
+                "Не меняется"
+              ],
+              "correct": "Убывает",
+              "task_id": "math_g10_exponential_function_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Область значений показательной функции y = aˣ — это",
+                "kk": "y = aˣ көрсеткіштік функциясының мәндер жиыны — бұл",
+                "en": "The range of the exponential function y = aˣ is"
+              },
+              "options": [
+                "Все положительные числа",
+                "Все действительные числа",
+                "Только целые числа"
+              ],
+              "correct": "Все положительные числа",
+              "task_id": "math_g10_exponential_function_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "График показательной функции y = aˣ всегда проходит через точку",
+                "kk": "y = aˣ көрсеткіштік функциясының графигі әрқашан қай нүктеден өтеді",
+                "en": "The graph of the exponential function y = aˣ always passes through the point"
+              },
+              "options": [
+                "(0, 1)",
+                "(1, 0)",
+                "(0, 0)"
+              ],
+              "correct": "(0, 1)",
+              "task_id": "math_g10_exponential_function_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Показательные уравнения обычно решают, приводя обе части к",
+                "kk": "Көрсеткіштік теңдеулерді әдетте қалай шешеді",
+                "en": "Exponential equations are usually solved by bringing both sides to"
+              },
+              "options": [
+                "Одинаковому основанию",
+                "Разным основаниям",
+                "Нулю всегда"
+              ],
+              "correct": "Одинаковому основанию",
+              "task_id": "math_g10_exponential_function_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "math_g10_logarithms",
+          "title": {
+            "ru": "Логарифмы",
+            "kk": "Логарифмдер",
+            "en": "Logarithms"
+          },
+          "quest_icon": "math-log",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое логарифм числа b по основанию a?",
+                "kk": "a негізі бойынша b санының логарифмі дегеніміз не?",
+                "en": "What is the logarithm of a number b to base a?"
+              },
+              "options": [
+                "Показатель степени, в которую нужно возвести a, чтобы получить b",
+                "Само число b",
+                "Само число a"
+              ],
+              "correct": "Показатель степени, в которую нужно возвести a, чтобы получить b",
+              "task_id": "math_g10_logarithms_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Чему равен log₂(8)?",
+                "kk": "log₂(8) неге тең?",
+                "en": "What is log₂(8)?"
+              },
+              "options": [
+                "3",
+                "2",
+                "8"
+              ],
+              "correct": "3",
+              "task_id": "math_g10_logarithms_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Чему равен log₁₀(100)?",
+                "kk": "log₁₀(100) неге тең?",
+                "en": "What is log₁₀(100)?"
+              },
+              "options": [
+                "2",
+                "10",
+                "100"
+              ],
+              "correct": "2",
+              "task_id": "math_g10_logarithms_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Чему равен log_a(1) при любом основании a?",
+                "kk": "Кез келген a негізінде log_a(1) неге тең?",
+                "en": "What is log_a(1) for any base a?"
+              },
+              "options": [
+                "0",
+                "1",
+                "a"
+              ],
+              "correct": "0",
+              "task_id": "math_g10_logarithms_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Чему равен log_a(a) при любом основании a?",
+                "kk": "Кез келген a негізінде log_a(a) неге тең?",
+                "en": "What is log_a(a) for any base a?"
+              },
+              "options": [
+                "1",
+                "0",
+                "a"
+              ],
+              "correct": "1",
+              "task_id": "math_g10_logarithms_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Логарифм отрицательного числа",
+                "kk": "Теріс санның логарифмі",
+                "en": "The logarithm of a negative number"
+              },
+              "options": [
+                "Не существует (в действительных числах)",
+                "Всегда равен нулю",
+                "Всегда равен единице"
+              ],
+              "correct": "Не существует (в действительных числах)",
+              "task_id": "math_g10_logarithms_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "math_g10_derivative",
+          "title": {
+            "ru": "Производная функции",
+            "kk": "Функцияның туындысы",
+            "en": "The Derivative"
+          },
+          "quest_icon": "chart-bell-curve-cumulative",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Производная функции показывает",
+                "kk": "Функцияның туындысы нені көрсетеді",
+                "en": "The derivative of a function shows"
+              },
+              "options": [
+                "Мгновенную скорость изменения функции",
+                "Только значение функции",
+                "Только область определения"
+              ],
+              "correct": "Мгновенную скорость изменения функции",
+              "task_id": "math_g10_derivative_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Производная константы равна",
+                "kk": "Тұрақтының туындысы",
+                "en": "The derivative of a constant is"
+              },
+              "options": [
+                "0",
+                "1",
+                "Самой константе"
+              ],
+              "correct": "0",
+              "task_id": "math_g10_derivative_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Производная функции y = x равна",
+                "kk": "y = x функциясының туындысы",
+                "en": "The derivative of y = x is"
+              },
+              "options": [
+                "1",
+                "0",
+                "x"
+              ],
+              "correct": "1",
+              "task_id": "math_g10_derivative_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Производная функции y = x² равна",
+                "kk": "y = x² функциясының туындысы",
+                "en": "The derivative of y = x² is"
+              },
+              "options": [
+                "2x",
+                "x",
+                "2"
+              ],
+              "correct": "2x",
+              "task_id": "math_g10_derivative_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Геометрический смысл производной в точке — это",
+                "kk": "Нүктедегі туындының геометриялық мағынасы — бұл",
+                "en": "The geometric meaning of a derivative at a point is"
+              },
+              "options": [
+                "Угловой коэффициент касательной в этой точке",
+                "Площадь под графиком",
+                "Значение функции в этой точке"
+              ],
+              "correct": "Угловой коэффициент касательной в этой точке",
+              "task_id": "math_g10_derivative_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Если производная функции положительна на интервале, функция на нём",
+                "kk": "Функцияның туындысы аралықта оң болса, функция сол аралықта",
+                "en": "If a function's derivative is positive on an interval, the function on it"
+              },
+              "options": [
+                "Возрастает",
+                "Убывает",
+                "Постоянна"
+              ],
+              "correct": "Возрастает",
+              "task_id": "math_g10_derivative_006"
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "topics": [
+        {
+          "topic_id": "math_g11_integral",
+          "title": {
+            "ru": "Первообразная и интеграл",
+            "kk": "Алғашқы функция және интеграл",
+            "en": "Antiderivative and Integral"
+          },
+          "quest_icon": "integral",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое первообразная функции f(x)?",
+                "kk": "f(x) функциясының алғашқы функциясы дегеніміз не?",
+                "en": "What is an antiderivative of a function f(x)?"
+              },
+              "options": [
+                "Функция F(x), производная которой равна f(x)",
+                "Функция, равная f(x) в каждой точке",
+                "Только константа"
+              ],
+              "correct": "Функция F(x), производная которой равна f(x)",
+              "task_id": "math_g11_integral_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Определённый интеграл геометрически представляет собой",
+                "kk": "Анықталған интеграл геометриялық тұрғыдан нені білдіреді",
+                "en": "A definite integral geometrically represents"
+              },
+              "options": [
+                "Площадь под графиком функции",
+                "Только длину кривой",
+                "Только значение функции в точке"
+              ],
+              "correct": "Площадь под графиком функции",
+              "task_id": "math_g11_integral_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Интеграл от производной функции равен",
+                "kk": "Функцияның туындысының интегралы неге тең",
+                "en": "The integral of a function's derivative equals"
+              },
+              "options": [
+                "Самой функции (с точностью до константы)",
+                "Всегда нулю",
+                "Всегда единице"
+              ],
+              "correct": "Самой функции (с точностью до константы)",
+              "task_id": "math_g11_integral_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Формула Ньютона-Лейбница связывает",
+                "kk": "Ньютон-Лейбниц формуласы нені байланыстырады",
+                "en": "The Newton-Leibniz formula connects"
+              },
+              "options": [
+                "Определённый интеграл и первообразную",
+                "Только площадь и объём",
+                "Только скорость и ускорение"
+              ],
+              "correct": "Определённый интеграл и первообразную",
+              "task_id": "math_g11_integral_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Интегрирование является операцией, обратной",
+                "kk": "Интегралдау қандай операцияға кері",
+                "en": "Integration is the operation inverse to"
+              },
+              "options": [
+                "Дифференцированию",
+                "Умножению",
+                "Возведению в степень"
+              ],
+              "correct": "Дифференцированию",
+              "task_id": "math_g11_integral_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Неопределённый интеграл функции представляет собой",
+                "kk": "Функцияның анықталмаған интегралы нені білдіреді",
+                "en": "The indefinite integral of a function represents"
+              },
+              "options": [
+                "Множество всех первообразных этой функции",
+                "Одно конкретное число",
+                "Только производную функции"
+              ],
+              "correct": "Множество всех первообразных этой функции",
+              "task_id": "math_g11_integral_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "math_g11_combinatorics",
+          "title": {
+            "ru": "Комбинаторика",
+            "kk": "Комбинаторика",
+            "en": "Combinatorics"
+          },
+          "quest_icon": "shuffle-variant",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что изучает комбинаторика?",
+                "kk": "Комбинаторика нені зерттейді?",
+                "en": "What does combinatorics study?"
+              },
+              "options": [
+                "Способы подсчёта комбинаций объектов",
+                "Только уравнения",
+                "Только геометрические фигуры"
+              ],
+              "correct": "Способы подсчёта комбинаций объектов",
+              "task_id": "math_g11_combinatorics_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Перестановка — это",
+                "kk": "Алмастыру дегеніміз",
+                "en": "A permutation is"
+              },
+              "options": [
+                "Расположение всех элементов множества в определённом порядке",
+                "Выбор части элементов без учёта порядка",
+                "Только одна фиксированная последовательность"
+              ],
+              "correct": "Расположение всех элементов множества в определённом порядке",
+              "task_id": "math_g11_combinatorics_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сочетание — это выбор элементов",
+                "kk": "Терме дегеніміз — элементтерді қалай таңдау",
+                "en": "A combination is a selection of elements"
+              },
+              "options": [
+                "Без учёта порядка",
+                "С обязательным учётом порядка",
+                "Только одного элемента"
+              ],
+              "correct": "Без учёта порядка",
+              "task_id": "math_g11_combinatorics_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сколько существует перестановок из 3 элементов?",
+                "kk": "3 элементтен неше алмастыру бар?",
+                "en": "How many permutations of 3 elements are there?"
+              },
+              "options": [
+                "6",
+                "3",
+                "9"
+              ],
+              "correct": "6",
+              "task_id": "math_g11_combinatorics_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Факториал числа n (обозначается n!) — это",
+                "kk": "n санының факториалы (n! деп белгіленеді) — бұл",
+                "en": "The factorial of n (denoted n!) is"
+              },
+              "options": [
+                "Произведение всех натуральных чисел от 1 до n",
+                "Сумма всех чисел от 1 до n",
+                "Само число n"
+              ],
+              "correct": "Произведение всех натуральных чисел от 1 до n",
+              "task_id": "math_g11_combinatorics_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Правило умножения в комбинаторике используется, когда",
+                "kk": "Комбинаторикада көбейту ережесі қашан қолданылады",
+                "en": "The multiplication rule in combinatorics is used when"
+              },
+              "options": [
+                "Действия выполняются последовательно, одно за другим",
+                "Есть только один возможный вариант",
+                "Никакие действия не выполняются"
+              ],
+              "correct": "Действия выполняются последовательно, одно за другим",
+              "task_id": "math_g11_combinatorics_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "math_g11_limit_function",
+          "title": {
+            "ru": "Предел функции",
+            "kk": "Функцияның шегі",
+            "en": "The Limit of a Function"
+          },
+          "quest_icon": "trending-up",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое предел функции в точке?",
+                "kk": "Нүктедегі функцияның шегі дегеніміз не?",
+                "en": "What is the limit of a function at a point?"
+              },
+              "options": [
+                "Значение, к которому стремится функция при приближении аргумента к этой точке",
+                "Значение функции ровно в этой точке всегда",
+                "Максимальное значение функции"
+              ],
+              "correct": "Значение, к которому стремится функция при приближении аргумента к этой точке",
+              "task_id": "math_g11_limit_function_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Предел последовательности показывает, к какому значению стремятся её члены при",
+                "kk": "Тізбектің шегі мүшелерінің қандай санда ұмтылатынын көрсетеді",
+                "en": "The limit of a sequence shows what value its terms approach as"
+              },
+              "options": [
+                "Стремлении номера к бесконечности",
+                "Стремлении номера к нулю",
+                "Стремлении номера к единице"
+              ],
+              "correct": "Стремлении номера к бесконечности",
+              "task_id": "math_g11_limit_function_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Функция называется непрерывной в точке, если",
+                "kk": "Функция қашан нүктеде үзіліссіз деп аталады",
+                "en": "A function is called continuous at a point if"
+              },
+              "options": [
+                "Предел функции в этой точке равен значению функции в ней",
+                "Функция не определена в этой точке",
+                "Функция всегда равна нулю"
+              ],
+              "correct": "Предел функции в этой точке равен значению функции в ней",
+              "task_id": "math_g11_limit_function_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Понятие предела лежит в основе определения",
+                "kk": "Шек ұғымы неге негіз болады",
+                "en": "The concept of a limit underlies the definition of"
+              },
+              "options": [
+                "Производной и интеграла",
+                "Только сложения чисел",
+                "Только умножения дробей"
+              ],
+              "correct": "Производной и интеграла",
+              "task_id": "math_g11_limit_function_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Если предел функции в точке не существует, функция в этой точке",
+                "kk": "Функцияның нүктедегі шегі жоқ болса, функция сол нүктеде",
+                "en": "If the limit of a function at a point does not exist, the function at that point"
+              },
+              "options": [
+                "Может иметь разрыв",
+                "Всегда непрерывна",
+                "Всегда равна нулю"
+              ],
+              "correct": "Может иметь разрыв",
+              "task_id": "math_g11_limit_function_005"
+            }
+          ]
+        },
+        {
+          "topic_id": "math_g11_equations_parameter",
+          "title": {
+            "ru": "Уравнения с параметром",
+            "kk": "Параметрі бар теңдеулер",
+            "en": "Equations with a Parameter"
+          },
+          "quest_icon": "alpha-p-box",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Уравнение с параметром — это уравнение, содержащее",
+                "kk": "Параметрі бар теңдеу дегеніміз — құрамында не бар теңдеу",
+                "en": "An equation with a parameter is an equation containing"
+              },
+              "options": [
+                "Переменную и дополнительную буквенную величину (параметр)",
+                "Только числа без переменных",
+                "Только знаки препинания"
+              ],
+              "correct": "Переменную и дополнительную буквенную величину (параметр)",
+              "task_id": "math_g11_equations_parameter_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "При решении уравнения с параметром обычно нужно рассмотреть",
+                "kk": "Параметрі бар теңдеуді шешкенде әдетте нені қарастыру керек",
+                "en": "When solving an equation with a parameter, one usually needs to consider"
+              },
+              "options": [
+                "Разные случаи в зависимости от значения параметра",
+                "Только один единственный случай",
+                "Никаких случаев не нужно рассматривать"
+              ],
+              "correct": "Разные случаи в зависимости от значения параметра",
+              "task_id": "math_g11_equations_parameter_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Линейное уравнение ax = b не имеет решений, если",
+                "kk": "ax = b сызықтық теңдеуінің шешімі болмайды, егер",
+                "en": "The linear equation ax = b has no solutions if"
+              },
+              "options": [
+                "a = 0 и b ≠ 0",
+                "a ≠ 0",
+                "b = 0 всегда"
+              ],
+              "correct": "a = 0 и b ≠ 0",
+              "task_id": "math_g11_equations_parameter_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Линейное уравнение ax = b имеет бесконечно много решений, если",
+                "kk": "ax = b сызықтық теңдеуінің шексіз көп шешімі болады, егер",
+                "en": "The linear equation ax = b has infinitely many solutions if"
+              },
+              "options": [
+                "a = 0 и b = 0",
+                "a ≠ 0 и b ≠ 0",
+                "a = 1"
+              ],
+              "correct": "a = 0 и b = 0",
+              "task_id": "math_g11_equations_parameter_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Дискриминант квадратного уравнения с параметром помогает определить",
+                "kk": "Параметрі бар квадрат теңдеудің дискриминанты нені анықтауға көмектеседі",
+                "en": "The discriminant of a quadratic equation with a parameter helps determine"
+              },
+              "options": [
+                "Количество и характер корней в зависимости от параметра",
+                "Только знак параметра",
+                "Только значение свободного члена"
+              ],
+              "correct": "Количество и характер корней в зависимости от параметра",
+              "task_id": "math_g11_equations_parameter_005"
             }
           ]
         }

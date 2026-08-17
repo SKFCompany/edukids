@@ -1,0 +1,1696 @@
+{
+  "grades": {
+    "8": {
+      "topics": [
+        {
+          "topic_id": "biology_g8_intro",
+          "title": {
+            "ru": "Введение в биологию",
+            "kk": "Биологияға кіріспе",
+            "en": "Introduction to Biology"
+          },
+          "quest_icon": "dna",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что изучает биология?",
+                "kk": "Биология нені зерттейді?",
+                "en": "What does biology study?"
+              },
+              "options": [
+                "Живые организмы и их жизнедеятельность",
+                "Только камни и минералы",
+                "Только звёзды и планеты"
+              ],
+              "correct": "Живые организмы и их жизнедеятельность",
+              "task_id": "biology_g8_intro_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая наука изучает строение и работу тела человека?",
+                "kk": "Адам денесінің құрылысы мен жұмысын қандай ғылым зерттейді?",
+                "en": "Which science studies the structure and function of the human body?"
+              },
+              "options": [
+                "Анатомия и физиология",
+                "Астрономия",
+                "Геология"
+              ],
+              "correct": "Анатомия и физиология",
+              "task_id": "biology_g8_intro_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Основной структурной единицей всех живых организмов является",
+                "kk": "Барлық тірі ағзалардың негізгі құрылымдық бірлігі — бұл",
+                "en": "The basic structural unit of all living organisms is the"
+              },
+              "options": [
+                "Клетка",
+                "Молекула воды",
+                "Камень"
+              ],
+              "correct": "Клетка",
+              "task_id": "biology_g8_intro_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Признаком живых организмов НЕ является",
+                "kk": "Тірі ағзалардың белгісі БОЛЫП ТАБЫЛМАЙДЫ",
+                "en": "Which is NOT a characteristic of living organisms?"
+              },
+              "options": [
+                "Неизменность на протяжении всей жизни",
+                "Способность к росту",
+                "Способность к размножению"
+              ],
+              "correct": "Неизменность на протяжении всей жизни",
+              "task_id": "biology_g8_intro_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Организм, состоящий из множества клеток, называется",
+                "kk": "Көптеген жасушадан тұратын ағза қалай аталады?",
+                "en": "An organism made of many cells is called"
+              },
+              "options": [
+                "Многоклеточным",
+                "Одноклеточным",
+                "Безклеточным"
+              ],
+              "correct": "Многоклеточным",
+              "task_id": "biology_g8_intro_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Человек относится к царству",
+                "kk": "Адам қай патшалыққа жатады",
+                "en": "Humans belong to the kingdom"
+              },
+              "options": [
+                "Животные",
+                "Растения",
+                "Грибы"
+              ],
+              "correct": "Животные",
+              "task_id": "biology_g8_intro_006"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой прибор нужен, чтобы рассмотреть клетки?",
+                "kk": "Жасушаларды қарау үшін қандай құрал керек?",
+                "en": "Which instrument is needed to examine cells?"
+              },
+              "options": [
+                "Микроскоп",
+                "Телескоп",
+                "Термометр"
+              ],
+              "correct": "Микроскоп",
+              "task_id": "biology_g8_intro_007"
+            }
+          ]
+        },
+        {
+          "topic_id": "biology_g8_skeleton",
+          "title": {
+            "ru": "Опорно-двигательная система",
+            "kk": "Тірек-қимыл жүйесі",
+            "en": "Musculoskeletal System"
+          },
+          "quest_icon": "bone",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая система образует твёрдую опору тела человека?",
+                "kk": "Адам денесінің қатты тірегін қандай жүйе құрайды?",
+                "en": "Which system forms the rigid support of the human body?"
+              },
+              "options": [
+                "Опорно-двигательная (скелет)",
+                "Пищеварительная",
+                "Кровеносная"
+              ],
+              "correct": "Опорно-двигательная (скелет)",
+              "task_id": "biology_g8_skeleton_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что соединяет кости друг с другом в подвижных местах?",
+                "kk": "Сүйектерді қозғалмалы жерлерде бір-бірімен не байланыстырады?",
+                "en": "What connects bones to each other at movable points?"
+              },
+              "options": [
+                "Суставы",
+                "Мышцы только",
+                "Кожа"
+              ],
+              "correct": "Суставы",
+              "task_id": "biology_g8_skeleton_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что заставляет кости двигаться?",
+                "kk": "Сүйектерді не қозғалтады?",
+                "en": "What makes bones move?"
+              },
+              "options": [
+                "Сокращение мышц",
+                "Только кровь",
+                "Только нервы"
+              ],
+              "correct": "Сокращение мышц",
+              "task_id": "biology_g8_skeleton_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая часть скелета защищает головной мозг?",
+                "kk": "Қаңқаның қай бөлігі бас миын қорғайды?",
+                "en": "Which part of the skeleton protects the brain?"
+              },
+              "options": [
+                "Череп",
+                "Позвоночник",
+                "Рёбра"
+              ],
+              "correct": "Череп",
+              "task_id": "biology_g8_skeleton_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая часть скелета защищает сердце и лёгкие?",
+                "kk": "Қаңқаның қай бөлігі жүрек пен өкпені қорғайды?",
+                "en": "Which part of the skeleton protects the heart and lungs?"
+              },
+              "options": [
+                "Грудная клетка (рёбра)",
+                "Череп",
+                "Кости рук"
+              ],
+              "correct": "Грудная клетка (рёбра)",
+              "task_id": "biology_g8_skeleton_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Самая длинная кость в теле человека находится в",
+                "kk": "Адам денесіндегі ең ұзын сүйек қайда орналасқан?",
+                "en": "The longest bone in the human body is located in the"
+              },
+              "options": [
+                "Бедре (ноге)",
+                "Пальце",
+                "Черепе"
+              ],
+              "correct": "Бедре (ноге)",
+              "task_id": "biology_g8_skeleton_006"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Мышцы, которые мы можем сокращать по своему желанию, называются",
+                "kk": "Өз еркімізбен жиыра алатын бұлшықеттер қалай аталады?",
+                "en": "Muscles we can contract at will are called"
+              },
+              "options": [
+                "Скелетными (произвольными)",
+                "Только сердечными",
+                "Только гладкими"
+              ],
+              "correct": "Скелетными (произвольными)",
+              "task_id": "biology_g8_skeleton_007"
+            }
+          ]
+        },
+        {
+          "topic_id": "biology_g8_circulatory",
+          "title": {
+            "ru": "Кровеносная система",
+            "kk": "Қан айналу жүйесі",
+            "en": "Circulatory System"
+          },
+          "quest_icon": "heart-pulse",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой орган является главным насосом кровеносной системы?",
+                "kk": "Қан айналу жүйесінің басты сорғысы қандай мүше?",
+                "en": "Which organ is the main pump of the circulatory system?"
+              },
+              "options": [
+                "Сердце",
+                "Печень",
+                "Желудок"
+              ],
+              "correct": "Сердце",
+              "task_id": "biology_g8_circulatory_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сосуды, по которым кровь течёт от сердца, называются",
+                "kk": "Қан жүректен ағатын тамырлар қалай аталады?",
+                "en": "Vessels through which blood flows away from the heart are called"
+              },
+              "options": [
+                "Артериями",
+                "Венами",
+                "Капиллярами только"
+              ],
+              "correct": "Артериями",
+              "task_id": "biology_g8_circulatory_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сосуды, по которым кровь возвращается к сердцу, называются",
+                "kk": "Қан жүрекке қайтатын тамырлар қалай аталады?",
+                "en": "Vessels through which blood returns to the heart are called"
+              },
+              "options": [
+                "Венами",
+                "Артериями",
+                "Нервами"
+              ],
+              "correct": "Венами",
+              "task_id": "biology_g8_circulatory_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какие клетки крови переносят кислород?",
+                "kk": "Қанның қай жасушалары оттегі тасиды?",
+                "en": "Which blood cells carry oxygen?"
+              },
+              "options": [
+                "Эритроциты (красные клетки)",
+                "Лейкоциты",
+                "Тромбоциты"
+              ],
+              "correct": "Эритроциты (красные клетки)",
+              "task_id": "biology_g8_circulatory_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какие клетки крови защищают организм от инфекций?",
+                "kk": "Қанның қай жасушалары ағзаны инфекциядан қорғайды?",
+                "en": "Which blood cells protect the body from infections?"
+              },
+              "options": [
+                "Лейкоциты (белые клетки)",
+                "Эритроциты",
+                "Тромбоциты"
+              ],
+              "correct": "Лейкоциты (белые клетки)",
+              "task_id": "biology_g8_circulatory_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что помогает крови свёртываться при порезе?",
+                "kk": "Кескенде қанның ұюына не көмектеседі?",
+                "en": "What helps blood clot when you get a cut?"
+              },
+              "options": [
+                "Тромбоциты",
+                "Эритроциты",
+                "Плазма только"
+              ],
+              "correct": "Тромбоциты",
+              "task_id": "biology_g8_circulatory_006"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сколько камер (отделов) имеет сердце человека?",
+                "kk": "Адам жүрегінде неше қуыс (бөлім) бар?",
+                "en": "How many chambers does the human heart have?"
+              },
+              "options": [
+                "4",
+                "2",
+                "6"
+              ],
+              "correct": "4",
+              "task_id": "biology_g8_circulatory_007"
+            }
+          ]
+        },
+        {
+          "topic_id": "biology_g8_respiratory",
+          "title": {
+            "ru": "Дыхательная система",
+            "kk": "Тыныс алу жүйесі",
+            "en": "Respiratory System"
+          },
+          "quest_icon": "lungs",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой орган является главным в дыхательной системе?",
+                "kk": "Тыныс алу жүйесіндегі басты мүше — бұл",
+                "en": "Which organ is central to the respiratory system?"
+              },
+              "options": [
+                "Лёгкие",
+                "Сердце",
+                "Печень"
+              ],
+              "correct": "Лёгкие",
+              "task_id": "biology_g8_respiratory_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой газ человек вдыхает из воздуха?",
+                "kk": "Адам ауадан қандай газды жұтады?",
+                "en": "Which gas does a person inhale from the air?"
+              },
+              "options": [
+                "Кислород",
+                "Углекислый газ",
+                "Азот в основном"
+              ],
+              "correct": "Кислород",
+              "task_id": "biology_g8_respiratory_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой газ человек выдыхает?",
+                "kk": "Адам қандай газды шығарады?",
+                "en": "Which gas does a person exhale?"
+              },
+              "options": [
+                "Углекислый газ",
+                "Только кислород",
+                "Водород"
+              ],
+              "correct": "Углекислый газ",
+              "task_id": "biology_g8_respiratory_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Через какой орган воздух сначала попадает в организм?",
+                "kk": "Ауа алдымен қандай мүше арқылы ағзаға түседі?",
+                "en": "Through which organ does air first enter the body?"
+              },
+              "options": [
+                "Нос или рот",
+                "Желудок",
+                "Печень"
+              ],
+              "correct": "Нос или рот",
+              "task_id": "biology_g8_respiratory_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называются мельчайшие мешочки в лёгких, где происходит газообмен?",
+                "kk": "Өкпедегі газ алмасу болатын ең кіші қапшықтар қалай аталады?",
+                "en": "What are the tiny sacs in the lungs where gas exchange happens called?"
+              },
+              "options": [
+                "Альвеолы",
+                "Бронхи",
+                "Трахея"
+              ],
+              "correct": "Альвеолы",
+              "task_id": "biology_g8_respiratory_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая мышца помогает лёгким расширяться при вдохе?",
+                "kk": "Тыныс алғанда өкпенің кеңеюіне қандай бұлшықет көмектеседі?",
+                "en": "Which muscle helps the lungs expand when breathing in?"
+              },
+              "options": [
+                "Диафрагма",
+                "Бицепс",
+                "Икроножная мышца"
+              ],
+              "correct": "Диафрагма",
+              "task_id": "biology_g8_respiratory_006"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Почему курение вредно для лёгких?",
+                "kk": "Темекі шегу өкпеге неге зиянды?",
+                "en": "Why is smoking harmful to the lungs?"
+              },
+              "options": [
+                "Оно повреждает альвеолы и затрудняет дыхание",
+                "Оно улучшает работу лёгких",
+                "Оно не влияет на лёгкие"
+              ],
+              "correct": "Оно повреждает альвеолы и затрудняет дыхание",
+              "task_id": "biology_g8_respiratory_007"
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "topics": [
+        {
+          "topic_id": "biology_g9_nervous",
+          "title": {
+            "ru": "Нервная система и органы чувств",
+            "kk": "Жүйке жүйесі мен сезім мүшелері",
+            "en": "Nervous System and Senses"
+          },
+          "quest_icon": "brain",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой орган является центром управления нервной системы?",
+                "kk": "Жүйке жүйесінің басқару орталығы қандай мүше?",
+                "en": "Which organ is the control center of the nervous system?"
+              },
+              "options": [
+                "Головной мозг",
+                "Печень",
+                "Селезёнка"
+              ],
+              "correct": "Головной мозг",
+              "task_id": "biology_g9_nervous_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называются клетки нервной системы, передающие сигналы?",
+                "kk": "Сигналдарды тасымалдайтын жүйке жүйесі жасушалары қалай аталады",
+                "en": "What are the nervous system cells that transmit signals called?"
+              },
+              "options": [
+                "Нейроны",
+                "Эритроциты",
+                "Остеоциты"
+              ],
+              "correct": "Нейроны",
+              "task_id": "biology_g9_nervous_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Центральная нервная система состоит из",
+                "kk": "Орталық жүйке жүйесі неден тұрады?",
+                "en": "The central nervous system consists of"
+              },
+              "options": [
+                "Головного и спинного мозга",
+                "Только глаз и ушей",
+                "Только мышц"
+              ],
+              "correct": "Головного и спинного мозга",
+              "task_id": "biology_g9_nervous_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Периферическая нервная система состоит из",
+                "kk": "Шеткі жүйке жүйесі неден тұрады?",
+                "en": "The peripheral nervous system consists of"
+              },
+              "options": [
+                "Нервов, отходящих от мозга и спинного мозга",
+                "Только головного мозга",
+                "Только глаз"
+              ],
+              "correct": "Нервов, отходящих от мозга и спинного мозга",
+              "task_id": "biology_g9_nervous_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой орган чувств отвечает за равновесие тела?",
+                "kk": "Дене тепе-теңдігіне қандай сезім мүшесі жауап береді?",
+                "en": "Which sense organ is responsible for the body's balance?"
+              },
+              "options": [
+                "Внутреннее ухо",
+                "Глаз",
+                "Нос"
+              ],
+              "correct": "Внутреннее ухо",
+              "task_id": "biology_g9_nervous_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Рефлекторная дуга — это путь",
+                "kk": "Рефлекторлық доға дегеніміз — бұл",
+                "en": "A reflex arc is the path of"
+              },
+              "options": [
+                "Прохождения нервного импульса при рефлексе",
+                "Кровотока в организме",
+                "Пищи в желудке"
+              ],
+              "correct": "Прохождения нервного импульса при рефлексе",
+              "task_id": "biology_g9_nervous_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "biology_g9_endocrine",
+          "title": {
+            "ru": "Эндокринная система",
+            "kk": "Эндокриндік жүйе",
+            "en": "Endocrine System"
+          },
+          "quest_icon": "pill",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое эндокринная система?",
+                "kk": "Эндокриндік жүйе дегеніміз не?",
+                "en": "What is the endocrine system?"
+              },
+              "options": [
+                "Система желёз, выделяющих гормоны",
+                "Система костей тела",
+                "Система мышц тела"
+              ],
+              "correct": "Система желёз, выделяющих гормоны",
+              "task_id": "biology_g9_endocrine_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое гормон?",
+                "kk": "Гормон дегеніміз не?",
+                "en": "What is a hormone?"
+              },
+              "options": [
+                "Биологически активное вещество, регулирующее работу организма",
+                "Только вид клетки крови",
+                "Только тип кости"
+              ],
+              "correct": "Биологически активное вещество, регулирующее работу организма",
+              "task_id": "biology_g9_endocrine_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая железа вырабатывает инсулин, регулирующий уровень сахара в крови?",
+                "kk": "Қандағы қант деңгейін реттейтін инсулинді қандай без шығарады?",
+                "en": "Which gland produces insulin, which regulates blood sugar levels?"
+              },
+              "options": [
+                "Поджелудочная железа",
+                "Щитовидная железа",
+                "Надпочечники"
+              ],
+              "correct": "Поджелудочная железа",
+              "task_id": "biology_g9_endocrine_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая железа регулирует обмен веществ и находится на шее?",
+                "kk": "Мойында орналасқан, зат алмасуды реттейтін без қандай?",
+                "en": "Which gland regulates metabolism and is located in the neck?"
+              },
+              "options": [
+                "Щитовидная железа",
+                "Поджелудочная железа",
+                "Гипофиз"
+              ],
+              "correct": "Щитовидная железа",
+              "task_id": "biology_g9_endocrine_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какую железу называют «главной железой», управляющей другими железами?",
+                "kk": "Басқа бездерді басқаратын «басты без» деп қандай без аталады?",
+                "en": "Which gland is called the 'master gland' that controls other glands?"
+              },
+              "options": [
+                "Гипофиз",
+                "Поджелудочную железу",
+                "Щитовидную железу"
+              ],
+              "correct": "Гипофиз",
+              "task_id": "biology_g9_endocrine_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Гормон адреналин выделяется при",
+                "kk": "Адреналин гормоны қашан бөлінеді",
+                "en": "The hormone adrenaline is released during"
+              },
+              "options": [
+                "Стрессе или опасности",
+                "Спокойном сне",
+                "Обычном пищеварении"
+              ],
+              "correct": "Стрессе или опасности",
+              "task_id": "biology_g9_endocrine_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "biology_g9_reproduction",
+          "title": {
+            "ru": "Размножение и развитие",
+            "kk": "Көбею және даму",
+            "en": "Reproduction and Development"
+          },
+          "quest_icon": "seed",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое размножение организмов?",
+                "kk": "Ағзалардың көбеюі дегеніміз не?",
+                "en": "What is reproduction in organisms?"
+              },
+              "options": [
+                "Процесс воспроизведения себе подобных особей",
+                "Только процесс роста тела",
+                "Только процесс питания"
+              ],
+              "correct": "Процесс воспроизведения себе подобных особей",
+              "task_id": "biology_g9_reproduction_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Размножение, при котором участвуют две родительские особи, называется",
+                "kk": "Екі ата-ана дарақ қатысатын көбею қалай аталады",
+                "en": "Reproduction involving two parent organisms is called"
+              },
+              "options": [
+                "Половым",
+                "Бесполым",
+                "Вегетативным"
+              ],
+              "correct": "Половым",
+              "task_id": "biology_g9_reproduction_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Размножение, при котором участвует только одна родительская особь, называется",
+                "kk": "Тек бір ата-ана дарақ қатысатын көбею қалай аталады",
+                "en": "Reproduction involving only one parent organism is called"
+              },
+              "options": [
+                "Бесполым",
+                "Половым",
+                "Двойным"
+              ],
+              "correct": "Бесполым",
+              "task_id": "biology_g9_reproduction_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Клетки, участвующие в половом размножении, называются",
+                "kk": "Жыныстық көбеюге қатысатын жасушалар қалай аталады",
+                "en": "Cells involved in sexual reproduction are called"
+              },
+              "options": [
+                "Половыми клетками (гаметами)",
+                "Кровяными клетками",
+                "Костными клетками"
+              ],
+              "correct": "Половыми клетками (гаметами)",
+              "task_id": "biology_g9_reproduction_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Слияние мужской и женской половых клеток называется",
+                "kk": "Аталық және аналық жыныс жасушаларының қосылуы қалай аталады",
+                "en": "The fusion of male and female sex cells is called"
+              },
+              "options": [
+                "Оплодотворением",
+                "Делением",
+                "Дыханием"
+              ],
+              "correct": "Оплодотворением",
+              "task_id": "biology_g9_reproduction_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Развитие организма от рождения до взрослого состояния называется",
+                "kk": "Ағзаның туылғаннан ересек кезеңге дейінгі дамуы қалай аталады",
+                "en": "The development of an organism from birth to adulthood is called"
+              },
+              "options": [
+                "Онтогенезом (индивидуальным развитием)",
+                "Фотосинтезом",
+                "Диссоциацией"
+              ],
+              "correct": "Онтогенезом (индивидуальным развитием)",
+              "task_id": "biology_g9_reproduction_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "biology_g9_genetics",
+          "title": {
+            "ru": "Основы генетики",
+            "kk": "Генетика негіздері",
+            "en": "Basics of Genetics"
+          },
+          "quest_icon": "dna",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что изучает генетика?",
+                "kk": "Генетика нені зерттейді?",
+                "en": "What does genetics study?"
+              },
+              "options": [
+                "Наследственность и изменчивость организмов",
+                "Только строение клетки",
+                "Только питание организмов"
+              ],
+              "correct": "Наследственность и изменчивость организмов",
+              "task_id": "biology_g9_genetics_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Кто считается основателем генетики благодаря опытам с горохом?",
+                "kk": "Бұршақпен тәжірибелері арқасында генетиканың негізін салушы деп кім саналады",
+                "en": "Who is considered the founder of genetics due to his experiments with peas?"
+              },
+              "options": [
+                "Грегор Мендель",
+                "Чарльз Дарвин",
+                "Луи Пастер"
+              ],
+              "correct": "Грегор Мендель",
+              "task_id": "biology_g9_genetics_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется молекула, хранящая наследственную информацию?",
+                "kk": "Тұқым қуалау ақпаратын сақтайтын молекула қалай аталады",
+                "en": "What is the molecule that stores hereditary information called?"
+              },
+              "options": [
+                "ДНК",
+                "Белок",
+                "Глюкоза"
+              ],
+              "correct": "ДНК",
+              "task_id": "biology_g9_genetics_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется единица наследственности, определяющая признак организма?",
+                "kk": "Ағза белгісін анықтайтын тұқым қуалау бірлігі қалай аталады",
+                "en": "What is the unit of heredity that determines a trait of an organism called?"
+              },
+              "options": [
+                "Ген",
+                "Клетка",
+                "Хромосома целиком"
+              ],
+              "correct": "Ген",
+              "task_id": "biology_g9_genetics_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Признак, который проявляется даже при наличии другого варианта гена, называется",
+                "kk": "Басқа ген нұсқасы болса да көрінетін белгі қалай аталады",
+                "en": "A trait that shows up even when another gene variant is present is called"
+              },
+              "options": [
+                "Доминантным",
+                "Рецессивным",
+                "Нейтральным"
+              ],
+              "correct": "Доминантным",
+              "task_id": "biology_g9_genetics_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Признак, который проявляется только в отсутствие доминантного варианта, называется",
+                "kk": "Тек доминантты нұсқа болмаған жағдайда көрінетін белгі қалай аталады",
+                "en": "A trait that only shows up when the dominant variant is absent is called"
+              },
+              "options": [
+                "Рецессивным",
+                "Доминантным",
+                "Мутантным всегда"
+              ],
+              "correct": "Рецессивным",
+              "task_id": "biology_g9_genetics_006"
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "topics": [
+        {
+          "topic_id": "biology_g10_metabolism",
+          "title": {
+            "ru": "Обмен веществ и энергии",
+            "kk": "Зат және энергия алмасуы",
+            "en": "Metabolism"
+          },
+          "quest_icon": "fire",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое обмен веществ (метаболизм)?",
+                "kk": "Зат алмасу (метаболизм) дегеніміз не?",
+                "en": "What is metabolism?"
+              },
+              "options": [
+                "Совокупность химических процессов в организме",
+                "Только процесс дыхания",
+                "Только процесс роста"
+              ],
+              "correct": "Совокупность химических процессов в организме",
+              "task_id": "biology_g10_metabolism_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Процесс образования сложных веществ из простых с затратой энергии называется",
+                "kk": "Қарапайым заттардан күрделі заттар түзілу процесі энергия жұмсай отырып қалай аталады",
+                "en": "The process of forming complex substances from simple ones, requiring energy, is called"
+              },
+              "options": [
+                "Ассимиляцией (пластическим обменом)",
+                "Диссимиляцией",
+                "Диффузией"
+              ],
+              "correct": "Ассимиляцией (пластическим обменом)",
+              "task_id": "biology_g10_metabolism_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Процесс расщепления сложных веществ с выделением энергии называется",
+                "kk": "Күрделі заттардың ыдырап, энергия бөлу процесі қалай аталады",
+                "en": "The process of breaking down complex substances with the release of energy is called"
+              },
+              "options": [
+                "Диссимиляцией (энергетическим обменом)",
+                "Ассимиляцией",
+                "Фотосинтезом"
+              ],
+              "correct": "Диссимиляцией (энергетическим обменом)",
+              "task_id": "biology_g10_metabolism_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Фотосинтез происходит в клетках, содержащих",
+                "kk": "Фотосинтез неде бар жасушаларда жүреді",
+                "en": "Photosynthesis occurs in cells containing"
+              },
+              "options": [
+                "Хлорофилл",
+                "Только воду",
+                "Только соль"
+              ],
+              "correct": "Хлорофилл",
+              "task_id": "biology_g10_metabolism_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "В процессе фотосинтеза растения поглощают",
+                "kk": "Фотосинтез процесінде өсімдіктер не сіңіріп, не бөледі",
+                "en": "During photosynthesis, plants absorb"
+              },
+              "options": [
+                "Углекислый газ и выделяют кислород",
+                "Кислород и выделяют углекислый газ",
+                "Только воду"
+              ],
+              "correct": "Углекислый газ и выделяют кислород",
+              "task_id": "biology_g10_metabolism_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Клеточное дыхание высвобождает энергию из",
+                "kk": "Жасушалық тыныс алу энергияны неден босатады",
+                "en": "Cellular respiration releases energy from"
+              },
+              "options": [
+                "Глюкозы",
+                "Только воды",
+                "Только азота"
+              ],
+              "correct": "Глюкозы",
+              "task_id": "biology_g10_metabolism_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "biology_g10_evolution",
+          "title": {
+            "ru": "Основы эволюции",
+            "kk": "Эволюция негіздері",
+            "en": "Basics of Evolution"
+          },
+          "quest_icon": "sync",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Кто предложил теорию эволюции путём естественного отбора?",
+                "kk": "Табиғи сұрыпталу арқылы эволюция теориясын кім ұсынды?",
+                "en": "Who proposed the theory of evolution by natural selection?"
+              },
+              "options": [
+                "Чарльз Дарвин",
+                "Грегор Мендель",
+                "Луи Пастер"
+              ],
+              "correct": "Чарльз Дарвин",
+              "task_id": "biology_g10_evolution_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое естественный отбор?",
+                "kk": "Табиғи сұрыпталу дегеніміз не?",
+                "en": "What is natural selection?"
+              },
+              "options": [
+                "Выживание и размножение наиболее приспособленных особей",
+                "Случайное исчезновение видов",
+                "Искусственное разведение животных"
+              ],
+              "correct": "Выживание и размножение наиболее приспособленных особей",
+              "task_id": "biology_g10_evolution_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое вид в биологии?",
+                "kk": "Биологиядағы түр дегеніміз не?",
+                "en": "What is a species in biology?"
+              },
+              "options": [
+                "Группа организмов, способных скрещиваться и давать плодовитое потомство",
+                "Любая группа похожих камней",
+                "Только домашние животные"
+              ],
+              "correct": "Группа организмов, способных скрещиваться и давать плодовитое потомство",
+              "task_id": "biology_g10_evolution_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется процесс возникновения новых видов?",
+                "kk": "Жаңа түрлердің пайда болу процесі қалай аталады?",
+                "en": "What is the process of the emergence of new species called?"
+              },
+              "options": [
+                "Видообразование",
+                "Метаболизм",
+                "Диссоциация"
+              ],
+              "correct": "Видообразование",
+              "task_id": "biology_g10_evolution_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое рудименты?",
+                "kk": "Рудименттер дегеніміз не?",
+                "en": "What are vestigial organs?"
+              },
+              "options": [
+                "Недоразвитые органы, утратившие своё значение",
+                "Новые полезные органы",
+                "Только кости черепа"
+              ],
+              "correct": "Недоразвитые органы, утратившие своё значение",
+              "task_id": "biology_g10_evolution_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Ископаемые остатки организмов, изучаемые для понимания эволюции, называются",
+                "kk": "Эволюцияны түсіну үшін зерттелетін ағзалардың қалдықтары қалай аталады",
+                "en": "Fossilized remains of organisms studied to understand evolution are called"
+              },
+              "options": [
+                "Окаменелостями (фоссилиями)",
+                "Только костями современных животных",
+                "Минералами"
+              ],
+              "correct": "Окаменелостями (фоссилиями)",
+              "task_id": "biology_g10_evolution_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "biology_g10_ecology_populations",
+          "title": {
+            "ru": "Экология популяций",
+            "kk": "Популяциялар экологиясы",
+            "en": "Population Ecology"
+          },
+          "quest_icon": "family-tree",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое популяция в экологии?",
+                "kk": "Экологиядағы популяция дегеніміз не?",
+                "en": "What is a population in ecology?"
+              },
+              "options": [
+                "Группа особей одного вида на одной территории",
+                "Любая группа разных видов",
+                "Только домашние животные"
+              ],
+              "correct": "Группа особей одного вида на одной территории",
+              "task_id": "biology_g10_ecology_populations_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется совокупность всех популяций разных видов на одной территории?",
+                "kk": "Бір аумақтағы әртүрлі түрлердің барлық популяцияларының жиынтығы қалай аталады?",
+                "en": "What is the collection of all populations of different species in one area called?"
+              },
+              "options": [
+                "Сообщество (биоценоз)",
+                "Только один вид",
+                "Только неживая природа"
+              ],
+              "correct": "Сообщество (биоценоз)",
+              "task_id": "biology_g10_ecology_populations_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Конкуренция в экологии — это борьба организмов за",
+                "kk": "Экологиядағы бәсекелестік дегеніміз — ағзалардың неге таласуы",
+                "en": "Competition in ecology is the struggle of organisms for"
+              },
+              "options": [
+                "Общие ограниченные ресурсы",
+                "Только территорию без ресурсов",
+                "Только размножение без пищи"
+              ],
+              "correct": "Общие ограниченные ресурсы",
+              "task_id": "biology_g10_ecology_populations_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Симбиоз — это форма отношений, при которой",
+                "kk": "Симбиоз дегеніміз — қандай қатынас түрі",
+                "en": "Symbiosis is a form of relationship in which"
+              },
+              "options": [
+                "Оба организма получают пользу",
+                "Один организм всегда вредит другому",
+                "Организмы никак не взаимодействуют"
+              ],
+              "correct": "Оба организма получают пользу",
+              "task_id": "biology_g10_ecology_populations_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что ограничивает рост популяции в природе?",
+                "kk": "Табиғатта популяцияның өсуін не шектейді?",
+                "en": "What limits population growth in nature?"
+              },
+              "options": [
+                "Нехватка пищи, места и хищники",
+                "Только погода",
+                "Ничто не ограничивает"
+              ],
+              "correct": "Нехватка пищи, места и хищники",
+              "task_id": "biology_g10_ecology_populations_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется способность экосистемы восстанавливаться после нарушения?",
+                "kk": "Экожүйенің бұзылғаннан кейін қалпына келу қабілеті қалай аталады?",
+                "en": "What is an ecosystem's ability to recover after a disturbance called?"
+              },
+              "options": [
+                "Устойчивость экосистемы",
+                "Разрушение экосистемы",
+                "Загрязнение экосистемы"
+              ],
+              "correct": "Устойчивость экосистемы",
+              "task_id": "biology_g10_ecology_populations_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "biology_g10_digestive_excretory",
+          "title": {
+            "ru": "Пищеварительная и выделительная системы",
+            "kk": "Ас қорыту және зәр шығару жүйелері",
+            "en": "Digestive and Excretory Systems"
+          },
+          "quest_icon": "stomach",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Основная функция пищеварительной системы — это",
+                "kk": "Ас қорыту жүйесінің негізгі қызметі — бұл",
+                "en": "The main function of the digestive system is"
+              },
+              "options": [
+                "Расщепление пищи и усвоение питательных веществ",
+                "Только выведение углекислого газа",
+                "Только фильтрация крови"
+              ],
+              "correct": "Расщепление пищи и усвоение питательных веществ",
+              "task_id": "biology_g10_digestive_excretory_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой орган вырабатывает желчь, участвующую в переваривании жиров?",
+                "kk": "Майларды қорытуға қатысатын өтті қандай мүше шығарады?",
+                "en": "Which organ produces bile, which is involved in digesting fats?"
+              },
+              "options": [
+                "Печень",
+                "Поджелудочная железа",
+                "Селезёнка"
+              ],
+              "correct": "Печень",
+              "task_id": "biology_g10_digestive_excretory_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Основная функция выделительной системы — это",
+                "kk": "Зәр шығару жүйесінің негізгі қызметі — бұл",
+                "en": "The main function of the excretory system is"
+              },
+              "options": [
+                "Удаление из организма вредных продуктов обмена",
+                "Только переваривание пищи",
+                "Только перекачивание крови"
+              ],
+              "correct": "Удаление из организма вредных продуктов обмена",
+              "task_id": "biology_g10_digestive_excretory_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой орган фильтрует кровь и образует мочу?",
+                "kk": "Қанды сүзіп, зәр түзетін мүше қайсы?",
+                "en": "Which organ filters blood and forms urine?"
+              },
+              "options": [
+                "Почки",
+                "Печень",
+                "Желудок"
+              ],
+              "correct": "Почки",
+              "task_id": "biology_g10_digestive_excretory_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Где начинается механическое и химическое переваривание пищи?",
+                "kk": "Тамақтың механикалық және химиялық қорытылуы қайдан басталады?",
+                "en": "Where does mechanical and chemical digestion of food begin?"
+              },
+              "options": [
+                "Во рту",
+                "В толстой кишке",
+                "В почках"
+              ],
+              "correct": "Во рту",
+              "task_id": "biology_g10_digestive_excretory_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Основная функция толстого кишечника — это",
+                "kk": "Тоқ ішектің негізгі қызметі — бұл",
+                "en": "The main function of the large intestine is"
+              },
+              "options": [
+                "Всасывание воды и формирование каловых масс",
+                "Расщепление белков только",
+                "Фильтрация крови"
+              ],
+              "correct": "Всасывание воды и формирование каловых масс",
+              "task_id": "biology_g10_digestive_excretory_006"
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "topics": [
+        {
+          "topic_id": "biology_g11_immune",
+          "title": {
+            "ru": "Иммунная система",
+            "kk": "Иммундық жүйе",
+            "en": "Immune System"
+          },
+          "quest_icon": "shield-check",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Основная функция иммунной системы — это",
+                "kk": "Иммундық жүйенің негізгі қызметі — бұл",
+                "en": "The main function of the immune system is"
+              },
+              "options": [
+                "Защита организма от инфекций и болезней",
+                "Только переваривание пищи",
+                "Только фильтрация крови"
+              ],
+              "correct": "Защита организма от инфекций и болезней",
+              "task_id": "biology_g11_immune_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Антитела — это белки, которые",
+                "kk": "Антиденелер — қандай ақуыздар",
+                "en": "Antibodies are proteins that"
+              },
+              "options": [
+                "Распознают и нейтрализуют чужеродные вещества",
+                "Только переносят кислород",
+                "Только строят кости"
+              ],
+              "correct": "Распознают и нейтрализуют чужеродные вещества",
+              "task_id": "biology_g11_immune_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Вакцинация помогает организму",
+                "kk": "Вакцинация ағзаға немен көмектеседі",
+                "en": "Vaccination helps the body"
+              },
+              "options": [
+                "Заранее выработать иммунитет к болезни",
+                "Заболеть быстрее",
+                "Полностью потерять иммунитет"
+              ],
+              "correct": "Заранее выработать иммунитет к болезни",
+              "task_id": "biology_g11_immune_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Лейкоциты (белые кровяные клетки) главным образом отвечают за",
+                "kk": "Лейкоциттер (ақ қан жасушалары) негізінен неге жауап береді",
+                "en": "White blood cells (leukocytes) are mainly responsible for"
+              },
+              "options": [
+                "Борьбу с инфекциями",
+                "Перенос кислорода",
+                "Свёртывание крови"
+              ],
+              "correct": "Борьбу с инфекциями",
+              "task_id": "biology_g11_immune_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Аллергия — это реакция иммунной системы на",
+                "kk": "Аллергия — иммундық жүйенің неге реакциясы",
+                "en": "Allergy is an immune system reaction to"
+              },
+              "options": [
+                "Обычно безвредные вещества",
+                "Только на бактерии",
+                "Только на собственные клетки тела"
+              ],
+              "correct": "Обычно безвредные вещества",
+              "task_id": "biology_g11_immune_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Аутоиммунное заболевание возникает, когда иммунная система атакует",
+                "kk": "Аутоиммундық ауру қашан пайда болады",
+                "en": "An autoimmune disease occurs when the immune system attacks"
+              },
+              "options": [
+                "Собственные клетки организма",
+                "Только внешние бактерии",
+                "Только вирусы"
+              ],
+              "correct": "Собственные клетки организма",
+              "task_id": "biology_g11_immune_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "biology_g11_higher_nervous",
+          "title": {
+            "ru": "Высшая нервная деятельность",
+            "kk": "Жоғары жүйке әрекеті",
+            "en": "Higher Nervous Activity"
+          },
+          "quest_icon": "head-lightbulb",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Высшая нервная деятельность связана прежде всего с работой",
+                "kk": "Жоғары жүйке әрекеті ең алдымен неге байланысты",
+                "en": "Higher nervous activity is primarily related to the function of the"
+              },
+              "options": [
+                "Коры больших полушарий головного мозга",
+                "Только спинного мозга",
+                "Только периферических нервов"
+              ],
+              "correct": "Коры больших полушарий головного мозга",
+              "task_id": "biology_g11_higher_nervous_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Условный рефлекс — это рефлекс, который",
+                "kk": "Шартты рефлекс — қандай рефлекс",
+                "en": "A conditioned reflex is a reflex that"
+              },
+              "options": [
+                "Формируется в течение жизни через обучение",
+                "Всегда является врождённым",
+                "Никогда не изменяется"
+              ],
+              "correct": "Формируется в течение жизни через обучение",
+              "task_id": "biology_g11_higher_nervous_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Безусловный рефлекс — это рефлекс, который",
+                "kk": "Шартсыз рефлекс — қандай рефлекс",
+                "en": "An unconditioned reflex is a reflex that"
+              },
+              "options": [
+                "Является врождённым и не требует обучения",
+                "Формируется только через тренировку",
+                "Существует только у человека"
+              ],
+              "correct": "Является врождённым и не требует обучения",
+              "task_id": "biology_g11_higher_nervous_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Кто изучал условные рефлексы на примере собак?",
+                "kk": "Иттер мысалында шартты рефлекстерді кім зерттеді?",
+                "en": "Who studied conditioned reflexes using dogs as an example?"
+              },
+              "options": [
+                "Иван Павлов",
+                "Чарльз Дарвин",
+                "Грегор Мендель"
+              ],
+              "correct": "Иван Павлов",
+              "task_id": "biology_g11_higher_nervous_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Память — это способность мозга",
+                "kk": "Есте сақтау — мидың қандай қабілеті",
+                "en": "Memory is the brain's ability to"
+              },
+              "options": [
+                "Сохранять и воспроизводить информацию",
+                "Только переваривать пищу",
+                "Только фильтровать кровь"
+              ],
+              "correct": "Сохранять и воспроизводить информацию",
+              "task_id": "biology_g11_higher_nervous_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Речь и абстрактное мышление являются признаками",
+                "kk": "Сөйлеу мен абстрактілі ойлау немененің белгісі",
+                "en": "Speech and abstract thinking are signs of"
+              },
+              "options": [
+                "Высшей нервной деятельности человека",
+                "Только рефлексов у животных",
+                "Только инстинктов"
+              ],
+              "correct": "Высшей нервной деятельности человека",
+              "task_id": "biology_g11_higher_nervous_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "biology_g11_biotechnology",
+          "title": {
+            "ru": "Биотехнология",
+            "kk": "Биотехнология",
+            "en": "Biotechnology"
+          },
+          "quest_icon": "test-tube",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое биотехнология?",
+                "kk": "Биотехнология дегеніміз не?",
+                "en": "What is biotechnology?"
+              },
+              "options": [
+                "Использование живых организмов для создания полезных продуктов",
+                "Только изучение звёзд",
+                "Только строительство зданий"
+              ],
+              "correct": "Использование живых организмов для создания полезных продуктов",
+              "task_id": "biology_g11_biotechnology_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Генная инженерия позволяет учёным",
+                "kk": "Гендік инженерия ғалымдарға не істеуге мүмкіндік береді",
+                "en": "Genetic engineering allows scientists to"
+              },
+              "options": [
+                "Изменять генетический материал организмов",
+                "Только измерять рост человека",
+                "Только считать клетки"
+              ],
+              "correct": "Изменять генетический материал организмов",
+              "task_id": "biology_g11_biotechnology_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Биотехнологии используются в медицине для производства",
+                "kk": "Биотехнология медицинада не өндіру үшін қолданылады",
+                "en": "Biotechnology is used in medicine to produce"
+              },
+              "options": [
+                "Инсулина и вакцин",
+                "Только пластиковых игрушек",
+                "Только строительных материалов"
+              ],
+              "correct": "Инсулина и вакцин",
+              "task_id": "biology_g11_biotechnology_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Клонирование — это процесс создания",
+                "kk": "Клондау — қандай процесс",
+                "en": "Cloning is the process of creating"
+              },
+              "options": [
+                "Генетически идентичной копии организма",
+                "Совершенно нового вида организма",
+                "Только искусственного камня"
+              ],
+              "correct": "Генетически идентичной копии организма",
+              "task_id": "biology_g11_biotechnology_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Генетически модифицированные организмы (ГМО) в сельском хозяйстве используют для",
+                "kk": "Ауыл шаруашылығында генетикалық түрлендірілген ағзаларды (ГМО) не үшін қолданады",
+                "en": "Genetically modified organisms (GMOs) are used in agriculture to"
+              },
+              "options": [
+                "Повышения урожайности и устойчивости растений",
+                "Только изменения цвета почвы",
+                "Только замедления роста растений"
+              ],
+              "correct": "Повышения урожайности и устойчивости растений",
+              "task_id": "biology_g11_biotechnology_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Этические вопросы биотехнологии касаются",
+                "kk": "Биотехнологияның этикалық мәселелері неге қатысты",
+                "en": "Ethical issues in biotechnology concern"
+              },
+              "options": [
+                "Безопасности и последствий вмешательства в генетику",
+                "Только цвета лабораторных халатов",
+                "Только расписания учёных"
+              ],
+              "correct": "Безопасности и последствий вмешательства в генетику",
+              "task_id": "biology_g11_biotechnology_006"
+            }
+          ]
+        },
+        {
+          "topic_id": "biology_g11_global_ecology",
+          "title": {
+            "ru": "Глобальная экология",
+            "kk": "Жаһандық экология",
+            "en": "Global Ecology"
+          },
+          "quest_icon": "earth",
+          "tasks": [
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое биосфера?",
+                "kk": "Биосфера дегеніміз не?",
+                "en": "What is the biosphere?"
+              },
+              "options": [
+                "Оболочка Земли, населённая живыми организмами",
+                "Только атмосфера Земли",
+                "Только твёрдая поверхность Земли"
+              ],
+              "correct": "Оболочка Земли, населённая живыми организмами",
+              "task_id": "biology_g11_global_ecology_001"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Глобальное изменение климата в основном связывают с",
+                "kk": "Жаһандық климаттың өзгеруі негізінен немен байланысты",
+                "en": "Global climate change is mainly attributed to"
+              },
+              "options": [
+                "Увеличением выбросов парниковых газов",
+                "Только с движением материков",
+                "Только с фазами Луны"
+              ],
+              "correct": "Увеличением выбросов парниковых газов",
+              "task_id": "biology_g11_global_ecology_002"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Утрата биоразнообразия угрожает",
+                "kk": "Биоалуантүрліліктің жоғалуы неге қауіп төндіреді",
+                "en": "Loss of biodiversity threatens"
+              },
+              "options": [
+                "Устойчивости экосистем и продовольственной безопасности",
+                "Только красоте пейзажей",
+                "Только количеству осадков"
+              ],
+              "correct": "Устойчивости экосистем и продовольственной безопасности",
+              "task_id": "biology_g11_global_ecology_003"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Устойчивое развитие подразумевает",
+                "kk": "Тұрақты даму нені білдіреді",
+                "en": "Sustainable development means"
+              },
+              "options": [
+                "Удовлетворение нужд настоящего без ущерба для будущих поколений",
+                "Использование всех ресурсов немедленно без ограничений",
+                "Полный отказ от развития"
+              ],
+              "correct": "Удовлетворение нужд настоящего без ущерба для будущих поколений",
+              "task_id": "biology_g11_global_ecology_004"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Международные соглашения по климату (например, Парижское соглашение) направлены на",
+                "kk": "Климат бойынша халықаралық келісімдер (мысалы, Париж келісімі) неге бағытталған",
+                "en": "International climate agreements (e.g., the Paris Agreement) aim to"
+              },
+              "options": [
+                "Сокращение выбросов парниковых газов всеми странами",
+                "Увеличение добычи угля",
+                "Отказ стран от сотрудничества"
+              ],
+              "correct": "Сокращение выбросов парниковых газов всеми странами",
+              "task_id": "biology_g11_global_ecology_005"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что каждый человек может сделать для глобальной экологии?",
+                "kk": "Әр адам жаһандық экология үшін не істей алады",
+                "en": "What can every person do for global ecology?"
+              },
+              "options": [
+                "Экономить ресурсы и сортировать отходы",
+                "Ничего не может изменить",
+                "Только ждать решений правительства"
+              ],
+              "correct": "Экономить ресурсы и сортировать отходы",
+              "task_id": "biology_g11_global_ecology_006"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

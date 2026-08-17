@@ -1028,6 +1028,216 @@
               ],
               "correct": "Молоко и кальций",
               "task_id": "world_g1_body_safety_015"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Каким органом мы чувствуем запахи?",
+                "kk": "Қандай мүшемен иіс сезінеміз?",
+                "en": "Which organ do we smell with?"
+              },
+              "options": [
+                "Носом",
+                "Ртом",
+                "Кожей"
+              ],
+              "correct": "Носом",
+              "task_id": "world_g1_body_safety_016"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Каким органом мы пробуем вкус еды?",
+                "kk": "Қандай мүшемен тағамның дәмін татамыз?",
+                "en": "Which organ do we taste food with?"
+              },
+              "options": [
+                "Языком",
+                "Носом",
+                "Ушами"
+              ],
+              "correct": "Языком",
+              "task_id": "world_g1_body_safety_017"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сколько глаз у человека?",
+                "kk": "Адамда неше көз бар?",
+                "en": "How many eyes does a person have?"
+              },
+              "options": [
+                "2",
+                "1",
+                "3"
+              ],
+              "correct": "2",
+              "task_id": "world_g1_body_safety_018"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сколько пальцев на двух руках вместе?",
+                "kk": "Екі қолда бірге неше саусақ бар?",
+                "en": "How many fingers are on both hands together?"
+              },
+              "options": [
+                "10",
+                "8",
+                "12"
+              ],
+              "correct": "10",
+              "task_id": "world_g1_body_safety_019"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что нужно делать перед едой?",
+                "kk": "Тамақтанар алдында не істеу керек?",
+                "en": "What should you do before eating?"
+              },
+              "options": [
+                "Мыть руки",
+                "Смотреть телевизор",
+                "Спать"
+              ],
+              "correct": "Мыть руки",
+              "task_id": "world_g1_body_safety_020"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Можно ли переходить дорогу на красный свет светофора?",
+                "kk": "Бағдаршамның қызыл түсінде жолды кесіп өтуге бола ма?",
+                "en": "Can you cross the road on a red traffic light?"
+              },
+              "options": [
+                "Нет",
+                "Да",
+                "Иногда можно"
+              ],
+              "correct": "Нет",
+              "task_id": "world_g1_body_safety_021"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "На какой свет светофора можно переходить дорогу?",
+                "kk": "Бағдаршамның қай түсінде жолды кесіп өтуге болады?",
+                "en": "On which traffic light color can you cross the road?"
+              },
+              "options": [
+                "На зелёный",
+                "На красный",
+                "На любой"
+              ],
+              "correct": "На зелёный",
+              "task_id": "world_g1_body_safety_022"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что защищает голову велосипедиста при падении?",
+                "kk": "Велосипедшінің құлағанда басын не қорғайды?",
+                "en": "What protects a cyclist's head during a fall?"
+              },
+              "options": [
+                "Шлем",
+                "Шарф",
+                "Перчатки"
+              ],
+              "correct": "Шлем",
+              "task_id": "world_g1_body_safety_023"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Каким органом мы дышим?",
+                "kk": "Қандай мүшемен тыныс аламыз?",
+                "en": "Which organ do we breathe with?"
+              },
+              "options": [
+                "Лёгкими",
+                "Желудком",
+                "Печенью"
+              ],
+              "correct": "Лёгкими",
+              "task_id": "world_g1_body_safety_024"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой орган перекачивает кровь по телу?",
+                "kk": "Дене бойымен қанды қандай мүше айдайды?",
+                "en": "Which organ pumps blood through the body?"
+              },
+              "options": [
+                "Сердце",
+                "Желудок",
+                "Лёгкие"
+              ],
+              "correct": "Сердце",
+              "task_id": "world_g1_body_safety_025"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сколько ушей у человека?",
+                "kk": "Адамда неше құлақ бар?",
+                "en": "How many ears does a person have?"
+              },
+              "options": [
+                "2",
+                "1",
+                "3"
+              ],
+              "correct": "2",
+              "task_id": "world_g1_body_safety_026"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что нужно делать, если ты порезал палец?",
+                "kk": "Саусағыңды кессең, не істеу керек?",
+                "en": "What should you do if you cut your finger?"
+              },
+              "options": [
+                "Сказать взрослому",
+                "Промолчать",
+                "Играть дальше"
+              ],
+              "correct": "Сказать взрослому",
+              "task_id": "world_g1_body_safety_027"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Почему нельзя разговаривать с незнакомцами и уходить с ними?",
+                "kk": "Бейтаныс адамдармен сөйлесіп, олармен кетуге неге болмайды?",
+                "en": "Why shouldn't you talk to strangers and go with them?"
+              },
+              "options": [
+                "Это может быть опасно",
+                "Это невежливо",
+                "Это скучно"
+              ],
+              "correct": "Это может быть опасно",
+              "task_id": "world_g1_body_safety_028"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что нужно делать перед сном для здоровья зубов?",
+                "kk": "Тістердің саулығы үшін ұйықтар алдында не істеу керек?",
+                "en": "What should you do before bed for healthy teeth?"
+              },
+              "options": [
+                "Чистить зубы",
+                "Есть конфеты",
+                "Смотреть мультфильмы"
+              ],
+              "correct": "Чистить зубы",
+              "task_id": "world_g1_body_safety_029"
             }
           ]
         },
@@ -1189,6 +1399,186 @@
               ],
               "correct": "Так расположена Земля к Солнцу",
               "task_id": "world_g1_natural_phenomena_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется сильный ветер с дождём?",
+                "kk": "Жаңбырмен бірге соғатын күшті жел қалай аталады?",
+                "en": "What is a strong wind with rain called?"
+              },
+              "options": [
+                "Буря",
+                "Жара",
+                "Засуха"
+              ],
+              "correct": "Буря",
+              "task_id": "world_g1_natural_phenomena_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что происходит с водой в реке зимой?",
+                "kk": "Қыста өзендегі суға не болады?",
+                "en": "What happens to water in a river in winter?"
+              },
+              "options": [
+                "Она замерзает",
+                "Она кипит",
+                "Она исчезает"
+              ],
+              "correct": "Она замерзает",
+              "task_id": "world_g1_natural_phenomena_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется явление, когда очень сухо и долго нет дождя?",
+                "kk": "Ұзақ уақыт жаңбыр жаумай, өте құрғақ болу қалай аталады?",
+                "en": "What is it called when it's very dry with no rain for a long time?"
+              },
+              "options": [
+                "Засуха",
+                "Наводнение",
+                "Метель"
+              ],
+              "correct": "Засуха",
+              "task_id": "world_g1_natural_phenomena_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется сильная метель зимой?",
+                "kk": "Қыстағы күшті боран қалай аталады?",
+                "en": "What is a strong winter snowstorm called?"
+              },
+              "options": [
+                "Буран",
+                "Гроза",
+                "Туман"
+              ],
+              "correct": "Буран",
+              "task_id": "world_g1_natural_phenomena_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое туман?",
+                "kk": "Тұман дегеніміз не?",
+                "en": "What is fog?"
+              },
+              "options": [
+                "Облако у самой земли",
+                "Дождь из снега",
+                "Сильный ветер"
+              ],
+              "correct": "Облако у самой земли",
+              "task_id": "world_g1_natural_phenomena_015"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Когда бывает роса на траве?",
+                "kk": "Шөпте шық қашан пайда болады?",
+                "en": "When does dew appear on grass?"
+              },
+              "options": [
+                "Ранним утром",
+                "В полдень",
+                "Глубокой ночью зимой"
+              ],
+              "correct": "Ранним утром",
+              "task_id": "world_g1_natural_phenomena_016"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое гром?",
+                "kk": "Күн күркірі дегеніміз не?",
+                "en": "What is thunder?"
+              },
+              "options": [
+                "Громкий звук после молнии",
+                "Свет на небе",
+                "Дождь со снегом"
+              ],
+              "correct": "Громкий звук после молнии",
+              "task_id": "world_g1_natural_phenomena_017"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "В какое время года чаще всего бывает гроза?",
+                "kk": "Найзағай көбінесе қай мезгілде болады?",
+                "en": "In which season do thunderstorms happen most often?"
+              },
+              "options": [
+                "Летом",
+                "Зимой",
+                "Поздней осенью"
+              ],
+              "correct": "Летом",
+              "task_id": "world_g1_natural_phenomena_018"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое град?",
+                "kk": "Бұршақ (град) дегеніміз не?",
+                "en": "What is hail?"
+              },
+              "options": [
+                "Кусочки льда, падающие с неба",
+                "Тёплый дождь",
+                "Жёлтые листья"
+              ],
+              "correct": "Кусочки льда, падающие с неба",
+              "task_id": "world_g1_natural_phenomena_019"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Почему во время грозы нельзя стоять под высоким деревом?",
+                "kk": "Найзағай кезінде биік ағаштың астында неге тұруға болмайды?",
+                "en": "Why shouldn't you stand under a tall tree during a thunderstorm?"
+              },
+              "options": [
+                "Молния может ударить в дерево",
+                "Дерево может зацвести",
+                "Там всегда холодно"
+              ],
+              "correct": "Молния может ударить в дерево",
+              "task_id": "world_g1_natural_phenomena_020"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется яркая дуга из семи цветов на небе?",
+                "kk": "Аспандағы жеті түсті жарқын доға қалай аталады?",
+                "en": "What is the bright arc of seven colors in the sky called?"
+              },
+              "options": [
+                "Радуга",
+                "Молния",
+                "Облако"
+              ],
+              "correct": "Радуга",
+              "task_id": "world_g1_natural_phenomena_021"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что нужно делать во время сильной грозы дома?",
+                "kk": "Қатты найзағай кезінде үйде не істеу керек?",
+                "en": "What should you do at home during a strong thunderstorm?"
+              },
+              "options": [
+                "Оставаться дома, закрыть окна",
+                "Гулять на улице",
+                "Купаться в реке"
+              ],
+              "correct": "Оставаться дома, закрыть окна",
+              "task_id": "world_g1_natural_phenomena_022"
             }
           ]
         }
@@ -1384,6 +1774,156 @@
               ],
               "correct": "Однолетние",
               "task_id": "world_g2_plants_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая часть растения находится над землёй и делает пищу из света?",
+                "kk": "Өсімдіктің жер үстіндегі, жарықтан тағам жасайтын бөлігі қайсы?",
+                "en": "Which part of a plant is above ground and makes food from light?"
+              },
+              "options": [
+                "Лист",
+                "Корень",
+                "Земля"
+              ],
+              "correct": "Лист",
+              "task_id": "world_g2_plants_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется процесс, при котором растения делают пищу на свету?",
+                "kk": "Өсімдіктердің жарықта тағам жасау процесі қалай аталады?",
+                "en": "What is the process called when plants make food using light?"
+              },
+              "options": [
+                "Фотосинтез",
+                "Дыхание",
+                "Рост"
+              ],
+              "correct": "Фотосинтез",
+              "task_id": "world_g2_plants_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что нужно семени, чтобы прорасти?",
+                "kk": "Дәннің өну үшін не қажет?",
+                "en": "What does a seed need to sprout?"
+              },
+              "options": [
+                "Вода, тепло и воздух",
+                "Только холод",
+                "Только темнота"
+              ],
+              "correct": "Вода, тепло и воздух",
+              "task_id": "world_g2_plants_015"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая часть цветка привлекает пчёл своим цветом и запахом?",
+                "kk": "Гүлдің қай бөлігі түсі мен иісімен араларды қызықтырады?",
+                "en": "Which part of a flower attracts bees with its color and smell?"
+              },
+              "options": [
+                "Лепестки",
+                "Корень",
+                "Стебель"
+              ],
+              "correct": "Лепестки",
+              "task_id": "world_g2_plants_016"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что находится внутри плода и может вырасти в новое растение?",
+                "kk": "Жемістің ішінде не бар, ол жаңа өсімдікке айналуы мүмкін?",
+                "en": "What is inside a fruit and can grow into a new plant?"
+              },
+              "options": [
+                "Семя",
+                "Лист",
+                "Кора"
+              ],
+              "correct": "Семя",
+              "task_id": "world_g2_plants_017"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что помогает стеблю держать растение прямо?",
+                "kk": "Өсімдікті тік ұстауға не көмектеседі?",
+                "en": "What helps hold a plant upright?"
+              },
+              "options": [
+                "Стебель служит опорой",
+                "Только листья",
+                "Только цветы"
+              ],
+              "correct": "Стебель служит опорой",
+              "task_id": "world_g2_plants_018"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какие растения теряют листья осенью?",
+                "kk": "Күзде қай өсімдіктер жапырағын тастайды?",
+                "en": "Which plants lose their leaves in autumn?"
+              },
+              "options": [
+                "Лиственные деревья",
+                "Все растения без исключения",
+                "Только кактусы"
+              ],
+              "correct": "Лиственные деревья",
+              "task_id": "world_g2_plants_019"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Почему кактус хорошо растёт в пустыне?",
+                "kk": "Кактус шөлде неге жақсы өседі?",
+                "en": "Why does a cactus grow well in the desert?"
+              },
+              "options": [
+                "Он запасает воду в стебле",
+                "Ему не нужна вода",
+                "Он не растёт на солнце"
+              ],
+              "correct": "Он запасает воду в стебле",
+              "task_id": "world_g2_plants_020"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что произойдёт с растением, если его никогда не поливать?",
+                "kk": "Өсімдікті ешқашан суармасаң, оған не болады?",
+                "en": "What happens to a plant if it is never watered?"
+              },
+              "options": [
+                "Оно завянет",
+                "Оно вырастет быстрее",
+                "Ничего не изменится"
+              ],
+              "correct": "Оно завянет",
+              "task_id": "world_g2_plants_021"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какое дерево даёт яблоки?",
+                "kk": "Қандай ағаш алма береді?",
+                "en": "Which tree gives apples?"
+              },
+              "options": [
+                "Яблоня",
+                "Берёза",
+                "Ель"
+              ],
+              "correct": "Яблоня",
+              "task_id": "world_g2_plants_022"
             }
           ]
         },
@@ -1545,6 +2085,156 @@
               ],
               "correct": "Найти укрытие в помещении",
               "task_id": "world_g2_safety_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "По какому номеру звонить, если нужна скорая помощь в Казахстане?",
+                "kk": "Қазақстанда жедел жәрдем керек болса, қай нөмірге қоңырау шалу керек?",
+                "en": "What number do you call for an ambulance in Kazakhstan?"
+              },
+              "options": [
+                "103",
+                "101",
+                "102"
+              ],
+              "correct": "103",
+              "task_id": "world_g2_safety_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "По какому номеру звонить в полицию в Казахстане?",
+                "kk": "Қазақстанда полицияға қай нөмірге қоңырау шалу керек?",
+                "en": "What number do you call for police in Kazakhstan?"
+              },
+              "options": [
+                "102",
+                "101",
+                "103"
+              ],
+              "correct": "102",
+              "task_id": "world_g2_safety_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что нельзя трогать без взрослых дома?",
+                "kk": "Үйде ересектерсіз нені ұстауға болмайды?",
+                "en": "What shouldn't you touch without adults at home?"
+              },
+              "options": [
+                "Розетки и провода",
+                "Мягкие игрушки",
+                "Книги"
+              ],
+              "correct": "Розетки и провода",
+              "task_id": "world_g2_safety_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что нужно делать, если ты потерялся в торговом центре?",
+                "kk": "Сауда орталығында адасып қалсаң, не істеу керек?",
+                "en": "What should you do if you get lost in a mall?"
+              },
+              "options": [
+                "Найти охранника или кассу",
+                "Убежать на улицу одному",
+                "Заплакать и сидеть молча"
+              ],
+              "correct": "Найти охранника или кассу",
+              "task_id": "world_g2_safety_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Можно ли играть со спичками?",
+                "kk": "Сіріңкемен ойнауға бола ма?",
+                "en": "Can you play with matches?"
+              },
+              "options": [
+                "Нет, это очень опасно",
+                "Да, если рядом взрослый",
+                "Да, но только на улице"
+              ],
+              "correct": "Нет, это очень опасно",
+              "task_id": "world_g2_safety_015"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что нужно надевать при езде на велосипеде?",
+                "kk": "Велосипедпен жүргенде нені кию керек?",
+                "en": "What should you wear when riding a bike?"
+              },
+              "options": [
+                "Шлем",
+                "Шляпу",
+                "Ничего особенного"
+              ],
+              "correct": "Шлем",
+              "task_id": "world_g2_safety_016"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Можно ли купаться в озере одному без взрослых?",
+                "kk": "Көлде ересектерсіз жалғыз шомылуға бола ма?",
+                "en": "Can you swim in a lake alone without adults?"
+              },
+              "options": [
+                "Нет",
+                "Да, если умеешь плавать",
+                "Да, всегда можно"
+              ],
+              "correct": "Нет",
+              "task_id": "world_g2_safety_017"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что делать, если незнакомый человек предлагает конфету на улице?",
+                "kk": "Көшеде бейтаныс адам кәмпит ұсынса, не істеу керек?",
+                "en": "What should you do if a stranger offers you candy on the street?"
+              },
+              "options": [
+                "Отказаться и отойти",
+                "Взять и поблагодарить",
+                "Пойти с ним"
+              ],
+              "correct": "Отказаться и отойти",
+              "task_id": "world_g2_safety_018"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Почему нужно пристёгиваться ремнём безопасности в машине?",
+                "kk": "Көлікте қауіпсіздік белдігін неге тағу керек?",
+                "en": "Why should you wear a seatbelt in a car?"
+              },
+              "options": [
+                "Это защищает при резком торможении",
+                "Это просто правило без причины",
+                "Это делает поездку веселее"
+              ],
+              "correct": "Это защищает при резком торможении",
+              "task_id": "world_g2_safety_019"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что делать при землетрясении дома?",
+                "kk": "Үйде жер сілкінісі кезінде не істеу керек?",
+                "en": "What should you do during an earthquake at home?"
+              },
+              "options": [
+                "Встать в дверной проём или под стол",
+                "Бежать к лифту",
+                "Стоять у окна"
+              ],
+              "correct": "Встать в дверной проём или под стол",
+              "task_id": "world_g2_safety_020"
             }
           ]
         },
@@ -1676,6 +2366,156 @@
               ],
               "correct": "Домбра",
               "task_id": "world_g2_my_kazakhstan_008"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется самая длинная река Казахстана?",
+                "kk": "Қазақстанның ең ұзын өзені қалай аталады?",
+                "en": "What is the longest river in Kazakhstan called?"
+              },
+              "options": [
+                "Иртыш",
+                "Волга",
+                "Дунай"
+              ],
+              "correct": "Иртыш",
+              "task_id": "world_g2_my_kazakhstan_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется государственный символ с изображением шанырака?",
+                "kk": "Шаңырақ бейнеленген мемлекеттік рәміз қалай аталады?",
+                "en": "What is the national symbol with the shanyrak design called?"
+              },
+              "options": [
+                "Флаг Казахстана",
+                "Герб России",
+                "Флаг Китая"
+              ],
+              "correct": "Флаг Казахстана",
+              "task_id": "world_g2_my_kazakhstan_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какого цвета флаг Казахстана?",
+                "kk": "Қазақстан туының түсі қандай?",
+                "en": "What color is the flag of Kazakhstan?"
+              },
+              "options": [
+                "Голубой с солнцем и орлом",
+                "Красный с звездой",
+                "Зелёный с полосой"
+              ],
+              "correct": "Голубой с солнцем и орлом",
+              "task_id": "world_g2_my_kazakhstan_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется крупнейший город Казахстана?",
+                "kk": "Қазақстанның ең үлкен қаласы қалай аталады?",
+                "en": "What is the largest city in Kazakhstan called?"
+              },
+              "options": [
+                "Алматы",
+                "Астана",
+                "Шымкент"
+              ],
+              "correct": "Алматы",
+              "task_id": "world_g2_my_kazakhstan_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется традиционное казахское жилище?",
+                "kk": "Қазақтың дәстүрлі баспанасы қалай аталады?",
+                "en": "What is the traditional Kazakh dwelling called?"
+              },
+              "options": [
+                "Юрта",
+                "Изба",
+                "Хижина"
+              ],
+              "correct": "Юрта",
+              "task_id": "world_g2_my_kazakhstan_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называются высокие горы на юго-востоке Казахстана рядом с Алматы?",
+                "kk": "Алматы маңындағы, Қазақстанның оңтүстік-шығысындағы биік таулар қалай аталады?",
+                "en": "What are the high mountains near Almaty in southeastern Kazakhstan called?"
+              },
+              "options": [
+                "Заилийский Алатау",
+                "Уральские горы",
+                "Кавказские горы"
+              ],
+              "correct": "Заилийский Алатау",
+              "task_id": "world_g2_my_kazakhstan_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какое озеро в Казахстане наполовину пресное, наполовину солёное?",
+                "kk": "Қазақстандағы қай көл жартылай тұщы, жартылай тұзды?",
+                "en": "Which lake in Kazakhstan is half fresh and half salty?"
+              },
+              "options": [
+                "Балхаш",
+                "Байкал",
+                "Каспийское море"
+              ],
+              "correct": "Балхаш",
+              "task_id": "world_g2_my_kazakhstan_015"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой праздник казахстанцы отмечают 22 марта?",
+                "kk": "Қазақстандықтар 22 наурызда қандай мереке тойлайды?",
+                "en": "What holiday do people in Kazakhstan celebrate on March 22?"
+              },
+              "options": [
+                "Наурыз",
+                "Новый год",
+                "День Победы"
+              ],
+              "correct": "Наурыз",
+              "task_id": "world_g2_my_kazakhstan_016"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой праздник Казахстан отмечает 16 декабря?",
+                "kk": "Қазақстан 16 желтоқсанда қандай мереке тойлайды?",
+                "en": "What holiday does Kazakhstan celebrate on December 16?"
+              },
+              "options": [
+                "День Независимости",
+                "Наурыз",
+                "День учителя"
+              ],
+              "correct": "День Независимости",
+              "task_id": "world_g2_my_kazakhstan_017"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая птица изображена на флаге Казахстана?",
+                "kk": "Қазақстан туында қандай құс бейнеленген?",
+                "en": "Which bird is depicted on the flag of Kazakhstan?"
+              },
+              "options": [
+                "Степной орёл",
+                "Ласточка",
+                "Сова"
+              ],
+              "correct": "Степной орёл",
+              "task_id": "world_g2_my_kazakhstan_018"
             }
           ]
         },
@@ -1855,6 +2695,120 @@
               ],
               "correct": "утро",
               "task_id": "world_g2_dayparts_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что идёт после «ночь»?",
+                "kk": "«түн» кейін не келеді?",
+                "en": "What comes after night?"
+              },
+              "options": [
+                "утро",
+                "вечер"
+              ],
+              "correct": "утро",
+              "task_id": "world_g2_dayparts_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Когда люди завтракают?",
+                "kk": "Адамдар таңғы асты қашан ішеді?",
+                "en": "When do people eat breakfast?"
+              },
+              "options": [
+                "утром",
+                "ночью"
+              ],
+              "correct": "утром",
+              "task_id": "world_g2_dayparts_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Когда встаёт солнце?",
+                "kk": "Күн қашан шығады?",
+                "en": "When does the sun rise?"
+              },
+              "options": [
+                "утром",
+                "вечером"
+              ],
+              "correct": "утром",
+              "task_id": "world_g2_dayparts_015"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Когда садится солнце?",
+                "kk": "Күн қашан бұлайды?",
+                "en": "When does the sun set?"
+              },
+              "options": [
+                "вечером",
+                "утром"
+              ],
+              "correct": "вечером",
+              "task_id": "world_g2_dayparts_016"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Когда дети идут спать?",
+                "kk": "Балалар қашан ұйықтауға жатады?",
+                "en": "When do children go to sleep?"
+              },
+              "options": [
+                "ночью",
+                "днём"
+              ],
+              "correct": "ночью",
+              "task_id": "world_g2_dayparts_017"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Когда дети учатся в школе?",
+                "kk": "Балалар мектепте қашан оқиды?",
+                "en": "When do children study at school?"
+              },
+              "options": [
+                "днём",
+                "ночью"
+              ],
+              "correct": "днём",
+              "task_id": "world_g2_dayparts_018"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сколько частей суток всего?",
+                "kk": "Тәулікте барлығы неше бөлік бар?",
+                "en": "How many parts of the day are there in total?"
+              },
+              "options": [
+                "4",
+                "2",
+                "6"
+              ],
+              "correct": "4",
+              "task_id": "world_g2_dayparts_019"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называются все 4 части суток по порядку?",
+                "kk": "Тәуліктің барлық 4 бөлігі ретімен қалай аталады?",
+                "en": "What are all 4 parts of the day called, in order?"
+              },
+              "options": [
+                "Утро, день, вечер, ночь",
+                "День, ночь только",
+                "Утро, ночь только"
+              ],
+              "correct": "Утро, день, вечер, ночь",
+              "task_id": "world_g2_dayparts_020"
             }
           ]
         }
@@ -2050,6 +3004,156 @@
               ],
               "correct": "Из множества звёзд",
               "task_id": "world_g3_solar_system_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая планета ближе всего к Солнцу?",
+                "kk": "Күнге ең жақын планета қайсы?",
+                "en": "Which planet is closest to the Sun?"
+              },
+              "options": [
+                "Меркурий",
+                "Венера",
+                "Земля"
+              ],
+              "correct": "Меркурий",
+              "task_id": "world_g3_solar_system_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая планета известна своими яркими кольцами?",
+                "kk": "Қандай планета жарқын сақиналарымен танымал?",
+                "en": "Which planet is known for its bright rings?"
+              },
+              "options": [
+                "Сатурн",
+                "Марс",
+                "Меркурий"
+              ],
+              "correct": "Сатурн",
+              "task_id": "world_g3_solar_system_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называют Марс из-за его цвета?",
+                "kk": "Марсты түсіне байланысты қалай атайды?",
+                "en": "What is Mars called because of its color?"
+              },
+              "options": [
+                "Красная планета",
+                "Голубая планета",
+                "Жёлтая планета"
+              ],
+              "correct": "Красная планета",
+              "task_id": "world_g3_solar_system_015"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сколько планет в Солнечной системе?",
+                "kk": "Күн жүйесінде неше планета бар?",
+                "en": "How many planets are in the Solar System?"
+              },
+              "options": [
+                "8",
+                "7",
+                "9"
+              ],
+              "correct": "8",
+              "task_id": "world_g3_solar_system_016"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая планета самая большая в Солнечной системе?",
+                "kk": "Күн жүйесіндегі ең үлкен планета қайсы?",
+                "en": "Which is the largest planet in the Solar System?"
+              },
+              "options": [
+                "Юпитер",
+                "Сатурн",
+                "Земля"
+              ],
+              "correct": "Юпитер",
+              "task_id": "world_g3_solar_system_017"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сколько времени свет от Солнца идёт до Земли?",
+                "kk": "Күннен Жерге дейін жарық қанша уақытта жетеді?",
+                "en": "How long does light from the Sun take to reach Earth?"
+              },
+              "options": [
+                "Около 8 минут",
+                "1 секунду",
+                "1 год"
+              ],
+              "correct": "Около 8 минут",
+              "task_id": "world_g3_solar_system_018"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое астероид?",
+                "kk": "Астероид дегеніміз не?",
+                "en": "What is an asteroid?"
+              },
+              "options": [
+                "Каменное тело в космосе",
+                "Звезда",
+                "Планета с водой"
+              ],
+              "correct": "Каменное тело в космосе",
+              "task_id": "world_g3_solar_system_019"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется естественный спутник Земли?",
+                "kk": "Жердің табиғи серігі қалай аталады?",
+                "en": "What is Earth's natural satellite called?"
+              },
+              "options": [
+                "Луна",
+                "Марс",
+                "Плутон"
+              ],
+              "correct": "Луна",
+              "task_id": "world_g3_solar_system_020"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое комета?",
+                "kk": "Құйрықты жұлдыз (комета) дегеніміз не?",
+                "en": "What is a comet?"
+              },
+              "options": [
+                "Ледяное тело с хвостом из пыли и газа",
+                "Планета без атмосферы",
+                "Звезда, которая взорвалась"
+              ],
+              "correct": "Ледяное тело с хвостом из пыли и газа",
+              "task_id": "world_g3_solar_system_021"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Почему на Земле есть смена дня и ночи?",
+                "kk": "Жерде күн мен түннің алмасуы неге болады?",
+                "en": "Why does Earth have day and night?"
+              },
+              "options": [
+                "Земля вращается вокруг своей оси",
+                "Солнце гаснет ночью",
+                "Луна закрывает Солнце каждый день"
+              ],
+              "correct": "Земля вращается вокруг своей оси",
+              "task_id": "world_g3_solar_system_022"
             }
           ]
         },
@@ -2181,6 +3285,141 @@
               ],
               "correct": "Он даёт пресную воду растениям, животным и людям",
               "task_id": "world_g3_water_cycle_008"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется процесс превращения воды в пар?",
+                "kk": "Судың буға айналу процесі қалай аталады?",
+                "en": "What is the process of water turning into vapor called?"
+              },
+              "options": [
+                "Испарение",
+                "Конденсация",
+                "Осадки"
+              ],
+              "correct": "Испарение",
+              "task_id": "world_g3_water_cycle_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется процесс образования капель воды из пара в облаках?",
+                "kk": "Бұлттарда будан су тамшыларының пайда болу процесі қалай аталады?",
+                "en": "What is the process of water droplets forming from vapor in clouds called?"
+              },
+              "options": [
+                "Конденсация",
+                "Испарение",
+                "Таяние"
+              ],
+              "correct": "Конденсация",
+              "task_id": "world_g3_water_cycle_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что заставляет воду испаряться из океанов и рек?",
+                "kk": "Мұхиттар мен өзендерден суды не буландырады?",
+                "en": "What causes water to evaporate from oceans and rivers?"
+              },
+              "options": [
+                "Тепло солнца",
+                "Ветер только",
+                "Луна"
+              ],
+              "correct": "Тепло солнца",
+              "task_id": "world_g3_water_cycle_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Куда стекает дождевая вода с гор?",
+                "kk": "Таудан ағып түскен жаңбыр суы қайда барады?",
+                "en": "Where does rainwater flow from the mountains?"
+              },
+              "options": [
+                "В реки и озёра",
+                "Сразу в облака",
+                "В воздух"
+              ],
+              "correct": "В реки и озёра",
+              "task_id": "world_g3_water_cycle_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется вода, которая выпадает из облаков?",
+                "kk": "Бұлттан жауатын су қалай аталады?",
+                "en": "What is water that falls from clouds called?"
+              },
+              "options": [
+                "Осадки",
+                "Пар",
+                "Роса"
+              ],
+              "correct": "Осадки",
+              "task_id": "world_g3_water_cycle_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Круговорот воды в природе никогда не",
+                "kk": "Табиғаттағы судың айналымы ешқашан",
+                "en": "The water cycle in nature never"
+              },
+              "options": [
+                "Останавливается",
+                "Начинается",
+                "Ускоряется"
+              ],
+              "correct": "Останавливается",
+              "task_id": "world_g3_water_cycle_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какие формы осадков ты знаешь?",
+                "kk": "Қандай жауын-шашын түрлерін білесің?",
+                "en": "What forms of precipitation do you know?"
+              },
+              "options": [
+                "Дождь, снег, град",
+                "Только дождь",
+                "Только туман"
+              ],
+              "correct": "Дождь, снег, град",
+              "task_id": "world_g3_water_cycle_015"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что происходит с водой в почве, которую впитывают корни растений?",
+                "kk": "Өсімдік тамыры сіңірген топырақтағы суға не болады?",
+                "en": "What happens to water in soil that plant roots absorb?"
+              },
+              "options": [
+                "Она поднимается по стеблю и испаряется через листья",
+                "Она сразу превращается в лёд",
+                "Она исчезает навсегда"
+              ],
+              "correct": "Она поднимается по стеблю и испаряется через листья",
+              "task_id": "world_g3_water_cycle_016"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какое слово описывает весь путь воды: от испарения до дождя и обратно?",
+                "kk": "Судың булануынан жаңбырға дейінгі бүкіл жолын қандай сөз сипаттайды?",
+                "en": "What word describes the whole path of water, from evaporation to rain and back?"
+              },
+              "options": [
+                "Круговорот воды",
+                "Приливы",
+                "Землетрясение"
+              ],
+              "correct": "Круговорот воды",
+              "task_id": "world_g3_water_cycle_017"
             }
           ]
         },
@@ -2312,6 +3551,126 @@
               ],
               "correct": "Перелётные птицы",
               "task_id": "world_g3_kazakhstan_wildlife_008"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какое животное является символом казахской степи и занесено в Красную книгу?",
+                "kk": "Қазақ даласының символы саналатын, Қызыл кітапқа енген жануар қайсы?",
+                "en": "Which animal is a symbol of the Kazakh steppe and listed in the Red Book?"
+              },
+              "options": [
+                "Сайгак",
+                "Пингвин",
+                "Слон"
+              ],
+              "correct": "Сайгак",
+              "task_id": "world_g3_kazakhstan_wildlife_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая крупная кошка обитает в горах Казахстана?",
+                "kk": "Қазақстан тауларында қандай ірі мысық тұрады?",
+                "en": "Which big cat lives in the mountains of Kazakhstan?"
+              },
+              "options": [
+                "Снежный барс",
+                "Лев",
+                "Тигр"
+              ],
+              "correct": "Снежный барс",
+              "task_id": "world_g3_kazakhstan_wildlife_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая птица является хищником и обитает в казахстанских степях?",
+                "kk": "Қазақстан даласында тіршілік ететін жыртқыш құс қайсы?",
+                "en": "Which bird of prey lives in the Kazakh steppes?"
+              },
+              "options": [
+                "Степной орёл",
+                "Пингвин",
+                "Страус"
+              ],
+              "correct": "Степной орёл",
+              "task_id": "world_g3_kazakhstan_wildlife_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какое животное с двумя горбами живёт в казахстанских пустынях?",
+                "kk": "Қазақстан шөлдерінде тұратын екі өркешті жануар қайсы?",
+                "en": "Which two-humped animal lives in the deserts of Kazakhstan?"
+              },
+              "options": [
+                "Бактрийский верблюд",
+                "Лама",
+                "Зебра"
+              ],
+              "correct": "Бактрийский верблюд",
+              "task_id": "world_g3_kazakhstan_wildlife_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая рыба обитает в реке Иртыш и озере Балхаш?",
+                "kk": "Ертіс өзені мен Балқаш көлінде қандай балық тіршілік етеді?",
+                "en": "Which fish lives in the Irtysh River and Lake Balkhash?"
+              },
+              "options": [
+                "Сазан",
+                "Акула",
+                "Пиранья"
+              ],
+              "correct": "Сазан",
+              "task_id": "world_g3_kazakhstan_wildlife_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какое парнокопытное животное с длинными рогами обитает в казахстанских степях?",
+                "kk": "Қазақ даласында ұзын мүйізді жұп тұяқты жануар қайсы?",
+                "en": "Which long-horned hoofed animal lives in the Kazakh steppes?"
+              },
+              "options": [
+                "Джейран",
+                "Кенгуру",
+                "Жираф"
+              ],
+              "correct": "Джейран",
+              "task_id": "world_g3_kazakhstan_wildlife_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какое животное занесено в Красную книгу и обитает только в Казахстане и соседних странах?",
+                "kk": "Тек Қазақстан мен көрші елдерде мекендейтін, Қызыл кітапқа енген жануар қайсы?",
+                "en": "Which endangered animal lives only in Kazakhstan and neighboring countries?"
+              },
+              "options": [
+                "Сайгак",
+                "Кошка",
+                "Собака"
+              ],
+              "correct": "Сайгак",
+              "task_id": "world_g3_kazakhstan_wildlife_015"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Почему нужно охранять снежного барса?",
+                "kk": "Ирбисті неге қорғау керек?",
+                "en": "Why does the snow leopard need protection?"
+              },
+              "options": [
+                "Их осталось очень мало в природе",
+                "Их слишком много",
+                "Они неопасны для скота"
+              ],
+              "correct": "Их осталось очень мало в природе",
+              "task_id": "world_g3_kazakhstan_wildlife_016"
             }
           ]
         },
@@ -2428,6 +3787,126 @@
               ],
               "correct": "Солёных озёр и месторождений",
               "task_id": "world_g3_minerals_007"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что добывают из-под земли для строительства зданий и дорог?",
+                "kk": "Ғимарат пен жол салу үшін жер астынан не өндіріледі?",
+                "en": "What is mined from the ground for building buildings and roads?"
+              },
+              "options": [
+                "Камень и песок",
+                "Только воду",
+                "Только дерево"
+              ],
+              "correct": "Камень и песок",
+              "task_id": "world_g3_minerals_008"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Из какого полезного ископаемого делают ювелирные украшения?",
+                "kk": "Қандай пайдалы қазбадан зергерлік бұйым жасайды?",
+                "en": "Which mineral resource is used to make jewelry?"
+              },
+              "options": [
+                "Из золота",
+                "Из угля",
+                "Из глины"
+              ],
+              "correct": "Из золота",
+              "task_id": "world_g3_minerals_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой металл используют для изготовления консервных банок и проводов?",
+                "kk": "Консерві банкі мен сым жасауда қандай металл қолданылады?",
+                "en": "Which metal is used to make cans and wires?"
+              },
+              "options": [
+                "Алюминий",
+                "Золото",
+                "Соль"
+              ],
+              "correct": "Алюминий",
+              "task_id": "world_g3_minerals_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое полезные ископаемые?",
+                "kk": "Пайдалы қазбалар дегеніміз не?",
+                "en": "What are mineral resources?"
+              },
+              "options": [
+                "Природные ресурсы, которые добывают из земли",
+                "Только растения",
+                "Только животные"
+              ],
+              "correct": "Природные ресурсы, которые добывают из земли",
+              "task_id": "world_g3_minerals_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Казахстан богат каким полезным ископаемым, важным для энергетики?",
+                "kk": "Қазақстан энергетика үшін маңызды қандай пайдалы қазбаға бай?",
+                "en": "Kazakhstan is rich in which mineral resources important for energy?"
+              },
+              "options": [
+                "Нефтью и углём",
+                "Только льдом",
+                "Только песком"
+              ],
+              "correct": "Нефтью и углём",
+              "task_id": "world_g3_minerals_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Почему полезные ископаемые нужно расходовать бережно?",
+                "kk": "Пайдалы қазбаларды неге үнемдеп жұмсау керек?",
+                "en": "Why should mineral resources be used carefully?"
+              },
+              "options": [
+                "Они не восстанавливаются быстро",
+                "Их слишком много",
+                "Они не нужны людям"
+              ],
+              "correct": "Они не восстанавливаются быстро",
+              "task_id": "world_g3_minerals_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Где добывают полезные ископаемые в твёрдой форме, например уголь?",
+                "kk": "Көмір сияқты қатты пайдалы қазбаларды қайдан өндіреді?",
+                "en": "Where are solid mineral resources like coal mined?"
+              },
+              "options": [
+                "В шахтах и карьерах",
+                "В море",
+                "В облаках"
+              ],
+              "correct": "В шахтах и карьерах",
+              "task_id": "world_g3_minerals_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какое полезное ископаемое нужно для приготовления пищи и его добывают из соляных озёр?",
+                "kk": "Тамақ дайындауға қажет, тұзды көлдерден өндірілетін пайдалы қазба қайсы?",
+                "en": "Which mineral resource is needed for cooking and is mined from salt lakes?"
+              },
+              "options": [
+                "Соль",
+                "Золото",
+                "Медь"
+              ],
+              "correct": "Соль",
+              "task_id": "world_g3_minerals_015"
             }
           ]
         }
@@ -2623,6 +4102,156 @@
               ],
               "correct": "Северный Ледовитый океан",
               "task_id": "world_g4_continents_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сколько всего материков на Земле?",
+                "kk": "Жер шарында барлығы неше материк бар?",
+                "en": "How many continents are there on Earth?"
+              },
+              "options": [
+                "6",
+                "5",
+                "7"
+              ],
+              "correct": "6",
+              "task_id": "world_g4_continents_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой самый большой материк на Земле?",
+                "kk": "Жердегі ең үлкен материк қайсы?",
+                "en": "What is the largest continent on Earth?"
+              },
+              "options": [
+                "Евразия",
+                "Африка",
+                "Австралия"
+              ],
+              "correct": "Евразия",
+              "task_id": "world_g4_continents_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "На каком материке находится Казахстан?",
+                "kk": "Қазақстан қай материкте орналасқан?",
+                "en": "Which continent is Kazakhstan located on?"
+              },
+              "options": [
+                "Евразия",
+                "Африка",
+                "Северная Америка"
+              ],
+              "correct": "Евразия",
+              "task_id": "world_g4_continents_015"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой материк самый холодный на Земле?",
+                "kk": "Жердегі ең суық материк қайсы?",
+                "en": "Which is the coldest continent on Earth?"
+              },
+              "options": [
+                "Антарктида",
+                "Африка",
+                "Австралия"
+              ],
+              "correct": "Антарктида",
+              "task_id": "world_g4_continents_016"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Самый жаркий материк, где находится пустыня Сахара?",
+                "kk": "Сахара шөлі орналасқан ең ыстық материк қайсы?",
+                "en": "The hottest continent, home to the Sahara Desert, is?"
+              },
+              "options": [
+                "Африка",
+                "Антарктида",
+                "Европа"
+              ],
+              "correct": "Африка",
+              "task_id": "world_g4_continents_017"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сколько всего океанов на Земле?",
+                "kk": "Жер шарында барлығы неше мұхит бар?",
+                "en": "How many oceans are there on Earth?"
+              },
+              "options": [
+                "4",
+                "3",
+                "5"
+              ],
+              "correct": "4",
+              "task_id": "world_g4_continents_018"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой океан самый большой на Земле?",
+                "kk": "Жердегі ең үлкен мұхит қайсы?",
+                "en": "Which is the largest ocean on Earth?"
+              },
+              "options": [
+                "Тихий океан",
+                "Атлантический океан",
+                "Индийский океан"
+              ],
+              "correct": "Тихий океан",
+              "task_id": "world_g4_continents_019"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой материк является одновременно страной?",
+                "kk": "Қай материк сонымен қатар мемлекет болып табылады?",
+                "en": "Which continent is also a single country?"
+              },
+              "options": [
+                "Австралия",
+                "Африка",
+                "Евразия"
+              ],
+              "correct": "Австралия",
+              "task_id": "world_g4_continents_020"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "На каком материке обитают кенгуру в дикой природе?",
+                "kk": "Қай материкте кенгурулар табиғи ортада тіршілік етеді?",
+                "en": "On which continent do kangaroos live in the wild?"
+              },
+              "options": [
+                "Австралия",
+                "Африка",
+                "Европа"
+              ],
+              "correct": "Австралия",
+              "task_id": "world_g4_continents_021"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой материк почти полностью покрыт льдом?",
+                "kk": "Қай материк дерлік толығымен мұзбен жабылған?",
+                "en": "Which continent is almost entirely covered in ice?"
+              },
+              "options": [
+                "Антарктида",
+                "Южная Америка",
+                "Европа"
+              ],
+              "correct": "Антарктида",
+              "task_id": "world_g4_continents_022"
             }
           ]
         },
@@ -2754,6 +4383,126 @@
               ],
               "correct": "Разлагающих остатки организмов",
               "task_id": "world_g4_ecosystems_008"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое экосистема?",
+                "kk": "Экожүйе дегеніміз не?",
+                "en": "What is an ecosystem?"
+              },
+              "options": [
+                "Сообщество живых организмов и их среды обитания",
+                "Только растения",
+                "Только погода"
+              ],
+              "correct": "Сообщество живых организмов и их среды обитания",
+              "task_id": "world_g4_ecosystems_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется экосистема с большим количеством деревьев?",
+                "kk": "Ағаш көп болатын экожүйе қалай аталады?",
+                "en": "What is an ecosystem with lots of trees called?"
+              },
+              "options": [
+                "Лес",
+                "Пустыня",
+                "Океан"
+              ],
+              "correct": "Лес",
+              "task_id": "world_g4_ecosystems_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какое животное является хищником в экосистеме леса?",
+                "kk": "Орман экожүйесіндегі жыртқыш жануар қайсы?",
+                "en": "Which animal is a predator in a forest ecosystem?"
+              },
+              "options": [
+                "Волк",
+                "Заяц",
+                "Олень"
+              ],
+              "correct": "Волк",
+              "task_id": "world_g4_ecosystems_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Кто в экосистеме питается только растениями?",
+                "kk": "Экожүйеде тек өсімдікпен қоректенетін кім?",
+                "en": "What in an ecosystem eats only plants?"
+              },
+              "options": [
+                "Травоядные животные",
+                "Хищники",
+                "Грибы"
+              ],
+              "correct": "Травоядные животные",
+              "task_id": "world_g4_ecosystems_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что произойдёт, если убрать всех хищников из экосистемы?",
+                "kk": "Экожүйеден барлық жыртқыштарды алып тастаса, не болады?",
+                "en": "What happens if all predators are removed from an ecosystem?"
+              },
+              "options": [
+                "Травоядных станет слишком много",
+                "Ничего не изменится",
+                "Растений станет больше"
+              ],
+              "correct": "Травоядных станет слишком много",
+              "task_id": "world_g4_ecosystems_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется цепочка «трава → заяц → волк»?",
+                "kk": "«Шөп → қоян → қасқыр» тізбегі қалай аталады?",
+                "en": "What is the chain 'grass → rabbit → wolf' called?"
+              },
+              "options": [
+                "Пищевая цепь",
+                "Круговорот воды",
+                "Экосистема воздуха"
+              ],
+              "correct": "Пищевая цепь",
+              "task_id": "world_g4_ecosystems_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая экосистема почти не имеет воды и растений?",
+                "kk": "Қандай экожүйеде су мен өсімдік дерлік жоқ?",
+                "en": "Which ecosystem has almost no water or plants?"
+              },
+              "options": [
+                "Пустыня",
+                "Лес",
+                "Река"
+              ],
+              "correct": "Пустыня",
+              "task_id": "world_g4_ecosystems_015"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Кто разлагает мёртвые растения и животных в экосистеме?",
+                "kk": "Экожүйеде өлі өсімдік пен жануарды кім ыдыратады?",
+                "en": "What decomposes dead plants and animals in an ecosystem?"
+              },
+              "options": [
+                "Грибы и бактерии",
+                "Только хищники",
+                "Только птицы"
+              ],
+              "correct": "Грибы и бактерии",
+              "task_id": "world_g4_ecosystems_016"
             }
           ]
         },
@@ -2885,6 +4634,111 @@
               ],
               "correct": "Многоразовая сумка",
               "task_id": "world_g4_ecology_008"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое загрязнение окружающей среды?",
+                "kk": "Қоршаған ортаның ластануы дегеніміз не?",
+                "en": "What is environmental pollution?"
+              },
+              "options": [
+                "Попадание вредных веществ в природу",
+                "Уборка мусора",
+                "Посадка деревьев"
+              ],
+              "correct": "Попадание вредных веществ в природу",
+              "task_id": "world_g4_ecology_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что можно сделать, чтобы уменьшить количество мусора?",
+                "kk": "Қоқыс мөлшерін азайту үшін не істеуге болады?",
+                "en": "What can be done to reduce the amount of trash?"
+              },
+              "options": [
+                "Использовать вещи повторно и сортировать мусор",
+                "Выбрасывать всё в лес",
+                "Сжигать пластик дома"
+              ],
+              "correct": "Использовать вещи повторно и сортировать мусор",
+              "task_id": "world_g4_ecology_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Почему важно экономить воду?",
+                "kk": "Суды үнемдеу неге маңызды?",
+                "en": "Why is it important to save water?"
+              },
+              "options": [
+                "Пресной воды на Земле не так много",
+                "Воды слишком много",
+                "Вода бесконечна"
+              ],
+              "correct": "Пресной воды на Земле не так много",
+              "task_id": "world_g4_ecology_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что вызывает загрязнение воздуха в городах?",
+                "kk": "Қалаларда ауаның ластануына не себеп болады?",
+                "en": "What causes air pollution in cities?"
+              },
+              "options": [
+                "Выхлопные газы машин и заводов",
+                "Деревья",
+                "Птицы"
+              ],
+              "correct": "Выхлопные газы машин и заводов",
+              "task_id": "world_g4_ecology_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как переработка мусора помогает природе?",
+                "kk": "Қоқысты қайта өңдеу табиғатқа қалай көмектеседі?",
+                "en": "How does recycling help nature?"
+              },
+              "options": [
+                "Уменьшает количество новых отходов",
+                "Загрязняет воду",
+                "Убивает животных"
+              ],
+              "correct": "Уменьшает количество новых отходов",
+              "task_id": "world_g4_ecology_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое «Красная книга»?",
+                "kk": "«Қызыл кітап» дегеніміз не?",
+                "en": "What is the 'Red Book'?"
+              },
+              "options": [
+                "Список редких и исчезающих видов",
+                "Книга сказок",
+                "Учебник математики"
+              ],
+              "correct": "Список редких и исчезающих видов",
+              "task_id": "world_g4_ecology_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как одно дерево помогает бороться с загрязнением воздуха?",
+                "kk": "Бір ағаш ауаның ластануымен қалай күреседі?",
+                "en": "How does a single tree help fight air pollution?"
+              },
+              "options": [
+                "Оно поглощает углекислый газ и выделяет кислород",
+                "Оно фильтрует воду",
+                "Оно не влияет на воздух"
+              ],
+              "correct": "Оно поглощает углекислый газ и выделяет кислород",
+              "task_id": "world_g4_ecology_015"
             }
           ]
         },
@@ -3001,6 +4855,111 @@
               ],
               "correct": "Каспийское море",
               "task_id": "world_g4_kazakhstan_geo_007"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая горная система находится на юго-востоке Казахстана?",
+                "kk": "Қазақстанның оңтүстік-шығысында қандай тау жүйесі бар?",
+                "en": "Which mountain range is in southeastern Kazakhstan?"
+              },
+              "options": [
+                "Тянь-Шань",
+                "Альпы",
+                "Гималаи"
+              ],
+              "correct": "Тянь-Шань",
+              "task_id": "world_g4_kazakhstan_geo_008"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется низменность на западе Казахстана у Каспийского моря?",
+                "kk": "Каспий теңізі маңындағы, Қазақстанның батысындағы ойпат қалай аталады?",
+                "en": "What is the lowland near the Caspian Sea in western Kazakhstan called?"
+              },
+              "options": [
+                "Прикаспийская низменность",
+                "Тургайская впадина",
+                "Долина Иртыша"
+              ],
+              "correct": "Прикаспийская низменность",
+              "task_id": "world_g4_kazakhstan_geo_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая пустыня находится на юге Казахстана?",
+                "kk": "Қазақстанның оңтүстігінде қандай шөл орналасқан?",
+                "en": "Which desert is located in southern Kazakhstan?"
+              },
+              "options": [
+                "Кызылкум",
+                "Сахара",
+                "Гоби"
+              ],
+              "correct": "Кызылкум",
+              "task_id": "world_g4_kazakhstan_geo_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "С каким морем граничит западный Казахстан?",
+                "kk": "Батыс Қазақстан қай теңізбен шектеседі?",
+                "en": "Which sea does western Kazakhstan border?"
+              },
+              "options": [
+                "Каспийским",
+                "Чёрным",
+                "Красным"
+              ],
+              "correct": "Каспийским",
+              "task_id": "world_g4_kazakhstan_geo_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая часть Казахстана в основном покрыта степями?",
+                "kk": "Қазақстанның қай бөлігі негізінен далалармен жабылған?",
+                "en": "Which part of Kazakhstan is mostly covered by steppe?"
+              },
+              "options": [
+                "Центральный и северный Казахстан",
+                "Только горы юга",
+                "Только побережье"
+              ],
+              "correct": "Центральный и северный Казахстан",
+              "task_id": "world_g4_kazakhstan_geo_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сколько областей (регионов) в Казахстане?",
+                "kk": "Қазақстанда неше облыс бар?",
+                "en": "How many regions does Kazakhstan have?"
+              },
+              "options": [
+                "17",
+                "10",
+                "25"
+              ],
+              "correct": "17",
+              "task_id": "world_g4_kazakhstan_geo_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая река впадает в Аральское море?",
+                "kk": "Арал теңізіне қандай өзен құяды?",
+                "en": "Which river flows into the Aral Sea?"
+              },
+              "options": [
+                "Сырдарья",
+                "Волга",
+                "Дунай"
+              ],
+              "correct": "Сырдарья",
+              "task_id": "world_g4_kazakhstan_geo_014"
             }
           ]
         }
@@ -3196,6 +5155,126 @@
               ],
               "correct": "Растительное масло",
               "task_id": "world_g5_bodies_substances_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что из перечисленного является телом, а не веществом?",
+                "kk": "Мыналардың қайсысы зат емес, дене болып табылады?",
+                "en": "Which of the following is a physical body, not a substance?"
+              },
+              "options": [
+                "Камень",
+                "Железо",
+                "Вода"
+              ],
+              "correct": "Камень",
+              "task_id": "world_g5_bodies_substances_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Из какого вещества сделана ложка, если она металлическая?",
+                "kk": "Қасық металдан жасалса, ол қандай заттан жасалған?",
+                "en": "What substance is a spoon made of if it's metallic?"
+              },
+              "options": [
+                "Из металла",
+                "Из дерева",
+                "Из воды"
+              ],
+              "correct": "Из металла",
+              "task_id": "world_g5_bodies_substances_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какое явление происходит, когда вода превращается в лёд?",
+                "kk": "Су мұзға айналғанда қандай құбылыс болады?",
+                "en": "What phenomenon occurs when water turns into ice?"
+              },
+              "options": [
+                "Замерзание",
+                "Испарение",
+                "Горение"
+              ],
+              "correct": "Замерзание",
+              "task_id": "world_g5_bodies_substances_015"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что общего у стула и стола?",
+                "kk": "Орындық пен үстелдің ортақтығы неде?",
+                "en": "What do a chair and a table have in common?"
+              },
+              "options": [
+                "Оба являются телами",
+                "Оба являются веществами",
+                "Оба являются явлениями"
+              ],
+              "correct": "Оба являются телами",
+              "task_id": "world_g5_bodies_substances_016"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое явление в природе?",
+                "kk": "Табиғаттағы құбылыс дегеніміз не?",
+                "en": "What is a natural phenomenon?"
+              },
+              "options": [
+                "Изменение, которое можно наблюдать",
+                "Только твёрдый предмет",
+                "Только жидкость"
+              ],
+              "correct": "Изменение, которое можно наблюдать",
+              "task_id": "world_g5_bodies_substances_017"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "К какому агрегатному состоянию относится лёд?",
+                "kk": "Мұз қандай агрегаттық күйге жатады?",
+                "en": "Which state of matter does ice belong to?"
+              },
+              "options": [
+                "Твёрдое",
+                "Жидкое",
+                "Газообразное"
+              ],
+              "correct": "Твёрдое",
+              "task_id": "world_g5_bodies_substances_018"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "К какому агрегатному состоянию относится пар?",
+                "kk": "Бу қандай агрегаттық күйге жатады?",
+                "en": "Which state of matter does steam belong to?"
+              },
+              "options": [
+                "Газообразное",
+                "Твёрдое",
+                "Жидкое"
+              ],
+              "correct": "Газообразное",
+              "task_id": "world_g5_bodies_substances_019"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Гроза, дождь и радуга — это примеры",
+                "kk": "Найзағай, жаңбыр және кемпірқосақ — бұл мысалдары",
+                "en": "A thunderstorm, rain, and a rainbow are examples of"
+              },
+              "options": [
+                "Природных явлений",
+                "Веществ",
+                "Тел"
+              ],
+              "correct": "Природных явлений",
+              "task_id": "world_g5_bodies_substances_020"
             }
           ]
         },
@@ -3843,6 +5922,111 @@
               ],
               "correct": "Учёный с микроскопом",
               "task_id": "world_g5_cell_basics_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется часть клетки, которая управляет её работой?",
+                "kk": "Жасушаның жұмысын басқаратын бөлігі қалай аталады?",
+                "en": "What is the part of the cell that controls its work called?"
+              },
+              "options": [
+                "Ядро",
+                "Оболочка",
+                "Цитоплазма"
+              ],
+              "correct": "Ядро",
+              "task_id": "world_g5_cell_basics_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что защищает клетку снаружи?",
+                "kk": "Жасушаны сырттан не қорғайды?",
+                "en": "What protects the cell from the outside?"
+              },
+              "options": [
+                "Оболочка (мембрана)",
+                "Ядро",
+                "Цитоплазма"
+              ],
+              "correct": "Оболочка (мембрана)",
+              "task_id": "world_g5_cell_basics_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Растительная клетка отличается от животной наличием",
+                "kk": "Өсімдік жасушасы жануар жасушасынан немен ерекшеленеді?",
+                "en": "A plant cell differs from an animal cell by having"
+              },
+              "options": [
+                "Твёрдой клеточной стенки",
+                "Ядра",
+                "Мембраны"
+              ],
+              "correct": "Твёрдой клеточной стенки",
+              "task_id": "world_g5_cell_basics_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Кто первым увидел и описал клетки под микроскопом?",
+                "kk": "Микроскоппен жасушаларды алғаш кім көріп сипаттады?",
+                "en": "Who first saw and described cells under a microscope?"
+              },
+              "options": [
+                "Роберт Гук",
+                "Исаак Ньютон",
+                "Альберт Эйнштейн"
+              ],
+              "correct": "Роберт Гук",
+              "task_id": "world_g5_cell_basics_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что находится внутри клетки и заполняет пространство вокруг ядра?",
+                "kk": "Жасуша ішінде не бар және ядроны қоршаған кеңістікті толтырады?",
+                "en": "What is inside the cell and fills the space around the nucleus?"
+              },
+              "options": [
+                "Цитоплазма",
+                "Кора",
+                "Скелет"
+              ],
+              "correct": "Цитоплазма",
+              "task_id": "world_g5_cell_basics_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Все живые организмы состоят из одной или многих",
+                "kk": "Барлық тірі ағзалар бір немесе көптеген неден тұрады?",
+                "en": "All living organisms are made of one or many"
+              },
+              "options": [
+                "Клеток",
+                "Молекул воды",
+                "Камней"
+              ],
+              "correct": "Клеток",
+              "task_id": "world_g5_cell_basics_015"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется организм, состоящий всего из одной клетки?",
+                "kk": "Тек бір жасушадан тұратын ағза қалай аталады?",
+                "en": "What is an organism made of just one cell called?"
+              },
+              "options": [
+                "Одноклеточный",
+                "Многоклеточный",
+                "Безклеточный"
+              ],
+              "correct": "Одноклеточный",
+              "task_id": "world_g5_cell_basics_016"
             }
           ]
         },
@@ -3974,6 +6158,111 @@
               ],
               "correct": "Наклонной плоскости",
               "task_id": "world_g5_simple_machines_008"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Ножницы — пример какого простого механизма?",
+                "kk": "Қайшы қандай қарапайым механизмнің мысалы?",
+                "en": "Scissors are an example of which simple machine?"
+              },
+              "options": [
+                "Рычага",
+                "Колеса",
+                "Наклонной плоскости"
+              ],
+              "correct": "Рычага",
+              "task_id": "world_g5_simple_machines_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Пандус для инвалидной коляски — это пример",
+                "kk": "Мүгедектер арбасына арналған пандус — бұл мысалы",
+                "en": "A wheelchair ramp is an example of"
+              },
+              "options": [
+                "Наклонной плоскости",
+                "Рычага",
+                "Блока"
+              ],
+              "correct": "Наклонной плоскости",
+              "task_id": "world_g5_simple_machines_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Флагшток с верёвкой использует какой простой механизм?",
+                "kk": "Жіппен көтерілетін ту бағанасы қандай механизмді қолданады?",
+                "en": "A flagpole with a rope uses which simple machine?"
+              },
+              "options": [
+                "Блок",
+                "Клин",
+                "Рычаг"
+              ],
+              "correct": "Блок",
+              "task_id": "world_g5_simple_machines_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Топор использует принцип какого простого механизма?",
+                "kk": "Балта қандай қарапайым механизмнің принципін қолданады?",
+                "en": "An axe uses the principle of which simple machine?"
+              },
+              "options": [
+                "Клина",
+                "Колеса",
+                "Блока"
+              ],
+              "correct": "Клина",
+              "task_id": "world_g5_simple_machines_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Винт (шуруп) — это, по сути, закрученная",
+                "kk": "Бұранда — бұл шын мәнінде оралған",
+                "en": "A screw is essentially a wound-up"
+              },
+              "options": [
+                "Наклонная плоскость",
+                "Верёвка",
+                "Пружина"
+              ],
+              "correct": "Наклонная плоскость",
+              "task_id": "world_g5_simple_machines_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Простые механизмы помогают человеку",
+                "kk": "Қарапайым механизмдер адамға немен көмектеседі?",
+                "en": "Simple machines help people"
+              },
+              "options": [
+                "Прикладывать меньше усилий для работы",
+                "Всегда увеличивать вес предмета",
+                "Заменять электричество"
+              ],
+              "correct": "Прикладывать меньше усилий для работы",
+              "task_id": "world_g5_simple_machines_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Колесо со осью помогает передвигать тяжёлые предметы, потому что",
+                "kk": "Дөңгелек пен білік ауыр заттарды жылжытуға көмектеседі, себебі",
+                "en": "A wheel and axle help move heavy objects because they"
+              },
+              "options": [
+                "Уменьшает трение при движении",
+                "Делает предмет легче",
+                "Меняет цвет предмета"
+              ],
+              "correct": "Уменьшает трение при движении",
+              "task_id": "world_g5_simple_machines_015"
             }
           ]
         }
@@ -4109,6 +6398,111 @@
               ],
               "correct": "Получить растворённое твёрдое вещество из раствора",
               "task_id": "world_g6_mixtures_008"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что такое смесь?",
+                "kk": "Қоспа дегеніміз не?",
+                "en": "What is a mixture?"
+              },
+              "options": [
+                "Соединение двух и более веществ без химической реакции",
+                "Одно чистое вещество",
+                "Явление природы"
+              ],
+              "correct": "Соединение двух и более веществ без химической реакции",
+              "task_id": "world_g6_mixtures_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая смесь считается однородной?",
+                "kk": "Қандай қоспа біртекті деп саналады?",
+                "en": "Which mixture is considered homogeneous?"
+              },
+              "options": [
+                "Солёная вода (соль растворена полностью)",
+                "Смесь песка и камней",
+                "Салат из овощей"
+              ],
+              "correct": "Солёная вода (соль растворена полностью)",
+              "task_id": "world_g6_mixtures_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как можно отделить железные опилки от песка?",
+                "kk": "Темір үгіндісін құмнан қалай бөліп алуға болады?",
+                "en": "How can you separate iron filings from sand?"
+              },
+              "options": [
+                "Магнитом",
+                "Ситом",
+                "Водой"
+              ],
+              "correct": "Магнитом",
+              "task_id": "world_g6_mixtures_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как можно отделить крупный камни от мелкого песка?",
+                "kk": "Ірі тастарды ұсақ құмнан қалай бөліп алуға болады?",
+                "en": "How can you separate large stones from fine sand?"
+              },
+              "options": [
+                "Ситом (просеиванием)",
+                "Магнитом",
+                "Нагреванием"
+              ],
+              "correct": "Ситом (просеиванием)",
+              "task_id": "world_g6_mixtures_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется чистое вещество, которое нельзя разделить на другие вещества обычными способами?",
+                "kk": "Кәдімгі әдістермен басқа заттарға бөлуге болмайтын таза зат қалай аталады?",
+                "en": "What is a pure substance called that cannot be separated into other substances by ordinary means?"
+              },
+              "options": [
+                "Простое вещество",
+                "Смесь",
+                "Раствор"
+              ],
+              "correct": "Простое вещество",
+              "task_id": "world_g6_mixtures_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Воздух является примером какой смеси?",
+                "kk": "Ауа қандай қоспаның мысалы?",
+                "en": "Air is an example of which type of mixture?"
+              },
+              "options": [
+                "Однородной (газовой) смеси",
+                "Неоднородной твёрдой смеси",
+                "Чистого вещества"
+              ],
+              "correct": "Однородной (газовой) смеси",
+              "task_id": "world_g6_mixtures_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как можно отделить воду от соли, растворённой в ней?",
+                "kk": "Суда еріген тұзды судан қалай бөліп алуға болады?",
+                "en": "How can you separate water from salt dissolved in it?"
+              },
+              "options": [
+                "Выпариванием (нагреванием)",
+                "Магнитом",
+                "Просеиванием"
+              ],
+              "correct": "Выпариванием (нагреванием)",
+              "task_id": "world_g6_mixtures_015"
             }
           ]
         },
@@ -4255,6 +6649,111 @@
               ],
               "correct": "Нервная система вместе с мышцами",
               "task_id": "world_g6_body_systems_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая система организма отвечает за переваривание пищи?",
+                "kk": "Тамақты қорытуға қандай ағза жүйесі жауап береді?",
+                "en": "Which body system is responsible for digesting food?"
+              },
+              "options": [
+                "Пищеварительная система",
+                "Нервная система",
+                "Скелетная система"
+              ],
+              "correct": "Пищеварительная система",
+              "task_id": "world_g6_body_systems_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая система переносит кислород и питательные вещества по телу?",
+                "kk": "Дене бойымен оттегі мен қоректік заттарды қандай жүйе таратады?",
+                "en": "Which system carries oxygen and nutrients around the body?"
+              },
+              "options": [
+                "Кровеносная система",
+                "Дыхательная система",
+                "Скелетная система"
+              ],
+              "correct": "Кровеносная система",
+              "task_id": "world_g6_body_systems_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая система защищает и поддерживает форму тела с помощью костей?",
+                "kk": "Сүйектер арқылы денені қорғап, пішінін сақтайтын жүйе қайсы?",
+                "en": "Which system protects and shapes the body using bones?"
+              },
+              "options": [
+                "Скелетная система",
+                "Пищеварительная система",
+                "Кровеносная система"
+              ],
+              "correct": "Скелетная система",
+              "task_id": "world_g6_body_systems_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какая система обеспечивает движение тела с помощью мышц?",
+                "kk": "Дененің қозғалысын бұлшықеттер арқылы қандай жүйе қамтамасыз етеді?",
+                "en": "Which system enables body movement using muscles?"
+              },
+              "options": [
+                "Мышечная система",
+                "Дыхательная система",
+                "Кровеносная система"
+              ],
+              "correct": "Мышечная система",
+              "task_id": "world_g6_body_systems_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Сколько примерно костей в теле взрослого человека?",
+                "kk": "Ересек адам денесінде шамамен неше сүйек бар?",
+                "en": "About how many bones are in an adult human body?"
+              },
+              "options": [
+                "Около 206",
+                "Около 50",
+                "Около 1000"
+              ],
+              "correct": "Около 206",
+              "task_id": "world_g6_body_systems_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой орган в пищеварительной системе первым получает пищу?",
+                "kk": "Ас қорыту жүйесінде тамақты бірінші қандай мүше қабылдайды?",
+                "en": "Which organ in the digestive system receives food first?"
+              },
+              "options": [
+                "Рот",
+                "Желудок",
+                "Кишечник"
+              ],
+              "correct": "Рот",
+              "task_id": "world_g6_body_systems_015"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что происходит с пищей в желудке?",
+                "kk": "Асқазанда тамаққа не болады?",
+                "en": "What happens to food in the stomach?"
+              },
+              "options": [
+                "Она переваривается с помощью желудочного сока",
+                "Она сразу превращается в кровь",
+                "Она хранится вечно"
+              ],
+              "correct": "Она переваривается с помощью желудочного сока",
+              "task_id": "world_g6_body_systems_016"
             }
           ]
         },
@@ -4386,6 +6885,111 @@
               ],
               "correct": "Хищники",
               "task_id": "world_g6_food_chains_adaptation_008"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что стоит в начале любой пищевой цепи?",
+                "kk": "Кез келген қоректік тізбектің басында не тұрады?",
+                "en": "What is at the beginning of any food chain?"
+              },
+              "options": [
+                "Растения (производители)",
+                "Хищники",
+                "Разлагатели"
+              ],
+              "correct": "Растения (производители)",
+              "task_id": "world_g6_food_chains_adaptation_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называются животные, которые едят только растения?",
+                "kk": "Тек өсімдікпен қоректенетін жануарлар қалай аталады?",
+                "en": "What are animals called that eat only plants?"
+              },
+              "options": [
+                "Травоядные",
+                "Хищники",
+                "Всеядные"
+              ],
+              "correct": "Травоядные",
+              "task_id": "world_g6_food_chains_adaptation_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называются животные, которые едят и растения, и других животных?",
+                "kk": "Өсімдікті де, басқа жануарды да жейтін жануарлар қалай аталады?",
+                "en": "What are animals called that eat both plants and other animals?"
+              },
+              "options": [
+                "Всеядные",
+                "Травоядные",
+                "Хищники"
+              ],
+              "correct": "Всеядные",
+              "task_id": "world_g6_food_chains_adaptation_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется приспособление животного к среде обитания?",
+                "kk": "Жануардың мекен ортасына бейімделуі қалай аталады?",
+                "en": "What is an animal's adjustment to its environment called?"
+              },
+              "options": [
+                "Адаптация",
+                "Миграция",
+                "Спячка"
+              ],
+              "correct": "Адаптация",
+              "task_id": "world_g6_food_chains_adaptation_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Почему у полярного медведя белая шерсть?",
+                "kk": "Ақ аюдың жүні неге ақ?",
+                "en": "Why does a polar bear have white fur?"
+              },
+              "options": [
+                "Это помогает маскироваться на снегу",
+                "Это просто красиво",
+                "Она такая от рождения без причины"
+              ],
+              "correct": "Это помогает маскироваться на снегу",
+              "task_id": "world_g6_food_chains_adaptation_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Что произойдёт с пищевой цепью, если исчезнут все растения?",
+                "kk": "Барлық өсімдіктер жойылса, қоректік тізбекке не болады?",
+                "en": "What happens to the food chain if all plants disappear?"
+              },
+              "options": [
+                "Травоядным нечего будет есть",
+                "Ничего не изменится",
+                "Хищников станет больше"
+              ],
+              "correct": "Травоядным нечего будет есть",
+              "task_id": "world_g6_food_chains_adaptation_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Как называется животное, которое ест других животных?",
+                "kk": "Басқа жануарларды жейтін жануар қалай аталады?",
+                "en": "What is an animal called that eats other animals?"
+              },
+              "options": [
+                "Хищник",
+                "Травоядное",
+                "Производитель"
+              ],
+              "correct": "Хищник",
+              "task_id": "world_g6_food_chains_adaptation_015"
             }
           ]
         },
@@ -4517,6 +7121,111 @@
               ],
               "correct": "Лёд легче воды (менее плотный)",
               "task_id": "world_g6_water_air_008"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "При какой температуре вода закипает?",
+                "kk": "Су қай температурада қайнайды?",
+                "en": "At what temperature does water boil?"
+              },
+              "options": [
+                "100°C",
+                "50°C",
+                "0°C"
+              ],
+              "correct": "100°C",
+              "task_id": "world_g6_water_air_009"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "При какой температуре вода замерзает?",
+                "kk": "Су қай температурада қатады?",
+                "en": "At what temperature does water freeze?"
+              },
+              "options": [
+                "0°C",
+                "50°C",
+                "100°C"
+              ],
+              "correct": "0°C",
+              "task_id": "world_g6_water_air_010"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Почему лёд плавает на поверхности воды?",
+                "kk": "Мұз судың бетінде неге қалқиды?",
+                "en": "Why does ice float on the surface of water?"
+              },
+              "options": [
+                "Лёд легче воды",
+                "Лёд тяжелее воды",
+                "Лёд и вода одинаковы по весу"
+              ],
+              "correct": "Лёд легче воды",
+              "task_id": "world_g6_water_air_011"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой газ в воздухе нужен людям и животным для дыхания?",
+                "kk": "Ауадағы қандай газ адамдар мен жануарларға тыныс алу үшін керек?",
+                "en": "Which gas in the air do people and animals need to breathe?"
+              },
+              "options": [
+                "Кислород",
+                "Азот",
+                "Углекислый газ"
+              ],
+              "correct": "Кислород",
+              "task_id": "world_g6_water_air_012"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Какой газ растения поглощают для фотосинтеза?",
+                "kk": "Өсімдіктер фотосинтез үшін қандай газды сіңіреді?",
+                "en": "Which gas do plants absorb for photosynthesis?"
+              },
+              "options": [
+                "Углекислый газ",
+                "Кислород",
+                "Азот"
+              ],
+              "correct": "Углекислый газ",
+              "task_id": "world_g6_water_air_013"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Имеет ли воздух вес?",
+                "kk": "Ауаның салмағы бар ма?",
+                "en": "Does air have weight?"
+              },
+              "options": [
+                "Да, у воздуха есть вес",
+                "Нет, воздух ничего не весит",
+                "Только зимой у воздуха есть вес"
+              ],
+              "correct": "Да, у воздуха есть вес",
+              "task_id": "world_g6_water_air_014"
+            },
+            {
+              "type": "choice",
+              "question": {
+                "ru": "Вода может находиться в трёх состояниях: твёрдом, жидком и",
+                "kk": "Су үш күйде болуы мүмкін: қатты, сұйық және",
+                "en": "Water can exist in three states: solid, liquid, and"
+              },
+              "options": [
+                "Газообразном",
+                "Магнитном",
+                "Электрическом"
+              ],
+              "correct": "Газообразном",
+              "task_id": "world_g6_water_air_015"
             }
           ]
         }

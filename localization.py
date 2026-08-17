@@ -62,6 +62,31 @@ STRINGS = {
         "kk": "Жаратылыстану",
         "en": "Natural Science",
     },
+    "subject_reading_lit": {
+        "ru": "Литература",
+        "kk": "Әдебиет",
+        "en": "Literature",
+    },
+    "subject_physics": {
+        "ru": "Физика",
+        "kk": "Физика",
+        "en": "Physics",
+    },
+    "subject_chemistry": {
+        "ru": "Химия",
+        "kk": "Химия",
+        "en": "Chemistry",
+    },
+    "subject_biology": {
+        "ru": "Биология",
+        "kk": "Биология",
+        "en": "Biology",
+    },
+    "subject_geography": {
+        "ru": "География",
+        "kk": "География",
+        "en": "Geography",
+    },
     "grade": {
         "ru": "Класс",
         "kk": "Сынып",

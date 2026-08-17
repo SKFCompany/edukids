@@ -623,13 +623,25 @@ class HomeScreen(Screen):
         self.ids.subject_grid.clear_widgets()
         subjects = [
             ("math", tr("subject_math"), "calculator-variant", (0.85, 0.95, 0.88, 1), (0.25, 0.55, 0.35, 1)),
-            ("reading", tr("subject_reading"), "book-open-page-variant", (0.86, 0.9, 0.98, 1), (0.2, 0.35, 0.65, 1)),
+            ("reading",
+             tr("subject_reading_lit") if profile["grade"] >= 8 else tr("subject_reading"),
+             "book-open-page-variant", (0.86, 0.9, 0.98, 1), (0.2, 0.35, 0.65, 1)),
             ("kazakh", tr("subject_kazakh"), "translate", (0.98, 0.9, 0.85, 1), (0.65, 0.35, 0.15, 1)),
             ("english", tr("subject_english"), "alphabetical-variant", (0.95, 0.88, 0.98, 1), (0.5, 0.25, 0.6, 1)),
-            ("world",
-             tr("subject_world_science") if profile["grade"] >= 5 else tr("subject_world"),
-             "earth", (0.88, 0.96, 0.96, 1), (0.15, 0.5, 0.5, 1)),
         ]
+        if profile["grade"] >= 8:
+            subjects += [
+                ("physics", tr("subject_physics"), "lightning-bolt", (0.90, 0.90, 0.98, 1), (0.35, 0.3, 0.75, 1)),
+                ("chemistry", tr("subject_chemistry"), "flask-outline", (0.98, 0.92, 0.90, 1), (0.75, 0.35, 0.25, 1)),
+                ("biology", tr("subject_biology"), "leaf", (0.88, 0.97, 0.88, 1), (0.2, 0.55, 0.25, 1)),
+                ("geography", tr("subject_geography"), "earth", (0.88, 0.96, 0.96, 1), (0.15, 0.5, 0.5, 1)),
+            ]
+        else:
+            subjects.append((
+                "world",
+                tr("subject_world_science") if profile["grade"] >= 5 else tr("subject_world"),
+                "earth", (0.88, 0.96, 0.96, 1), (0.15, 0.5, 0.5, 1)),
+            )
         for subject_key, subject_label, icon, badge_color, accent_color in subjects:
             topics = content_loader.get_topics(subject_key, profile["grade"])
             done = len({p["topic_id"] for p in database.get_subject_progress(app.profile_id, subject_key) if p["stars"] > 0})
@@ -728,6 +740,8 @@ class TopicListScreen(Screen):
         self.grade = grade
         if subject == "world" and grade >= 5:
             self.ids.topbar.title = tr("subject_world_science")
+        elif subject == "reading" and grade >= 8:
+            self.ids.topbar.title = tr("subject_reading_lit")
         else:
             self.ids.topbar.title = tr(f"subject_{subject}")
         self.ids.topics_box.clear_widgets()
