@@ -195,19 +195,19 @@ KV = """
         MDBoxLayout:
             orientation: "vertical"
             size_hint_y: None
-            height: dp(190)
+            height: dp(198)
             padding: dp(16)
             spacing: dp(10)
             md_bg_color: 0.5, 0.47, 0.87, 1
             MDBoxLayout:
                 spacing: dp(10)
                 size_hint_y: None
-                height: dp(64)
+                height: dp(72)
                 MDBoxLayout:
                     id: avatar_container
                     size_hint: None, None
-                    size: dp(64), dp(64)
-                    padding: dp(4)
+                    size: dp(72), dp(72)
+                    padding: dp(3)
                     pos_hint: {"center_y": 0.5}
                     canvas.before:
                         Color:
@@ -413,7 +413,7 @@ KV = """
             MDBoxLayout:
                 id: profile_avatar_container
                 size_hint: None, None
-                size: dp(90), dp(90)
+                size: dp(150), dp(150)
                 pos_hint: {"center_x": 0.5}
             MDLabel:
                 id: stats_label
@@ -594,7 +594,7 @@ class HomeScreen(Screen):
         self.ids.avatar_container.clear_widgets()
         avatar_icon = self._avatar_to_mdi(profile["avatar"])
         accessory_icon = self._accessory_to_mdi(profile["equipped_accessory"])
-        avatar_widget = build_avatar_widget(avatar_icon, accessory_icon, size_dp=56)
+        avatar_widget = build_avatar_widget(avatar_icon, accessory_icon, size_dp=68)
         avatar_widget.bind(on_release=lambda inst: app.open_shop())
         self.ids.avatar_container.add_widget(avatar_widget)
         self._avatar_widget = avatar_widget
@@ -959,7 +959,7 @@ class ProfileScreen(Screen):
         self.ids.profile_avatar_container.clear_widgets()
         avatar_icon = HomeScreen._avatar_to_mdi(profile["avatar"])
         accessory_icon = HomeScreen._accessory_to_mdi(profile["equipped_accessory"])
-        avatar_widget = build_avatar_widget(avatar_icon, accessory_icon, size_dp=110)
+        avatar_widget = build_avatar_widget(avatar_icon, accessory_icon, size_dp=150)
         self.ids.profile_avatar_container.add_widget(avatar_widget)
         self.ids.lang_buttons.clear_widgets()
         for code, label in (("ru", "Русский"), ("kk", "Қазақша"), ("en", "English")):
@@ -1034,6 +1034,12 @@ def build_item_preview(item, kind):
 
         swatch.bind(pos=_sync, size=_sync)
         wrapper.add_widget(swatch)
+        return wrapper
+    if kind == "avatar":
+        from kivy.uix.anchorlayout import AnchorLayout
+        wrapper = AnchorLayout(size_hint_y=None, height=dp(52))
+        creature = CreatureWidget(species=item["icon"], size_hint=(None, None), size=(dp(52), dp(52)))
+        wrapper.add_widget(creature)
         return wrapper
     return MDIcon(icon=item["icon"], halign="center", font_size="36sp",
                    theme_text_color="Custom", text_color=(0.33, 0.29, 0.72, 1))

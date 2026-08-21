@@ -1,25 +1,46 @@
 """
-Векторные "живые" персонажи (аватары и питомцы), нарисованные примитивами
-Kivy (Ellipse/Triangle/Line) - а не шрифтовыми иконками или PNG.
+"Живые" персонажи (аватары и питомцы) для UmBala.
 
-Почему так: юникод-эмодзи не рендерятся на Android (нет нужного шрифта),
-а PNG-ассеты требуют возни с путями/кэшем (та же проблема, что была в FlowDo).
-Векторная отрисовка через kivy.graphics не зависит ни от шрифтов, ни от
-файловой системы - гарантированно рисуется одинаково везде.
+Основной путь отрисовки - растровые PNG-портреты (data/pets/<species>.png),
+сгенерированные заранее (градиенты/тени/блики) и упакованные как обычные
+ассеты приложения через buildozer (source.include_exts уже включает png).
+Это НЕ то же самое, что проблемные раньше рантайм-генерируемые/кэшируемые
+PNG (как было с эмодзи в FlowDo) - эти файлы лежат в APK статически,
+путь к ним резолвится относительно этого модуля и не зависит от кэша.
 
-Каждый вид (species) описан таблицей SPECIES: основной/дополнительный
-цвет и набор "черт" (уши/клюв/рог/антенны и т.д.), плюс несколько видов
-с уникальной отрисовкой (панда, пчела, рыбка, дракон), которые не
-укладываются в общий шаблон.
+Если PNG для вида не найден (или он новый/кастомный), используется старый
+надёжный fallback - отрисовка примитивами Kivy (Ellipse/Triangle/Line),
+которая не зависит ни от шрифтов, ни от файловой системы.
 """
 
+import os
 from kivy.uix.widget import Widget
 from kivy.properties import StringProperty, NumericProperty
-from kivy.graphics import Color, Ellipse, Triangle, Line, PushMatrix, PopMatrix, Rotate, Scale, Translate
+from kivy.graphics import Color, Ellipse, Rectangle, Triangle, Line, PushMatrix, PopMatrix, Rotate, Scale, Translate
+from kivy.core.image import Image as CoreImage
 
 BLACK = (0.15, 0.15, 0.18, 1)
 WHITE = (1, 1, 1, 1)
 PINK = (0.95, 0.55, 0.6, 1)
+
+PETS_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "pets")
+_texture_cache = {}
+
+
+def get_pet_texture(species):
+    """Лениво загружает и кэширует текстуру PNG-портрета питомца.
+    Возвращает None, если файла нет - тогда используется векторный fallback."""
+    if species in _texture_cache:
+        return _texture_cache[species]
+    path = os.path.join(PETS_DIR, f"{species}.png")
+    texture = None
+    if os.path.isfile(path):
+        try:
+            texture = CoreImage(path).texture
+        except Exception:
+            texture = None
+    _texture_cache[species] = texture
+    return texture
 
 # primary / secondary (тело / живот-пятна), ear_style, snout_style
 SPECIES = {
@@ -60,6 +81,17 @@ class CreatureWidget(Widget):
         if w <= 0 or h <= 0:
             return
         cx, cy = x + w / 2, y + h / 2
+
+        texture = get_pet_texture(self.species)
+        if texture is not None:
+            with self.canvas:
+                PushMatrix()
+                Rotate(angle=self.rotation, origin=(cx, cy))
+                Scale(self.scale_factor, self.scale_factor, 1, origin=(cx, cy))
+                Color(1, 1, 1, 1)
+                Rectangle(texture=texture, pos=self.pos, size=self.size)
+                PopMatrix()
+            return
 
         def rel(fx, fy):
             return (x + fx * w, y + fy * h)
